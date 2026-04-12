@@ -1,51 +1,138 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-04-12",
-  "verticals": {
-    "consumer-electronics": {
-      "avgCommissionRate": { "low": 3, "high": 10, "unit": "percent" },
-      "avgCookieDuration": { "low": 30, "high": 45, "unit": "days" },
-      "avgEPC": { "low": 0.50, "high": 2.00, "unit": "usd" },
-      "avgConversionRate": { "low": 1, "high": 3, "unit": "percent" },
-      "avgActiveAffiliates": { "low": 50, "high": 500 },
-      "sources": ["Impact Benchmark 2025", "Awin Global Report", "CJ Affiliate category data"],
-      "notes": "High AOV offsets lower commission rates. Strong review culture drives content affiliate value."
+  "meta": {
+    "version": "1.0",
+    "last_updated": "2026-04-11",
+    "source": "Aggregated from affiliate network data, industry reports, and direct program analysis",
+    "notes": "Benchmarks represent typical ranges for established brands in each category"
+  },
+  "categories": {
+    "consumer_electronics": {
+      "label": "Consumer Electronics (Chargers, Audio, Accessories)",
+      "commission_rate": {
+        "low": 2.0,
+        "median": 5.0,
+        "high": 12.0,
+        "unit": "percent"
+      },
+      "cookie_duration": {
+        "low": 7,
+        "median": 30,
+        "high": 60,
+        "unit": "days"
+      },
+      "average_order_value": {
+        "low": 35,
+        "median": 75,
+        "high": 200,
+        "unit": "USD"
+      },
+      "conversion_rate": {
+        "low": 1.0,
+        "median": 2.5,
+        "high": 5.0,
+        "unit": "percent"
+      },
+      "example_programs": ["Anker (8%)", "Belkin (4%)", "UGREEN (8-15%)", "RAVPower (8-20%)", "EcoFlow (5-8%)"]
     },
-    "bicycles-outdoor": {
-      "avgCommissionRate": { "low": 5, "high": 12, "unit": "percent" },
-      "avgCookieDuration": { "low": 30, "high": 60, "unit": "days" },
-      "avgEPC": { "low": 1.00, "high": 5.00, "unit": "usd" },
-      "avgConversionRate": { "low": 1, "high": 2, "unit": "percent" },
-      "avgActiveAffiliates": { "low": 20, "high": 200 },
-      "sources": ["AvantLink outdoor category", "Impact Benchmark 2025"],
-      "notes": "Seasonal demand. Longer consideration cycle favors longer cookie durations. DTC brands have room for higher commissions."
+    "bicycles_dtc": {
+      "label": "DTC Bicycles & E-Bikes",
+      "commission_rate": {
+        "low": 3.0,
+        "median": 5.0,
+        "high": 12.0,
+        "unit": "percent"
+      },
+      "cookie_duration": {
+        "low": 15,
+        "median": 30,
+        "high": 90,
+        "unit": "days"
+      },
+      "average_order_value": {
+        "low": 400,
+        "median": 1200,
+        "high": 4000,
+        "unit": "USD"
+      },
+      "conversion_rate": {
+        "low": 0.5,
+        "median": 1.5,
+        "high": 3.0,
+        "unit": "percent"
+      },
+      "example_programs": ["Priority Bicycles (5%)", "Rad Power Bikes (5%)", "Aventon (4%)", "Trek (4-8%)", "Canyon (varies)"]
     },
-    "home-kitchen": {
-      "avgCommissionRate": { "low": 8, "high": 15, "unit": "percent" },
-      "avgCookieDuration": { "low": 30, "high": 30, "unit": "days" },
-      "avgEPC": { "low": 0.75, "high": 3.00, "unit": "usd" },
-      "avgConversionRate": { "low": 2, "high": 4, "unit": "percent" },
-      "avgActiveAffiliates": { "low": 30, "high": 300 },
-      "sources": ["ShareASale home category", "Awin Global Report"],
-      "notes": "Content-rich category. Recipe and lifestyle blogs drive significant volume."
+    "portable_power": {
+      "label": "Portable Power & Solar (Power Stations, Solar Panels)",
+      "commission_rate": {
+        "low": 3.0,
+        "median": 6.0,
+        "high": 15.0,
+        "unit": "percent"
+      },
+      "cookie_duration": {
+        "low": 14,
+        "median": 30,
+        "high": 60,
+        "unit": "days"
+      },
+      "average_order_value": {
+        "low": 200,
+        "median": 800,
+        "high": 3000,
+        "unit": "USD"
+      },
+      "conversion_rate": {
+        "low": 0.8,
+        "median": 2.0,
+        "high": 4.0,
+        "unit": "percent"
+      },
+      "example_programs": ["EcoFlow (5-8%)", "Anker SOLIX (5%)", "Jackery (5%)", "Bluetti (8%)"]
     },
-    "fashion-apparel": {
-      "avgCommissionRate": { "low": 5, "high": 20, "unit": "percent" },
-      "avgCookieDuration": { "low": 15, "high": 30, "unit": "days" },
-      "avgEPC": { "low": 0.25, "high": 1.50, "unit": "usd" },
-      "avgConversionRate": { "low": 1, "high": 3, "unit": "percent" },
-      "avgActiveAffiliates": { "low": 100, "high": 1000 },
-      "sources": ["Rakuten fashion report", "CJ Affiliate category data"],
-      "notes": "High volume, lower AOV. Influencer-driven. Fast fashion brands offer highest rates."
+    "fitness_equipment": {
+      "label": "Fitness & Exercise Equipment",
+      "commission_rate": {
+        "low": 3.0,
+        "median": 7.0,
+        "high": 15.0,
+        "unit": "percent"
+      },
+      "cookie_duration": {
+        "low": 14,
+        "median": 30,
+        "high": 45,
+        "unit": "days"
+      },
+      "average_order_value": {
+        "low": 100,
+        "median": 500,
+        "high": 2500,
+        "unit": "USD"
+      },
+      "conversion_rate": {
+        "low": 0.8,
+        "median": 2.0,
+        "high": 4.5,
+        "unit": "percent"
+      },
+      "example_programs": ["NordicTrack (varies)", "Peloton (varies)", "Bowflex (4-7%)"]
+    }
+  },
+  "scoring_thresholds": {
+    "commission_rate_vs_category": {
+      "0": "No affiliate program or 0% commission",
+      "1": "Below category low (bottom quartile)",
+      "2": "Between category low and median",
+      "3": "At or above category median",
+      "4": "At or above category high (top quartile)"
     },
-    "saas-software": {
-      "avgCommissionRate": { "low": 20, "high": 40, "unit": "percent" },
-      "avgCookieDuration": { "low": 60, "high": 90, "unit": "days" },
-      "avgEPC": { "low": 2.00, "high": 10.00, "unit": "usd" },
-      "avgConversionRate": { "low": 4, "high": 8, "unit": "percent" },
-      "avgActiveAffiliates": { "low": 20, "high": 500 },
-      "sources": ["Rewardful SaaS benchmarks 2026", "FirstPromoter data"],
-      "notes": "Recurring revenue model supports high commissions. Many programs offer recurring commissions on subscription renewals."
+    "cookie_duration": {
+      "0": "No cookie / session only",
+      "1": "1-7 days",
+      "2": "8-20 days",
+      "3": "21-45 days",
+      "4": "46+ days or lifetime"
     }
   }
 }
