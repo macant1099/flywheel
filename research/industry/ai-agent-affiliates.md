@@ -318,7 +318,53 @@ Brands scoring highly on ACES are inherently better prepared for the AI-agent-as
 
 ## Signal Tracking
 
-_(No signals yet — collection pipeline not active.)_
+---signal---
+id: news-20260413-003
+signal: Instagram launches affiliate links for Reels — creators can now tag products and earn commissions directly in video content
+date: 2026-04-08
+source: https://hellopartner.com/2026/04/08/instagram-announces-huge-affiliate-link-update-to-increase-earning-chances-for-creators/
+categories: industry | verticals
+tags: instagram, meta, reels, affiliate-links, social-commerce, creator-monetization, influencer
+impact: high
+sentiment: positive
+---
+Instagram Head Adam Mosseri announced creators can now tag products in Reels with affiliate links and earn a commission when viewers shop their content. As of March 2026, Instagram has fully transitioned from a traffic driver to a direct sales channel — the line between creator content and commerce has effectively disappeared. Brands with verified product catalogs in Meta's commerce system gain a measurable conversion-tracking advantage as the feature scales through spring 2026. This is a major inflection point for influencer-affiliate hybrid programs.
+
+---signal---
+id: news-20260413-004
+signal: FTC issues first Consumer Review Rule warning letters in January 2026, targeting fake reviews, incentivized testimonials, and AI-generated endorsements
+date: 2026-04-13
+source: https://www.affiversemedia.com/the-ftc-is-watching-ai-generated-endorsements-affiliate-links-and-what-compliance-looks-like-in-2026/
+categories: industry
+tags: FTC, compliance, disclosure, consumer-review-rule, AI-endorsements, regulation, enforcement
+impact: high
+sentiment: negative
+---
+In January 2026, the FTC issued its first warning letters under the Consumer Review Rule, citing ten companies for violations including fake reviews, incentivized testimonials, and deceptive review practices. The FTC updated its Endorsement Guides in 2025 to explicitly address AI-generated content, meaning AI-assisted affiliate review content now carries compliance risk. Civil penalties are significant; every piece of affiliate content must include a clear, conspicuous disclosure. LiveChannel vendors running affiliate programs with influencer or review components should audit their disclosure practices immediately.
+
+---signal---
+id: news-20260413-005
+signal: Influencer share of affiliate partnerships reaches 53% on Affilae platform — influence is now the majority affiliate lever by financial weight
+date: 2026-04-10
+source: https://us.fashionnetwork.com/news/After-the-acquisition-at-all-costs-era-marketing-seeks-immediate-impact,1822825.html
+categories: industry
+tags: influencer, affiliate, partnerships, affilae, creator-commerce, commissions
+impact: medium
+sentiment: positive
+---
+New data from affiliate platform Affilae shows influence now accounts for 53% of all partnerships forged on the platform, up sharply as brands shift from acquisition-at-all-costs to immediate-impact models. Commissions paid to influencers reflect this shift's financial weight. The convergence of influencer marketing and affiliate commerce is accelerating — programs that treat creators as pure content play vs. performance channel are leaving measurable revenue on the table.
+
+---signal---
+id: news-20260413-006
+signal: AI SaaS affiliate programs benchmark: 20% median payout, 60-day cookie — 2.3x higher EPC than display for B2B traffic
+date: 2026-04-13
+source: https://customgpt.ai/top-10-ai-affiliate-programs/
+categories: industry
+tags: AI-SaaS, commission-rates, cookie-duration, EPC, B2B, benchmarks
+impact: medium
+sentiment: positive
+---
+A January 2026 analysis of 58 AI SaaS affiliate programs shows the median payout sits at 20% with a median cookie window of 60 days. Top-quartile programs delivered approximately 2.3x higher earnings-per-click than display advertising for B2B traffic. AI tool affiliate programs are now among the highest-performing vertical for publishers targeting professional/business audiences — relevant context for LiveChannel vendors in the software or B2B space.
 
 **Recommended Signal Sources (When Pipeline Activates):**
 - OpenAI developer blog and ACP documentation updates.
@@ -330,3 +376,27 @@ _(No signals yet — collection pipeline not active.)_
 - Affiliate industry publications (Affiverse, Performance Marketing World).
 - Patent filings related to AI commerce attribution.
 - Quarterly earnings transcripts from Shopify, Stripe, and Rakuten Group for agentic commerce commentary.
+
+---signal---
+id: news-20260413-006
+signal: FTC issues first Consumer Review Rule warning letters — AI-generated endorsements and fake reviews in crosshairs
+date: 2026-01-15
+source: https://www.affiversemedia.com/the-ftc-is-watching-ai-generated-endorsements-affiliate-links-and-what-compliance-looks-like-in-2026/
+categories: industry
+tags: ftc, compliance, ai-endorsements, fake-reviews, consumer-review-rule, disclosure
+impact: high
+sentiment: negative
+---
+In January 2026, the FTC issued its first warning letters under the Consumer Review Rule, citing ten companies for violations including fake reviews, incentivized testimonials, and deceptive review practices. Critically, AI-generated endorsements are explicitly covered — any affiliate content produced or amplified by AI must include clear disclosure. LiveChannel vendors using AI-generated product reviews or AI-assisted affiliate content should conduct an immediate compliance audit.
+
+---signal---
+id: news-20260413-007
+signal: AI SaaS affiliate programs benchmark: median 20% commission, 60-day cookies — 2.3x higher EPC than display ads
+date: 2026-04-10
+source: https://customgpt.ai/top-10-ai-affiliate-programs/
+categories: industry
+tags: ai-saas, commission-rates, cookie-duration, epc, benchmarks
+impact: medium
+sentiment: positive
+---
+A January 2026 pricing page analysis of 58 AI SaaS affiliate programs found median payout of 20% with 60-day cookie windows. Top-quartile programs delivered ~2.3x higher earnings-per-click than display ads for B2B traffic. This establishes a clear benchmark for AI tool vendors entering the affiliate space: sub-20% commission or sub-30-day cookies are likely to underperform in publisher recruitment.

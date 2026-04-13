@@ -186,4 +186,26 @@ Impact.com is widely expected to pursue an IPO within the next 1-2 years, given 
 
 ## Signal Tracking
 
-_(No signals yet — collection pipeline not active.)_
+---signal---
+id: news-20260413-001
+signal: Levanta acquires Amazon affiliate network Perch+, accelerating Amazon seller/publisher consolidation
+date: 2026-04-06
+source: https://finance.yahoo.com/markets/stocks/articles/levanta-acquires-perch-expanding-affiliate-120000047.html
+categories: affiliate-networks
+tags: levanta, perch+, amazon, acquisition, consolidation, ecommerce
+impact: high
+sentiment: neutral
+---
+Levanta, the leading affiliate and creator platform for e-commerce, announced the acquisition of Perch+, one of the earliest affiliate networks built specifically for Amazon sellers. The deal brings hundreds of Amazon sellers and publisher relationships into Levanta's unified platform spanning Amazon, Shopify, and Walmart. This accelerates consolidation of the Amazon affiliate ecosystem and positions Levanta as a dominant multi-marketplace affiliate infrastructure player — a competitive signal for traditional networks like Impact, CJ, and Rakuten.
+
+---signal---
+id: news-20260413-002
+signal: Cookie deprecation is now an operational reality — server-side and first-party tracking become table stakes for affiliate programs
+date: 2026-04-13
+source: https://irev.com/blog/cookieless-affiliate-tracking-what-actually-works-in-2026/
+categories: industry
+tags: cookies, tracking, server-side, privacy, impact, partnerstack, refersion
+impact: medium
+sentiment: neutral
+---
+Affiliate marketing has entered a structural transformation phase as third-party cookie deprecation moves from forecast to operational reality in 2026. Safari and Firefox have long blocked third-party cookies; Google officially retired its Privacy Sandbox initiative in October 2025 while keeping Chrome cookies enabled with user controls. Leading tracking platforms in 2026 — Impact, PartnerStack, Refersion, Tapfiliate, Post Affiliate Pro, and Tune/CAKE — are now differentiated by their server-side and first-party tracking capabilities. Programs still relying on legacy cookie attribution are at meaningful measurement risk.

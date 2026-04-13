@@ -194,4 +194,14 @@ For the Flywheel intelligence engine, the following CE affiliate signals should 
 
 ## Signal Tracking
 
-_(No signals yet — collection pipeline not active.)_
+---signal---
+id: news-20260413-007
+signal: TikTok Shop emerging 2026 compensation trend: hybrid flat fee ($100–$500/video) + 15–20% commission for top affiliate creators
+date: 2026-04-13
+source: https://www.shortformnation.com/blog/tiktok-shop-affiliate-commission-rates-what-brands-should-offer-2026-data
+categories: verticals
+tags: tiktok-shop, commission-rates, creator-compensation, hybrid-pay, short-form-video, social-commerce
+impact: medium
+sentiment: positive
+---
+The defining 2026 TikTok Shop compensation model is hybrid pay: a guaranteed flat fee of $100–$500 per video on top of a 15–20% affiliate commission for best-performing creators. This structure reduces creator risk on pure performance models while maintaining brand cost-efficiency. For consumer electronics brands (a strong TikTok Shop category), this trend signals that top-tier creator partnerships now require a guaranteed floor — purely commission-based offers will lose talent to competitors. Relevant for LiveChannel CE vendors evaluating TikTok Shop entry or expansion.
