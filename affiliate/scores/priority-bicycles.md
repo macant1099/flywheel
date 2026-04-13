@@ -13,12 +13,12 @@
 |-----------|-------|-----|
 | Program Presence | 9 | 20 |
 | Commission & Terms | 9 | 20 |
-| Partner Ecosystem | 9 | 20 |
+| Partner Ecosystem | 11 | 20 |
 | Tracking & Attribution | 9 | 20 |
 | LiveChannel Readiness | 8 | 20 |
-| **TOTAL** | **44** | **100** |
+| **TOTAL** | **46** | **100** |
 
-**Band:** Developing (40-59)
+**Band:** Developing (45-64)
 
 ---
 
@@ -53,12 +53,12 @@
 | # | Criterion | Score | Evidence |
 |---|-----------|-------|----------|
 | 3.1 | Active Affiliate Count | 1 | Exact count not disclosed. As a small DTC brand on a single niche network (AvantLink), active affiliate count is likely in the 10-50 range. No evidence of large-scale publisher recruitment. The brand's relative niche positioning (belt-drive bicycles) limits the addressable affiliate pool. |
-| 3.2 | Partner Type Diversity | 2 | Confirmed partner types: (1) cycling/outdoor content blogs (bikexchange.com, discerningcyclist.com, bicycle-guider.com), (2) deal/coupon sites (Yazing, Promocodes.com), (3) content creators (via Content Creator Program). Not confirmed: comparison engines, loyalty/cashback, email publishers, sub-networks. Limited to content + coupon + creator. |
-| 3.3 | Top Partner Quality | 2 | Reviews from mid-tier cycling publications: bikexchange.com, discerningcyclist.com, bicycle-guider.com (estimated DA 20-50). Featured in Forbes (Priority Current e-bike review by Bill Roberson), Robb Report (Priority Classic review), and Wall Street Journal mentions. However, these are editorial mentions, not necessarily affiliate-driven partnerships. Tower Electric Bikes review site (niche). No confirmed tier-1 affiliate publisher relationships (Wirecutter, etc.). |
+| 3.2 | Partner Type Diversity | 3 | Confirmed partner types across 4+ categories: (1) content/review sites (Wirecutter, Bicycling.com, GearJunkie, BikeXchange, Discerning Cyclist, Bicycle-Guider, BikePacking.com); (2) coupon/deal sites (Cycling Weekly active coupon page with verified Priority codes Apr 2026, Yazing, Promocodes.com); (3) comparison/database (99 Spokes maintains Priority brand directory with model tracking); (4) content creators (Ryan Van Duzer design collaboration, TwoWheelingTots reviews, Content Creator Program). Upgraded from 2→3 based on 2026-04-13 partner analysis confirming 4 distinct partner types with active commercial relationships. |
+| 3.3 | Top Partner Quality | 3 | Multiple high-quality partners identified with DA 40-70+ and active Priority content: Wirecutter/NYT recommending Continuum Onyx in "Best Hybrid Bikes of 2026" guide (updated April 2026, DA 95+); Bicycling.com (Hearst, DA 85+) with dedicated Priority 600 review and commuter bike buying guide; GearJunkie (DA 70+, ~3M monthly visits) with 2 Priority models in "GearJunkie Tested" roundups; Cycling Weekly (DA 75+) with in-depth Continuum Onyx review AND active coupon page with verified Priority codes. Also: Forbes, Robb Report, WSJ editorial mentions. TwoWheelingTots awarded Priority Start 20 highest-ever value rating (90.1/100). Upgraded from 2→3 based on 2026-04-13 partner analysis confirming multiple DA 70+ editorial relationships. Note: Wirecutter affiliate tracking enrollment on AvantLink unconfirmed — potential leakage risk. |
 | 3.4 | Content Creator Engagement | 3 | Dedicated Content Creator Program with substantial incentives: $5,000 gear grant + $1,000 cash grant for selected creators who produce riding/adventure content. This is a genuine creator investment program, not just product seeding. Program has dedicated landing page (prioritybicycles.com/pages/content-creator-program). Priority also maintains a collaborations blog showcasing partnerships (e.g., Arteza collaboration). However, scale is likely small (selective program, not open enrollment). |
 | 3.5 | AI Agent Affiliate Presence | 1 | Priority Bicycles products may appear in AI shopping results for queries like "best belt-drive bicycle" or "low maintenance bike," but via third-party content sites, not through direct affiliate links. No AI agent affiliate strategy, no agent-optimized feeds, no documented AI partnerships. Small DTC brand with limited AI shopping visibility. |
 
-**Dimension Notes:** Priority's partner ecosystem reflects its DTC scale: small but thoughtfully constructed. The Content Creator Program ($5K gear + $1K grant) is genuinely competitive for a brand this size and shows strategic intent. The weakness is in scale and top-partner quality -- reviews come from mid-tier cycling blogs rather than tier-1 editorial, and the affiliate count is likely modest.
+**Dimension Notes:** Priority's partner ecosystem is stronger than its DTC scale suggests: Wirecutter, Bicycling.com, GearJunkie, and Cycling Weekly all actively feature Priority products (April 2026). The Content Creator Program ($5K gear + $1K grant) is genuinely competitive. Remaining weaknesses are in affiliate count (likely <50 active) and AI agent presence. Key risk: premium publishers may route through Amazon/REI rather than AvantLink — leakage audit is critical.
 
 ### Dimension 4: Tracking & Attribution (9/20)
 
@@ -106,11 +106,11 @@
 
 ## Overall Assessment
 
-Priority Bicycles scores 44/100 (Emerging band, top end) on the AFARE scale, reflecting a **small DTC brand with thoughtful partnership strategy but limited affiliate infrastructure and scale**. The brand punches above its weight in program discoverability and partnership architecture -- four distinct partner programs, a genuine creator investment initiative, and presence in multiple "best affiliate programs" roundup articles. The $550+ AOV makes the program attractive in absolute dollar terms despite median commission percentages.
+Priority Bicycles scores 46/100 (Developing band, entry) on the AFARE scale, reflecting a **small DTC brand with thoughtful partnership strategy and stronger-than-expected editorial coverage, but limited affiliate infrastructure and scale**. The brand punches above its weight in program discoverability and partnership architecture -- four distinct partner programs, a genuine creator investment initiative, and presence in multiple "best affiliate programs" roundup articles. The $550+ AOV makes the program attractive in absolute dollar terms despite median commission percentages.
 
 However, Priority's affiliate operation is constrained by structural gaps. The absence from all 5 major networks limits the publisher pool to AvantLink's cycling-focused community. The 21-day cookie is too short for a high-consideration category. And the Shopify standard (not Plus) platform, single-network dependency, and lack of membership model create significant barriers to LiveChannel integration.
 
-**The clearest path to 60+ (Developing band) is: (1) launch on Impact or CJ to access major-network publishers, (2) extend cookie to 30-45 days, and (3) introduce tiered commission incentives for e-bike category sales.**
+**The clearest path to 60+ (mid-Developing) is: (1) launch on Impact or CJ to access major-network publishers, (2) extend cookie to 30-45 days, (3) introduce tiered commission incentives for e-bike category sales, and (4) confirm AvantLink enrollment for tier-1 publishers (Wirecutter, Bicycling.com) to prevent affiliate leakage.**
 
 ---
 
@@ -119,16 +119,17 @@ However, Priority's affiliate operation is constrained by structural gaps. The a
 | Brand | Category | Est. AFARE Score | Commission | Cookie | Primary Network | Key Differentiator |
 |-------|----------|-----------------|------------|--------|----------------|-------------------|
 | **Priority Bicycles** | DTC Bicycles | **44** | 5% | 21 days | AvantLink | Strong creator program, DTC simplicity, high Trustpilot reviews (5 stars, 7,943 reviews) |
-| Rad Power Bikes | DTC E-Bikes | ~50 | ~5% | 30 days | Direct/various | Largest DTC e-bike brand, pioneered DTC model, but facing business uncertainty (CEO exit, layoffs 2025) |
+| Rad Power Bikes | DTC E-Bikes | ~35 | ~6% | 30 days | FlexOffers (unconfirmed post-acquisition) | **BANKRUPT (Ch.11 Dec 2025) → Acquired by Life EV (Mar 2026) as "Rad Life Mobility."** Affiliate program continuity uncertain under new ownership. Expanding to 24 retail stores but affiliate channel disrupted. Priority opportunity: recruit displaced Rad affiliates. |
 | Aventon | DTC E-Bikes | ~52 | 4% | 30 days | Direct | Strong DTC presence, 2.5% conversion rate, expanding to European market and physical retail (ERIK's) |
 | Lectric eBikes | DTC E-Bikes | ~38 | Unknown | Unknown | Unknown | Budget-focused e-bike brand, limited documented affiliate program |
 | Canyon Bicycles | DTC Premium | ~48 | Varies | Unknown | Direct | Premium positioning, 300+ ASP service partners, content creator focus, but limited affiliate commission transparency |
 
 **Competitive Takeaways:**
-- Priority sits in the middle of its DTC bicycle competitive set, trailing Aventon and Rad Power on affiliate scale but leading on program discoverability and creator investment.
-- The 21-day cookie is the shortest in the competitive set; all major competitors offer 30 days, making this an easy fix for competitiveness.
-- Priority's unique differentiator is the belt-drive/low-maintenance positioning and fleet program, which creates a distinct niche that specialized cycling affiliates can promote effectively.
-- Rad Power's business instability (CEO exit, layoffs) creates an opportunity for Priority to recruit disaffected Rad Power affiliates.
+- Priority now leads the DTC bicycle competitive set on partner quality (Wirecutter, Bicycling.com, GearJunkie active Apr 2026) and program discoverability.
+- **Rad Power Bikes filed Chapter 11 bankruptcy (Dec 2025)** and was acquired by Life EV / Rad Life Mobility (Mar 2026). Affiliate program status under new ownership is unconfirmed. Est. AFARE dropped from ~50 to ~35 due to program instability. This creates a significant window for Priority to recruit displaced Rad affiliates and content partners.
+- The 21-day cookie remains the shortest in the competitive set; all major competitors offer 30 days.
+- Priority's belt-drive/low-maintenance positioning and fleet program create a distinct niche.
+- Aventon remains the strongest DTC e-bike affiliate competitor with a stable 4% program and 30-day cookie.
 - The DTC bicycle category overall has lower AFARE scores than consumer electronics, reflecting the high-consideration, lower-frequency purchase pattern.
 
 ---
@@ -161,3 +162,43 @@ dimensions_changed: []
 ---
 
 Initial AFARE assessment for Priority Bicycles. Small DTC brand with thoughtful partnership architecture (4 distinct partner programs, $5K creator grants) but constrained by single-network dependency on AvantLink, below-median cookie duration (21 days), and Shopify standard platform limitations.
+
+---
+id: priority-bicycles-afare-46-partner-upgrade-2026-04-13
+signal: "Priority Bicycles AFARE Score: Partner Ecosystem Upgrade — 44 → 46"
+date: 2026-04-13
+source: Partner analysis + competitor audit (Rad Power Bikes bankruptcy)
+source_name: Mac Ant daily AFARE scoring
+categories: [scoring, affiliate]
+tags: [priority-bicycles, avantlink, affiliate, dtc, bicycles, partner-ecosystem]
+vendors: [priority-bicycles]
+impact: medium
+sentiment: positive
+type: afare-score
+related_signals: [priority-bicycles-afare-44-initial-2026-04-11]
+score_total: 46
+score_previous: 44
+score_delta: +2
+dimensions_snapshot:
+  program_presence: 9
+  commission_terms: 9
+  partner_ecosystem: 11
+  tracking_attribution: 9
+  livechannel_readiness: 8
+dimensions_changed:
+  - dimension: partner_ecosystem
+    previous: 9
+    new: 11
+    delta: +2
+    criteria_changed:
+      - criterion: "3.2 Partner Type Diversity"
+        previous: 2
+        new: 3
+        evidence: "2026-04-13 partner analysis confirms 4+ partner types with active commercial relationships: content/review (Wirecutter, Bicycling.com, GearJunkie, BikeXchange, BikePacking.com), coupon/deal (Cycling Weekly active coupon page), comparison/database (99 Spokes), content creators (Van Duzer, TwoWheelingTots)."
+      - criterion: "3.3 Top Partner Quality"
+        previous: 2
+        new: 3
+        evidence: "Wirecutter/NYT actively recommending Continuum Onyx in Best Hybrid Bikes 2026 (DA 95+). Bicycling.com (DA 85+) dedicated reviews. GearJunkie (DA 70+) Tested program with 2 Priority models. Cycling Weekly (DA 75+) review + active coupon page. TwoWheelingTots highest-ever value rating (90.1/100) for Start 20."
+---
+
+Partner Ecosystem upgraded from 9→11 based on new evidence from 2026-04-13 partner analysis. Key findings: (1) Wirecutter is actively recommending Priority Continuum Onyx — this is the single highest-value editorial relationship in the DTC bicycle space; (2) Cycling Weekly has an active coupon page confirming a commercial affiliate relationship; (3) 99 Spokes maintains a structured comparison directory, confirming a 4th partner type. Separately, Rad Power Bikes' Chapter 11 bankruptcy (Dec 2025) and acquisition by Life EV (Mar 2026) has destabilized their affiliate program, creating a recruitment window for Priority. Band change: Emerging → Developing.
