@@ -1,0 +1,115 @@
+{
+  "audit_date": "2026-04-13",
+  "audited_by": "Mac Ant (Flywheel Affiliate Intelligence Engine)",
+  "vendor": "Priority Bicycles",
+  "vendor_url": "https://www.prioritybicycles.com",
+  "category": "bicycles_dtc",
+  "affiliate_program": {
+    "status": "active",
+    "program_page": "https://www.prioritybicycles.com/pages/affiliate-program-1",
+    "networks": [
+      {
+        "name": "AvantLink",
+        "merchant_id": 16029,
+        "signup_url": "https://www.avantlink.com/signup/affiliate/us?merchant=16029",
+        "status": "active"
+      }
+    ],
+    "commission": {
+      "rate_percent": 5.0,
+      "type": "flat",
+      "notes": "5% on all sales, no tiered structure detected"
+    },
+    "cookie_duration_days": 21,
+    "average_order_value_usd": 550,
+    "payment_methods_accepted": ["credit_card", "paypal", "apple_pay", "affirm_financing"],
+    "shipping": "Same business day on orders before 12:00 noon ET",
+    "fulfillment_options": ["standard", "fully_assembled_delivery"],
+    "customer_service": "7-days-a-week support",
+    "return_policy": "30-day no questions asked",
+    "creative_assets": {
+      "availability": "available_on_request",
+      "notes": "Program page states team is available to assist on additional marketing content needs; standard AvantLink creative tools available to approved affiliates"
+    },
+    "application_required": true,
+    "approval_type": "manual"
+  },
+  "product_catalog": {
+    "primary_categories": [
+      "city_bikes",
+      "commuter_bikes",
+      "beach_cruisers",
+      "kids_bikes",
+      "e_bikes"
+    ],
+    "key_differentiator": "Low-maintenance Gates Carbon belt drive (rust-free, grease-free) across all models",
+    "flagship_ebike": "Priority Current Plus E-Bike (750W mid-drive motor, electronic shifting, 600% gear range)",
+    "retail_channels": ["direct-to-consumer (primary)", "Costco Next (secondary)"],
+    "notable_partnerships": ["Starwood Hotels", "Nantucket Island Resorts"]
+  },
+  "benchmark_comparison": {
+    "category": "bicycles_dtc",
+    "category_commission_median_pct": 5.0,
+    "category_cookie_median_days": 30,
+    "category_aov_median_usd": 1200,
+    "vs_benchmark": {
+      "commission": "at_median",
+      "cookie": "below_median_21_vs_30_days",
+      "aov": "below_median_550_vs_1200_but_reasonable_for_entry_level_focus"
+    }
+  },
+  "afare_signals": {
+    "commission_score": 3,
+    "commission_note": "At category median (5%). Competitive but not a standout vs peers like Trek (4–8%) or Canyon (varies).",
+    "cookie_score": 2,
+    "cookie_note": "21-day cookie is below the 30-day category median. Bicycles are considered-purchase items; longer cookies would better capture late-converting buyers.",
+    "aov_note": "$550+ stated AOV is for standard bikes. E-bike AOV (Current Plus ~$3,299) would substantially lift EPC if promoted.",
+    "program_health": "stable",
+    "affiliate_friendliness": "moderate",
+    "strengths": [
+      "Unique low-maintenance positioning (belt drive) — easy content hook",
+      "Same-day shipping + 7-day support = strong conversion story",
+      "30-day returns reduce buyer hesitation",
+      "Costco partnership signals brand credibility",
+      "Financing via Affirm broadens accessible audience",
+      "Available on AvantLink — solid network with reliable tracking"
+    ],
+    "weaknesses": [
+      "21-day cookie below category standard (30-day median)",
+      "5% flat rate — no tiered or performance bonuses detected",
+      "Creative assets appear to be request-based rather than a self-serve library",
+      "E-bike high-AOV products ($3K+) not prominently featured in affiliate materials",
+      "No second network (e.g., ShareASale, Impact) — single-network risk"
+    ],
+    "opportunities": [
+      "Push e-bike content — 750W Current Plus at ~$3,299 yields ~$165 EPC at 5% vs ~$27 for a $550 city bike",
+      "Seasonal spring/summer launch content (April timing ideal)",
+      "Hotel/resort partnership angle for travel content creators",
+      "Target urban commuter and 'car-free lifestyle' content niches"
+    ],
+    "threats": [
+      "Rad Power Bikes and Aventon competitive on e-bike affiliate programs",
+      "Costco direct listing may divert affiliate conversions for price-sensitive buyers",
+      "No affiliate program changes detected — risk of stagnation if competitors raise rates"
+    ]
+  },
+  "changes_since_last_audit": {
+    "last_audit_date": null,
+    "changes_detected": "N/A — first audit on record for Priority Bicycles",
+    "program_stability": "No rate changes, network changes, or program modifications detected in 2025–2026 search results. Program appears stable and unchanged from 2024 benchmarks."
+  },
+  "recommended_actions": [
+    "Flag e-bike AOV opportunity to LiveChannel vendors targeting content affiliates — $165 EPC is compelling",
+    "Recommend Priority Bicycles push AvantLink for cookie extension to 30 days (industry standard)",
+    "Monitor for any spring 2026 promotional offers that affiliates can activate",
+    "Cross-reference with Mac Fly AFARE and Mac Bee ACES scores for full Flywheel readiness picture"
+  ],
+  "sources": [
+    "https://www.prioritybicycles.com/pages/affiliate-program-1",
+    "https://www.avantlink.com/programs/16029/priority-bicycles-affiliate-program/",
+    "https://www.authorityhacker.com/bicycle-affiliate-programs/",
+    "https://affmojo.com/bicycle-affiliate-programs/",
+    "https://getlasso.co/niche/bicycle/",
+    "https://www.prioritybicycles.com/collections/electric"
+  ]
+}
