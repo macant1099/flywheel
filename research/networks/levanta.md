@@ -1,3 +1,9 @@
+---
+title: "Levanta — Network Profile"
+category: affiliate-networks
+lastUpdated: "2026-04-13"
+---
+
 # Levanta — Network Research
 
 Amazon-native affiliate and creator platform. Manages affiliate programs for Amazon, Shopify, and Walmart sellers.

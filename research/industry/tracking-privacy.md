@@ -1,3 +1,9 @@
+---
+title: "Tracking, Attribution & Privacy — Industry Research"
+category: industry
+lastUpdated: "2026-04-13"
+---
+
 # Tracking, Attribution & Privacy — Industry Research
 
 Monitoring cookie deprecation, server-side tracking, and attribution shifts affecting affiliate programs.

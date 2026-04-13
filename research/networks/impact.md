@@ -187,7 +187,7 @@ Impact.com is widely expected to pursue an IPO within the next 1-2 years, given 
 ## Signal Tracking
 
 ---signal---
-id: news-20260413-001
+id: news-20260413-008
 signal: Levanta acquires Amazon affiliate network Perch+, accelerating Amazon seller/publisher consolidation
 date: 2026-04-06
 source: https://finance.yahoo.com/markets/stocks/articles/levanta-acquires-perch-expanding-affiliate-120000047.html
@@ -199,7 +199,7 @@ sentiment: neutral
 Levanta, the leading affiliate and creator platform for e-commerce, announced the acquisition of Perch+, one of the earliest affiliate networks built specifically for Amazon sellers. The deal brings hundreds of Amazon sellers and publisher relationships into Levanta's unified platform spanning Amazon, Shopify, and Walmart. This accelerates consolidation of the Amazon affiliate ecosystem and positions Levanta as a dominant multi-marketplace affiliate infrastructure player — a competitive signal for traditional networks like Impact, CJ, and Rakuten.
 
 ---signal---
-id: news-20260413-002
+id: news-20260413-009
 signal: Cookie deprecation is now an operational reality — server-side and first-party tracking become table stakes for affiliate programs
 date: 2026-04-13
 source: https://irev.com/blog/cookieless-affiliate-tracking-what-actually-works-in-2026/

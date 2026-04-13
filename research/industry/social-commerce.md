@@ -1,3 +1,9 @@
+---
+title: "Social Commerce & Influencer Affiliate — Industry Research"
+category: industry
+lastUpdated: "2026-04-13"
+---
+
 # Social Commerce & Influencer Affiliate — Industry Research
 
 Tracking the convergence of social platforms, creator monetization, and affiliate commerce.

@@ -18,7 +18,7 @@
 | LiveChannel Readiness | 12 | 20 |
 | **TOTAL** | **64** | **100** |
 
-**Band:** Developing (45-64)
+**Band:** Established (60-74)
 
 ---
 

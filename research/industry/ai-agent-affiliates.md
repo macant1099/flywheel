@@ -319,7 +319,7 @@ Brands scoring highly on ACES are inherently better prepared for the AI-agent-as
 ## Signal Tracking
 
 ---signal---
-id: news-20260413-003
+id: news-20260413-010
 signal: Instagram launches affiliate links for Reels — creators can now tag products and earn commissions directly in video content
 date: 2026-04-08
 source: https://hellopartner.com/2026/04/08/instagram-announces-huge-affiliate-link-update-to-increase-earning-chances-for-creators/
@@ -331,7 +331,7 @@ sentiment: positive
 Instagram Head Adam Mosseri announced creators can now tag products in Reels with affiliate links and earn a commission when viewers shop their content. As of March 2026, Instagram has fully transitioned from a traffic driver to a direct sales channel — the line between creator content and commerce has effectively disappeared. Brands with verified product catalogs in Meta's commerce system gain a measurable conversion-tracking advantage as the feature scales through spring 2026. This is a major inflection point for influencer-affiliate hybrid programs.
 
 ---signal---
-id: news-20260413-004
+id: news-20260413-011
 signal: FTC issues first Consumer Review Rule warning letters in January 2026, targeting fake reviews, incentivized testimonials, and AI-generated endorsements
 date: 2026-04-13
 source: https://www.affiversemedia.com/the-ftc-is-watching-ai-generated-endorsements-affiliate-links-and-what-compliance-looks-like-in-2026/
@@ -343,7 +343,7 @@ sentiment: negative
 In January 2026, the FTC issued its first warning letters under the Consumer Review Rule, citing ten companies for violations including fake reviews, incentivized testimonials, and deceptive review practices. The FTC updated its Endorsement Guides in 2025 to explicitly address AI-generated content, meaning AI-assisted affiliate review content now carries compliance risk. Civil penalties are significant; every piece of affiliate content must include a clear, conspicuous disclosure. LiveChannel vendors running affiliate programs with influencer or review components should audit their disclosure practices immediately.
 
 ---signal---
-id: news-20260413-005
+id: news-20260413-012
 signal: Influencer share of affiliate partnerships reaches 53% on Affilae platform — influence is now the majority affiliate lever by financial weight
 date: 2026-04-10
 source: https://us.fashionnetwork.com/news/After-the-acquisition-at-all-costs-era-marketing-seeks-immediate-impact,1822825.html
@@ -378,7 +378,7 @@ A January 2026 analysis of 58 AI SaaS affiliate programs shows the median payout
 - Quarterly earnings transcripts from Shopify, Stripe, and Rakuten Group for agentic commerce commentary.
 
 ---signal---
-id: news-20260413-006
+id: news-20260413-013
 signal: FTC issues first Consumer Review Rule warning letters — AI-generated endorsements and fake reviews in crosshairs
 date: 2026-01-15
 source: https://www.affiversemedia.com/the-ftc-is-watching-ai-generated-endorsements-affiliate-links-and-what-compliance-looks-like-in-2026/
@@ -390,7 +390,7 @@ sentiment: negative
 In January 2026, the FTC issued its first warning letters under the Consumer Review Rule, citing ten companies for violations including fake reviews, incentivized testimonials, and deceptive review practices. Critically, AI-generated endorsements are explicitly covered — any affiliate content produced or amplified by AI must include clear disclosure. LiveChannel vendors using AI-generated product reviews or AI-assisted affiliate content should conduct an immediate compliance audit.
 
 ---signal---
-id: news-20260413-007
+id: news-20260413-014
 signal: AI SaaS affiliate programs benchmark: median 20% commission, 60-day cookies — 2.3x higher EPC than display ads
 date: 2026-04-10
 source: https://customgpt.ai/top-10-ai-affiliate-programs/
