@@ -1,0 +1,78 @@
+{
+  "competitor": "Rad Power Bikes",
+  "vendor_context": "Priority Bicycles competitor (eBike category)",
+  "last_audited": "2026-04-13",
+  "status": "ACQUIRED — Post-bankruptcy, new ownership (Life EV / Rad Life Mobility)",
+
+  "affiliate_program": {
+    "active": true,
+    "networks": [
+      {
+        "name": "FlexOffers",
+        "status": "listed — post-acquisition status UNCONFIRMED",
+        "commission_rate": "~6%",
+        "cookie_duration_days": 30,
+        "notes": "Program listing as of Feb 2025; unclear if continued under Life EV"
+      },
+      {
+        "name": "CPG Affiliate Partners",
+        "status": "listed (affi.io reference, pre-bankruptcy)",
+        "commission_rate": "unknown",
+        "cookie_duration_days": null,
+        "notes": "Managed program pre-bankruptcy; continuity unknown"
+      },
+      {
+        "name": "Shopper.com (aggregator)",
+        "status": "listed",
+        "commission_rate": "EUR 0.98–14.42 per sale (~6%)",
+        "cookie_duration_days": null,
+        "notes": "Aggregator listing, reflects FlexOffers data"
+      }
+    ],
+    "commission_summary": "~6% standard; CA program historically 0.48%–2.4%",
+    "cookie_duration_days": 30,
+    "deeplink_support": false,
+    "social_media_tracking": false
+  },
+
+  "company_status": {
+    "financial": "CRITICAL — Chapter 11 bankruptcy filed December 15, 2025",
+    "acquisition": {
+      "acquirer": "Life Electric Vehicles Holdings, Inc. (OTC: LFEV)",
+      "acquisition_price_usd": 13200000,
+      "auction_won": "2026-01-22",
+      "court_approval_completed": "2026-03-05",
+      "new_brand_name": "Rad Life Mobility",
+      "new_president": "Jim Brown (auto dealership background)"
+    },
+    "retail_footprint": {
+      "current_stores": 7,
+      "target_stores": 24,
+      "closures": ["Vancouver, BC", "St. Louis (during bankruptcy)"]
+    },
+    "manufacturing_plan": "Transitioning to US-based assembly via Foreign Trade Zone (FTZ)"
+  },
+
+  "competitive_intel": {
+    "pricing_model": "Direct-to-consumer; keeping low price positioning",
+    "affiliate_risk": "HIGH — Post-bankruptcy affiliate program continuity uncertain; new owner may restructure or launch new program",
+    "opportunity_for_priority": "Rad affiliate channel disruption creates window for Priority Bicycles to capture displaced Rad affiliates and content partners"
+  },
+
+  "history": [
+    {
+      "date": "2026-04-13",
+      "event": "First audit. No prior file. Discovered post-bankruptcy acquisition by Life EV (Mar 2026). Affiliate program status under new owner unconfirmed.",
+      "change_flag": true
+    }
+  ],
+
+  "sources": [
+    "https://techcrunch.com/2025/11/10/rad-power-bikes-faces-shutdown-in-january-without-new-funding/",
+    "https://www.bicycleretailer.com/industry-news/2026/03/16/rad-power-bikes-given-new-life-after-acquisition",
+    "https://elevenflo.com/blog/rad-power-bikes-bankruptcy-363-sale",
+    "https://www.geekwire.com/2026/rad-power-bikes-brand-will-live-on-as-life-ev-completes-acquisition-of-seattle-e-bike-makers-assets/",
+    "https://www.flexoffers.com/affiliate-programs/rad-power-bikes-affiliate-program/",
+    "https://www.shopper.com/partnerships/radpowerbikes-com-affiliate-program"
+  ]
+}
