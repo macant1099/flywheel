@@ -1,94 +1,109 @@
 ---
-name: "impact.com"
-type: "platform"
-description: "The world's leading commerce partnership marketing platform managing affiliate, creator, and B2B partner programs at enterprise scale"
+name: "Impact.com"
+type: "network"
+description: "SaaS-based partnership management platform powering 350,000+ partnerships for 5,000+ global brands including Walmart, Uber, and Shopify"
 website: "https://impact.com"
 founded: "2008"
 headquarters: "Santa Barbara, CA"
 keyStats:
-  - label: "Partnership Types"
-    value: "Affiliate, Creator, B2B, Ambassador"
-  - label: "2025 Momentum"
-    value: "Record growth across all partner channels"
-  - label: "Notable Products"
-    value: "Geodesix data marketplace (Jan 2026)"
-  - label: "Global Reach"
-    value: "Multi-region, enterprise clients worldwide"
+  - label: "Annual Recurring Revenue"
+    value: "~$270M"
+  - label: "Brands"
+    value: "5,000+"
+  - label: "Partners in Marketplace"
+    value: "330,000+"
+  - label: "Partner-Referred GMV"
+    value: "~$120B"
 vendorRelevance: "high"
 lastUpdated: "2026-04-13"
 ---
 
 ## Overview
 
-impact.com is the dominant SaaS platform in the partnership marketing category. Founded as a tech-first alternative to traditional affiliate networks, it has spent 15+ years building infrastructure that treats affiliate, influencer, B2B referral, and ambassador channels as a unified partner ecosystem rather than siloed programs. For LiveChannel vendors evaluating affiliate infrastructure, impact.com is effectively the gold standard against which all other platforms are measured.
+Impact.com is a leading partnership management platform built on a SaaS model, representing the modern evolution of affiliate marketing technology. Founded in 2008 in Santa Barbara, California, by a team of industry veterans including Per Pettersen (who co-founded Commission Junction), the company was purpose-built to move beyond the limitations of traditional affiliate networks and offer brands direct ownership of their partnership programs.
 
-The company does not operate a traditional open marketplace (it's not a network you "join" to discover new affiliates) — it's a management platform where you recruit, contract, track, and pay your own partners. This distinction matters: vendors bring their own publisher relationships or recruit through the marketplace discovery layer.
+Impact.com achieved unicorn status in 2021 and has grown aggressively, reaching approximately $270 million in annual recurring revenue by the end of fiscal year 2025 (ending January 31, 2026), up roughly 20% year over year. The platform powers close to $120 billion in partner-referred gross merchandise value and serves over 5,000 global brands, including Walmart, Uber, Shopify, Lenovo, L'Oreal, and Fanatics.
 
 ## How It Works
 
-Brands onboard to impact.com as advertisers, set commission structures, and use the platform to:
-- Recruit partners via the Marketplace (a curated directory of publishers, creators, and agencies seeking new programs)
-- Automate contract and compliance workflows
-- Track conversions with server-side, cookieless tracking technology
-- Automate commission payouts (supports 70+ currencies, 190+ countries)
-- Analyze partner performance with granular attribution reporting
-- Manage influencer/creator campaigns with content tracking
+Unlike traditional affiliate networks where the network owns the publisher relationships, Impact.com operates as a SaaS platform where brands own and manage their partnerships directly:
 
-Publishers (affiliates, creators, media partners) access the platform via a separate interface to discover programs, grab tracking links, monitor earnings, and receive payments.
+1. **Discovery & Recruitment**: Brands use Impact's marketplace of 330,000+ vetted partners to find affiliates, influencers, creators, and strategic partners. AI-powered matching recommends high-potential partnerships.
+2. **Contracting & Onboarding**: Automated contracting and onboarding workflows streamline the process of bringing new partners into a program.
+3. **Tracking & Attribution**: Impact's tracking handles clicks, conversions, multi-touch attribution, and cross-device journeys. Brands get granular data on partner contribution.
+4. **Optimization & Automation**: Rules-based automation for commission adjustments, partner tier management, and performance alerts.
+5. **Payment**: Integrated global payment processing handles payouts in 60+ currencies.
 
 ## Key Products & Services
 
-**Partnership Cloud** — The core platform suite combining recruitment, contracting, tracking, optimization, and payments in one interface.
+### Performance (Core Affiliate Platform)
+The flagship product for managing affiliate and referral partnerships, with tracking, attribution, and payment capabilities.
 
-**Geodesix** (launched January 2026) — A premium data marketplace that connects publishers with AI systems and data buyers, enabling publishers to monetize their audience data and behavioral signals. A significant new monetization layer entering the AI search era.
+### Creator
+Launched in 2025 as an integrated add-on (base version at no additional cost), this module manages influencer and creator partnerships with content tracking, social media analytics, and creator-specific commissioning.
 
-**Creator Hub** — Dedicated workflow for managing influencer/UGC creator relationships, content tracking, gifting campaigns, and performance-based creator pay.
+### Advocate
+Also launched in 2025 at no additional cost with the base version, this handles customer referral and ambassador programs with automated rewards and tracking.
 
-**Prospect** — AI-powered partner discovery tool that surfaces relevant new affiliates and publishers for a given brand's profile.
+### Partnerships Marketplace
+A built-in directory of 330,000+ vetted partners spanning affiliates, influencers, content creators, and technology partners.
 
-**MediaRails** — Content commerce solution enabling media publishers to embed shoppable product experiences backed by affiliate tracking.
+### Managed Services
+For brands that want agency-level support in building and running their partnership programs.
 
-**Activate** (brand ambassador) — Tools for turning customers and micro-influencers into affiliate participants at scale.
+## Pricing & Commission Model
 
-## Pricing / Commission Model
+Impact.com uses a tiered SaaS pricing model:
 
-impact.com charges brands a monthly SaaS fee based on program size and features. Pricing is not publicly disclosed (enterprise sales model) but typically ranges from:
-- Essentials: ~$500/month (smaller programs)
-- Professional/Enterprise: $2,000–$10,000+/month
+- **Starter**: Entry-level tier for growing brands. Pricing starts in the low hundreds per month.
+- **Essential/Pro/Enterprise**: Scaling tiers based on tracked conversions, features, and support levels. Enterprise pricing is custom.
+- **No Network Override**: Unlike traditional networks, Impact.com does not take a percentage of commissions. Brands pay the SaaS fee and 100% of commissions go directly to partners.
 
-Additionally, the platform collects a small percentage of managed payments as a transaction fee. No rev-share to the network — brands pay publishers directly through the platform.
-
-Publishers access impact.com for free.
+This model typically results in lower total cost for high-volume programs compared to traditional network models.
 
 ## Strengths
 
-- **Best-in-class tracking**: Server-side and cookieless tracking puts impact.com ahead of legacy networks on measurement accuracy — critical as browsers kill third-party cookies
-- **Unified partner types**: Affiliate, creator, B2B, and ambassador all on one platform — reduces vendor sprawl
-- **Enterprise brand roster**: Home to some of the world's largest brand programs (Uber, Levi's, Lenovo, Target)
-- **Geodesix / AI data layer**: Forward-looking move into AI commerce data monetization (Jan 2026) positions them for the agentic era
-- **Automation depth**: Automated workflows for contracting, compliance checks, payment scheduling, and partner nurturing reduce manual operations overhead
-- **Global payments**: 70+ currencies, critical for vendors selling internationally
+- **Modern SaaS Architecture**: Brand-owned partnerships, transparent pricing, and no network override fees give brands more control and typically lower costs at scale.
+- **All-in-One Platform**: Unifying affiliates, influencers, creators, and advocates under one platform eliminates tool fragmentation.
+- **Massive Partner Marketplace**: 330,000+ vetted partners provide strong discovery and recruitment capabilities.
+- **Enterprise Client Base**: Walmart, Uber, Shopify, and similar logos validate the platform for large-scale operations.
+- **Creator Growth**: Creator-driven revenue surged 51% year over year in 2025, reflecting strong momentum in the influencer/creator segment.
+- **Award Recognition**: 30+ industry awards in 2025, including Best Affiliate Marketing Program at the Digiday Technology Awards.
 
 ## Weaknesses
 
-- **No built-in publisher marketplace at network scale**: Unlike CJ or Awin, impact.com doesn't have millions of affiliates you can instantly tap — you must recruit or integrate with external databases
-- **Price point**: Enterprise SaaS fees put it out of reach for smaller/emerging vendors
-- **Learning curve**: Platform depth means meaningful onboarding time; not plug-and-play
-- **Self-serve recruitment**: Brands are responsible for growing their own partner base; impact doesn't "send" you traffic
+- **Complexity for Small Brands**: The platform's feature depth can be overwhelming for smaller merchants just starting with affiliate marketing.
+- **Self-Service Expectations**: As a SaaS platform (not a managed network), brands need internal resources or agency support to run programs effectively.
+- **Price at Entry Level**: For very small programs, the SaaS fee may exceed what a traditional network would cost on a percentage basis.
+- **Publisher Liquidity**: While the marketplace is large, some verticals may have fewer publishers compared to established networks like CJ or Awin.
 
 ## Recent Developments
 
-**January 2026** — impact.com announced record growth in 2025, citing accelerated client adoption across creator, affiliate, and B2B channels. Simultaneously launched **Geodesix**, a data marketplace connecting premium publishers with AI systems — a direct play for relevance in the emerging AI search/agentic commerce era.
+- **Creator & Advocate Integration (2025)**: Impact unified its product ecosystem by including base versions of Creator and Advocate at no extra cost, enabling brands to manage all partnership types on one platform.
+- **Technology Partner Growth**: Partners supporting price comparison and validation saw a 79% increase in transaction volume in 2025.
+- **AI Investment**: Continued investment in AI-powered partner matching, predictive analytics, and automated optimization.
+- **Global Expansion**: Strengthened presence in APAC and EMEA markets, with payment support in 60+ currencies across 214 countries.
 
-**January 2026** — Featured in Semrush's strategic shift to modern affiliate marketing, indicating strong positioning among SaaS/software vendors migrating from legacy networks.
+## Market Position & Competitive Context
 
-**2025** — Continued expansion of Creator Hub capabilities, adding content performance attribution and gifting automation to capture the influencer commerce budget shift.
+Impact.com is the dominant SaaS alternative to traditional affiliate networks, competing directly with CJ and Awin on the network side, and with Partnerize and Everflow on the SaaS side. The competitive landscape breaks down as follows:
+
+- **Impact.com vs. CJ/Awin**: Impact.com's SaaS model eliminates the network override fee, giving brands more margin on each transaction. However, brands must recruit and manage publishers themselves (or use the marketplace), whereas networks provide more hands-on publisher relationship management.
+- **Impact.com vs. Partnerize**: Both are enterprise SaaS platforms. Impact.com has higher brand recognition and a larger marketplace (330,000+ vs. 750,000+), but Partnerize's Konnecto acquisition gives it unique competitive intelligence capabilities.
+- **Impact.com vs. Everflow**: Everflow is more focused on tracking granularity and serves a different segment (performance marketers, agencies, networks). Impact.com is broader and more enterprise-oriented.
+
+Impact.com's founding team includes Per Pettersen (co-founder of Commission Junction), which gives the company deep institutional knowledge of where traditional networks fall short and how to build something better.
+
+## Key Verticals
+
+Impact.com serves a broad range of verticals, with particular strength in:
+
+- **Ecommerce & DTC**: The largest segment, with brands like Shopify merchants and major retailers using the platform.
+- **Financial Services**: Credit cards, fintech, and banking brands leverage Impact.com for customer acquisition partnerships.
+- **Travel & Hospitality**: Complex, multi-partner travel programs benefit from Impact.com's sophisticated attribution.
+- **SaaS & Technology**: B2B brands use Impact.com for partner-driven lead generation and referral programs.
+- **Creator Economy**: The 2025 integration of Creator tools positions Impact.com for the growing influencer commerce segment.
 
 ## Vendor Takeaway
 
-impact.com is the right choice for LiveChannel vendors who are **serious about affiliate as a revenue channel** and want infrastructure built for scale, accuracy, and multi-partner-type management. It is not the easiest on-ramp — expect investment in setup and recruitment — but the tracking quality, automation depth, and AI-forward roadmap (Geodesix) make it the most future-proof platform in the category.
-
-**For vendors with $1M+ GMV:** Strongly consider impact.com as primary affiliate infrastructure.
-**For vendors just starting out:** May be cost-prohibitive; consider ShareASale/Awin or PartnerStack first, then migrate.
-
-**Watch Geodesix closely** — if it gains traction as an AI data layer, impact.com will become a bridge between traditional affiliate and agentic commerce distribution.
+Impact.com is the leading choice for brands that want to own their partnership programs directly rather than operating within a traditional network. The SaaS model typically provides better economics at scale, more control, and cleaner data. It is particularly well-suited for mid-market to enterprise brands with the internal resources (or agency support) to manage programs actively. The 2025 integration of Creator and Advocate modules makes Impact.com especially compelling for brands wanting to consolidate affiliate, influencer, and referral programs into a single platform. For vendors in the Flywheel cohort, Impact.com represents the platform most likely to support agentic commerce integrations given its API-first architecture and modern technology stack.

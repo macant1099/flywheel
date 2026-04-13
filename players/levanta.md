@@ -1,97 +1,107 @@
 ---
 name: "Levanta"
-type: "platform"
-description: "The leading affiliate and creator platform built specifically for Amazon, Walmart, and Shopify sellers — enabling direct partnerships with influencers, publishers, and creators who drive external traffic to marketplace listings"
+type: "network"
+description: "Amazon-focused affiliate and creator platform expanding to Shopify and Walmart, with 60,000+ vetted partners and Amazon Attribution integration"
 website: "https://levanta.io"
 founded: "2022"
 headquarters: "Seattle, WA"
 keyStats:
-  - label: "Primary Channel"
-    value: "Amazon, Walmart, Shopify"
-  - label: "Key Program"
-    value: "Amazon Brand Referral Bonus eligible"
-  - label: "Marketplace Access"
-    value: "8,000+ active creators and publishers"
-  - label: "Recent Expansion"
-    value: "UK Amazon sellers (2025–2026)"
-vendorRelevance: "high"
+  - label: "Vetted Partners"
+    value: "60,000+"
+  - label: "Platforms Supported"
+    value: "Amazon, Shopify, Walmart"
+  - label: "Total Funding"
+    value: "$21.4M (Series A)"
+  - label: "Growth Rate"
+    value: "60% YoY"
+vendorRelevance: "medium"
 lastUpdated: "2026-04-13"
 ---
 
 ## Overview
 
-Levanta is the standout purpose-built affiliate platform for Amazon sellers, filling a gap that neither Amazon's own tools nor general affiliate networks adequately serve. Built by the team behind Grovia (an affiliate partner recruitment agency), Levanta was designed from day one around the Amazon seller's workflow: driving external traffic to Amazon listings, qualifying for the Brand Referral Bonus, and managing creator relationships without leaving the seller's primary sales channel.
+Levanta is the leading affiliate and creator marketing platform built specifically for marketplace sellers, with a primary focus on Amazon. Founded in 2022 in Seattle, Washington, by the team behind Grovia (a partner marketing agency), Levanta launched in early 2023 and has grown rapidly to become the go-to platform for Amazon sellers looking to drive external traffic through affiliate and creator partnerships.
 
-As of 2026, Levanta has expanded beyond Amazon to support Walmart and Shopify sellers, positioning itself as the unified affiliate layer for marketplace-first brands — a segment that general affiliate networks aren't built for and that Amazon's native influencer tools don't fully address.
+The company is led by CEO Ian Brodie, CTO Spencer McKenney, and Chief Marketplace Officer Rob Schab. Levanta raised $21.4 million in total funding, including a Series A round led by Volition Capital. The platform has grown 60% year over year and recently expanded beyond Amazon to support unified affiliate and creator programs across Amazon, Shopify, and Walmart.
 
 ## How It Works
 
-Levanta operates as a **direct publisher-brand marketplace** with the specific mechanics of Amazon selling layered in:
+Levanta fills a critical gap in the affiliate ecosystem: connecting marketplace sellers (particularly Amazon sellers) with external traffic sources:
 
-1. **Sellers connect** their Amazon, Walmart, or Shopify account to Levanta
-2. **Set commission rates** by product or category (bonus: Amazon's Brand Referral Bonus means Amazon refunds sellers a portion of ad fees for external traffic — effectively subsidizing affiliate commissions)
-3. **Recruit partners** from Levanta's marketplace of 8,000+ creators, publishers, and affiliate media buyers who specialize in driving Amazon traffic
-4. **Partners generate** Amazon-compliant affiliate links with attribution tracking embedded
-5. **Levanta tracks** the full conversion chain and manages commission payouts to partners
-
-The Amazon Brand Referral Bonus integration is the killer feature: Amazon rewards sellers who drive external traffic with a 10% average bonus on attributed sales (refunded against ad fees). This means sellers can effectively run higher commission rates for affiliates than their margin would otherwise allow, because Amazon subsidizes the cost.
+1. **Amazon Attribution Integration**: Levanta integrates directly with Amazon's Attribution API, enabling accurate tracking of external traffic that drives sales on Amazon. This is the key technical differentiator, as traditional affiliate networks cannot track Amazon conversions.
+2. **Partner Discovery**: Brands use Levanta's marketplace of 60,000+ vetted partners (creators, publishers, and affiliates) to find and recruit promotional partners.
+3. **Creator Connections**: Social listening tools surface creators who are already organically posting about a brand, enabling targeted outreach.
+4. **Product Sampling**: Automated product sampling workflows let brands send products to creators for review and promotion.
+5. **Paid Placements**: A newer feature enabling brands to secure flat-rate creator deals with affiliate-level performance measurement.
+6. **Commission & Payment**: Brands set custom commission rates, and Levanta handles tracking, attribution, and payouts.
 
 ## Key Products & Services
 
-**Creator Marketplace** — Directory of 8,000+ creators and publishers who actively drive traffic to Amazon/Walmart/Shopify. Searchable by niche, audience size, platform, and average EPC.
+### Amazon Affiliate Platform
+The core product enabling Amazon sellers to build, manage, and optimize affiliate programs with Amazon Attribution-powered tracking.
 
-**Brand Referral Bonus Integration** — Automated tracking and reporting that attributes external affiliate traffic in a way that qualifies for Amazon's Brand Referral Bonus, providing sellers with cost-effective commission headroom.
+### Multi-Marketplace Support (2026)
+Expanded platform supporting unified affiliate and creator programs across Amazon, Shopify, and Walmart simultaneously, consolidating what previously required separate tools.
 
-**Product Gifting** — Send product samples to creators for review content, managed within the same platform as affiliate link distribution — eliminating the typical coordination chaos between gifting and commission programs.
+### Creator Connections
+Social listening and partner marketplace tools for discovering creators who are already talking about your brand or products organically.
 
-**Performance Analytics** — Real-time dashboard showing clicks, orders, revenue, commissions, and return on ad spend (ROAS) per partner, per product.
+### Paid Placements
+Flat-fee creator deal structures with affiliate-level performance tracking, bridging the gap between guaranteed influencer placements and performance-based affiliate commissions.
 
-**Multi-Marketplace Support** — Run affiliate programs simultaneously across Amazon US, Amazon UK, Walmart, and Shopify with consolidated reporting.
+### Automated Product Sampling
+Streamlined product seeding workflows for getting products into creators' hands for review and content creation.
 
-**Automated Payouts** — Monthly commission disbursement to creators, handling the payment logistics that sellers would otherwise need to manage manually.
+## Pricing & Commission Model
 
-## Pricing / Commission Model
+Levanta operates on a SaaS subscription model:
 
-Levanta charges sellers a monthly platform fee plus a percentage of managed commissions:
-- **Starter**: ~$150/month
-- **Growth**: ~$400/month
-- **Enterprise**: Custom
-
-Transaction fee: ~5% of commissions managed through the platform.
-
-Creators/publishers use Levanta for free and are paid by sellers.
+- **Monthly Plans**: Tiered pricing based on features and usage. Entry-level plans start at accessible price points for smaller sellers.
+- **Enterprise**: Custom pricing for larger brands with high-volume programs across multiple marketplaces.
+- **No Network Override**: Levanta does not take a percentage of commissions. Brands pay the platform fee plus commissions directly to partners.
+- **Commission Flexibility**: Brands set their own commission rates per product, category, or partner tier.
 
 ## Strengths
 
-- **Amazon-native**: The only platform purpose-built to leverage the Amazon Brand Referral Bonus — unique structural advantage vs. general affiliate networks
-- **Marketplace seller expertise**: Every feature reflects the constraints and opportunities of selling on Amazon/Walmart — not retrofitted from a D2C model
-- **Creator quality for e-commerce**: 8,000+ creators who actively produce product review content (vs. coupon/loyalty publishers who don't move Amazon traffic)
-- **Gifting + affiliate unified**: Product sampling and affiliate management in one platform significantly reduces coordination friction
-- **UK expansion**: Amazon UK sellers can now run the same program structure — valuable for international sellers (2025–2026 launch)
-- **Shopify bridge**: Sellers running on both Amazon and Shopify can manage affiliate relationships in one place
+- **Amazon Attribution Integration**: The ability to accurately track affiliate-driven Amazon sales is Levanta's killer feature. No traditional affiliate network can do this natively.
+- **Creator-First Approach**: Purpose-built for the creator economy, with tools for discovery, sampling, and paid placements.
+- **Multi-Marketplace Unification**: Supporting Amazon, Shopify, and Walmart under one platform eliminates the need for separate affiliate tools per channel.
+- **Rapid Growth**: 60% year-over-year growth and the recent Perch+ acquisition demonstrate strong momentum.
+- **Partner Volume**: 60,000+ vetted partners focused on e-commerce and marketplace content.
 
 ## Weaknesses
 
-- **Amazon-heavy**: If a vendor doesn't sell on Amazon, Walmart, or Shopify, Levanta has limited relevance
-- **Smaller publisher pool**: 8,000 creators is modest compared to general network publisher bases; depth in niche categories varies
-- **Creator-skewed**: Strong for influencer/review content; less suited for programmatic, coupon, or loyalty affiliate types
-- **Commission economics dependent on Brand Referral Bonus**: The value proposition is most compelling for brands actively qualifying for BRB — Amazon private label sellers and registered brand owners specifically
+- **Amazon Dependency**: Despite multi-marketplace expansion, Levanta's core value proposition is tied to Amazon. Changes to Amazon's Attribution API or affiliate policies could significantly impact the business.
+- **Early Stage**: Founded in 2022 with $21.4M in funding, Levanta is still young compared to established networks.
+- **Marketplace Seller Focus**: Less relevant for brands that sell primarily through their own DTC website, as the platform is optimized for marketplace sellers.
+- **Limited Enterprise Features**: Compared to Impact.com or CJ, Levanta's enterprise features (advanced attribution, cross-channel analytics) are still maturing.
 
 ## Recent Developments
 
-**2025–2026** — Levanta launched support for **UK Amazon sellers**, opening affiliate + creator programs to British marketplace vendors for the first time. This represents meaningful international expansion of the platform's seller-side TAM.
+- **Perch+ Acquisition (April 2026)**: Levanta acquired Perch+, an affiliate network built for Amazon sellers, adding hundreds of Amazon-focused sellers and publishers to Levanta's platform and accelerating its marketplace position.
+- **Multi-Marketplace Expansion (2026)**: Launched unified support for Amazon, Shopify, and Walmart programs under one dashboard.
+- **Paid Placements Launch**: Introduced flat-rate creator deals with performance tracking, bridging influencer and affiliate models.
+- **60% Growth**: Reported 60% year-over-year growth, with the Perch+ acquisition further accelerating the trajectory.
 
-**2026** — Featured in multiple "best affiliate platform for Amazon sellers 2026" roundups as the category-defining tool, having achieved clear market leadership in the Amazon seller affiliate niche.
+## Market Position & Competitive Context
 
-**2025** — Added Shopify integration, enabling DTC brands to run creator affiliate programs through Levanta even when Shopify (not Amazon) is their primary storefront.
+Levanta occupies a unique position as the marketplace-first affiliate platform, competing in a space that traditional networks have largely ignored:
+
+- **Levanta vs. Traditional Networks (CJ, Awin, Rakuten)**: Traditional networks track conversions on merchant websites. Levanta tracks conversions on Amazon via Attribution API. They are complementary, not competitive, for brands selling on both DTC and Amazon.
+- **Levanta vs. Amazon Associates**: Amazon's own Associates program is for publishers driving traffic to any Amazon product. Levanta lets individual brands build their own affiliate programs specifically for their Amazon products, with custom commission rates.
+- **Levanta vs. Refersion/GoAffPro**: These Shopify-native tools manage DTC affiliate programs. Levanta manages marketplace affiliate programs. With Levanta's 2026 Shopify support, overlap is increasing.
+
+The Perch+ acquisition in April 2026 accelerated Levanta's network effects by adding an entire network of Amazon-focused sellers and publishers in a single transaction.
+
+## Amazon Attribution & Why It Matters
+
+The core technical innovation behind Levanta is its integration with Amazon's Attribution API:
+
+- **The Problem**: Traditional affiliate tracking works by placing a pixel or cookie on the merchant's website. On Amazon, merchants do not control the checkout experience, so traditional affiliate tracking is impossible.
+- **The Solution**: Amazon Attribution provides a tag-based system that allows brands to track which external traffic sources drive Amazon purchases. Levanta integrates this natively.
+- **Brand Referral Bonus**: Amazon offers a Brand Referral Bonus to sellers who drive external traffic through Attribution, effectively subsidizing affiliate commissions by rebating a portion of the referral fee.
+- **Implication for Vendors**: Brands using Levanta can fund affiliate commissions partially through Amazon's Brand Referral Bonus, making the economics more favorable than pure DTC affiliate programs.
 
 ## Vendor Takeaway
 
-Levanta is **essential for any LiveChannel vendor that sells on Amazon** — and increasingly valuable for Walmart and Shopify sellers too. The Brand Referral Bonus integration alone justifies the platform fee for most active sellers; the creator marketplace and gifting workflow make it the most efficient way to build a creator-driven affiliate program for marketplace sellers.
-
-**Best fit for:**
-- Amazon FBA/FBM brands (especially registered brand owners)
-- Consumer goods brands with review-friendly products
-- Sellers who want to activate creator commerce without leaving the Amazon ecosystem
-
-**Strategy tip:** Use Levanta for Amazon/Walmart affiliate relationships, and stack it with a general network (CJ, Awin) for traditional publisher channels if budget allows. The Brand Referral Bonus may subsidize the cost of running both simultaneously.
+Levanta is essential for any brand selling on Amazon that wants to drive external traffic through affiliate and creator partnerships. Its Amazon Attribution integration solves a tracking problem that traditional networks cannot, making it the clear category leader for Amazon-focused affiliate marketing. For Flywheel vendors with Amazon storefronts, Levanta should be a primary consideration alongside traditional network presence. The multi-marketplace expansion to Shopify and Walmart makes it increasingly relevant for omnichannel brands as well. The main risk is Amazon dependency, but for brands where Amazon is a significant sales channel, Levanta fills a critical gap.
