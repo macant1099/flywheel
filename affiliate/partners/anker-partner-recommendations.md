@@ -339,6 +339,223 @@ These sites have strong audience overlap with Anker's target buyers but are not 
 
 ---
 
+---
+
+## 2026-04-14 Discovery Update
+
+*New leads identified via automated partner discovery scan. Not duplicating any entries above.*
+
+### 16. Wirecutter (NYT)
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 5 |
+| Content Relevance | 5 |
+| Reach & Authority | 5 |
+| Brand Safety | 5 |
+| Conversion Potential | 5 |
+| **Total** | **25/25** |
+
+**URL:** https://www.nytimes.com/wirecutter
+**Lead Type:** Warm Lead
+**Current Relationship:** Recommends Anker A1383 power bank in "Best Power Banks for Laptops with USB-C" guide (Jan 2026). Wirecutter is the NYT's commerce review vertical and the gold standard of affiliate buying guides.
+**Evidence:** Anker A1383 specifically called out as the pick "if you want a portable laptop charger with a built-in USB-C cable." Wirecutter has enormous SEO authority (DA 95+) and affiliate commission infrastructure.
+**Opportunity:** Wirecutter drives extremely high-intent buying traffic. Their picks become de facto market leaders — being the Wirecutter pick in any category is worth millions in organic revenue. Anker is likely already in their Impact network, but ensuring featured placement ("Best Overall" vs. buried in the list) is the real prize here. The laptop power bank guide is a high-ticket ($100+ products) high-conversion page.
+**Recommended Action:** Map all active Wirecutter buying guides covering Anker product categories (chargers, power banks, cables, wireless chargers). For each guide where Anker is not "Best Overall," develop a targeted pitch with comparative test data. Offer exclusive reader discount codes. Wirecutter's editorial team values rigorous testing data — provide full lab specs.
+
+---
+
+### 17. WIRED
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 5 |
+| Content Relevance | 5 |
+| Reach & Authority | 5 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **24/25** |
+
+**URL:** https://www.wired.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Anker MagGo Qi2 power bank named top pick in "5 Best Power Banks (2026); I've Tested More Than 100" (updated March 2026). WIRED's guide has been actively updated with Anker as the lead recommendation.
+**Evidence:** Anker MagGo Qi2 described as "the first Qi2 power bank I tested, and it's still the best" — a strong editorial endorsement in a recently-updated guide. WIRED is a Condé Nast publication (DA 92+) with 35M+ monthly visitors.
+**Opportunity:** WIRED's buying guides carry massive authority with tech-forward early adopters — exactly Anker's premium buyer. Their reviewer has personally tested 100+ power banks and chose Anker as top pick, which is organic editorial credibility money can't buy. The March 2026 update signals active content maintenance (high ongoing traffic value). Currently likely routing through Amazon; converting to Anker direct would capture high-margin DTC sales.
+**Recommended Action:** Confirm whether WIRED's Anker links are routed through Impact (Anker direct) or Amazon Associates. If Amazon, send immediate direct recruitment pitch via Impact publisher portal. Offer WIRED-exclusive discount code (e.g., "WIRED15" for 15% off) to drive direct conversions. Pitch Anker SOLIX for WIRED's sustainability/clean energy coverage vertical.
+
+---
+
+### 18. PCMag
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 5 |
+| Content Relevance | 5 |
+| Reach & Authority | 4 |
+| Brand Safety | 5 |
+| Conversion Potential | 5 |
+| **Total** | **24/25** |
+
+**URL:** https://www.pcmag.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Actively added Anker Nano Power Bank to "Best Portable Chargers and Power Banks for 2026" roundup in February 2026. PCMag is a 40-year-old tech publication with strong buying guide infrastructure.
+**Evidence:** The February 4, 2026 update explicitly called out: "We added the Anker Nano Power Bank" with praise for "high-end features, such as Power Delivery for rapid 45W charging." PCMag's buying guides are commerce-optimized (DA 85+, 30M+ monthly visits) with strong affiliate click-through.
+**Opportunity:** PCMag's buying guides are primarily transactional — readers arrive with intent to buy. Their Anker coverage is growing (new Nano addition in Feb 2026) but may not yet include the full product lineup. PCMag also runs a "PCMag Editors' Choice" award program — winning that designation would generate evergreen editorial value.
+**Recommended Action:** Apply for PCMag Editors' Choice award for Anker Nano Power Bank and Anker Prime 300W (flagship products). Ensure PCMag is connected to Anker's Impact program. Pitch comprehensive product category coverage across all Anker sub-brands (AnkerWork, Soundcore, SOLIX) for their respective category guides.
+
+---
+
+### 19. The Verge
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 5 |
+| Content Relevance | 4 |
+| Reach & Authority | 5 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **23/25** |
+
+**URL:** https://www.theverge.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Covered "best phone chargers and portable power solutions at CES 2026" — included Anker in their CES 2026 charger roundup. The Verge is Vox Media's flagship tech publication (DA 92+).
+**Evidence:** Active CES 2026 product coverage. The Verge's audience (tech enthusiasts, early adopters, professionals) is a core Anker buyer demographic. Their reviews are editorial-heavy with strong commerce infrastructure via The Verge's "Deals" and "Reviews" verticals.
+**Opportunity:** The Verge is one of the most influential tech publications for product launches. Being featured in their "best of CES" coverage is high-value brand validation. Their deals vertical drives high-intent purchase traffic. The Verge's YouTube channel (5M+ subscribers) creates a dual editorial+video touchpoint.
+**Recommended Action:** Establish The Verge as a product launch partner for all major Anker releases. Ensure CES 2027 product reveals include coordinated The Verge briefings. Pitch Anker's full product ecosystem to The Verge's Deals team for holiday deal coverage (Black Friday, CES window). Connect to Impact program if not already active.
+
+---
+
+### 20. CNET
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 5 |
+| Content Relevance | 4 |
+| Reach & Authority | 5 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **23/25** |
+
+**URL:** https://www.cnet.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Anker 335 foldable featured in "Best Wireless Charger for 2026" guide. CNET is one of the largest tech media properties (DA 91+, 100M+ monthly visits).
+**Evidence:** Anker recommended in wireless charger buying guide as a budget-friendly 3-in-1 option. CNET's commerce team (CNET Shopping) operates an extensive affiliate network with dedicated coupon and buying guide verticals.
+**Opportunity:** CNET's scale is unmatched in consumer tech media. Their buying guides, deal alerts, and CNET Shopping coupons reach a massive general consumer audience — broader than pure tech enthusiasts. Anker's current CNET presence (Anker 335 in wireless charger guide) is a foothold, but the opportunity is to expand to "Best Overall" placement across multiple categories: chargers, power banks, cables, laptop accessories.
+**Recommended Action:** Audit all CNET buying guide categories where Anker products qualify. Send direct pitch to CNET's commerce team for featured placement in "Best USB-C Chargers," "Best Power Banks," and "Best Laptop Chargers" guides. Establish CNET coupon page for Anker (similar to TechRadar's existing coupon page) through Impact.
+
+---
+
+### 21. AppleInsider
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 5 |
+| Content Relevance | 4 |
+| Reach & Authority | 4 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **22/25** |
+
+**URL:** https://appleinsider.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Published dedicated review of Anker Nano Charger with Smart Display (January 22, 2026): "new travel charger knows your iPhone." AppleInsider is a premium Apple-ecosystem publication (DA 80+).
+**Evidence:** Full hands-on review of the Anker 45W Smart Display Nano Charger with detailed testing ("charges iPhone 17 Pro Max to 50% in 20 minutes"). AppleInsider's audience is highly aligned with Anker's MagSafe/Apple ecosystem product line.
+**Opportunity:** AppleInsider's Apple-focused audience is an ideal Anker buyer — iPhone and Mac users who need quality charging accessories. The site's reviews are research-oriented with strong SEO (product name searches drive traffic). AppleInsider also runs daily Apple deal roundups that could feature Anker discounts.
+**Recommended Action:** Establish AppleInsider as a core partner for all Anker Apple-ecosystem product launches (MagSafe chargers, Lightning/USB-C cables, AirPods-compatible cases). Offer exclusive review access to new Nano and MagGo products. Pitch AppleInsider's Deals team for regular Anker deal features and exclusive promo codes.
+
+---
+
+### 22. 9to5Mac
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 5 |
+| Content Relevance | 4 |
+| Reach & Authority | 4 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **22/25** |
+
+**URL:** https://9to5mac.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Published Anker Nano Power Bank review (Jan 19, 2026) and a "favorite chargers of 2026" video featuring Anker MagGo with Apple Watch charger as the #1 most-used power bank. Multiple Anker articles in January 2026 alone.
+**Evidence:** Dedicated power bank review plus video editorial content praising Anker MagGo. 9to5Mac's audience (Apple power users, developers, professionals) is a premium Anker buyer segment. The site uses "income earning auto affiliate links" — likely Amazon Associates.
+**Opportunity:** 9to5Mac is the sibling publication to 9to5Toys (already #3 in priority matrix) and shares the same affiliate infrastructure. The Apple-user audience drives strong conversion on Anker's premium products (MagGo, Nano line). Converting 9to5Mac's Amazon links to Anker direct (8% vs. 3%) is an immediate revenue opportunity.
+**Recommended Action:** Coordinate 9to5Mac outreach alongside 9to5Toys since they operate under the same parent company (Recurrent Ventures). A single partnership deal covering both properties (9to5Mac for editorial reviews + 9to5Toys for deal coverage) would be highly efficient. Offer exclusive Anker promo codes and embargoed review access.
+
+---
+
+### 23. Popular Mechanics
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 4 |
+| Reach & Authority | 5 |
+| Brand Safety | 5 |
+| Conversion Potential | 3 |
+| **Total** | **21/25** |
+
+**URL:** https://www.popularmechanics.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Named a large-capacity Anker power bank the "perfect ready-for-anything charger" and top pick in "8 Best Power Banks of 2026, Tested" (updated April 10, 2026 — very fresh). Popular Mechanics is a Hearst publication (DA 85+).
+**Evidence:** Strong editorial endorsement in a recently updated guide. Popular Mechanics' audience (engineers, makers, hobbyists, DIY enthusiasts) aligns with Anker's technically-minded buyer persona. The guide was updated just 4 days ago, indicating active content maintenance.
+**Opportunity:** Popular Mechanics has strong trust with a practical, quality-focused audience that buys based on "does it work" rather than brand loyalty — making Anker's test-proven products ideal. Their Hearst ownership means they have a sophisticated affiliate infrastructure. Expanding from power banks to Anker SOLIX (solar panels, power stations) is a natural fit for their outdoor/maker audience.
+**Recommended Action:** Pitch Anker SOLIX product reviews for Popular Mechanics' science/technology and outdoor gear coverage. Ensure current power bank guide links route to Anker direct. Explore Hearst's affiliate network partnership for coordinated multi-publication coverage (Popular Mechanics, Esquire, Road & Track, etc.).
+
+---
+
+### 24. Rakuten (Cashback Partner)
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 3 |
+| Reach & Authority | 4 |
+| Brand Safety | 4 |
+| Conversion Potential | 5 |
+| **Total** | **20/25** |
+
+**URL:** https://www.rakuten.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Active Anker SOLIX cashback program on Rakuten (2.5% cash back as of April 2026). Rakuten is the leading US cashback/rewards affiliate platform with 15M+ active members.
+**Evidence:** Live Anker SOLIX cashback page on Rakuten indicating an existing affiliate relationship for the SOLIX sub-brand. However, Anker's core charging products (power banks, chargers, cables) do not appear to have equivalent Rakuten cashback coverage.
+**Opportunity:** Rakuten drives very high conversion intent — users actively seeking to maximize savings before purchase. Expanding the Rakuten relationship from SOLIX-only to Anker's full product catalog would capture high-intent buyers who specifically visit Rakuten before making purchases. Rakuten's cashback model means the affiliate cost is paid on conversion only (performance-based).
+**Recommended Action:** Audit current Rakuten partnership scope — confirm whether only Anker SOLIX is active or if core Anker products are also included. If SOLIX-only, immediately expand to full Anker catalog with 2-3% cashback. Negotiate Rakuten "Double Cash Back" promotions for key sale periods (Prime Day, Black Friday). Rakuten's deal alerts reach millions of active shoppers with purchase intent.
+
+---
+
+## Updated Partner Priority Matrix (as of 2026-04-14)
+
+| Priority | Partner | Score | Type | Est. Impact | Effort |
+|----------|---------|-------|------|-------------|--------|
+| 1 | TechRadar | 25/25 | Warm | Very High | Low |
+| 1 | Wirecutter (NYT) | 25/25 | Warm | Very High | Medium |
+| 3 | Android Central | 24/25 | Cold | Very High | Medium |
+| 3 | 9to5Toys | 24/25 | Warm | Very High | Low |
+| 3 | Tom's Guide | 24/25 | Warm | Very High | Low |
+| 3 | WIRED | 24/25 | Warm | Very High | Medium |
+| 3 | PCMag | 24/25 | Warm | Very High | Low |
+| 8 | CNN Underscored | 23/25 | Warm | Very High | Medium |
+| 8 | Engadget | 23/25 | Cold | High | Medium |
+| 8 | MacRumors | 23/25 | Warm | High | Low |
+| 8 | The Verge | 23/25 | Warm | Very High | Medium |
+| 8 | CNET | 23/25 | Warm | Very High | Medium |
+| 13 | Trusted Reviews | 22/25 | Cold | High | Medium |
+| 13 | JerryRigEverything | 22/25 | Warm | High | Medium |
+| 13 | AppleInsider | 22/25 | Warm | High | Low |
+| 13 | 9to5Mac | 22/25 | Warm | High | Low |
+| 17 | GearJunkie | 21/25 | Cold | Medium-High | Medium |
+| 17 | SlashGear | 21/25 | Cold | Medium | Medium |
+| 17 | MKBHD | 21/25 | Warm | Very High | High |
+| 17 | Popular Mechanics | 21/25 | Warm | High | Medium |
+| 21 | Popular Science | 20/25 | Warm | Medium | Medium |
+| 21 | Men's Journal | 20/25 | Warm | Medium | Low |
+| 21 | The Gadget Flow | 20/25 | Cold | Medium | Low |
+| 21 | Rakuten | 20/25 | Warm | High | Low |
+
+---
+
 ## Strategic Recommendations
 
 ### Quick Wins (Execute in 30 days)
