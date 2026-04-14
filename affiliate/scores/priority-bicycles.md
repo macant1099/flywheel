@@ -18,7 +18,7 @@
 | LiveChannel Readiness | 8 | 20 |
 | **TOTAL** | **46** | **100** |
 
-**Band:** Developing (45-64)
+**Band:** Developing (40-59)
 
 ---
 
@@ -118,7 +118,7 @@ However, Priority's affiliate operation is constrained by structural gaps. The a
 
 | Brand | Category | Est. AFARE Score | Commission | Cookie | Primary Network | Key Differentiator |
 |-------|----------|-----------------|------------|--------|----------------|-------------------|
-| **Priority Bicycles** | DTC Bicycles | **44** | 5% | 21 days | AvantLink | Strong creator program, DTC simplicity, high Trustpilot reviews (5 stars, 7,943 reviews) |
+| **Priority Bicycles** | DTC Bicycles | **46** | 5% | 21 days | AvantLink | Strong creator program, DTC simplicity, high Trustpilot reviews (5 stars, 7,943 reviews) |
 | Rad Power Bikes | DTC E-Bikes | ~35 | ~6% | 30 days | FlexOffers (unconfirmed post-acquisition) | **BANKRUPT (Ch.11 Dec 2025) → Acquired by Life EV (Mar 2026) as "Rad Life Mobility."** Affiliate program continuity uncertain under new ownership. Expanding to 24 retail stores but affiliate channel disrupted. Priority opportunity: recruit displaced Rad affiliates. |
 | Aventon | DTC E-Bikes | ~52 | 4% | 30 days | Direct | Strong DTC presence, 2.5% conversion rate, expanding to European market and physical retail (ERIK's) |
 | Lectric eBikes | DTC E-Bikes | ~38 | Unknown | Unknown | Unknown | Budget-focused e-bike brand, limited documented affiliate program |

@@ -198,7 +198,7 @@ For the Flywheel intelligence engine, the following CE affiliate signals should 
 ## Signal Tracking
 
 ---signal---
-id: news-20260414-001
+id: news-20260414-008
 signal: ReferralCandy 2026 industry benchmark — CE & gadgets DTC commission range confirmed at 5–10%; tier boosters on accessories/bundles recommended to retain top publishers
 date: 2026-04-14
 source: https://www.referralcandy.com/blog/affiliate-commission-rates
@@ -211,7 +211,7 @@ ReferralCandy's 2026 platform data confirms the CE & gadgets DTC commission rang
 ---
 
 ---signal---
-id: news-20260414-002
+id: news-20260414-009
 signal: Updated Amazon Associates CE rates confirmed at 2–2.5% for most electronics categories; gap vs. DTC programs now 3–5x creating structural publisher migration opportunity
 date: 2026-04-14
 source: https://uppromote.com/affiliate-programs/electronics/
@@ -224,7 +224,7 @@ Confirmed 2026 Amazon Associates rates for CE: PC/components at 2%, TVs/digital 
 ---
 
 ---signal---
-id: news-20260414-003
+id: news-20260414-010
 signal: CE influencer marketing 2026 shift: proof-based content (camera tests, charging demos, battery runs) + long-term creator partnerships now outperform one-off paid placements; market projected $1.78T by 2030
 date: 2026-04-14
 source: https://awisee.com/blog/influencer-marketing-for-consumer-electronics/
@@ -237,7 +237,7 @@ Influencer marketing for CE is structurally shifting in 2026: consumers want pro
 ---
 
 ---signal---
-id: news-20260414-004
+id: news-20260414-011
 signal: New FlexOffers CE entrants 2026 — QCY (wireless audio) and Aiper (smart outdoor/pool cleaners) join network; signals growing mid-tier DTC brand affiliate activity
 date: 2026-04-14
 source: https://www.flexoffers.com/affiliate-programs/consumer-electronics/
@@ -250,7 +250,6 @@ FlexOffers CE vertical showing new entrants in Q1/Q2 2026: QCY (affordable wirel
 ---
 
 ---signal---
-id: news-20260413-007
 id: news-20260413-007
 signal: TikTok Shop emerging 2026 compensation trend: hybrid flat fee ($100–$500/video) + 15–20% commission for top affiliate creators
 date: 2026-04-13
