@@ -1,0 +1,69 @@
+{
+  "competitor": "Aventon",
+  "vendor_context": "Priority Bicycles competitor (eBike / commuter bike category)",
+  "last_audited": "2026-04-14",
+  "status": "ACTIVE — Healthy direct-to-consumer eBike brand; US, CA, DE storefronts",
+
+  "affiliate_program": {
+    "active": true,
+    "networks": [
+      {
+        "name": "AvantLink",
+        "status": "ACTIVE — primary managed network",
+        "commission_rate": "4%",
+        "cookie_duration_days": 30,
+        "notes": "Primary network. Provides full affiliate toolset: banner ads, datafeeds, text links. Program page at aventon.com/pages/affiliate-program managed via AvantLink."
+      },
+      {
+        "name": "FlexOffers",
+        "status": "LISTED — likely secondary/syndicated listing",
+        "commission_rate": "unknown (may mirror AvantLink rate)",
+        "cookie_duration_days": null,
+        "notes": "FlexOffers listing confirmed in search results (Jan 2026 indexed). May be a syndicated AvantLink listing or separate program. FlexOffers page blocked on fetch (Cloudflare)."
+      }
+    ],
+    "commission_summary": "4% on all sales",
+    "cookie_duration_days": 30,
+    "conversion_rate_pct": 2.5,
+    "deeplink_support": true,
+    "datafeed_available": true,
+    "banner_ads_available": true,
+    "eligible_affiliates": [
+      "Publishers",
+      "Cycling Hobby Sites",
+      "Bicycle Forums",
+      "Product Review Sites",
+      "Social Media Sites"
+    ]
+  },
+
+  "company_status": {
+    "financial": "STABLE — No bankruptcy or acquisition signals",
+    "storefronts": ["Aventon US", "Aventon CA", "Aventon DE"],
+    "positioning": "Mid-range eBike brand focused on commuter and adventure segments; strong brand recognition, consistent inventory",
+    "app": "Aventon App (iOS/Android)"
+  },
+
+  "competitive_intel": {
+    "commission_vs_rad": "Aventon 4% vs Rad Power Bikes ~6% — Rad historically offered higher rates but program continuity is now uncertain post-bankruptcy",
+    "affiliate_risk": "LOW — Stable brand, active AvantLink program, clear terms",
+    "conversion_rate_vs_category": "2.5% CVR is solid for eBike category (research-heavy, high AOV purchases)",
+    "opportunity_for_priority": "Aventon's AvantLink program is well-established and attracts cycling content affiliates. Priority Bicycles competes for the same affiliate pool. Priority's differentiator should be simplicity (no battery/charging) and lower maintenance story."
+  },
+
+  "history": [
+    {
+      "date": "2026-04-14",
+      "event": "First audit. No prior file. Confirmed AvantLink as primary network, 4% commission, 30-day cookie, 2.5% CVR. FlexOffers secondary listing also active. Company stable — US, CA, DE storefronts, Aventon App live.",
+      "change_flag": false
+    }
+  ],
+
+  "sources": [
+    "https://www.aventon.com/pages/affiliate-program",
+    "https://www.aventon.com/pages/partner-with-aventon",
+    "https://www.flexoffers.com/affiliate-programs/aventon-bikes-affiliate-program/",
+    "https://uppromote.com/affiliate-programs/bicycle/",
+    "https://www.magentheme.com/e-bike-affiliate-program-review-best-commissions/"
+  ]
+}
