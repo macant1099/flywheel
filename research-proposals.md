@@ -42,6 +42,43 @@ No existing research file covers commission rate benchmarks. For vendors setting
 
 ---
 
+## PROP-004 · Meta Facebook Affiliate Partnerships — Cross-Platform Marketplace Integration
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | industry/networks |
+| **Surfaced** | 2026-04-14 |
+
+**Signal sources:**
+- Value Added Resource (Mar 25 2026): "Meta is launching new tools for creators to share affiliate products with their audiences, allowing them to tag items directly in their Facebook" — partnerships with Amazon, Shopee, eBay, Temu & Mercado Libre — https://www.valueaddedresource.net/meta-facebook-affiliate-partnerships/
+- Avenue Z (Apr 9 2026): "Meta is planning to mimic TikTok Shop's success by introducing affiliate links for Instagram Reels" — positions this as a full TikTok Shop clone rollout — https://avenuez.com/blog/instagram-rolls-out-tiktok-shop-clone/
+- Ecommerce Fastlane (Apr 10 2026): "The rollout is phased through spring 2026, with Reels product linking expanding to businesses in 22 countries" — scoped implications for Shopify merchants — https://ecommercefastlane.com/instagram-affiliate-commerce-shopify-merchants/
+
+**Why it matters:**
+Meta's March 2026 launch of Facebook Affiliate Partnerships with Amazon, Shopee, eBay, Temu, and Mercado Libre is a structural shift in social affiliate commerce — not just creator link-tagging (already tracked in social-commerce.md), but Meta formally connecting its 3B+ user social graph to external marketplace affiliate ecosystems. For LiveChannel vendors who sell on Amazon or eBay, this creates a new affiliate distribution channel requiring zero direct integration: Facebook creators can now earn commissions by tagging vendor products sourced from these marketplaces. The phased rollout to 22 countries through spring 2026 signals platform-level scale. This is the most significant affiliate network launch event of Q1 2026 and warrants dedicated tracking separate from the Instagram Reels creator story.
+
+---
+
+## PROP-005 · Live Commerce Platform Competitive Landscape — Affiliate & Creator Commission Models
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | livechannel/competitive |
+| **Surfaced** | 2026-04-14 |
+
+**Signal sources:**
+- Influencer Marketing Hub (Feb 19 2026): Comprehensive ranking of live shopping platforms — Popshoplive (zero listing fees, 6% success-based commission), TikTok Shop, Amazon Live, ShopShops — https://influencermarketinghub.com/live-shopping-platforms/
+- The Retail Exec (Feb 24 2026): 26 best live shopping platforms, covering affiliate/creator payout structures across Channelize.io, buywith, CommentSold, EaseStream — https://theretailexec.com/tools/best-live-shopping-platforms/
+- CommentSold (Feb 12 2026): Creator video subscription platform with simultaneous multi-channel livestream selling (app + website + social) — https://try.commentsold.com/features/live-selling/
+- Terrific Live (Feb 24 2026): Platform analysis of Amazon Live, ShopShops, and others with affiliate/commission model breakdowns — https://www.terrificlive.com/post/7-best-live-shopping-platforms-2025
+
+**Why it matters:**
+The `research/livechannel/` directory is empty — there is zero competitive intelligence on how LiveChannel's peer platforms structure their affiliate and creator commission programs. This is a critical gap. Popshoplive offers 6% platform commissions with no listing fees; TikTok Shop runs open affiliate plans at 10–20% vendor-set rates; CommentSold positions as a white-label commerce platform with simultaneous social + owned-channel distribution. Understanding where LiveChannel sits in this competitive matrix — and specifically how its affiliate commission economics compare — is foundational to advising vendors on whether LiveChannel's affiliate opportunity is above, at, or below market. This research would directly populate the livechannel/ directory and feed into AFARE scoring context.
+
+---
+
 ## PROP-003 · Membership Commerce + Recurring Affiliate Commission Models
 
 | Field | Value |
