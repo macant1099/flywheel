@@ -556,7 +556,158 @@ These sites have strong audience overlap with Anker's target buyers but are not 
 
 ---
 
+---
+
+## 2026-04-14 Discovery Update (Run 2)
+
+*Second automated discovery scan. All leads below are new — no duplicates with prior entries.*
+
+---
+
+### 25. ZDNET
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 5 |
+| Content Relevance | 5 |
+| Reach & Authority | 5 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **24/25** |
+
+**URL:** https://www.zdnet.com
+**Lead Type:** Warm Lead
+**Current Relationship:** ZDNET Senior Contributing Editor Adrian Kingsley-Hughes has published multiple dedicated Anker reviews in March–April 2026: Anker Nano 45W Smart Display Charger ("the smart screen makes this charger stand out in an ocean of otherwise boring chargers"), Anker Prime MagSafe 3-in-1 Qi2 Charging Station (reviewed March 23, 2026), and active Anker Nano Power Bank deal coverage during Amazon Spring Sale 2026. At least 4 Anker-specific articles in Q1 2026 alone.
+**Evidence:** Dedicated product reviews with hands-on testing by a named senior editor. ZDNET is Red Ventures / CBS Interactive (DA 90+, 50M+ monthly visits). "Also: My new favorite Anker charger has a useful smart display" signals editorial enthusiasm beyond standard roundup coverage. ZDNET's affiliate infrastructure includes deal alerts, coupon pages, and editorial buying guides.
+**Opportunity:** ZDNET's scale and Kingsley-Hughes's organic Anker enthusiasm make this one of the highest-value warm leads in the database. Current links likely route to Amazon. Converting to Anker's direct Impact program (8% vs. Amazon's ~3%) while providing exclusive promo codes for ZDNET's deal coverage would capture a massive, commerce-ready audience. ZDNET's deal alerts have strong click-through to purchase.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Impact publisher portal (reach Red Ventures' central affiliate partnerships team); also direct email to editorial team via press@zdnet.com
+- **Key value proposition:** Commission upgrade from ~3% (Amazon Associates) to 8% (Anker direct) on all AKH-reviewed products; exclusive ZDNET reader discount codes (e.g., "ZDNET10") to drive deal-alert traffic directly to anker.com; first-access review units for every new Nano/Prime launch
+- **Authenticated member base:** No authenticated member base (anonymous readership), but ZDNET has 5M+ email newsletter subscribers — actionable for deal blast coordination
+
+**Activation Angle:**
+- **Member communication channels:** ZDNET email newsletters (Breaking News, Product Roundups), push notification subscribers, active Twitter/X and social audience; ZDNET's "Deals" vertical runs daily product promotions
+- **Embed opportunities:** AKH's regular "charging accessories" column (runs 2-3x/month); ZDNET Deals section for Anker sale events; "Best Portable Chargers" and "Best Wireless Chargers" evergreen buying guides; Amazon sale events (Spring Sale, Prime Day, Black Friday) where ZDNET runs heavy deal coverage
+- **Estimated activation potential:** High — AKH's demonstrated enthusiasm + ZDNET's deal infrastructure + 50M monthly visitors = very strong conversion ceiling once direct program is in place
+
+---
+
+### 26. T3
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 4 |
+| Reach & Authority | 4 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **21/25** |
+
+**URL:** https://www.t3.com
+**Lead Type:** Warm Lead
+**Current Relationship:** T3 published a dedicated CES 2026 Anker roundup: "Anker unveiled a new generation of charging accessories last week — here's the full list" (January 2026). T3 runs the annual **T3 Awards** (2026 edition currently open for nominations), one of the most prestigious gadget awards in UK/international tech media. T3 explicitly earns affiliate commissions: "When you purchase through links on our site, we may earn an affiliate commission."
+**Evidence:** Active CES 2026 Anker coverage. T3 Awards 2026 running live. T3 is a Future plc publication (same network as Tom's Guide, PC Gamer, TechRadar — all already in Anker's partner ecosystem). DA 80+, 5M+ monthly visits predominantly UK/Europe.
+**Opportunity:** T3 is a Future plc property — the same publisher as TechRadar (#1 in the priority matrix) and Tom's Guide (#4). Future plc has a centralized affiliate partnerships team, meaning a single relationship can extend to T3, TechRadar, Tom's Guide, and others simultaneously. T3 Awards nomination for Anker Nano Charger or Prime MagSafe Station would generate editorial coverage across the Future plc network. UK/Europe coverage extends Anker's regional affiliate program reach (Webgains UK, 7%).
+
+**Recruitment Angle:**
+- **Best outreach channel:** Future plc centralized affiliate team (same contact already managing TechRadar relationship); LinkedIn outreach to T3 commerce editor
+- **Key value proposition:** Leverage existing Future plc relationship with TechRadar to expand to T3 at zero incremental relationship cost; T3 Awards nomination (prestigious editorial win drives evergreen SEO value); UK-specific Webgains program terms (7%) for T3's UK audience
+- **Authenticated member base:** No authenticated base, but Future plc operates newsletters across all properties — T3 newsletter reach is part of the centralized Future plc deal
+
+**Activation Angle:**
+- **Member communication channels:** T3 email newsletter, Future plc deal alerts network (shared infrastructure with TechRadar/Tom's Guide), social media (500K+ Twitter/X followers), T3 YouTube channel
+- **Embed opportunities:** T3 Awards 2026 nomination/win coverage; "Best portable charger" and "Best USB-C charger" buying guides; "Top travel gadgets" editorial (T3 has recurring travel tech content — Anker Nano Travel Adapter is a natural fit); CES product roundups (annual anchor opportunity)
+- **Estimated activation potential:** Medium-High — UK/international audience with strong purchase intent; T3 Awards win would generate evergreen editorial and SEO value across Future plc network
+
+---
+
+### 27. NotebookCheck.net
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 4 |
+| Reach & Authority | 4 |
+| Brand Safety | 4 |
+| Conversion Potential | 3 |
+| **Total** | **19/25** |
+
+**URL:** https://www.notebookcheck.net
+**Lead Type:** Warm Lead
+**Current Relationship:** Published full in-depth review of Anker SOLIX F3000 (February 20, 2026: "Powerhouse with 3.6 kW and 3 kWh: Anker Solix F3000 review") and Anker news coverage (Nano Power Strip 10-in-1 70W Clamp design, April 2026). NotebookCheck generates revenue through affiliate partnerships. New SOLIX announcement (3,680W / 42kWh Solarbank) covered just 4 days ago.
+**Evidence:** Full product review of premium SOLIX product ($3,500+) signals editorial interest in Anker's high-ticket lines. Active news coverage of Anker product launches. NotebookCheck is Europe's largest dedicated notebook/tech review site (DA 75+, 20M+ monthly visits, strong Germany/Austria/Switzerland base). Revenue via affiliate partnerships confirmed.
+**Opportunity:** NotebookCheck is the key unlock for Anker's European SOLIX and charging accessory affiliate programs. Their laptop/productivity audience is a natural fit for Anker's desktop charging accessories, laptop chargers (GaN), and SOLIX portable power stations. European reviewers also feed product coverage to German-language audiences where Anker has a direct affiliate program (Webgains EU-DE, 8%). NotebookCheck's SOLIX review is rare editorial coverage for Anker's highest-margin product line.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Direct email via NotebookCheck's contact/press page; LinkedIn outreach to Florian Wimmer (founder/editor); conference connection at IFA Berlin (NotebookCheck is a major IFA presence)
+- **Key value proposition:** Anker SOLIX is underrepresented in European affiliate coverage — NotebookCheck is one of the only European tech sites to review it; EU-DE Webgains program (8% commission) plus access to Anker Germany PR for exclusive European launch embargoes; SOLIX is a €2,000+ product category with enormous commission upside per conversion
+- **Authenticated member base:** No authenticated base; primarily SEO-driven readership; however NotebookCheck has an active forum community
+
+**Activation Angle:**
+- **Member communication channels:** NotebookCheck newsletter (smaller but engaged), forum community, social media, Apple News / Google News distribution for news articles
+- **Embed opportunities:** SOLIX product reviews (F3000 follow-on, new Solarbank 3680W); laptop charger buying guides (GaN chargers for MacBook/ThinkPad); CES product news; Anker Nano Power Strip desktop accessory review
+- **Estimated activation potential:** Medium — lower conversion rate than pure commerce sites (more news/reviews focus), but SOLIX ticket size means even a small number of conversions generates significant commission revenue; strong EU reach opens Webgains program uplift
+
+---
+
+### 28. Digital Spy
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 3 |
+| Reach & Authority | 4 |
+| Brand Safety | 4 |
+| Conversion Potential | 3 |
+| **Total** | **18/25** |
+
+**URL:** https://www.digitalspy.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Published "Best power bank deals for 2026" featuring Anker vs Belkin comparison (March 2026), directly naming Anker MagGo as the magnetic charging rival to Belkin's model. Digital Spy is a UK entertainment and tech media brand (Hearst UK, DA 75+, 5M+ monthly visits).
+**Evidence:** Direct Anker-Belkin comparison in a buying guide context with deal-focused framing. Digital Spy has a tech/deals vertical alongside their entertainment focus. Hearst UK's affiliate infrastructure is mature and commerce-ready.
+**Opportunity:** Digital Spy's entertainment-first audience (TV, movies, gaming) is a secondary but real Anker buyer demographic — consumers who watch streaming media on mobile devices need reliable charging accessories. The Anker vs Belkin comparison shows their editorial team is willing to evaluate charging accessories. UK-focused, meaning Webgains UK (7%) is the relevant program.
+**Recommended Action:** Pitch Anker products for Digital Spy's "best tech gifts" and "gaming accessories" content. Provide UK-specific product samples. Low-effort recruitment via Hearst UK's centralized affiliate team (same organization that manages Men's Journal — already in the priority matrix at #14).
+
+---
+
+## Updated Partner Priority Matrix (as of 2026-04-14, Run 2)
+
+| Priority | Partner | Score | Type | Est. Impact | Effort |
+|----------|---------|-------|------|-------------|--------|
+| 1 | TechRadar | 25/25 | Warm | Very High | Low |
+| 1 | Wirecutter (NYT) | 25/25 | Warm | Very High | Medium |
+| 3 | Android Central | 24/25 | Cold | Very High | Medium |
+| 3 | 9to5Toys | 24/25 | Warm | Very High | Low |
+| 3 | Tom's Guide | 24/25 | Warm | Very High | Low |
+| 3 | WIRED | 24/25 | Warm | Very High | Medium |
+| 3 | PCMag | 24/25 | Warm | Very High | Low |
+| 3 | ZDNET | 24/25 | Warm | Very High | Low |
+| 9 | CNN Underscored | 23/25 | Warm | Very High | Medium |
+| 9 | Engadget | 23/25 | Cold | High | Medium |
+| 9 | MacRumors | 23/25 | Warm | High | Low |
+| 9 | The Verge | 23/25 | Warm | Very High | Medium |
+| 9 | CNET | 23/25 | Warm | Very High | Medium |
+| 14 | Trusted Reviews | 22/25 | Cold | High | Medium |
+| 14 | JerryRigEverything | 22/25 | Warm | High | Medium |
+| 14 | AppleInsider | 22/25 | Warm | High | Low |
+| 14 | 9to5Mac | 22/25 | Warm | High | Low |
+| 18 | GearJunkie | 21/25 | Cold | Medium-High | Medium |
+| 18 | SlashGear | 21/25 | Cold | Medium | Medium |
+| 18 | MKBHD | 21/25 | Warm | Very High | High |
+| 18 | Popular Mechanics | 21/25 | Warm | High | Medium |
+| 18 | T3 | 21/25 | Warm | High | Low |
+| 23 | Popular Science | 20/25 | Warm | Medium | Medium |
+| 23 | Men's Journal | 20/25 | Warm | Medium | Low |
+| 23 | The Gadget Flow | 20/25 | Cold | Medium | Low |
+| 23 | Rakuten | 20/25 | Warm | High | Low |
+| 27 | NotebookCheck.net | 19/25 | Warm | Medium | Medium |
+| 28 | Digital Spy | 18/25 | Warm | Medium | Low |
+
+---
+
 ## Strategic Recommendations
+
 
 ### Quick Wins (Execute in 30 days)
 
