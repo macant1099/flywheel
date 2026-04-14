@@ -1,130 +1,99 @@
 # Anker — AFARE Action Playbook
-**Updated:** 2026-04-13
-**Current AFARE Score:** 64/100 (Developing, top end)
-**Previous Score:** 64/100 (no change this cycle)
-**Category:** Consumer Electronics / Charging & Accessories
-**Benchmark:** consumer_electronics
+**Generated:** 2026-04-14
+**Current AFARE Score:** 65/100 (Established)
+**Target Score:** 75+ (mid-Established)
+**Category:** Consumer Electronics
+**Primary Network:** Impact (8%, 30-day cookie)
 
 ---
 
-## This Week (Apr 14–20, 2026)
+## This Week: Close the Biggest Gaps vs Benchmarks
 
-**Focus: Amazon Associates leakage audit + quick partner wins**
+### 1. Audit Amazon Associates leakage from tier-1 publishers
+- **Gap:** Many tier-1 partners (Wirecutter, WIRED, CNET, Popular Mechanics) likely route Anker links through Amazon Associates (3%) instead of Anker's direct Impact program (8%)
+- **Action:** Pull Impact publisher report → identify which tier-1 partners are NOT enrolled → send targeted recruitment with commission differential pitch (8% vs Amazon's 3%)
+- **Impact:** Recaptures DTC revenue + customer data from highest-traffic editorial pages
 
-### 1. 🔴 PRIORITY — Amazon Associates Leakage Audit
-Multiple tier-1 publishers (9to5Toys, CNN Underscored, MacRumors) are likely monetizing Anker traffic through Amazon Associates at ~3% instead of Anker's direct 8% program on Impact. This is revenue leakage for both Anker and the publishers.
-- **Action:** Pull Impact publisher report → identify which top warm leads (TechRadar, Tom's Guide, 9to5Toys, CNN Underscored, MacRumors) are NOT enrolled in Anker's direct program
-- **Outreach template:** "You're earning 3% on Anker through Amazon. Our direct program pays 8% with 30-day cookies. Here's your Impact enrollment link."
-- **Impact:** Very High — converting even 2-3 publishers from Amazon to direct would significantly increase DTC attribution
+### 2. Confirm AnkerWork commission rate
+- **Gap:** AnkerWork sub-brand commission rate remains unconfirmed across two audit cycles
+- **Action:** Visit us.ankerwork.com affiliate page, attempt signup flow, check Impact for AnkerWork program listing
+- **Impact:** Completes the sub-brand intelligence picture for full-portfolio affiliate strategy
 
-### 2. Create Partner-Specific Promo Codes
-Generate unique discount codes for top warm leads to incentivize direct link placement over Amazon routing.
-- **Proposed codes:** TECHRADAR10, TOMSGUIDE10, CNN10, MACRUMORS10 (10% off)
-- **Tracking:** Impact attribution per code
-- **Impact:** High — exclusivity drives publisher preference for direct links
-
-### 3. Android Central Outreach
-Scored 24/25 as a cold lead. Published Anker Nano review with strong endorsement ("already replaced my favorite portable charger"). Android-focused audience is core Anker buyer demographic.
-- **Action:** Direct outreach with Impact enrollment invitation + exclusive Android Central reader discount code
-- **Impact:** Very High — near-perfect audience overlap
+### 3. Create partner-specific promo codes for top 5 publishers
+- **Gap:** No documented affiliate-exclusive offer infrastructure (Exclusive Offer Capability: 2/4)
+- **Action:** Generate unique Impact-tracked codes: WIRECUTTER10, WIRED15, TECHRADAR10, PCMAG10, TOMSGUIDE10
+- **Impact:** Incentivizes direct link placement over Amazon routing; tracks per-publisher conversion
 
 ---
 
-## This Month (April 2026)
+## This Month: Address Competitor Advantages
 
-**Focus: Close the gap on payment terms + creator program expansion**
+### 4. Close the cookie gap vs UGREEN
+- **Benchmark gap:** UGREEN offers 60-day cookies on some networks vs Anker's 30 days
+- **Action:** Propose 45-day cookie on Impact for top-tier publishers; test impact on attribution rates
+- **Goal:** Move Cookie Duration from 3/4 → 4/4
 
-### 1. Payment Cycle Negotiation
-Current: 45-day validation + 60-day payment = 90-105 days sale-to-cash. This is a competitive disadvantage vs programs offering net-30.
-- **Gap vs benchmark:** Score 2/4 on Payment Terms (target: 3/4)
-- **Action:** Negotiate with Impact to reduce validation window to 30 days and payment to net-30
-- **Benchmark:** Net-30 validation + net-30 payment = 45-60 day total cycle
-- **Score impact:** 2.3 could go from 2→3 (+1 point, total 65 → Established band)
+### 5. Accelerate payment cycle
+- **Benchmark gap:** Anker's 45-day validation + 60-day payment = ~90-105 days. Best-in-class is net-30.
+- **Action:** Negotiate with Impact to reduce validation to 30 days, payment to net-30 (total ~45-60 days)
+- **Goal:** Move Payment Terms from 2/4 → 3/4
 
-### 2. SuperChargers Program Expansion
-SuperChargers only covers "mobile charging" products. Anker's full portfolio includes AnkerWork (webcams, speakers), Soundcore (audio), Nebula (projectors), SOLIX (solar/power stations).
-- **Action:** Expand SuperChargers to cover all Anker sub-brands. Create sub-brand-specific creator playbooks.
-- **Score impact:** 3.4 could go from 3→4 if expanded across full catalog
+### 6. Expand SuperChargers beyond mobile charging
+- **Benchmark gap:** Creator program covers only mobile charging products, not full Anker portfolio
+- **Action:** Extend SuperChargers to AnkerWork, Soundcore, Nebula, and SOLIX sub-brands
+- **Goal:** Move Content Creator Engagement from 3/4 → 4/4
 
-### 3. Establish Review Unit Pipeline
-Set up standing quarterly product seeding for top 10 affiliate partners. Every new product launch should include embargoed review units to all priority partners simultaneously.
-- **Target partners:** TechRadar, Tom's Guide, 9to5Toys, CNN Underscored, Android Central, MacRumors, Engadget, GearJunkie, Popular Science, Men's Journal
-
-### 4. Trusted Reviews UK/EU Connection
-Trusted Reviews (DA 75+, UK) is a high-value cold lead for Anker's regional programs.
-- **Action:** Connect to Anker UK's Webgains program (7-12% commission). Provide UK product review units.
-- **Regional play:** Leverages Anker's existing multi-region affiliate infrastructure
+### 7. Launch Rakuten cashback for core Anker catalog
+- **Evidence:** Rakuten cashback active for SOLIX (2.5%) but not core Anker charging products
+- **Action:** Expand Rakuten relationship to full Anker catalog at 2-3% cashback
+- **Goal:** Capture high-intent Rakuten shoppers (15M+ active members)
 
 ---
 
-## This Quarter (Q2 2026)
+## This Quarter: Strategic LiveChannel Positioning
 
-**Focus: AI agent affiliate strategy + membership model — the two biggest gaps**
+### 8. Build AI agent affiliate tier
+- **Gap:** AI Agent Affiliate Presence is 1/4 — the single biggest strategic gap
+- **Action:** Create a dedicated "Anker Agent Partners" tier on Impact with: agent-optimized JSON product feeds, real-time inventory/pricing API, agent-specific commission structure (10%), and integration playbook
+- **Partners to target:** ChatGPT Shopping, Perplexity Shopping, Google AI Shopping
+- **Goal:** Move AI Agent Affiliate Presence from 1/4 → 3/4
 
-### 1. 🔴 AI Agent Affiliate Tier (Score 1/4 → target 3/4)
-This is Anker's single biggest strategic gap. All agent-driven affiliate revenue routes through Amazon Associates. As AI shopping agents grow, this leakage compounds.
-- **Action plan:**
-  1. Create agent-optimized product feeds (JSON, real-time pricing/inventory)
-  2. Build a dedicated "AI Agent Affiliate" tier on Impact with specialized commission structure
-  3. Partner with ChatGPT Shopping, Perplexity, Google AI shopping surfaces
-  4. Document agent integration playbook (API endpoints, feed formats, attribution)
-- **Score impact:** 3.5 from 1→3 (+2 points), plus potential 4.5 improvement if API/feeds built
-- **Revenue impact:** Captures the fastest-growing segment of affiliate commerce
+### 9. Design "Anker Insider" membership program
+- **Gap:** Membership Model Fit is 1/4 — no recurring revenue model
+- **Action:** Prototype an Anker Insider membership ($29/year) with: early product access, exclusive pricing (5-10% off), extended warranty, member-only accessories. Offer affiliates 25% commission on signups + 10% on renewals.
+- **Goal:** Move Membership Model Fit from 1/4 → 3/4
 
-### 2. Anker Insider Membership (Score 1/4 → target 2-3/4)
-Anker's purely transactional model limits LiveChannel's membership-based affiliate potential. The referral program's 10%/10% structure is a prototype.
-- **Proposed "Anker Insider" membership:**
-  - Tier 1 ($29/yr): Early access, exclusive pricing, extended warranty
-  - Tier 2 ($79/yr): + annual accessory credit, priority support, beta product access
-  - Affiliate commission: 20% on signups, 10% on renewals
-- **Score impact:** 5.3 from 1→3 (+2 points)
-
-### 3. Dynamic Creative Suite
-Current creative library is standard banners + text links (score 2/4).
-- **Action:** Build auto-updating product banners with real-time pricing/availability, customizable widgets, and product carousel embeds
-- **Score impact:** 4.4 from 2→3 (+1 point)
-
-### 4. Full Portfolio Affiliate Strategy
-Most partners only cover Anker chargers/power banks. Create dedicated affiliate playbooks for:
-- **AnkerWork:** Webcams, speakerphones → target remote work publications
-- **Soundcore:** Audio → target music/audio publications
-- **Nebula:** Projectors → target home theater publications
-- **SOLIX:** Solar/power stations → target outdoor/sustainability publications
-- Each playbook: partner list, commission rates, creative assets, seasonal calendar
-
-### 5. YouTube Creator Tier
-Establish dedicated YouTube creator commission tier within Impact: 10% commission + exclusive promo codes.
-- **Initial targets:** JerryRigEverything (teardown content), ZolloTech, Jonathan Morrison
-- **Premium target:** MKBHD (explore SuperChargers sponsorship for major product launch)
+### 10. Launch on CJ or ShareASale as second major network
+- **Gap:** Major Network Coverage is 2/4 (Impact + Rakuten only among big 5)
+- **Action:** Launch CJ Affiliate program mirroring Impact terms (8%, 30-day cookie)
+- **Goal:** Move Major Network Coverage from 2/4 → 3/4
 
 ---
 
 ## Metrics to Track
 
-| Metric | Current | Target (Q2 end) | Source |
-|--------|---------|-----------------|--------|
-| AFARE Score | 64 | 72+ (Established) | Flywheel scoring |
-| Amazon Associates Leakage | Unknown | Audited + 5 publishers converted | Impact publisher report |
-| Payment Cycle | ~90-105 days | 45-60 days | Impact terms |
-| AI Agent Partnerships | 0 | 2+ active | Impact agent tier |
-| Membership Signups | N/A | Program launched | Anker Insider |
-| SuperChargers Brands | 1 (mobile charging) | 4+ (full portfolio) | Program scope |
-| Publisher-Specific Promo Codes | 0 | 5+ active | Impact tracking |
-| Tier-1 Publishers on Direct Program | Unknown | 8+ confirmed | Impact publisher list |
-| International Programs Active | US + Nordics | + UK + EU-DE | Webgains + Impact |
+| Metric | Current | 30-Day Target | 90-Day Target |
+|--------|---------|---------------|---------------|
+| AFARE Score | 65 | 67 | 75 |
+| Tier-1 publishers on direct Impact program | Unknown | 5+ confirmed | 10+ confirmed |
+| Amazon Associates leakage (est. %) | High | Quantified | <30% of editorial traffic |
+| Active affiliate count (Impact) | ~200-500 est. | Baselined | +25% |
+| AI agent affiliate partners | 0 | RFP drafted | 2+ active |
+| Cookie duration | 30 days | 30 days | 45 days (top-tier) |
+| Payment cycle (days) | ~90-105 | ~90-105 | ~45-60 |
 
 ---
 
-## Score Path
+## Score Progression Path
 
-| Milestone | Score | Key Actions |
-|-----------|-------|-------------|
-| Current | 64 | — |
-| Payment terms to net-30 | 65 | Negotiate with Impact (enters Established band) |
-| Amazon leakage audit + 3 publisher conversions | 65 | No score change but revenue uplift |
-| AI agent affiliate tier | 67 | Agent feeds + 2 partnerships |
-| Dynamic creative suite | 68 | Auto-updating banners, widgets |
-| Anker Insider membership | 70 | Membership with affiliate-trackable signups |
-| SuperChargers full portfolio | 71 | Expand to AnkerWork, Soundcore, Nebula, SOLIX |
-| Rich API/feed access | 72 | Developer docs, real-time inventory API |
-| Multi-network coordination | 73+ | Hub-and-spoke model with deduplication |
+```
+Current:  65 (Established, entry)
++Cookie to 45 days:       +1 (2.2: 3→4)
++Payment to net-30:       +1 (2.3: 2→3)
++AI agent tier:           +2 (3.5: 1→3)
++Membership model:        +2 (5.3: 1→3)
++Exclusive offers:        +1 (5.4: 2→3)
++Third major network:     +1 (1.1: 2→3)
++Dynamic creative:        +1 (4.4: 2→3)
+= Target: 74 (Established, mid-upper)
+```
