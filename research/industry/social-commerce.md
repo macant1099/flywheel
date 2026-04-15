@@ -79,3 +79,15 @@ impact: medium
 sentiment: neutral
 ---
 2026 industry data reveals TikTok Shop affiliate commission benchmarks are shifting toward hybrid compensation models: a guaranteed flat fee per video ($100–$500 for top performers) layered on top of 15–20% commission. This structure is becoming the expected norm for brand-creator deals on short-form video platforms. LiveChannel vendors competing in video-driven affiliate channels should anticipate this cost structure when building creator partnerships.
+
+---signal---
+id: news-20260415-001
+signal: Later surpasses $2.9B creator-driven commerce in Q1 2026, enterprise business doubles YoY
+date: 2026-04-15
+source: https://www.prnewswire.com/news-releases/later-more-than-doubles-enterprise-business-as-influencer-marketing-becomes-a-performance-channel-302741194.html
+categories: industry
+tags: later, influencer-marketing, creator-commerce, enterprise, performance-channel, social-commerce
+impact: high
+sentiment: positive
+---
+Later announced record Q1 2026 milestones: $2.9B in verified influencer-driven purchases, 100%+ YoY enterprise growth, and $250M in cumulative creator payouts. Fortune 500 brands including Nike, Wayfair, and Unilever are consolidating creator programs on the platform. A new CTO was appointed and AI capabilities expanded. The milestone signals that influencer marketing has fully crossed over from brand awareness spend to a performance-measured channel — with direct revenue attribution now table stakes for enterprise brands.
