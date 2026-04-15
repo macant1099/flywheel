@@ -18,7 +18,7 @@
 | LiveChannel Readiness | 12 | 20 |
 | **TOTAL** | **65** | **100** |
 
-**Band:** Established (65-79)
+**Band:** Established (60-74)
 
 ---
 
@@ -106,7 +106,7 @@
 
 ## Overall Assessment
 
-Anker scores 64/100 (Developing band, top end) on the AFARE scale, reflecting a **mature affiliate program built on strong infrastructure that has significant room for strategic advancement**. The program's core strengths are clear: above-median commission rates, a best-in-class Shopify Plus platform, and organic coverage from premium editorial publications. Anker has also built differentiated sub-programs (SuperChargers for creators, SOLIX at separate rates, regional variations) that show strategic sophistication.
+Anker scores 65/100 (Established band, entry) on the AFARE scale, reflecting a **mature affiliate program built on strong infrastructure that has significant room for strategic advancement**. The program's core strengths are clear: above-median commission rates, a best-in-class Shopify Plus platform, and organic coverage from premium editorial publications. Anker has also built differentiated sub-programs (SuperChargers for creators, SOLIX at separate rates, regional variations) that show strategic sophistication.
 
 However, Anker's affiliate operation is held back by three structural gaps. First, the complete absence of an AI agent affiliate strategy means that the fastest-growing segment of affiliate commerce is generating revenue through Amazon Associates rather than Anker's own program. Second, the lack of a membership commerce model limits the brand's fit for LiveChannel's core value proposition. Third, the long payment cycle (90-105 days) makes the program less competitive for recruitment vs. peers offering faster payouts.
 
