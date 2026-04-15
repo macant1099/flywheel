@@ -1,0 +1,120 @@
+{
+  "audit_date": "2026-04-15",
+  "audited_by": "Mac Ant (Flywheel Affiliate Intelligence Engine)",
+  "vendor": "Priority Bicycles",
+  "vendor_url": "https://www.prioritybicycles.com",
+  "category": "bicycles_dtc",
+  "affiliate_program": {
+    "status": "active",
+    "program_page": "https://www.prioritybicycles.com/pages/affiliate-program-1",
+    "networks": [
+      {
+        "name": "AvantLink",
+        "merchant_id": 16029,
+        "signup_url": "https://www.avantlink.com/signup/affiliate/us?merchant=16029",
+        "status": "active"
+      }
+    ],
+    "commission": {
+      "rate_percent": 5.0,
+      "type": "flat",
+      "notes": "5% on all sales, no tiered structure detected. Unchanged from last audit."
+    },
+    "cookie_duration_days": 21,
+    "average_order_value_usd": 550,
+    "payment_methods_accepted": ["credit_card", "paypal", "apple_pay", "affirm_financing"],
+    "shipping": "Same business day on orders before 12:00 noon ET",
+    "fulfillment_options": ["standard", "fully_assembled_delivery"],
+    "customer_service": "7-days-a-week support",
+    "return_policy": "30-day no questions asked",
+    "creative_assets": {
+      "availability": "available_on_request",
+      "notes": "Program page states team is available to assist on additional marketing content needs; standard AvantLink creative tools (banners, product feeds, deep links) available to approved affiliates via AvantLink dashboard. No self-serve creative library surfaced publicly."
+    },
+    "application_required": true,
+    "approval_type": "manual",
+    "approval_requirements": "Active website or social media channel with original, high-quality content focused on outdoor recreation or gear; coupon/rebate/deal-aggregation sites not accepted; reviewed case-by-case"
+  },
+  "product_catalog": {
+    "primary_categories": [
+      "city_bikes",
+      "commuter_bikes",
+      "beach_cruisers",
+      "kids_bikes",
+      "e_bikes"
+    ],
+    "key_differentiator": "Low-maintenance Gates Carbon belt drive (rust-free, grease-free) across all models",
+    "flagship_ebike": "Priority Current Plus E-Bike (750W mid-drive motor, electronic shifting, 600% gear range, ~$3,299)",
+    "retail_channels": ["direct-to-consumer (primary)", "Costco Next (secondary)"],
+    "notable_partnerships": ["Starwood Hotels", "Nantucket Island Resorts"]
+  },
+  "benchmark_comparison": {
+    "category": "bicycles_dtc",
+    "category_commission_median_pct": 5.0,
+    "category_cookie_median_days": 30,
+    "category_aov_median_usd": 1200,
+    "vs_benchmark": {
+      "commission": "at_median",
+      "cookie": "below_median — 21 days vs 30-day category median",
+      "aov": "below_median — $550+ stated vs $1,200 median, but entry-level commuter focus explains gap; e-bike AOV ~$3,299 is above median"
+    }
+  },
+  "afare_signals": {
+    "commission_score": 3,
+    "commission_note": "At category median (5%). Competitive but not a standout — Trek goes up to 8%, Canyon varies higher.",
+    "cookie_score": 2,
+    "cookie_note": "21-day cookie remains below the 30-day category median. Bicycles are considered-purchase items (multi-session journey typical). A 30–45 day cookie would materially improve affiliate attribution.",
+    "aov_note": "$550+ stated AOV for standard bikes. E-bike AOV (Current Plus ~$3,299) yields ~$165 EPC at 5% — nearly 6× the standard bike EPC of ~$27. E-bike content push remains the highest-leverage opportunity.",
+    "program_health": "stable",
+    "affiliate_friendliness": "moderate",
+    "strengths": [
+      "Unique low-maintenance belt-drive positioning — clear, repeatable content hook for creators",
+      "Same-day shipping + 7-day support = strong conversion story to include in affiliate content",
+      "30-day returns reduce buyer hesitation; easy to promote confidently",
+      "Costco Next partnership signals mainstream brand credibility",
+      "Financing via Affirm broadens accessible buyer pool (higher-priced bikes more attainable)",
+      "AvantLink is a reliable, fraud-resistant network with solid tracking"
+    ],
+    "weaknesses": [
+      "21-day cookie still below the 30-day category standard — conversion lag risk on considered purchases",
+      "5% flat rate — no tiered, performance, or seasonal bonus structure detected",
+      "No self-serve creative library; assets require direct outreach to Priority team",
+      "Single-network presence (AvantLink only) — no redundancy, limits affiliate discovery via other networks",
+      "E-bike high-AOV opportunity not prominently featured or actively pushed in affiliate materials"
+    ],
+    "opportunities": [
+      "Spring 2026 peak season now live — April/May is highest-demand window for bicycle content",
+      "E-bike content push: $3,299 Current Plus at 5% = $165 EPC, highly competitive for cycling affiliates",
+      "Hotel/resort travel content angle (Starwood, Nantucket partnerships) for lifestyle and travel creators",
+      "Urban commuter and 'car-free lifestyle' / 'bike commuting' content niches growing post-pandemic",
+      "Kids bike segment — rust/grease-free belt drive is unique safety/maintenance pitch for parent content creators"
+    ],
+    "threats": [
+      "Rad Power Bikes, Aventon, and Lectric competitive on e-bike affiliate programs with similar or higher rates",
+      "Costco Next listing may siphon price-sensitive buyers who price-compare before converting via affiliate link",
+      "Program stagnation risk — no rate improvements or cookie extensions observed across multiple audit cycles"
+    ]
+  },
+  "changes_since_last_audit": {
+    "last_audit_date": "2026-04-13",
+    "days_since_last_audit": 2,
+    "changes_detected": false,
+    "change_summary": "No changes detected. Commission (5%), cookie (21 days), network (AvantLink only), AOV ($550+), and program terms all unchanged from 2026-04-13 audit. Program has been stable with no modifications observed since at least mid-2024.",
+    "program_stability": "high — no rate changes, network additions, or structural modifications in 18+ months of available data"
+  },
+  "recommended_actions": [
+    "Spring season alert: April 15 is peak window — flag to LiveChannel vendors that affiliate content should be active NOW for spring buyers",
+    "Push e-bike affiliate angle: Current Plus at ~$3,299 yields $165 EPC — highest per-click value in Priority catalog",
+    "Advocate for cookie extension to 30 days — 2-audit trend confirms stagnation; worth raising with Priority affiliate contact",
+    "Monitor for any spring 2026 promotions or new model launches that could be affiliate-activatable",
+    "No benchmark updates warranted — bicycles_dtc category data current and accurate as of this audit"
+  ],
+  "sources": [
+    "https://www.prioritybicycles.com/pages/affiliate-program-1",
+    "https://www.avantlink.com/programs/16029/priority-bicycles-affiliate-program/",
+    "https://www.authorityhacker.com/bicycle-affiliate-programs/",
+    "https://affmojo.com/bicycle-affiliate-programs/",
+    "https://getlasso.co/niche/bicycle/",
+    "https://alek-asaduryan.com/best-bicycle-affiliate-programs/"
+  ]
+}
