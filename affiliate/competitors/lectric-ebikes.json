@@ -1,0 +1,68 @@
+{
+  "competitor": "Lectric eBikes",
+  "vendor_context": "Priority Bicycles competitor (eBike / value commuter segment)",
+  "last_audited": "2026-04-15",
+  "status": "ACTIVE — High-growth DTC eBike brand; US market dominant, now expanding into Canada",
+
+  "affiliate_program": {
+    "active": true,
+    "networks": [
+      {
+        "name": "Impact",
+        "status": "ACTIVE — primary managed network",
+        "commission_rate": "3%",
+        "cookie_duration_days": 30,
+        "notes": "Primary network. Program managed via Impact platform. Application via lectricebikes.com. Content publishers, cycling sites, review channels eligible. Moderate barrier to entry — new/low-traffic sites may be rejected."
+      }
+    ],
+    "commission_summary": "3% on all sales",
+    "cookie_duration_days": 30,
+    "aov_usd": 928.30,
+    "epc_usd": 0.97,
+    "deeplink_support": true,
+    "datafeed_available": null,
+    "banner_ads_available": null,
+    "eligible_affiliates": [
+      "Content Publishers",
+      "Cycling Review Sites",
+      "YouTube Channels",
+      "Social Media (established audiences)",
+      "eBike Forums"
+    ]
+  },
+
+  "company_status": {
+    "financial": "STABLE — Private, Arizona-based; no distress signals",
+    "units_sold": "650,000+ eBikes in 6 years",
+    "positioning": "Value-leader in US eBike market; high-volume, affordable folding and commuter eBikes",
+    "expansion": {
+      "canada_launch": "2026-04-02",
+      "canada_partner": "Vélo Canada Bikes (national cycling nonprofit)",
+      "notes": "Canada market entry announced April 2, 2026. Partnership centered on infrastructure advocacy and cycling access. First international expansion move. Canadian affiliate program status: UNKNOWN — likely to follow via Impact, but not yet confirmed."
+    }
+  },
+
+  "competitive_intel": {
+    "commission_vs_category": "Lectric 3% < Aventon 4% < Rad ~6% — Lectric has lowest published rate, but high AOV ($928) yields ~$27.85 avg payout per sale",
+    "affiliate_risk": "LOW — Stable brand, consistent Impact program, strong consumer recognition",
+    "canada_affiliate_opportunity": "WATCH — If Lectric launches a Canadian affiliate tier on Impact, it opens new geo-targeted traffic opportunities. No confirmed CA program yet.",
+    "opportunity_for_priority": "Priority Bicycles competes for same cycling content affiliates (review sites, cycling YouTubers). Priority's edge: zero maintenance, no battery anxiety, lower price point. Lectric's saturation in value eBike space may push affiliates to seek differentiated stories — Priority fits that niche."
+  },
+
+  "history": [
+    {
+      "date": "2026-04-15",
+      "event": "First audit. No prior file. Confirmed Impact as primary network, 3% commission, 30-day cookie, ~$928 AOV, ~$0.97 EPC. Notable: Canada expansion announced April 2, 2026 via Vélo Canada Bikes partnership. 650k+ units sold in 6 years. Canadian affiliate program not yet confirmed.",
+      "change_flag": false
+    }
+  ],
+
+  "sources": [
+    "https://linkclicky.com/affiliate-program/lectric-ebikes/",
+    "https://affi.io/m/lectric-ebikes",
+    "https://suppliers.37x.com/lectric-ebikes-jkhwiahvzs49piawnzpigp7c",
+    "https://electrek.co/2026/04/02/lectric-heads-north-canadians-get-access-to-the-uss-best-selling-e-bikes/",
+    "https://lectricebikes.com/pages/rental-partner",
+    "https://www.magentheme.com/e-bike-affiliate-program-review-best-commissions/"
+  ]
+}
