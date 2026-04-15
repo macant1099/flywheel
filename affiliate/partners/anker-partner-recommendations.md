@@ -706,7 +706,162 @@ These sites have strong audience overlap with Anker's target buyers but are not 
 
 ---
 
+---
+
+## 2026-04-15 Discovery Update
+
+*New leads identified via automated partner discovery scan. Not duplicating any entries above.*
+
+---
+
+### 29. Travel + Leisure
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 4 |
+| Reach & Authority | 5 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **22/25** |
+
+**URL:** https://www.travelandleisure.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Published "The 12 Best Portable Chargers of 2026, Tested and Reviewed" featuring Anker MagGo Power Bank as a top pick ("checks off all the boxes in the portability department"). Additionally, a senior editor published a personal Anker endorsement piece titled "I'm a Travel Writer, and the Portable Charger I Always Keep in My Carry-on" — an organic first-person endorsement from an editorial staffer. Multiple Anker products appear across their tested roundups.
+**Evidence:** Senior editor states Anker is her "go-to brand for its reliability and capacity to charge her phone multiple times." Dedicated personal endorsement piece (December 2025). T+L editors named Anker one of the best portable chargers tested. Dotdash Meredith publication (same network as People, InStyle, Better Homes & Gardens — DA 80+, 10M+ monthly visits, 3M+ email newsletter subscribers).
+**Opportunity:** Travel + Leisure's audience — frequent flyers, vacation planners, road trippers — is a core Anker power bank buyer. Travel editorial is perfectly positioned for Anker Nano Travel Adapter, MagGo power banks, and SOLIX portable stations for camping/road trips. The personal editorial endorsement is rare organic credibility. T+L's affiliate infrastructure (Dotdash Meredith centralized commerce team) means a single partnership pitch can extend to their full network. Links likely route through Amazon Associates at lower commission rate.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Dotdash Meredith centralized commerce/affiliate partnerships team (same contact manages People, InStyle, Veranda — a single conversation reaches the full DM network); also direct email to T+L commerce editor via editorial masthead
+- **Key value proposition:** Commission upgrade from Amazon's ~3% to Anker direct 8%; exclusive "T+L Editor's Pick" discount code (e.g., "TRAVEL15" for 15% off) to convert the senior editor's organic endorsement into trackable affiliate revenue; co-branded "best charging kit for your next trip" gift guide feature for summer travel season
+- **Authenticated member base:** T+L has 3M+ email newsletter subscribers (authenticated opt-in list) plus Dotdash Meredith loyalty program — strong reach for targeted deal promotions
+
+**Activation Angle:**
+- **Member communication channels:** T+L weekly email newsletter (3M+ subscribers), T+L social (Instagram 3.8M, Pinterest 1.2M, Facebook 2.5M — all travel purchase-intent audiences), Dotdash Meredith deal alert network, Apple News distribution
+- **Embed opportunities:** "12 Best Portable Chargers" annual roundup (evergreen, update-driven); summer travel gear guides; holiday gift guides ("best gifts for travelers"); Father's Day/Mother's Day gift guides; "packing for [destination]" editorial packages; T+L Recommends weekly newsletter deal feature
+- **Estimated activation potential:** High — travel editorial buyers are aspirational and purchase-motivated; Anker's MagSafe/compact product line maps perfectly to the "leave the cable at home" traveler mindset; Dotdash Meredith's affiliate scale amplifies reach across their entire network at incremental cost
+
+---
+
+### 30. ChargerLab
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 5 |
+| Reach & Authority | 3 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **21/25** |
+
+**URL:** https://www.chargerlab.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Deep ongoing Anker coverage including multiple hardware teardowns in 2025–2026: Anker Prime 160W Charger with Smart Display (A2687, teardown January 9, 2026), Anker Nano 45W GaN Charger with Display (A121D, teardown October 2025), Anker USB-C to HDMI Cable (news March 2025), and prior reviews/teardowns dating back to original GaN product line. ChargerLab teardown of Anker's USB-C dual splitter cable gained traction on r/UsbCHardware Reddit thread.
+**Evidence:** 5+ Anker teardown/review articles with in-depth hardware analysis. ChargerLab is globally respected in the USB-C hardware enthusiast community — their teardowns are referenced on Reddit (r/UsbCHardware, r/UsbCHardware) as technical authority. Site covers Qi2-certified charger market reports naming Anker as leader (15 Qi2-certified models). Revenue model includes affiliate links and sponsored content, but Anker appears as organic editorial interest. DA ~45, primarily SEO-driven with strong community credibility.
+**Opportunity:** ChargerLab occupies a uniquely authoritative niche: engineering-level charging hardware analysis trusted by USB-C power users, DIYers, and prosumers. Their teardown content generates long-tail search traffic for high-intent queries ("Anker [model] teardown," "[wattage] GaN charger review"). Converting their links from Amazon to Anker direct at 8% commission would be a quick win. More valuably, ChargerLab as a launch partner for new Anker GaN and smart display chargers would generate technical credibility content that surfaces in enthusiast communities where purchase decisions are made.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Direct email to editorial team via ChargerLab's contact page; LinkedIn outreach to editorial lead "Rusell" (active Anker reviewer); press@chargerlab.com if available
+- **Key value proposition:** Early review unit access for every new GaN/smart display charger launch in exchange for expedited teardown content; Anker's 8% direct commission vs. Amazon's ~3%; technical specifications and engineering team Q&A access to support their analysis-driven editorial format; position Anker as ChargerLab's official "charging ecosystem partner" for collaborative content
+- **Authenticated member base:** No authenticated member base — primarily anonymous SEO visitors and Reddit community referrals; however ChargerLab has newsletter and social presence in the charging enthusiast community
+
+**Activation Angle:**
+- **Member communication channels:** ChargerLab email newsletter (smaller but highly engaged charging enthusiasts), social media, embedded in r/UsbCHardware and r/gadgets Reddit discussions (organic), referenced by other charging review sites (cross-publication authority)
+- **Embed opportunities:** Teardown series (every new Anker smart charger launch); Qi2 market report updates (Anker leads with 15 certified models — ChargerLab already reports this); CES 2027 announcement coverage; "best GaN charger" roundup guides; cable and hub reviews for AnkerWork peripherals
+- **Estimated activation potential:** Medium — smaller absolute audience than tier-1 tech pubs, but very high purchase-intent per visitor (hardcore enthusiasts who buy on specs); ChargerLab content circulates in Reddit communities that drive real purchasing decisions; strong long-tail SEO value from teardown content that stays authoritative for 2–3+ years
+
+---
+
+### 31. Perks at Work
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 3 |
+| Reach & Authority | 4 |
+| Brand Safety | 5 |
+| Conversion Potential | 5 |
+| **Total** | **21/25** |
+
+**URL:** https://www.perksatwork.com
+**Lead Type:** Cold Lead
+**Current Relationship:** No direct Anker relationship identified. Perks at Work is operated by Nextjump and serves as one of the largest US employee perks and discount platforms — 30,000+ national merchants, electronics category active (Lenovo laptops, consumer electronics). Platform offers exclusive "employee pricing" through direct vendor relationships, not standard retail.
+**Evidence:** Active electronics category on platform with direct vendor partnerships (not just coupon aggregation). Serves millions of corporate employees across major enterprise clients. "Employee Pricing Program offers exclusive access to best-in-market pricing" language on platform — indicating direct brand partnership model. Anker is not currently listed as a partner based on available search data (confirmed Cold Lead).
+**Opportunity:** Perks at Work's platform is a near-perfect fit for the LiveChannel model: an authenticated, closed member base (corporate employees verified through employer) with direct purchase intent in electronics. An Anker partnership on Perks at Work would provide: (1) access to 10M+ corporate employees who buy charging accessories for commuting, WFH setup, travel, and home office; (2) an authenticated member channel for trackable, attributable affiliate sales; (3) a B2B enterprise entry point for Anker's AnkerWork sub-brand (webcams, conference speakers, desk charging hubs). Commission model would be performance-based (Nextjump's standard direct vendor agreement).
+
+**Recruitment Angle:**
+- **Best outreach channel:** Nextjump corporate partnerships team (partnerships@nextjump.com or via Perks at Work vendor portal); LinkedIn outreach to Nextjump's VP of Brand Partnerships; conference connection at SHRM Annual Conference (HR benefits decision-makers) or CES Corporate Gifts pavilion
+- **Key value proposition:** Anker is the #1 brand recommended across corporate tech blogs and office-setup subreddits — a natural fit for corporate employee purchasing; exclusive "employee-only" pricing (e.g., 15–20% off anker.com) differentiates from public retail; AnkerWork product line (webcams, conference equipment, multi-device desk chargers) addresses direct WFH/office setup needs of corporate employees; Anker's product catalog maps directly to Perks at Work's most active categories (electronics, home office, travel)
+- **Authenticated member base:** YES — Perks at Work exclusively serves verified corporate employees (SSO/employer authentication); this is a fully authenticated, LiveChannel-model-ready member base with known employer affiliation and purchasing power context
+
+**Activation Angle:**
+- **Member communication channels:** Employer HR portals (where Perks at Work embed links appear), Nextjump mobile app (direct push notifications to authenticated employees), employer benefits email distributions, onboarding welcome packets for new employees, open enrollment communications (high engagement moments), internal corporate Slack/Teams integrations at enterprise clients
+- **Embed opportunities:** Electronics category landing page (persistent, high-visibility placement); "Work From Home Setup" curated bundle (Anker desk charger + hub + webcam); "Business Travel Essentials" bundle (Anker Nano + MagGo + travel adapter); seasonal promotions (back-to-office season, holiday gifting, tax season tech upgrades); AnkerWork campaign targeting IT buyers and office managers who make bulk accessory purchases
+- **Estimated activation potential:** High — authenticated members on employee perks platforms convert at 2–3x the rate of anonymous deal site visitors due to account familiarity, employer trust, and dedicated purchasing mindset; Anker's price range ($25–$150) is within the impulse-buy threshold for employed professionals; the LiveChannel model's core thesis (authenticated member channels outperform open retail) is directly validated by this partnership type
+
+---
+
+### 32. Houston Chronicle (Dwight Silverman)
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 3 |
+| Content Relevance | 3 |
+| Reach & Authority | 3 |
+| Brand Safety | 5 |
+| Conversion Potential | 2 |
+| **Total** | **16/25** |
+
+**URL:** https://www.houstonchronicle.com/business/tech/
+**Lead Type:** Warm Lead
+**Current Relationship:** Tech columnist Dwight Silverman published a full CES 2026 Anker review in March 2026, testing "Anker's newest charging accessories." Silverman explicitly noted he's "obsessed with charging gear, to the point it sometimes seems this column should be rebranded to 'Personal Charge.'" He described the Nano 45W Charger as "cute as a button" — genuine editorial enthusiasm. Silverman has 30+ years at the Chronicle and a dedicated personal tech readership.
+**Evidence:** Full hands-on CES 2026 Anker charging accessory review with personal enthusiasm. Columnist self-describes as obsessed with charging gear. Hearst Newspapers publication. Lower affiliate conversion infrastructure than pure commerce publications.
+**Opportunity:** Lower-priority warm lead. Silverman's enthusiasm is organic and credible, but the Houston Chronicle lacks the affiliate infrastructure of dedicated tech publications. Worth a light-touch relationship (press list, early review units) but not a priority partnership investment. Hearst connection could eventually enable coordination with Men's Journal (already #6) through centralized affiliate team.
+**Recommended Action:** Add to press/review unit distribution list. No dedicated affiliate outreach needed at this time; if Hearst centralized affiliate team is engaged for Men's Journal, ask to extend to Chronicle tech coverage as an add-on.
+
+---
+
+## Updated Partner Priority Matrix (as of 2026-04-15)
+
+| Priority | Partner | Score | Type | Est. Impact | Effort |
+|----------|---------|-------|------|-------------|--------|
+| 1 | TechRadar | 25/25 | Warm | Very High | Low |
+| 1 | Wirecutter (NYT) | 25/25 | Warm | Very High | Medium |
+| 3 | Android Central | 24/25 | Cold | Very High | Medium |
+| 3 | 9to5Toys | 24/25 | Warm | Very High | Low |
+| 3 | Tom's Guide | 24/25 | Warm | Very High | Low |
+| 3 | WIRED | 24/25 | Warm | Very High | Medium |
+| 3 | PCMag | 24/25 | Warm | Very High | Low |
+| 3 | ZDNET | 24/25 | Warm | Very High | Low |
+| 9 | CNN Underscored | 23/25 | Warm | Very High | Medium |
+| 9 | Engadget | 23/25 | Cold | High | Medium |
+| 9 | MacRumors | 23/25 | Warm | High | Low |
+| 9 | The Verge | 23/25 | Warm | Very High | Medium |
+| 9 | CNET | 23/25 | Warm | Very High | Medium |
+| 14 | Trusted Reviews | 22/25 | Cold | High | Medium |
+| 14 | JerryRigEverything | 22/25 | Warm | High | Medium |
+| 14 | AppleInsider | 22/25 | Warm | High | Low |
+| 14 | 9to5Mac | 22/25 | Warm | High | Low |
+| 14 | Travel + Leisure | 22/25 | Warm | High | Medium |
+| 19 | GearJunkie | 21/25 | Cold | Medium-High | Medium |
+| 19 | SlashGear | 21/25 | Cold | Medium | Medium |
+| 19 | MKBHD | 21/25 | Warm | Very High | High |
+| 19 | Popular Mechanics | 21/25 | Warm | High | Medium |
+| 19 | T3 | 21/25 | Warm | High | Low |
+| 19 | ChargerLab | 21/25 | Warm | Medium | Low |
+| 19 | Perks at Work | 21/25 | Cold | High | Medium |
+| 26 | Popular Science | 20/25 | Warm | Medium | Medium |
+| 26 | Men's Journal | 20/25 | Warm | Medium | Low |
+| 26 | The Gadget Flow | 20/25 | Cold | Medium | Low |
+| 26 | Rakuten | 20/25 | Warm | High | Low |
+| 30 | NotebookCheck.net | 19/25 | Warm | Medium | Medium |
+| 31 | Digital Spy | 18/25 | Warm | Medium | Low |
+| 32 | Houston Chronicle | 16/25 | Warm | Low | Low |
+
+---
+
 ## Strategic Recommendations
+
 
 
 ### Quick Wins (Execute in 30 days)
