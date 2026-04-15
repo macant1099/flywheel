@@ -79,6 +79,26 @@ The `research/livechannel/` directory is empty — there is zero competitive int
 
 ---
 
+## PROP-006 · AI Tools for Affiliate Content Production & Automation
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | industry/tools |
+| **Surfaced** | 2026-04-15 |
+
+**Signal sources:**
+- Lindy.ai (Feb 21 2026): "I spent weeks testing popular AI tools for affiliate marketing across tasks like content creation, SEO analysis, outreach, and reporting" — six tools reviewed for affiliate-specific workflows — https://www.lindy.ai/blog/use-ai-affiliate-marketing
+- coursiv.io (Mar 2026): "Review and Comparison of 20 Best AI Tools for Affiliate Marketing in 2026" — full feature/pricing comparison across content, automation, and CRO categories — https://coursiv.io/blog/best-ai-tools-for-affiliate-marketing-2026
+- popularaitools.ai (Mar 27 2026): Live review of AI-powered affiliate system that finds trending content, auto-clips it, and posts with affiliate links — https://popularaitools.ai/blog/affiliate-marketing-ai-automated-system-2026
+- YepAds (Apr 2026): Comprehensive tool guide including Sora (video), Flux.1 (image), and content creation stack for affiliate marketers — https://yepads.com/affiliate-marketers-will-use-these-ai-tools-in-2025/
+- Affiliate Marketing Buffet / ClickCampaigns.ai (Apr 12 2026): Launch of AI-native platform positioning to replace traditional marketing departments for affiliate operators — https://www.financialcontent.com/article/marketersmedia-2026-4-12-ai-driven-marketing-platform-launched-user-friendly-tools-for-affiliates
+
+**Why it matters:**
+The existing `industry/ai-agent-affiliates.md` covers AI *as buyer and affiliate* — AI agents making purchases on behalf of consumers. This proposal addresses a structurally distinct phenomenon: AI tools that *human affiliate publishers* use to scale their programs — ChatGPT for product reviews, Sora for video content, Flux.1 for imagery, and full-stack automation platforms that find trending content, generate affiliate link posts, and publish autonomously. The implications for LiveChannel vendors are material: (1) their affiliate partners can now produce 10x more content with AI tools, changing quality-control and brand-safety dynamics; (2) AI-generated affiliate content carries FTC disclosure risk (intersecting with PROP-001's compliance angle); (3) the barrier to entry for affiliate content production has collapsed, expanding the publisher pool but also inflating low-quality content volume; (4) understanding which AI tools affiliates are using helps vendors design program materials and briefs that are AI-tool-friendly (structured specs, image assets, demo video hooks). This is the affiliate program operations angle of the AI transformation — not covered anywhere in the current research library.
+
+---
+
 ## PROP-003 · Membership Commerce + Recurring Affiliate Commission Models
 
 | Field | Value |
