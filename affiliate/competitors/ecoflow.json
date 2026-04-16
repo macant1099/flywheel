@@ -1,0 +1,97 @@
+{
+  "competitor": "EcoFlow",
+  "vendor_context": "Anker competitor (portable power stations, solar generators, home backup power)",
+  "last_audited": "2026-04-16",
+  "status": "ACTIVE — Global DTC brand; dominant in portable power station / solar generator category",
+
+  "affiliate_program": {
+    "active": true,
+    "networks": [
+      {
+        "name": "Awin",
+        "status": "ACTIVE — primary managed network (global)",
+        "commission_rate": "5%",
+        "cookie_duration_days": 30,
+        "notes": "Primary global affiliate network. Multi-market: US, CA, AU, UK, EU (DE, FR, ES, IT), ZA. Program profile at ui.awin.com/merchant-profile/59181. Full toolset expected (banners, datafeeds, deep links)."
+      },
+      {
+        "name": "Commission Factory",
+        "status": "ACTIVE — AU/ROW region",
+        "commission_rate": "unknown",
+        "cookie_duration_days": null,
+        "notes": "Listed on Commission Factory for AU and ROW markets. Contact: row.affiliate@ecoflow.com. Likely mirrors Awin rate or regional equivalent."
+      },
+      {
+        "name": "Direct (EcoFlow.com)",
+        "status": "ACTIVE — self-hosted direct program",
+        "commission_rate": "5% minimum",
+        "cookie_duration_days": 7,
+        "notes": "EcoFlow runs a direct program at us.ecoflow.com/pages/affiliate-program. Minimum 5% per qualifying sale. 7-day cookie (shorter than Awin's 30-day). Apply direct; approval within 2-3 business days. May link out to Awin as fulfillment backend."
+      },
+      {
+        "name": "CueLinks",
+        "status": "LISTED — aggregator/sub-network",
+        "commission_rate": "3.15%",
+        "cookie_duration_days": null,
+        "notes": "Aggregator listing. Lower rate (3.15%) vs direct/Awin (5%) — standard aggregator haircut. CPC campaign type noted; commission rates described as dynamic."
+      }
+    ],
+    "commission_summary": "5% minimum on all sales (direct + Awin); 3.15% via aggregators",
+    "cookie_duration_days": 30,
+    "cookie_note": "30 days via Awin; only 7 days via direct program — important for affiliates to join via Awin for better attribution",
+    "aov_usd": 1500,
+    "aov_note": "Awin lists $1,500+ AOV; US site states 'over $1,000'. High-AOV category (power stations, solar generators).",
+    "deeplink_support": true,
+    "datafeed_available": true,
+    "banner_ads_available": true,
+    "eligible_affiliates": [
+      "Review Sites",
+      "Online Communities",
+      "Bloggers / Content Creators",
+      "Homeowners Content",
+      "Outdoor Enthusiasts",
+      "Creatives / DIY"
+    ],
+    "prohibited_promotions": [
+      "PPC / SEM on brand terms",
+      "False or manipulated affiliate links",
+      "Fake purchase simulation scripts",
+      "Browser extension pop-ups",
+      "Hidden affiliate links"
+    ],
+    "contact": "row.affiliate@ecoflow.com"
+  },
+
+  "company_status": {
+    "financial": "STABLE — Private, China-headquartered; strong global revenue, no distress signals",
+    "founded": 2017,
+    "positioning": "Market leader in portable power stations and solar generators. Positioned premium vs Jackery, direct competitor to Anker SOLIX line.",
+    "global_markets": ["US", "CA", "AU", "UK", "EU (DE, FR, ES, IT)", "ZA"],
+    "product_lines": ["DELTA series (portable power)", "RIVER series (entry-level)", "WAVE series (AC/heating)", "PowerOcean (home battery)", "Solar Panels", "Smart Home Energy"]
+  },
+
+  "competitive_intel": {
+    "commission_vs_anker": "EcoFlow 5% vs Anker Amazon Associates ~1-4% — EcoFlow's direct program significantly outpaces Anker's primarily Amazon-dependent affiliate model. This is a major structural advantage for EcoFlow in affiliate recruitment.",
+    "cookie_advantage": "EcoFlow Awin: 30-day cookie. Anker mostly via Amazon (24-hour cookie). EcoFlow wins on attribution window significantly.",
+    "aov_advantage": "EcoFlow AOV $1,500+ vs Anker average order ~$30-60 (consumer electronics). At 5%, EcoFlow yields ~$75/sale avg. Anker at 3% on $50 = $1.50. EcoFlow is ~50x better affiliate payout per sale — pulls premium content publishers.",
+    "affiliate_risk": "LOW — Stable program, well-established on Awin, active global footprint",
+    "affiliate_mindshare": "EcoFlow actively recruits review sites, YouTube channels, and outdoor content creators — overlaps heavily with Anker SOLIX affiliate targets. EcoFlow is winning this content war.",
+    "opportunity_for_anker": "Anker SOLIX must launch or upgrade a managed affiliate program (Awin/Impact/CJ) with 5%+ commission and 30-day cookie to compete for top-tier affiliates. Current Amazon-centric model loses in every metric vs EcoFlow's Awin program."
+  },
+
+  "history": [
+    {
+      "date": "2026-04-16",
+      "event": "First audit. No prior file. Confirmed Awin as primary global network at 5% commission, 30-day cookie, $1,500+ AOV. Direct program at EcoFlow.com also active (5% min, 7-day cookie). Commission Factory active for AU/ROW. CueLinks aggregator listing at 3.15%. Company stable, global expansion ongoing. EcoFlow's affiliate program structurally superior to Anker's Amazon-dependent model.",
+      "change_flag": false
+    }
+  ],
+
+  "sources": [
+    "https://us.ecoflow.com/pages/affiliate-program",
+    "https://eu.ecoflow.com/pages/affiliate-program",
+    "https://ui.awin.com/merchant-profile/59181",
+    "https://www.commissionfactory.com/advertiser-directory/ecoflow-affiliate-program/88567",
+    "https://www.cuelinks.com/campaigns/ecoflow-affiliate-program"
+  ]
+}
