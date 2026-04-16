@@ -48,7 +48,7 @@
 
 **Dimension Notes:** Priority's commission terms are functional but undifferentiated. The 5% rate is exactly at category median, the 21-day cookie is below median, and there are no tiered incentives. For a brand with $550+ AOV, the dollar-per-sale is decent (~$27.50), but the program doesn't use commission strategy as a competitive lever. The short cookie is particularly problematic for a high-consideration category where customers research for weeks.
 
-### Dimension 3: Partner Ecosystem (9/20)
+### Dimension 3: Partner Ecosystem (11/20)
 
 | # | Criterion | Score | Evidence |
 |---|-----------|-------|----------|

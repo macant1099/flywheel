@@ -48,7 +48,7 @@
 
 **Dimension Notes:** Anker's 8% base commission is strong for consumer electronics, meaningfully above category median. The main weakness is the payment timeline: 45-day validation plus 60-day payment is longer than affiliate-friendly. The multi-brand commission architecture (Anker/AnkerWork/SOLIX with different rates) demonstrates strategic product-level thinking.
 
-### Dimension 3: Partner Ecosystem (13/20)
+### Dimension 3: Partner Ecosystem (14/20)
 
 | # | Criterion | Score | Evidence |
 |---|-----------|-------|----------|
