@@ -99,6 +99,47 @@ The existing `industry/ai-agent-affiliates.md` covers AI *as buyer and affiliate
 
 ---
 
+## PROP-007 · YouTube Shopping Affiliate Program — 500-Subscriber Threshold Expansion
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | industry/platforms |
+| **Surfaced** | 2026-04-16 |
+
+**Signal sources:**
+- Affiverse (Apr 9, 2026): "YouTube has lowered the subscriber count required to access its Shopping affiliate program from 1,000 to 500, opening commission-based product promotion to a significantly wider pool of creators." — https://www.affiversemedia.com/youtube-cuts-affiliate-shopping-threshold-eligibility-to-500-subscribers-as-platform-race-heats-up/
+- ppc.land (Mar 27, 2026): "The key change removes the previous 10,000-subscriber barrier tied to affiliate access and ties eligibility to YPP membership instead. Announcement posted to YouTube Help Center Community by Natasha..." — https://ppc.land/youtube-opens-shopping-affiliate-program-to-creators-with-500-subscribers/
+- The Keyword (Mar 27, 2026): "Previously, eligibility required 5,000 subscribers. The platform further dropped it to 1,000 earlier in 2026, then 500." — https://www.thekeyword.co/news/youtube-shopping-affiliate-500-subscribers
+- Inc. Magazine (Mar 2026): Eligibility requirements: 500 subscribers, three public uploads in past 90 days, and either 3,000 watch hours (12 months) or 3M short-form views (90 days) — https://www.inc.com/annabel-burba/youtube-just-lowered-the-bar-for-affiliate-earnings-now-creators-with-500-subscribers-can-cash-in/91321914
+- ALM Corp (Mar 2026): "YouTube lowered the access threshold for its Shopping Affiliate Program to a 500-subscriber entry point for eligible creators in the YouTube Partner Program." — https://almcorp.com/blog/youtube-shopping-affiliate-program-500-subscribers/
+- Seoul Economic Daily (Mar 30, 2026): International coverage confirming global rollout — https://en.sedaily.com/technology/2026/03/30/youtube-lowers-shopping-affiliate-threshold-to-500
+
+**Why it matters:**
+YouTube's March 27, 2026 reduction of its Shopping Affiliate Program threshold from 1,000 (and previously 5,000) to just 500 subscribers is a structural platform shift that dramatically expands the creator affiliate pool. Estimated millions of previously ineligible micro-creators can now earn affiliate commissions on product recommendations in YouTube videos and Shorts — directly competing for the same audience attention and commerce dollars as LiveChannel's creator ecosystem. For LiveChannel vendors, this creates two material implications: (1) a massive new pool of YouTube-native affiliate partners who can now promote vendor products without the 1,000-subscriber barrier, and (2) increased competitive pressure on creators to choose between YouTube's affiliate program versus LiveChannel's native commerce opportunities. Structurally distinct from PROP-004 (Meta Facebook Affiliate Partnerships) and PROP-005 (Live Commerce Competitive Landscape) — this is a platform-eligibility policy change at YouTube specifically, not general social commerce trends.
+
+---
+
+## PROP-008 · UK/EU International Affiliate Regulation Convergence 2026
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | industry/regulation-compliance |
+| **Surfaced** | 2026-04-16 |
+
+**Signal sources:**
+- Tapfiliate (Feb 12, 2026): "In 2026, the CMA is targeting influencer marketing and cross-border e-commerce. New guidance also focuses on affiliate activity in regulated sectors, such as finance and healthcare." — https://tapfiliate.com/blog/affiliate-marketing-compliance-gp/
+- RPC Legal (Jan 2, 2026): UK CMA and ASA published updated guidance — "If a creator receives payment, a gift, a loaned product, free services, affiliate commission or any other commercial benefit, the post will generally be considered an ad." Affiliate commissions now explicitly named as triggering disclosure requirements. — https://www.rpclegal.com/snapshots/advertising-and-marketing/winter-2025/cma-and-asa-publish-updated-influencer-guidance-on-social-media-endorsements/
+- Osborne Clarke (Feb 26, 2026): UK DMCCA 2024 enforcement intensifying through 2026 — pricing transparency, influencer marketing, and dark patterns all under active CMA review. CAP Code review of influencer disclosure guidelines underway. — https://www.osborneclarke.com/insights/regulatory-outlook-february-2026-advertising-marketing
+- Osborne Clarke Marketing Law (Dec 2025): "Businesses face a complex advertising and marketing compliance landscape in 2026, with different requirements for the EU and the UK. Influencer marketing, pricing practices and dark patterns are all facing action from the legislature in both the UK and the EU." — https://marketinglaw.osborneclarke.com/advertising-regulation/advertising-and-marketing-in-2026-what-businesses-might-expect-in-the-uk-and-eu/
+- Chambers & Partners (Oct 2025): "Enforcement will intensify through 2026" following initial period of guidance and adjustment — https://practiceguides.chambers.com/practice-guides/advertising-marketing-2025/uk/trends-and-developments
+
+**Why it matters:**
+While PROP-001 covers US FTC enforcement against livestream affiliate disclosure, the UK and EU operate under entirely separate regulatory frameworks — the CMA, ASA, CAP Code, and EU Digital Services Act — that are simultaneously tightening in 2026. The UK CMA's January 2026 updated guidance explicitly names affiliate commissions as commercial relationships requiring disclosure (not just paid sponsorships), a broader definition than US FTC rules. For LiveChannel vendors who sell into UK/EU markets or work with UK/EU-based creators, this creates distinct compliance obligations. The intensifying DMCCA 2024 enforcement (covering pricing transparency and dark patterns alongside influencer disclosure) adds another compliance dimension with no US equivalent. Additionally, the regulatory divergence between UK and EU post-Brexit means vendors targeting both markets must navigate two sets of rules simultaneously. This research would give Flywheel a compliance map for non-US affiliate operations and inform AFARE scoring for vendors with international footprint.
+
+---
+
 ## PROP-003 · Membership Commerce + Recurring Affiliate Commission Models
 
 | Field | Value |
