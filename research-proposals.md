@@ -140,6 +140,45 @@ While PROP-001 covers US FTC enforcement against livestream affiliate disclosure
 
 ---
 
+## PROP-009 · AI Virtual Influencers as Affiliate Publishers — $8.3B Market, Zero Talent Cost
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | industry/ai-influencers |
+| **Surfaced** | 2026-04-17 |
+
+**Signal sources:**
+- AutoFaceless (Apr 2026): "The virtual influencer market reached $8.3 billion in 2025 and is projected to hit $154.6 billion by 2032 at 41% CAGR. 58% of US consumers follow at least one virtual influencer. CMOs plan to allocate 30% of influencer budgets to virtual creators." — https://autofaceless.ai/blog/virtual-influencer-statistics-2026
+- Communipass (Apr 16, 2026): Virtual influencer with paid group at $37/month "monthly revenue stabilised at $21,800 in month four." Rates in 2026: $2,000–$15,000 per sponsored post for verifiably high-engagement virtual influencers in tech, fashion, fitness. — https://communipass.com/blog/ai-influencer-monetization-strategies-2026/
+- Affiverse (Apr 15, 2026): "Affiliate program contracts should specify disclosure requirements for AI-assisted content and program managers need to treat compliance as a live operational function." Virtual influencers face brand deal resistance in healthcare, finance, legal due to AI likeness disclosure rules. — https://www.affiversemedia.com/what-the-ad-industrys-ai-disclosure-problem-means-for-affiliates/
+- Influencers Time (Mar 2026): AI likeness disclosure rules 2026 — "Disclose AI use clearly and conspicuously. The disclosure should be easy to notice, easy to understand, and placed close to the claim or likeness." — https://www.influencers-time.com/ai-likeness-rules-2026-disclosure-guide-for-marketers/
+- Business Insider (Mar 2026): Meta/Instagram reinstate affiliate commerce for creators — AI-generated product descriptions now part of the Instagram affiliate flow. — https://www.businessinsider.com/instagram-facebook-meta-affiliate-marketing-creator-monetization-shopping-ads-ai-2026-3
+
+**Why it matters:**
+AI virtual influencers are becoming a distinct affiliate publisher category — not AI tools used by human affiliates (PROP-006), and not AI agents shopping on behalf of consumers (ai-agent-affiliates.md). These are AI-generated personas with their own follower bases, posting product reviews and tagged affiliate links, earning commissions at scale. The market economics are compelling: no talent fees, no scheduling conflicts, no off-brand moments, available 24/7 across time zones, and operating at a fraction of human influencer cost. For LiveChannel vendors, this means (1) a new class of potential affiliate partner who can run always-on product promotion across Instagram, YouTube, and TikTok; (2) a compliance minefield as FTC and UK/EU regulators are actively expanding AI likeness disclosure requirements; (3) CMOs allocating 30% of influencer budgets to virtual creators means competition for the remaining 70% is intensifying. The $8.3B → $154.6B growth trajectory (41% CAGR) makes this one of the fastest-growing affiliate publisher categories. Structurally distinct from all existing research and proposals.
+
+---
+
+## PROP-010 · Social Commerce Agency Consolidation — Orca + Sapphire Studios Form "Third"
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | industry/infrastructure |
+| **Surfaced** | 2026-04-17 |
+
+**Signal sources:**
+- MediaPost (Mar 26, 2026): "Social commerce agencies Orca and Sapphire Studios have merged to form a new entity called Third... approximately 70 employees across Los Angeles, Chicago, Minneapolis, Mexico City, and London... integrated social commerce offering spanning platform strategy, shoppable livestreams, social commerce operations, creator and affiliate commerce, and creative." — https://www.mediapost.com/publications/article/413847/social-commerce-agencies-orca-sapphire-studios-me.html
+- Canaccord Genuity (Mar 2026): "GCP has combined social commerce agencies Sapphire Studios and Orca to form Third, a modern-commerce growth company helping brands turn emerging platforms into real sales channels." — https://www.canaccordgenuity.com/capital-markets/transactions/2026/march/sapphire-studios_mar2026/
+- Seward & Kissel (Mar 26, 2026): Legal advisor confirms deal closed Mar 26 2026, backed by private equity firm Growth Catalyst Partners. — https://www.sewkis.com/news/seward-kissel-represents-growth-catalyst-partners-as-orca-and-sapphire-studios-combine-to-form-third-2/
+- Net Influencer (Mar 2026): Context: TikTok Shop processed $33B+ global GMV in 2024; LTK facilitated significant creator-driven commerce. "Third" emerges as scale player in full-service social commerce operations. — https://www.netinfluencer.com/social-commerce-agencies-orca-and-sapphire-studios-merge-to-form-third/
+
+**Why it matters:**
+The March 26, 2026 PE-backed merger of Orca and Sapphire Studios into "Third" signals institutional capital recognizing social commerce operations as a scalable professional services category — not just an experimental marketing tactic. For LiveChannel vendors, this matters in two ways: (1) "Third" and similar agencies now offer turnkey full-service packages (strategy + shoppable livestream production + creator & affiliate commerce + creative) that vendors can engage without building internal social commerce expertise; (2) the consolidation indicates the market is professionalizing, which historically precedes rapid vendor adoption as the service becomes accessible and standardized. "Third"'s geographic footprint (LA, Chicago, Minneapolis, Mexico City, London) positions it as a North American + international capability — directly relevant for LiveChannel vendors with cross-market ambitions. Structurally distinct from social-commerce.md (which tracks platform/feature launches) — this is the agency/services layer that executes platform strategy on behalf of vendors. Tracking agency consolidation in this space gives Flywheel early intelligence on who vendors will be working with.
+
+---
+
 ## PROP-003 · Membership Commerce + Recurring Affiliate Commission Models
 
 | Field | Value |
