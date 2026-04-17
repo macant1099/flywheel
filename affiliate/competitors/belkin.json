@@ -1,0 +1,97 @@
+{
+  "competitor": "Belkin",
+  "vendor_context": "Anker competitor (charging accessories, cables, screen protectors, smart home, wireless audio)",
+  "last_audited": "2026-04-17",
+  "status": "ACTIVE — Established global DTC + retail brand; Foxconn subsidiary since 2018",
+
+  "affiliate_program": {
+    "active": true,
+    "networks": [
+      {
+        "name": "Impact (Impact Radius)",
+        "status": "ACTIVE — primary managed network (global)",
+        "commission_rate": "~1–4% (varies by product/market; US base rate ~0.8–4%)",
+        "commission_rate_us": "0.8% base (Impact/affi.io US data); up to 4% per Shopper.com aggregator — likely tiered or category-dependent",
+        "cookie_duration_days": 30,
+        "notes": "Primary global network. Program managed directly via belkin.com/company/affiliates. Payment via check, ACH, wire, or PayPal. $50 minimum payout threshold. Payment on 1st or 15th of month, or custom threshold. Daily reporting dashboard. Dynamic banners + HTML tag generator provided."
+      },
+      {
+        "name": "CueLinks",
+        "status": "LISTED — aggregator/sub-network",
+        "commission_rate": "2.70%",
+        "cookie_duration_days": null,
+        "notes": "Aggregator listing (June 2025 indexed). Lower than direct rate — standard aggregator haircut."
+      }
+    ],
+    "commission_summary": "~0.8–4% on sales via Impact; 2.7% via CueLinks aggregator. Rate appears category/market-tiered. US base is lower-end consumer electronics (~1%). AU, DE, GB markets also active.",
+    "cookie_duration_days": 30,
+    "payment_threshold_usd": 50,
+    "payment_cycle_days": "60–180",
+    "aov_note": "Low-AOV category ($20–$80 typical). Charging cables, screen protectors, wireless chargers. High volume, low per-sale payout.",
+    "deeplink_support": true,
+    "datafeed_available": true,
+    "banner_ads_available": true,
+    "geo_active": ["US", "AU", "DE", "GB"],
+    "eligible_affiliates": [
+      "Cashback Sites",
+      "Content Publishers",
+      "Coupon Sites",
+      "Email Publishers",
+      "Loyalty Programs",
+      "Banner/Display Networks",
+      "Community Sites"
+    ],
+    "prohibited_promotions": [
+      "PPC / SEM",
+      "Brand Bidding",
+      "Brand Misspelling",
+      "SEO/SEM arbitrage",
+      "Adware / Pop/Redirect",
+      "Push Notifications",
+      "In-App / UAC",
+      "Content Lock",
+      "Retargeting",
+      "Streaming"
+    ]
+  },
+
+  "company_status": {
+    "financial": "STABLE — Foxconn (Hon Hai Precision) subsidiary since 2018; privately held under parent",
+    "founded": 1983,
+    "parent": "Foxconn / Hon Hai Precision Industry",
+    "positioning": "Premium accessory brand; Apple ecosystem alignment (MFi, MagSafe, AirPods accessories); global retail + DTC footprint. Competes with Anker on charging, cables, screen protectors.",
+    "product_lines": [
+      "Charging (BoostCharge, BoostCharge Pro)",
+      "Cables (USB-C, Lightning, MagSafe)",
+      "Screen Protectors (TemperedGlass)",
+      "Wireless Audio (SoundForm)",
+      "Smart Home (WEMO)",
+      "Networking (formerly Linksys — divested 2019)"
+    ]
+  },
+
+  "competitive_intel": {
+    "commission_vs_anker": "Belkin ~1–4% via Impact vs Anker Amazon Associates ~1–4%. Both are structurally similar: low-AOV consumer electronics relying on managed affiliate networks. Neither has a standout affiliate advantage here.",
+    "cookie_vs_anker": "Belkin 30-day cookie via Impact. Anker primarily via Amazon (24-hour cookie). Belkin wins on attribution window — relevant for comparison-shopping content publishers.",
+    "brand_positioning": "Belkin competes on Apple ecosystem alignment and premium pricing; Anker competes on value and broad compatibility. Both court tech accessory review sites and YouTube channels. Belkin has stronger retail (Apple Store, Best Buy) but Anker dominates Amazon mindshare.",
+    "affiliate_risk": "LOW — Stable program, 40+ years in business, Foxconn parent backing",
+    "aov_weakness": "Both Belkin and Anker suffer from low AOV ($20–$80 range). Content affiliates earn fractions per sale — cashback and loyalty sites may be more productive than content for both brands.",
+    "opportunity_for_anker": "Anker should differentiate on AOV by pushing affiliates toward higher-ticket SKUs (SOLIX, projectors, robot vacuums) vs Belkin's cable/screen-protector core. Anker's broader product lineup (power stations, smart home) creates more affiliate content angles than Belkin's narrower accessory focus."
+  },
+
+  "history": [
+    {
+      "date": "2026-04-17",
+      "event": "First audit. No prior file. Confirmed Impact (Impact Radius) as primary network. US commission ~0.8–4% (tiered/category-dependent). 30-day cookie. $50 payout minimum. AU, DE, GB also active. CueLinks aggregator listing at 2.7%. Company stable under Foxconn. Belkin and Anker structurally similar in affiliate economics — both low-AOV, Impact-adjacent programs.",
+      "change_flag": false
+    }
+  ],
+
+  "sources": [
+    "https://www.belkin.com/company/affiliates/",
+    "https://www.belkin.com/clp-affiliates.html",
+    "https://affi.io/m/belkin",
+    "https://www.shopper.com/partnerships/belkin-com-affiliate-program",
+    "https://www.cuelinks.com/campaigns/belkin-affiliate-program"
+  ]
+}
