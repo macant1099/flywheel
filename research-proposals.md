@@ -179,6 +179,25 @@ The March 26, 2026 PE-backed merger of Orca and Sapphire Studios into "Third" si
 
 ---
 
+## PROP-011 · AI Zero-Click Traffic Collapse — Publisher Affiliate Economics Breaking Down & Attribution Crisis
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | industry/publisher-economics |
+| **Surfaced** | 2026-04-18 |
+
+**Signal sources:**
+- Digiday (Apr 15, 2026): "Forbes is creating a wine-focused content vertical, commerce site and membership program to grow direct consumer revenue beyond its traffic-dependent businesses, as it looks to offset zero-click traffic declines and content discovery challenges." — https://digiday.com/media/forbes-creates-wine-vertical-commerce-shop-and-membership-business-as-ai-squeezes-traffic/
+- Talking Biz News (Apr 16, 2026): "In Q1 2026, Forbes' site traffic was down 37 percent year over year" attributed to AI-driven zero-click search. Forbes is pivoting to owned-audience membership commerce to replace affiliate link revenue. — https://talkingbiznews.com/media-news/facing-declining-traffic-forbes-turns-to-wine/
+- Forbes Business Development Council (Apr 13, 2026): "There is a measurement crisis quietly building at the intersection of AI discovery and retail conversion. When a shopper finds a product through ChatGPT and then makes a purchase in a retailer's app, who gets credit? The AI platform? The affiliate? The creator who originally surfaced the recommendation?" — https://www.forbes.com/councils/forbesbusinessdevelopmentcouncil/2026/04/13/openai-just-did-retailers-a-favor-by-killing-in-chat-checkout/
+- Spicy Creator Tips (Apr 15, 2026): Independent coverage of Forbes membership commerce pivot as direct response to AI traffic squeeze. — https://www.spicycreatortips.com/forbes-launches-wine-commerce-shop-and-membership/
+
+**Why it matters:**
+Two compounding crises are simultaneously hitting affiliate publisher economics in Q1-Q2 2026. First: AI zero-click search is destroying SEO-dependent traffic. Forbes — one of the largest affiliate publishing operations globally (Forbes Vetted, Best of lists, product reviews) — saw traffic collapse 37% YoY in Q1 2026. The root cause is AI-powered search delivering direct answers rather than sending users to publisher sites, eliminating the click that triggers affiliate attribution. Forbes is pivoting to direct membership commerce to replace that lost revenue. If Forbes is down 37%, every affiliate publisher from niche review sites to major media properties running on SEO traffic is facing the same structural erosion. For LiveChannel vendors, this means the affiliate content ecosystem — the review sites, comparison guides, and "best of" lists that drive organic affiliate traffic — is contracting. Second: the attribution crisis. When users discover products via ChatGPT, Perplexity, or Google AI Overviews and then purchase, the affiliate attribution chain breaks entirely. No cookie, no referral, no click — the AI consumed the recommendation layer and produced a sale with no trackable affiliate touchpoint. This is structurally distinct from cookie deprecation (which `tracking-privacy.md` covers — a *technical* tracking gap between session start and purchase) and from `ai-agent-affiliates.md` (which covers AI agents as autonomous buyers). This is the *discovery attribution gap*: AI sits between the publisher's content and the consumer's purchase decision, and no existing attribution model captures it. Both crises require strategic responses from vendors and from Flywheel's AFARE scoring framework.
+
+---
+
 ## PROP-003 · Membership Commerce + Recurring Affiliate Commission Models
 
 | Field | Value |
