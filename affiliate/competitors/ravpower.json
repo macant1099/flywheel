@@ -1,0 +1,84 @@
+{
+  "competitor": "RAVPower",
+  "vendor_context": "Anker competitor (power banks, charging, cables, portable power stations)",
+  "last_audited": "2026-04-18",
+  "status": "ACTIVE DTC — Banned from Amazon since June 2021 (review manipulation). Pivoted to ravpower.com DTC channel. Parent: Sunvalleytek International.",
+
+  "affiliate_program": {
+    "active": true,
+    "networks": [
+      {
+        "name": "In-House (ravpower.com/pages/afiliates)",
+        "status": "ACTIVE — proprietary DTC affiliate program",
+        "commission_rate": "8–15%",
+        "commission_rate_notes": "Advertised range from official affiliate page. No third-party network confirmation. Search result snippet referenced '8%-20%' while page text showed '8%-15%' — likely tiered or campaign-dependent.",
+        "cookie_duration_days": 30,
+        "cookie_duration_notes": "Page lists '30/45 DAYS COOKIES' — likely 30-day base with 45-day extended (possibly for newsletter/email-driven traffic or incentive periods).",
+        "notes": "In-house only — no major affiliate network (Impact, Awin, CJ) detected. Monthly incentive campaigns, bonuses, and special prizes mentioned. Access: product catalog, exclusive promos, banners, text links upon approval. Commission attributed within 30 days of referral click."
+      }
+    ],
+    "commission_summary": "8–15% (potentially up to 20% during campaigns) on DTC sales only. No Amazon channel. In-house program with no managed network layer.",
+    "cookie_duration_days": 30,
+    "payment_threshold_usd": null,
+    "payment_cycle_days": null,
+    "aov_note": "RAVPower advertises $150+ average order value — notably higher than typical cable/charger accessory brands. Suggests positioning around higher-AOV power banks and portable chargers ($80–$200 range). At 8–15% commission this implies $12–$30+ per sale if AOV claim is accurate.",
+    "deeplink_support": null,
+    "datafeed_available": null,
+    "banner_ads_available": true,
+    "geo_active": ["US"],
+    "eligible_affiliates": [
+      "Content Publishers",
+      "Social Media",
+      "Blog / Website",
+      "Other Platforms (unspecified)"
+    ],
+    "prohibited_promotions": []
+  },
+
+  "company_status": {
+    "financial": "DISTRESSED-RECOVERY — Amazon ban (June 2021) removed ~31% of parent company (Sunvalleytek) revenue. Pivoted to DTC. Website active as of April 2026. Stock (Sunvalleytek) fell 12% on ban day. Long-term revenue trajectory unclear.",
+    "founded": null,
+    "parent": "Sunvalleytek International (publicly listed in China)",
+    "amazon_ban_date": "2021-06-16",
+    "amazon_ban_reason": "Incentivized reviews — offering gift cards in product packaging in exchange for positive Amazon reviews (violation since 2016). Reported by WSJ, confirmed by Amazon.",
+    "other_affected_brands": ["TaoTronics", "VAVA"],
+    "positioning": "Budget-to-mid range power banks, portable chargers, fast-charging adapters. Direct Amazon competitor profile. Post-ban, DTC focused with affiliate as primary affiliate acquisition channel since Amazon Associates route is closed.",
+    "product_lines": [
+      "Power Banks (PD Pioneer series — 10000mAh to 20000mAh, 20W–100W)",
+      "Fast Chargers / Wall Adapters",
+      "Cables (USB-C, Lightning)",
+      "Portable Power Stations (GaN)"
+    ]
+  },
+
+  "competitive_intel": {
+    "commission_vs_anker": "RAVPower 8–15% DTC >> Anker via Amazon Associates ~1–4%. RAVPower's rate is dramatically higher on paper — but Amazon ban means ZERO Amazon affiliate channel. Net reach is far smaller.",
+    "cookie_vs_anker": "RAVPower 30–45 days vs Anker Amazon 24-hour cookie. RAVPower wins attribution window by a large margin on DTC sales.",
+    "aov_vs_anker": "RAVPower claims $150+ AOV. If true, this competes with Anker's SOLIX/higher-ticket SKUs rather than cable accessories. Both brands have moved toward higher-AOV portable power. 8–15% on $150 = $12–$22.50 per sale — meaningful for content affiliates.",
+    "amazon_absence_risk": "CRITICAL WEAKNESS — No Amazon presence means no access to the 150M+ Amazon Prime subscriber base for affiliate traffic. Content affiliates who primarily link to Amazon cannot drive RAVPower DTC traffic. Major structural disadvantage vs Anker.",
+    "affiliate_risk": "HIGH — Amazon ban history signals compliance/trust risk for affiliates and networks. No major network backing (Impact, Awin) reduces affiliate discoverability. DTC-only program limits affiliate adoption.",
+    "reputation_flag": "Review manipulation scandal (2021) affects brand trust in affiliate/creator community. Tech content sites may avoid recommending RAVPower due to historical review inflation.",
+    "opportunity_for_anker": "Anker should highlight its legitimate Amazon presence and transparent review history when recruiting affiliates who lost RAVPower programs post-ban. RAVPower's high nominal commission rate is a red herring given reduced reach. Anker's network distribution (Amazon Associates, Impact) vastly outweighs RAVPower's in-house DTC program.",
+    "watch_items": [
+      "Any attempt to rejoin Amazon (brand reinstatement under new seller account)",
+      "Launch of third-party network program (Impact, Awin) would signal affiliate investment",
+      "Commission rate changes or new incentive structures"
+    ]
+  },
+
+  "history": [
+    {
+      "date": "2026-04-18",
+      "event": "First audit. No prior file. RAVPower DTC site confirmed active. In-house affiliate program at 8–15% commission, 30/45-day cookie, $150+ claimed AOV. No managed network (Impact/Awin/CJ) detected. Amazon ban still in effect since June 2021 — no evidence of reinstatement. Brand operating as DTC-only. High commission rate obscured by severely limited distribution vs Anker's multi-channel footprint.",
+      "change_flag": false
+    }
+  ],
+
+  "sources": [
+    "https://www.ravpower.com/pages/afiliates",
+    "https://www.ravpower.com",
+    "https://www.tomsguide.com/news/amazons-removal-of-aukey-ravpower-and-other-brands-is-only-the-beginning",
+    "https://www.theverge.com/2021/6/16/22536976/amazon-ravpower-battery-charger-removed-amazon",
+    "https://tracxn.com/d/companies/ravpower/__JsKPKu4sUew12EMRNhFZ7qHk9zeDpsDyMMyirBqNjWY"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "competitors": [
+    "rad-power-bikes",
+    "aventon",
+    "lectric-ebikes",
+    "ecoflow",
+    "belkin",
+    "ravpower",
+    "ugreen"
+  ],
+  "last_audited": "ravpower",
+  "last_audit_date": "2026-04-18",
+  "next_up": "ugreen",
+  "notes": "Cycle order: rad-power-bikes (Apr 13) → aventon (Apr 14) → lectric-ebikes (Apr 15) → ecoflow (Apr 16) → belkin (Apr 17) → ravpower (Apr 18) → ugreen (Apr 19) → repeat"
+}
