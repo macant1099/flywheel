@@ -1,0 +1,46 @@
+{
+  "competitor": "Ugreen",
+  "vendor_context": "Anker competitor (accessories, cables, chargers, hubs)",
+  "audit_history": [
+    {
+      "date": "2026-04-19",
+      "networks": [
+        {
+          "name": "Impact.com",
+          "status": "active",
+          "role": "primary",
+          "notes": "Official primary network; confirmed on ugreen.com/pages/affiliate FAQ"
+        },
+        {
+          "name": "ShareASale",
+          "status": "active",
+          "role": "secondary/legacy",
+          "notes": "US-focused legacy program; us.ugreen.com/pages/affiliates references ShareASale"
+        }
+      ],
+      "commission": {
+        "base": "8%",
+        "max": "15%",
+        "typical": "~11.2%",
+        "structure": "Tiered — minimum 8% guaranteed; performance tiers up to 15%",
+        "notes": "Avg order ~$50 → avg commission ~$5.60/sale"
+      },
+      "cookie_duration_days": 30,
+      "cookie_notes": "30-day window; ugreen.com markets this as 'exceeding industry standard'",
+      "payout": "Monthly",
+      "creatives": "Banners, seasonal campaigns, promo deal assets; updated regularly",
+      "support": "Dedicated affiliate team with resources and strategy support",
+      "monthly_earn_claim": "Up to $10,000/month (marketing copy)",
+      "program_url": "https://us.ugreen.com/pages/affiliate",
+      "changes_from_prior": null,
+      "first_audit": true,
+      "raw_signals": [
+        "Impact.com is confirmed primary network for global program",
+        "ShareASale still present for US (legacy path at /pages/affiliates)",
+        "8–15% commission with 30-day cookie is a strong competing offer vs Anker",
+        "Ugreen's affiliate page actively recruiting at 'up to 15%' headline rate"
+      ]
+    }
+  ],
+  "last_audited": "2026-04-19"
+}
