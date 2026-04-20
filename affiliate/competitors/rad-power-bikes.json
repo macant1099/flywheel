@@ -1,78 +1,97 @@
 {
   "competitor": "Rad Power Bikes",
   "vendor_context": "Priority Bicycles competitor (eBike category)",
-  "last_audited": "2026-04-13",
-  "status": "ACQUIRED — Post-bankruptcy, new ownership (Life EV / Rad Life Mobility)",
+  "last_audited": "2026-04-20",
+  "status": "TRANSITIONAL — Post-bankruptcy, new ownership (Life EV / Rad Life Mobility). Affiliate program in flux.",
 
   "affiliate_program": {
-    "active": true,
+    "active": "UNCERTAIN — Program page removed; tracking links still indexed",
     "networks": [
       {
         "name": "FlexOffers",
-        "status": "listed — post-acquisition status UNCONFIRMED",
-        "commission_rate": "~6%",
+        "status": "UNCONFIRMED (pre-bankruptcy listing, Feb 2025) — page blocked (Cloudflare 403)",
+        "commission_rate": "~6% (pre-bankruptcy rate, may no longer apply)",
         "cookie_duration_days": 30,
-        "notes": "Program listing as of Feb 2025; unclear if continued under Life EV"
+        "notes": "FlexOffers listing dated Feb 2025, before Dec 2026 bankruptcy filing. Continuity under Life EV / Rad Life Mobility unconfirmed. Page inaccessible."
       },
       {
         "name": "CPG Affiliate Partners",
-        "status": "listed (affi.io reference, pre-bankruptcy)",
+        "status": "INACTIVE (pre-bankruptcy; affi.io reference only)",
         "commission_rate": "unknown",
         "cookie_duration_days": null,
-        "notes": "Managed program pre-bankruptcy; continuity unknown"
+        "notes": "Managed program pre-bankruptcy; discontinued or paused."
       },
       {
-        "name": "Shopper.com (aggregator)",
-        "status": "listed",
-        "commission_rate": "EUR 0.98–14.42 per sale (~6%)",
+        "name": "Legacy tracking links (RPP-* codes)",
+        "status": "POSSIBLY ACTIVE — still indexed in search (RPP-VELOFJORD example)",
+        "commission_rate": "unknown",
         "cookie_duration_days": null,
-        "notes": "Aggregator listing, reflects FlexOffers data"
+        "notes": "Affiliate_code URL format (e.g. radpowerbikes.com/?affiliate_code=RPP-VELOFJORD) still surfacing in search. May be legacy links from pre-bankruptcy program or remnant partner tracking under new management."
       }
     ],
-    "commission_summary": "~6% standard; CA program historically 0.48%–2.4%",
-    "cookie_duration_days": 30,
+    "commission_summary": "DEGRADED — Shopper.com now shows EUR 0.97–1.1 flat per sale (vs ~6% previously). Dedicated affiliate page (radpowerbikes.com/pages/partner-with-us) returns 404 as of 2026-04-20.",
+    "cookie_duration_days": null,
     "deeplink_support": false,
-    "social_media_tracking": false
+    "social_media_tracking": false,
+    "program_page_status": "404 — page removed",
+    "program_page_url": "https://www.radpowerbikes.com/pages/partner-with-us"
   },
 
   "company_status": {
-    "financial": "CRITICAL — Chapter 11 bankruptcy filed December 15, 2025",
+    "financial": "RECOVERING — Chapter 11 bankruptcy filed December 15, 2025; acquired by Life Electric Vehicles Holdings (OTC: LFEV) for $13.2M, court-approved March 5, 2026",
     "acquisition": {
       "acquirer": "Life Electric Vehicles Holdings, Inc. (OTC: LFEV)",
       "acquisition_price_usd": 13200000,
       "auction_won": "2026-01-22",
       "court_approval_completed": "2026-03-05",
       "new_brand_name": "Rad Life Mobility",
-      "new_president": "Jim Brown (auto dealership background)"
+      "new_president": "Jim Brown (auto dealership background)",
+      "rehires": "Offers extended to ~95% of laid-off employees (as of March 7, 2026)"
     },
     "retail_footprint": {
       "current_stores": 7,
       "target_stores": 24,
-      "closures": ["Vancouver, BC", "St. Louis (during bankruptcy)"]
+      "closures": ["Vancouver, BC", "St. Louis (during bankruptcy)"],
+      "bike_shop_partners": "1,400+ (per website as of April 2026)"
     },
-    "manufacturing_plan": "Transitioning to US-based assembly via Foreign Trade Zone (FTZ)"
+    "riders_community": "680,000+ riders (per website)",
+    "manufacturing_plan": "Transitioning to US-based assembly via Foreign Trade Zone (FTZ); components sourced globally",
+    "ip_assets": "250+ granted patents (rack/cargo systems, trike, etc.)"
   },
 
   "competitive_intel": {
-    "pricing_model": "Direct-to-consumer; keeping low price positioning",
-    "affiliate_risk": "HIGH — Post-bankruptcy affiliate program continuity uncertain; new owner may restructure or launch new program",
-    "opportunity_for_priority": "Rad affiliate channel disruption creates window for Priority Bicycles to capture displaced Rad affiliates and content partners"
+    "affiliate_risk": "HIGH — Program page removed post-acquisition. Flat EUR ~1/sale payout (if accurate via Shopper.com) is a dramatic downgrade from ~6% commission. Affiliate channel appears dismantled or in rebuilding phase.",
+    "affiliate_channel_disruption": "CRITICAL OPPORTUNITY for Priority Bicycles — Rad's cycling content affiliates are likely in limbo. No active program to link to, no page to apply at. Priority should run an outreach campaign targeting former Rad affiliate partners.",
+    "program_page_404": "radpowerbikes.com/pages/partner-with-us returned 404 as of 2026-04-20. This is a confirmed change from the pre-acquisition state where the page was indexed and described a content creator partnership application.",
+    "legacy_tracking": "RPP-* affiliate_code URLs still indexed in Google — suggests some legacy partner links may still function (or not yet expired in tracking system), but no active affiliate program for new recruitment.",
+    "opportunity_for_priority": "High-priority window: Rad affiliate program dark → Priority Bicycles + Priority can capture review site publishers, YouTube cycling channels, and eBike bloggers who are currently without a Rad program to promote. Launch targeted outreach NOW."
   },
 
   "history": [
     {
       "date": "2026-04-13",
-      "event": "First audit. No prior file. Discovered post-bankruptcy acquisition by Life EV (Mar 2026). Affiliate program status under new owner unconfirmed.",
+      "event": "First audit. No prior file. Discovered post-bankruptcy acquisition by Life EV (Mar 2026). FlexOffers listing ~6%, 30-day cookie. Affiliate program status under new owner unconfirmed.",
       "change_flag": true
+    },
+    {
+      "date": "2026-04-20",
+      "event": "Second audit. SIGNIFICANT CHANGES: (1) radpowerbikes.com/pages/partner-with-us now returns 404 — dedicated affiliate page removed post-acquisition. (2) Shopper.com data now shows EUR 0.97–1.1 flat per sale vs prior ~6% commission — dramatic rate downgrade if accurate. (3) FlexOffers listing still indexed (Feb 2025) but page access blocked (Cloudflare 403) — program status unconfirmed. (4) Legacy RPP-* affiliate tracking codes still indexed in search. Discord alert fired. Program classified as DARK / REBUILDING under Rad Life Mobility.",
+      "change_flag": true,
+      "changes_detected": [
+        "Partner/affiliate page returns 404 (previously indexed with content)",
+        "Shopper.com rate data shows EUR 0.97–1.1/sale flat (vs ~6% FlexOffers rate)",
+        "FlexOffers program continuity unconfirmed",
+        "Legacy RPP-* codes still indexed — possible residual tracking"
+      ]
     }
   ],
 
   "sources": [
-    "https://techcrunch.com/2025/11/10/rad-power-bikes-faces-shutdown-in-january-without-new-funding/",
-    "https://www.bicycleretailer.com/industry-news/2026/03/16/rad-power-bikes-given-new-life-after-acquisition",
-    "https://elevenflo.com/blog/rad-power-bikes-bankruptcy-363-sale",
-    "https://www.geekwire.com/2026/rad-power-bikes-brand-will-live-on-as-life-ev-completes-acquisition-of-seattle-e-bike-makers-assets/",
+    "https://www.radpowerbikes.com/pages/partner-with-us (404 as of 2026-04-20)",
     "https://www.flexoffers.com/affiliate-programs/rad-power-bikes-affiliate-program/",
-    "https://www.shopper.com/partnerships/radpowerbikes-com-affiliate-program"
+    "https://www.shopper.com/partnerships/radpowerbikes-com-affiliate-program",
+    "https://www.radpowerbikes.com/blogs/the-scenic-route/life-ev-completes-rad-power-bikes-asset-acquisition",
+    "https://www.geekwire.com/2026/rad-power-bikes-new-owner-wants-to-rehire-employees-open-stores-and-return-e-bike-brand-to-glory-days/",
+    "https://www.bicycleretailer.com/industry-news/2026/03/16/rad-power-bikes-given-new-life-after-acquisition"
   ]
 }
