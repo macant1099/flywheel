@@ -1,0 +1,186 @@
+{
+  "audit_date": "2026-04-20",
+  "audited_by": "Mac Ant (Flywheel Affiliate Intelligence Engine)",
+  "vendor": "Anker",
+  "vendor_url": "https://www.anker.com",
+  "category": "consumer_electronics",
+  "affiliate_program": {
+    "status": "active",
+    "program_page": "https://www.anker.com/become-an-affiliate",
+    "networks": [
+      {
+        "name": "Rakuten Advertising / LinkShare",
+        "signup_url": "https://signup.linkshare.com/publishers/registration/landing?mid=43469",
+        "status": "active",
+        "notes": "Primary US network; signup link confirmed active on program page"
+      },
+      {
+        "name": "Impact.com",
+        "signup_url": "http://app.impact.com/campaign-campaign-info-v2/Anker.brand",
+        "status": "active",
+        "notes": "Second US network — dual listing confirmed; both GET STARTED links present on program page"
+      },
+      {
+        "name": "Webgains",
+        "notes": "Anker Nordics (program ID 310162); 8–15% commission range by product type and volume",
+        "status": "active",
+        "region": "Nordic/EU"
+      },
+      {
+        "name": "CueLinks",
+        "notes": "India/International market; 4.5% payout as of March 2026 listing",
+        "status": "active",
+        "region": "India/International"
+      },
+      {
+        "name": "Indoleads",
+        "notes": "CPA network; active since May 2025; Southeast Asian affiliate reach",
+        "status": "active",
+        "region": "International/SEA"
+      }
+    ],
+    "commission": {
+      "rate_percent_us": 8.0,
+      "rate_percent_uk": 7.0,
+      "rate_percent_eu_de": 8.0,
+      "rate_range_nordics": "8–15%",
+      "rate_international_cuelinks": 4.5,
+      "type": "flat (US/UK/EU); tiered by product type and volume (Nordics)",
+      "notes": "8% consistent flat rate on all US transactions — unchanged from prior audits. Nordics tiered ceiling remains 15%. SOLIX sub-brand separate at 5%."
+    },
+    "cookie_duration_days": 30,
+    "stated_conversion_rate_pct": 2.0,
+    "contact_email": "affiliate@anker.com",
+    "creative_assets": {
+      "availability": "self_serve_plus_managed",
+      "types": [
+        "banner_ads",
+        "text_links",
+        "data_feeds",
+        "custom_coupon_codes",
+        "seasonal_promotions"
+      ],
+      "notes": "Program page confirms: regularly updated banners and text links; special coupons and seasonal promotions; dedicated affiliate manager. Data feed enables programmatic and AI-assisted placement integrations. No new creative formats detected this cycle."
+    },
+    "payment_terms": "Standard network payment terms via Rakuten Advertising / Impact.com; no minimum threshold explicitly stated on program page",
+    "application_required": true,
+    "approval_type": "review_via_network",
+    "publisher_types_supported": [
+      "blogs",
+      "forums",
+      "product_review_sites",
+      "social_media",
+      "publishing_houses",
+      "individual_creators"
+    ],
+    "restrictions": [
+      "No false/tampered links",
+      "No simulated purchase patterns or scripts",
+      "No persistent or full-screen pop-ups"
+    ]
+  },
+  "sub_brand_programs": {
+    "anker_solix": {
+      "program_page": "https://www.ankersolix.com/become-an-affiliate",
+      "commission_pct": 5.0,
+      "cookie_duration_days": 30,
+      "category": "portable_power",
+      "notes": "Separate program for energy/power station sub-brand. 5% commission reflects higher AOV products ($200–$3,000+). Standalone content strategy recommended."
+    },
+    "ankerwork": {
+      "program_page": "https://us.ankerwork.com/pages/become-an-affiliate",
+      "notes": "Workplace/B2B accessories sub-brand. Commission rate UNCONFIRMED — now 4 consecutive audit cycles without resolution. Direct outreach to affiliate@anker.com is overdue and required."
+    },
+    "anker_referral_program": {
+      "url": "https://www.anker.com/referral",
+      "type": "referral (not traditional affiliate)",
+      "referrer_reward_pct": 10.0,
+      "referee_discount_pct": 10.0,
+      "notes": "Consumer-facing referral (10% cash to referrer, 10% discount to referred). Distinct from affiliate program — higher incentive than affiliate rate but consumer-only scope."
+    },
+    "superchargers_creator_program": {
+      "url": "https://www.anker.com/content-creator",
+      "notes": "Content creator/influencer bridge program. High-quality content creators may be selected for inclusion in the traditional affiliate program. Relevant for social media affiliate recruitment pipeline."
+    }
+  },
+  "benchmark_comparison": {
+    "category": "consumer_electronics",
+    "category_commission_low_pct": 2.0,
+    "category_commission_median_pct": 5.0,
+    "category_commission_high_pct": 12.0,
+    "category_cookie_median_days": 30,
+    "vs_benchmark": {
+      "commission": "above_median — 8% vs 5% category median; sits in upper-mid band vs 12% high",
+      "cookie": "at_median — 30 days matches category standard",
+      "network_coverage": "strong — 5 networks confirmed (Rakuten, Impact, Webgains, CueLinks, Indoleads)"
+    }
+  },
+  "afare_signals": {
+    "commission_score": 4,
+    "commission_note": "8% significantly above 5% category median. Nordics ceiling of 15% is elite tier for the region.",
+    "cookie_score": 3,
+    "cookie_note": "30 days at category median. Competitive but not class-leading vs brands offering 45–60 day windows.",
+    "program_health": "strong",
+    "affiliate_friendliness": "high",
+    "strengths": [
+      "8% flat rate well above 5% category median — strong EPC signal for affiliates",
+      "5-network presence (Rakuten + Impact + Webgains + CueLinks + Indoleads) — broadest coverage in category peer group",
+      "Dedicated affiliate manager reduces activation friction for content partners",
+      "Self-serve creative library (banners, data feeds, custom links) enables rapid deployment",
+      "Seasonal coupons and promotions provide content hooks for deal publishers and review sites",
+      "SuperChargers creator program bridges social media influencers into traditional affiliate pipeline",
+      "Brand trust and product quality reduce pre-sale objections; 2% stated conversion rate above typical CE floor",
+      "April–May spring window: peak season for outdoor charging, power banks, and travel accessories"
+    ],
+    "weaknesses": [
+      "SOLIX sub-brand at 5% commission creates confusing rate discrepancy vs main Anker 8% — potential affiliate channel confusion",
+      "AnkerWork commission rate unconfirmed for FOUR consecutive audit cycles — escalation required",
+      "CueLinks international rate (4.5%) significantly below US rate — geographic rate fragmentation",
+      "No publicly stated payment schedule or minimum payout threshold on program page",
+      "30-day cookie at median — competitors with 45–60 day windows hold structural advantage on high-consideration purchases"
+    ],
+    "opportunities": [
+      "Spring/summer power bank and outdoor charging season = prime affiliate activation window — April/May, act now",
+      "SOLIX high-AOV products ($200–$3K) yield strong EPC even at 5%; warrants dedicated affiliate content brief",
+      "Nordics tiered model (up to 15%) could serve as template to pitch US volume-tier upgrade to Anker affiliate team",
+      "AI shopping agent compatibility: data feed availability supports programmatic and agent-mediated affiliate placements",
+      "Indoleads SEA presence opens Southeast Asian affiliate market — growing Anker region with rising e-commerce",
+      "Consumer referral program (10%) signals brand willingness to invest in incentive structures — leverage for upgrade conversations"
+    ],
+    "threats": [
+      "Amazon Associates default channel captures most casual Anker buyer traffic ahead of affiliate links",
+      "UGREEN (8–15%) and RAVPower (8–20%) offer comparable or higher ceiling commission rates",
+      "Multiple sub-brand programs without unified messaging risk fragmenting publisher attention",
+      "Flat US rate with no volume tier may not incentivize top-tier publishers vs higher-ceiling alternatives"
+    ]
+  },
+  "changes_since_last_audit": {
+    "last_audit_date": "2026-04-18",
+    "changes_detected": "None. All program terms stable — 8% commission, 30-day cookie, 5-network footprint, creative asset types unchanged. AnkerWork commission rate remains unconfirmed for fourth consecutive cycle.",
+    "notable_observations": [
+      "Program page GET STARTED buttons confirmed: both Rakuten (linkshare.com) and Impact links live and active",
+      "SuperChargers creator program documented this cycle — bridge from influencer to affiliate pipeline",
+      "AnkerWork — 4th consecutive cycle unconfirmed: direct contact via affiliate@anker.com is now overdue",
+      "No new seasonal promotions visible on program page yet despite entering peak spring/outdoor season",
+      "Stated '30-day cookies that exceed industry standards' messaging unchanged — consistent brand positioning"
+    ],
+    "program_stability": "stable"
+  },
+  "benchmark_update": "none — consumer_electronics category benchmarks remain valid. Anker 8% US rate already reflected in example_programs. No new category-level data found this cycle warranting update to category-benchmarks.json.",
+  "recommended_actions": [
+    "ACTION REQUIRED: Email affiliate@anker.com immediately to resolve AnkerWork commission rate — 4 cycles unresolved",
+    "Activate spring affiliate content calendar: power banks, outdoor charging, travel chargers — peak window is NOW (April–May)",
+    "Brief high-AOV SOLIX content partners on separate 5% program with EPC context ($200–$3K AOV = strong earnings)",
+    "Evaluate pitch to Anker affiliate team: US volume-tier program modeled on Nordics tiered structure (8–15%) to capture top publishers",
+    "Document SuperChargers creator program as influencer-to-affiliate recruitment pipeline in partner development playbook",
+    "Cross-reference with Mac Bee ACES signal data on Anker brand visibility for full Flywheel composite score update"
+  ],
+  "sources": [
+    "https://www.anker.com/become-an-affiliate",
+    "https://www.anker.com/content-creator",
+    "https://www.webgains.com/front/publisher/program/view/programID/310162",
+    "https://linkclicky.com/affiliate-program/anker/",
+    "https://www.cuelinks.com/campaigns/anker-affiliate-program",
+    "https://indoleads.com/blog/new-offer-launched-anker-affiliate-program/"
+  ]
+}
