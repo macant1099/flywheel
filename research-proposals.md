@@ -198,6 +198,47 @@ Two compounding crises are simultaneously hitting affiliate publisher economics 
 
 ---
 
+## PROP-012 · Walmart Creator Program — Retailer-Native Creator Affiliate at Scale
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | industry/networks |
+| **Surfaced** | 2026-04-20 |
+
+**Signal sources:**
+- Marketing Dive (Apr 2026): "The Walmart Creator program centralizes how the company works with creators and has grown 'substantially' since its beta launch in 2022, Henry said. Built with an affiliate program at its foundation, Walmart Creator lets creators monetize their content through shoppable products, earning a revenue share off products sold." — https://www.marketingdive.com/news/inside-walmarts-creator-driven-social-commerce-playbook/816113/
+- Retail Dive (Apr 2026): Identical coverage confirming Walmart Creator as affiliate-at-foundation social commerce program with shoppable product experiences — https://www.retaildive.com/news/inside-walmarts-creator-driven-social-commerce-playbook/816440/
+- ALM Corp (Apr 2026): "Creator content can shift brand perception and expand awareness of assortment, style, convenience, and value. But Walmart is also structuring the program around affiliate links, shoppable experiences, seller collaborations, and performance tracking. That points to a model where creators support both upper-funnel discovery and measurable commerce outcomes." — https://almcorp.com/blog/walmart-creator-social-commerce-strategy/
+- StoresAutomation (Feb 20, 2026): "Launched to simplify how creators collaborate with Walmart, it allows content creators, bloggers, and social media influencers to discover Walmart products, generate affiliate links, and earn commissions on qualifying purchases — all from one platform." — https://storesautomation.com/walmart-creator-program/
+- Walmart Corporate (Nov 2025): Official program announcement confirming Walmart Creator is an affiliate program "that helps creators earn money by sharing and recommending Walmart products through their social channels" — https://corporate.walmart.com/news/2025/11/12/creators-at-the-core-evolving-the-walmart-creator-program-together
+
+**Why it matters:**
+Walmart — the world's largest retailer — is running a mature, growing creator affiliate program built explicitly on affiliate-link economics, and is structuring it to support both discovery (upper-funnel content) and measurable commerce outcomes (performance tracking, revenue share). This is distinct from PROP-004 (Meta Facebook Affiliate Partnerships, which connects social platforms to external marketplace inventory) — Walmart Creator is the retailer itself building the creator affiliate layer directly. For LiveChannel vendors who sell via Walmart Marketplace, Walmart Creator is an affiliate distribution channel for their products: creators can generate shoppable affiliate links to vendor listings and earn commissions on sales. This is structurally competitive with Amazon Associates (which serves the same function for Amazon Marketplace sellers) and positions Walmart as a third major retailer-native affiliate ecosystem alongside Amazon and TikTok Shop. Vendors need to understand how to structure Walmart Marketplace listings to take advantage of creator-driven affiliate discovery, and how Walmart Creator competes with or complements their direct affiliate programs. The program's substantial growth since 2022 and its multi-channel reach (social + shoppable experiences + seller collaborations) makes this one of the most important underreported affiliate distribution channels for DTC/marketplace vendors in 2026.
+
+---
+
+## PROP-013 · GEO (Generative Engine Optimization) — Affiliate Publisher Strategy for the AI Search Era
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | industry/publisher-economics |
+| **Surfaced** | 2026-04-20 |
+
+**Signal sources:**
+- GenOptima (Apr 2026): "Gartner projects that organic search traffic to commercial websites will decline 25% by 2026 as consumers shift discovery to ChatGPT, Perplexity, Gemini, and Copilot. Yet fewer than 12% of marketing teams have a documented strategy for appearing in AI-cited results." — https://www.gen-optima.com/geo/generative-engine-optimization-best-practices-2026/
+- LLMRefs (Apr 2026): "Your goal with generative engine optimization is to be one of the sources the AI retrieves and cites. Citation. The response includes links or references to the original sources. These citations drive referral traffic back to the websites that were used." — https://llmrefs.com/generative-engine-optimization
+- Jasper (Apr 2026): How GEO and AEO (Answer Engine Optimization) help content get cited by AI search engines like ChatGPT, Perplexity, and Google AI Overviews — https://www.jasper.ai/blog/geo-aeo
+- EnrichLabs (Feb 24, 2026): "Teams that track only rankings and organic clicks will miss their GEO performance entirely. Adding AI referral traffic tracking in GA4 takes 10 minutes and should be standard practice for any content marketing program in 2026." — https://www.enrichlabs.ai/blog/generative-engine-optimization-geo-complete-guide-2026
+- Awin (Jan 29, 2026): "On Awin, that's made easier through our integration with wecantrack, which crunches data from over 350 affiliate networks and marketing platforms to give publishers the insights to diversify their visitor acquisition. Bill doesn't predict the wholesale shift of traffic SEO to GEO in 2026, but the next year will only see things moving in one direction." — https://www.awin.com/us/sector-insights/affiliate-marketing-trends-2026
+- PropellerAds (Dec 2025): "Generative engine optimization GEO isn't coming — it's here. And sure, you can keep optimizing for page 1… or start ranking in the answer itself." — https://propellerads.com/blog/adv-geo-generative-engine-optimization/
+
+**Why it matters:**
+GEO is structurally distinct from every existing proposal and research file. PROP-011 (AI Zero-Click Traffic Collapse) diagnoses the problem: affiliate publishers are losing 25-37% of their SEO traffic to AI-generated answers that don't send users to source sites. GEO is the proactive strategic response: optimizing content specifically to be *cited* by AI search engines, converting what could be zero-click dead ends into AI-generated citations that drive referral traffic. The mechanics are different from traditional SEO — authority signals, structured data, schema markup, answer-intent content formatting, and factual density all matter for AI citation eligibility, while traditional keyword placement matters less. For LiveChannel vendors, GEO has two direct implications: (1) their affiliate partners' ability to appear in AI-cited results is now a primary traffic acquisition channel, and vendors should understand how to brief affiliates on GEO-friendly content (factual specs, authoritative product descriptions, structured reviews); (2) vendors' own product pages and brand content need GEO optimization to appear in AI-generated shopping recommendations — the same AI that's cannibalizing affiliate traffic can *become* an affiliate distribution channel if the vendor's content is structured to be cited. Fewer than 12% of marketing teams have a documented GEO strategy, making this an early-mover advantage window for vendors who act in 2026. This research would give Flywheel a vendor-facing framework for GEO adoption and a new AFARE scoring dimension (AI citation visibility).
+
+---
+
 ## PROP-003 · Membership Commerce + Recurring Affiliate Commission Models
 
 | Field | Value |
