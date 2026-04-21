@@ -239,6 +239,29 @@ GEO is structurally distinct from every existing proposal and research file. PRO
 
 ---
 
+## PROP-014 · Affiliate Industry Self-Regulation — Dual Code of Conduct Launches Following PayPal Honey Controversy
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | industry/regulation-compliance |
+| **Surfaced** | 2026-04-21 |
+
+**Signal sources:**
+- Hello Partner (Apr 2, 2026): "APMA Looks to Tame Subnetwork Wild West with Code of Conduct" — The Affiliate and Performance Marketing Association (APMA) releases a voluntary Code of Conduct for subnetworks, seeking industry consultation. Sets minimum standards for subnetworks operating within affiliate and partner marketing programs, with specific focus on transparency. — https://hellopartner.com/2026/04/02/apma-seeks-to-tame-subnetwork-wild-west-with-code-of-conduct/
+- Hello Partner (Apr 8, 2026): "New Affiliate Code of Conduct Aims to Standardise Software Guidance" — A second Code of Conduct, *Affiliate Software Code of Conduct* (affiliatecoc.org), launches the same week, co-authored by industry veteran James Little and compliance expert Ben Edelman. Directly triggered by the PayPal Honey browser extension controversy. Targets ambiguous attribution rules, lack of "session" definitions, and fair-attribution/auditability standards for affiliate software publishers. Open for industry comment. — https://hellopartner.com/2026/04/08/new-affiliate-code-of-conduct-aims-to-standardise-software-guidance/
+- APMA Official (Apr 2026): Official APMA subnetworks consultation page — "The Code of Conduct will be a detailed set of rules that subnetworks will be asked to sign up to. The Code covers a range of operational areas, with a specific focus on transparency." — https://theapma.co.uk/subnetworks-code-of-conduct-consultation/
+- Affiliate Software Code of Conduct (2026): Official site open for industry comment — https://www.affiliatecoc.org/
+
+**Why it matters:**
+Two parallel industry self-regulation initiatives launched within a single week in April 2026 — both directly triggered by the PayPal Honey controversy, in which Honey's browser extension was accused of hijacking last-click attribution and overwriting legitimate affiliate referrals. The PayPal settlement and regulatory scrutiny created a reckoning: the industry's existing guidelines were written years ago and left too many definitions open to interpretation ("session" is never defined in most network terms; cookie overwrite rules vary between networks). The result: publishers, subnetworks, and software extensions operated under ambiguous rules that enabled Honey-style behavior at scale.
+
+For LiveChannel vendors, this has two direct implications: (1) **Program integrity risk** — vendors running affiliate programs through major networks (CJ, Awin, Impact, etc.) are exposed to subnetwork and browser-extension publishers that may be overwriting attribution from legitimate referrers, silently redirecting commissions. The Honey controversy showed this can persist for years undetected. The new Code of Conduct initiatives, if adopted, would require publishers to adhere to clear attribution rules and allow for auditability — giving vendors a basis to audit and remove non-compliant publishers from their programs. (2) **Network selection signal** — networks that adopt and enforce these Codes of Conduct become materially safer choices for vendors managing affiliate program integrity; networks that don't become liability vectors. Flywheel's AFARE scoring framework should incorporate Code of Conduct adoption by tracked networks (Awin, CJ, Impact, Rakuten, ShareASale) as a program safety dimension.
+
+This is structurally distinct from all existing proposals: PROP-001 covers *government regulatory enforcement* (FTC); PROP-008 covers *UK/EU statutory regulation* (CMA, ASA); this is *voluntary industry self-regulation* — a different category with different adoption dynamics, compliance pathways, and vendor-facing implications.
+
+---
+
 ## PROP-003 · Membership Commerce + Recurring Affiliate Commission Models
 
 | Field | Value |
