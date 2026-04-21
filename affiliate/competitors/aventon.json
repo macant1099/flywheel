@@ -1,7 +1,7 @@
 {
   "competitor": "Aventon",
   "vendor_context": "Priority Bicycles competitor (eBike / commuter bike category)",
-  "last_audited": "2026-04-14",
+  "last_audited": "2026-04-21",
   "status": "ACTIVE — Healthy direct-to-consumer eBike brand; US, CA, DE storefronts",
 
   "affiliate_program": {
@@ -52,6 +52,11 @@
   },
 
   "history": [
+    {
+      "date": "2026-04-21",
+      "event": "Routine audit. No changes. aventon.com affiliate page confirms 4% commission / 30-day cookie / AvantLink / 2.5% CVR — all stable. Third-party aggregator (magentheme) listed '5-10% / AvantLink+Refersion' but this is unconfirmed and contradicted by the authoritative source. FlexOffers secondary listing still active (last indexed Jan 2026). Company status: 3 storefronts (US/CA/DE) active.",
+      "change_flag": false
+    },
     {
       "date": "2026-04-14",
       "event": "First audit. No prior file. Confirmed AvantLink as primary network, 4% commission, 30-day cookie, 2.5% CVR. FlexOffers secondary listing also active. Company stable — US, CA, DE storefronts, Aventon App live.",
