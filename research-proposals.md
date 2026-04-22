@@ -262,6 +262,45 @@ This is structurally distinct from all existing proposals: PROP-001 covers *gove
 
 ---
 
+## PROP-015 · Instagram Reels Native Affiliate Link Embedding — External Links Direct-to-Reel
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | industry/platforms |
+| **Surfaced** | 2026-04-22 |
+
+**Signal sources:**
+- Hello Partner (Apr 8, 2026): "Head of Instagram Adam Mosseri announced a huge update to affiliate links on Reels" — enabling creators to add affiliate links to products featured in their Reels — https://hellopartner.com/2026/04/08/instagram-announces-huge-affiliate-link-update-to-increase-earning-chances-for-creators/
+- Affiverse (Apr 8, 2026): "You can now use affiliate links to tag products in your reels and earn a commission when people shop your content" — confirmed via Mosseri's direct announcement — https://www.affiversemedia.com/instagram-now-lets-creators-add-affiliate-links-to-reels/
+- Draper Online (Apr 8, 2026): "Introduces the ability for creators to add affiliate links to products featured in their Reels, enabling them to earn a commission when users make a purchase" — https://www.drapersonline.com/news/instagram-trials-affiliate-links-for-reels
+- inro.social (Apr 2026): "No bio redirect, no third-party hub, no extra steps. Who can use it: Creators aged 18 or older with at least 1,000 followers. The feature is rolling out in phases through spring 2026." — https://www.inro.social/blog/instagram-affiliate-links
+- aerchacon.com (Apr 2026): "As of April 2026, Instagram lets creators add shoppable affiliate links directly inside Reels using the 'Add products' option on the publish screen" — https://aerchacon.com/blog-instagram-affiliate-links.html
+- JoinBrands (Apr 2026): Meta confirmed expansion of affiliate commerce to all 22 Instagram commerce markets through spring 2026 — https://joinbrands.com/blog/instagram-shop-2026/
+
+**Why it matters:**
+This April 7, 2026 Instagram update is structurally distinct from PROP-004 (Meta's Facebook Affiliate Partnerships with Amazon/Shopee/eBay/Temu/Mercado Libre). PROP-004 covers Meta's *native commission infrastructure* for specific marketplace partners. This update enables creators to embed *any external affiliate link* directly inside Instagram Reels — no third-party link-in-bio tool (Linktree, Beacons, etc.) required, no redirect, no extra steps. The implications for LiveChannel vendors are material: (1) any vendor with their own affiliate program on Impact, CJ, Awin, ShareASale, or direct can now be tagged by Instagram creators natively inside Reels content, lowering the friction barrier for creator-driven affiliate promotion dramatically; (2) the 1,000-follower eligibility threshold makes this accessible to the broad mid-tier creator pool, not just mega-influencers; (3) elimination of link-in-bio friction removes a known drop-off point in the creator affiliate conversion funnel — consumers can now click and purchase without leaving Reels; (4) phase rollout through spring 2026 across 22 markets signals platform-level scale comparable to the Facebook Affiliate Partnerships launch. Vendors should understand how to format product affiliate links and creative briefs to be Reels-native and optimize for the direct-tag workflow.
+
+---
+
+## PROP-016 · Twitch Affiliate Threshold Drops to 25 Followers + Affiliates Gain Sponsored Campaign Access
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | industry/platforms |
+| **Surfaced** | 2026-04-22 |
+
+**Signal sources:**
+- Tubefilter (Apr 7, 2026): "For the first time, Twitch opens sponsored campaigns (and their revenue) to Affiliates... Affiliate has a much lower bar; it just requires streamers to reach 25 followers, stream for four hours total across four different days, and reach an average of three viewers on those four different days." — https://www.tubefilter.com/2026/04/07/twitch-minecraft-tiny-takeover-affiliate-sponsored-campaign/
+- MSN / frostytools.com (Apr 2026): "Twitch is reducing Affiliate requirements to 25 followers, 4 hours streamed, 4 unique broadcasts, and 3 average viewers, making it easier for new creators to start earning." — https://www.msn.com/en-us/news/other/twitch-s-2026-updates-every-streamer-should-know/gm-GMF72493D3
+- MSN growth strategy piece (Apr 20, 2026): "Twitch's 2025–2026 updates lowered affiliate barriers, expanded monetization features, and improved revenue splits for loyal partners." — https://www.msn.com/en-us/news/other/level-up-your-twitch-growth-strategy-in-2026/gm-GMA302739F
+
+**Why it matters:**
+Twitch lowering its Affiliate eligibility threshold from 50 followers to 25 — combined with opening sponsored campaign revenue to the Affiliate tier for the first time — is a parallel platform shift to YouTube's 500-subscriber threshold reduction (PROP-007), but with important structural differences. First, the threshold drop itself: at 25 followers, 4 hours streamed, and 3 average concurrent viewers, Twitch has set the lowest affiliate eligibility bar in the livestream ecosystem. This dramatically expands the pool of Twitch creators who can now monetize, and who LiveChannel vendors can potentially recruit as affiliate partners. Second, and more significant: the April 2026 Minecraft Tiny Takeover campaign marks the *first time* Twitch has allowed Affiliates (not just Partners) to participate in brand-sponsored campaigns and share in the campaign revenue. This is a structural shift in how brand affiliate sponsorships flow on Twitch — previously, brand deals required Partnership status (which requires much higher follower counts and manual Twitch approval). Opening this to Affiliates means the long tail of Twitch streamers can now serve as paid affiliate ambassadors for brand campaigns. For LiveChannel vendors, this creates a new creator affiliate recruitment pool on the largest livestream platform outside of TikTok and YouTube — one where product demonstrations during live play are native to the format. Structurally distinct from PROP-007 (YouTube Shopping eligibility — a different platform with a different affiliate mechanic) and from PROP-005 (Live Commerce Competitive Landscape — which benchmarks platform commission structures rather than creator eligibility changes).
+
+---
+
 ## PROP-003 · Membership Commerce + Recurring Affiliate Commission Models
 
 | Field | Value |
