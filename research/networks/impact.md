@@ -226,7 +226,7 @@ sentiment: positive
 In 2025–2026, impact.com integrated creator (influencer) management directly into its performance platform. Brands can now manage affiliate programs and influencer campaigns from the same dashboard with consistent attribution across both channels. This follows the broader industry trend of collapsing the affiliate/influencer distinction into a single performance layer. For vendors evaluating network infrastructure, impact.com's unified approach reduces tooling fragmentation and is a material differentiator vs. point-solution competitors.
 
 ---signal---
-id: news-20260422-001
+id: news-20260422-007
 signal: impact.com launches Geodesix — AI data marketplace monetizing publisher content for AI systems with licensed commerce data
 date: 2026-01-28
 source: https://finance.yahoo.com/news/impact-com-launches-geodesix-data-150500271.html
@@ -238,7 +238,7 @@ sentiment: positive
 impact.com launched Geodesix (Jan 28, 2026), a new data marketplace providing AI systems with licensed, high-quality commerce content from premium publishers, with a clear publisher compensation model. This is the first major affiliate/partnership platform to directly monetize publisher content for AI retrieval and inference — inserting Impact into the AI answer-supply chain. For Flywheel: vendors surfaced through Geodesix-connected publishers gain AI answer visibility without owning that content themselves. Accelerates Impact's relevance as an agentic commerce infrastructure layer and is a differentiated moat vs. CJ, Awin, and Rakuten.
 
 ---signal---
-id: news-20260422-002
+id: news-20260422-008
 signal: impact.com adopts YouTube Creator Partnerships API — unifies YouTube creator campaigns with affiliate performance data
 date: 2026-04-21
 source: https://www.exchangewire.com/blog/2026/04/21/impact-com-expands-youtube-collaboration-with-creator-partnerships-api-adoption/
@@ -250,7 +250,7 @@ sentiment: positive
 As an early adopter of YouTube's Creator Partnerships API (Apr 21, 2026), impact.com now lets brands discover YouTube creators, manage sponsorships, and measure campaign performance inside Impact using verified, creator-consented data — eliminating reliance on estimated metrics. End-to-end management: discovery, activation, attribution, and reporting unified with affiliate programs. CPO Max Ciccotosto: "As creators evolve into true media partners, brands need better data and clear performance insight." Closes the gap between influencer marketing and affiliate performance; strengthens Impact's unified-platform position vs. standalone influencer tools like LTK, AspireIQ, or Grin.
 
 ---signal---
-id: news-20260422-003
+id: news-20260422-009
 signal: Impact.com "Answer Era" thesis — affiliate/publisher partnerships are the primary AI brand visibility strategy, not owned websites
 date: 2026-04-14
 source: https://impact.com/affiliate/ai-brand-visibility-strategy/
