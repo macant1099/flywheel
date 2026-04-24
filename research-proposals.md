@@ -319,3 +319,28 @@ Twitch lowering its Affiliate eligibility threshold from 50 followers to 25 — 
 As DTC brands increasingly shift toward membership tiers and subscription replenishment models (think coffee, supplements, outdoor consumables), the affiliate commission structure changes fundamentally: from one-time CPA to recurring monthly payouts. This creates higher lifetime value for affiliates and stronger loyalty incentives. For LiveChannel vendors in verticals like outdoor gear, consumer goods, and health products, understanding how to structure membership-linked affiliate programs is a competitive differentiator. Structurally distinct from all existing research files.
 
 ---
+
+## PROP-017 · Meta ACP In-App Checkout — Walled Garden Affiliate Attribution Problem
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | industry/attribution |
+| **Surfaced** | 2026-04-24 |
+
+**Signal sources:**
+- Marketing Brew (Apr 20, 2026): "At Shoptalk in Las Vegas last month, Meta debuted not only creator affiliate partnership features, but also checkout in its Business AI agent and retail media network product discovery offerings... PayPal and Stripe have signed on as launch partners, with Shopify and fintech platform Adyen to come." — https://www.marketingbrew.com/stories/2026/04/20/how-advertisers-are-thinking-about-meta-s-affiliate-tool-rollout
+- TechCrunch (Mar 25, 2026): "The advertiser is in control of which checkout partner they use, so when a consumer taps the 'Buy Now' button, they can complete the purchase and fulfill the order, while the user remains in Meta's app." — https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/
+- Stripe Blog (Shoptalk 2026): "Meta offered one example with a new Facebook checkout flow — built on the Agentic Commerce Protocol (ACP) — that takes shoppers from an ad click to product details, AI-generated review summaries, and the option to purchase without leaving the app." — https://stripe.com/blog/shoptalk-2026
+- eMarketer (Shoptalk Takeaways, Mar 2026): "Meanwhile, Meta announced it's using AI to improve post-click experiences by surfacing reviews, recommendations, and product details at key decision moments, as well as testing more seamless in-app checkout." — https://www.emarketer.com/content/agentic-shopping--outcome-driven-ai--creator-commerce--takeaways-shoptalk-2026
+
+**Why it matters:**
+Meta's Shoptalk 2026 launch of ACP-powered in-app checkout — where the consumer clicks an affiliate-linked product in Facebook/Instagram content and completes the full purchase without ever leaving Meta's app — creates a new and structurally underreported affiliate attribution crisis. Standard affiliate tracking relies on a pixel or server-side call that fires when a user lands on the merchant's order confirmation page. When checkout happens inside Meta's walled garden (PayPal/Stripe/Shopify as checkout partners, but the page never loads on the merchant's domain), the merchant's conversion pixel may never fire — meaning the affiliate who drove the click may not receive credit for the sale.
+
+This is **structurally distinct** from:
+- **PROP-004** (Meta Facebook Affiliate Partnerships): That covers Meta's native commission infrastructure for tagged marketplace products. This is about third-party affiliate links (on Impact, CJ, Awin, direct programs) where standard attribution mechanics break when checkout is completed in-app.
+- **PROP-011** (AI Zero-Click Traffic Collapse / Attribution Crisis): That covers AI *search discovery* eating attribution before the affiliate click. This covers attribution breaking *after* the click — at the checkout conversion step.
+- **PROP-015** (Instagram Reels Native Affiliate Link Embedding): That covers the click mechanic. This covers what happens to attribution after the click when Meta intercepts checkout.
+- **ai-agent-affiliates.md**: Covers ACP as a protocol for AI agents shopping autonomously. This covers the same protocol being used to wall off human-initiated affiliate conversions.
+
+For LiveChannel vendors, this has two immediate implications: (1) **Revenue leakage risk** — affiliate commissions may go uncredited to publishers who drove valid clicks if in-app checkout breaks attribution; this will cause publisher frustration and program churn once publishers realize they're not getting paid for conversions they drove; (2) **Tracking architecture reckoning** — vendors running affiliate programs need to audit whether their tracking setup (pixel vs. S2S / server-to-server) will survive Meta's in-app checkout environment. S2S tracking via Conversions API is more resilient than pixel-based — this may accelerate migration away from pixel attribution. With PayPal and Stripe already signed as Meta ACP checkout partners and Shopify/Adyen coming, this is not a future risk — it is live today for any affiliate link clicked within Facebook or Instagram content.

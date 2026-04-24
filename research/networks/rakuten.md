@@ -252,3 +252,18 @@ Rakuten International announced Rakuten Optimism 2026 — U.S. flagship marketin
 **Importance:** LOW
 
 Rakuten named its 2026 Preferred and Platinum agency partners — performance agencies recognized for innovation and client growth. Signals which agencies are now driving Rakuten's enterprise business in 2026 (useful for identifying who manages top advertiser programs on the network).
+
+---
+
+### 2026-04-24 — Rakuten × YouTube Shopping Japan Partnership (February 2026)
+**Source:** Rakuten Today (rakuten.today, ~Apr 2026) | https://rakuten.today/blog/rakuten-is-going-all-in-on-v-commerce-with-youtube.html | GlobeNewsWire Japan Social Commerce Q1 2026 Report (Apr 22, 2026)
+**Signal Type:** Partnership / V-Commerce / International
+**Importance:** MEDIUM-HIGH
+
+In February 2026, Google and Rakuten announced a landmark partnership to bring the YouTube Shopping affiliate program to Japan through Rakuten's affiliate infrastructure. Rakuten is positioned as the V-commerce (video commerce) distribution layer for YouTube Shopping in the Japanese market — combining YouTube's creator ecosystem with Rakuten's 100M+ Japanese loyalty member base and established affiliate network relationships.
+
+**Flywheel Relevance:**
+- **Network-Platform Integration Model:** This is the first major case of a traditional affiliate network (Rakuten) integrating directly with a platform-native shopping program (YouTube Shopping) to extend the platform's affiliate reach into a new geography. If successful in Japan, this model could replicate: CJ, Awin, or Impact partnering with YouTube Shopping in EMEA, LatAm, or APAC markets.
+- **V-Commerce Infrastructure:** Rakuten is explicitly positioning as a "V-commerce" (video commerce affiliate) infrastructure provider — connecting YouTube creators to brand affiliate programs through Rakuten's network. This is a direct competitor to TikTok Shop's native affiliate system in the Japan market.
+- **Japan Market Signal:** Japan's social commerce market is shifting from live-selling models toward "discovery-led commerce" (per Q1 2026 market reports) — creators surface products in content, conversions happen in trusted marketplaces. Rakuten's integration with YouTube positions it at the center of this discovery-to-purchase chain.
+- **LiveChannel Relevance:** Vendors with Japan market ambitions should monitor whether Rakuten × YouTube Shopping extends beyond Japan. For US-focused vendors, this signals that YouTube's affiliate program is actively seeking traditional network distribution partnerships — a structural integration that could eventually bring YouTube Shopping traffic into Rakuten Advertising's US publisher ecosystem.
