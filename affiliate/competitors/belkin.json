@@ -1,7 +1,7 @@
 {
   "competitor": "Belkin",
   "vendor_context": "Anker competitor (charging accessories, cables, screen protectors, smart home, wireless audio)",
-  "last_audited": "2026-04-17",
+  "last_audited": "2026-04-24",
   "status": "ACTIVE — Established global DTC + retail brand; Foxconn subsidiary since 2018",
 
   "affiliate_program": {
@@ -10,8 +10,8 @@
       {
         "name": "Impact (Impact Radius)",
         "status": "ACTIVE — primary managed network (global)",
-        "commission_rate": "~1–4% (varies by product/market; US base rate ~0.8–4%)",
-        "commission_rate_us": "0.8% base (Impact/affi.io US data); up to 4% per Shopper.com aggregator — likely tiered or category-dependent",
+        "commission_rate": "~0.48–3.84% (affi.io/Impact data 2026-04-24); Shopper.com still shows 'up to 4%' — may lag",
+        "commission_rate_us": "0.48% base (affi.io 2026-04-24, down from 0.8% recorded 2026-04-17); top end compressed to 3.84% from ~4%. Base rate dropped ~40%.",
         "cookie_duration_days": 30,
         "notes": "Primary global network. Program managed directly via belkin.com/company/affiliates. Payment via check, ACH, wire, or PayPal. $50 minimum payout threshold. Payment on 1st or 15th of month, or custom threshold. Daily reporting dashboard. Dynamic banners + HTML tag generator provided."
       },
@@ -23,7 +23,7 @@
         "notes": "Aggregator listing (June 2025 indexed). Lower than direct rate — standard aggregator haircut."
       }
     ],
-    "commission_summary": "~0.8–4% on sales via Impact; 2.7% via CueLinks aggregator. Rate appears category/market-tiered. US base is lower-end consumer electronics (~1%). AU, DE, GB markets also active.",
+    "commission_summary": "~0.48–3.84% on sales via Impact (as of 2026-04-24, down from ~0.8–4%); 2.7% via CueLinks aggregator. Rate appears category/market-tiered. Base rate compression detected. AU, DE, GB markets also active.",
     "cookie_duration_days": 30,
     "payment_threshold_usd": 50,
     "payment_cycle_days": "60–180",
@@ -84,6 +84,13 @@
       "date": "2026-04-17",
       "event": "First audit. No prior file. Confirmed Impact (Impact Radius) as primary network. US commission ~0.8–4% (tiered/category-dependent). 30-day cookie. $50 payout minimum. AU, DE, GB also active. CueLinks aggregator listing at 2.7%. Company stable under Foxconn. Belkin and Anker structurally similar in affiliate economics — both low-AOV, Impact-adjacent programs.",
       "change_flag": false
+    },
+    {
+      "date": "2026-04-24",
+      "event": "Rate compression detected. affi.io (Impact Radius data) now shows 0.48%–3.84%, down from 0.8%–4% recorded 2026-04-17. Base rate dropped ~40%. Shopper.com still shows 'up to 4%' — may lag. Belkin affiliate landing page headline updated to 'iPhone 17 Chargers' — active push into Apple iPhone 17 accessory category. Discord alert fired.",
+      "change_flag": true,
+      "change_type": "commission_rate_reduction",
+      "change_detail": "Base: 0.8% → 0.48% (−40%); Top: ~4% → 3.84%"
     }
   ],
 
