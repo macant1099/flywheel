@@ -1,27 +1,27 @@
 {
   "competitor": "RAVPower",
   "vendor_context": "Anker competitor (power banks, charging, cables, portable power stations)",
-  "last_audited": "2026-04-18",
+  "last_audited": "2026-04-26",
   "status": "ACTIVE DTC — Banned from Amazon since June 2021 (review manipulation). Pivoted to ravpower.com DTC channel. Parent: Sunvalleytek International.",
 
   "affiliate_program": {
     "active": true,
     "networks": [
       {
-        "name": "In-House (ravpower.com/pages/afiliates)",
+        "name": "In-House (ravpower.com/pages/affiliate)",
         "status": "ACTIVE — proprietary DTC affiliate program",
         "commission_rate": "8–15%",
-        "commission_rate_notes": "Advertised range from official affiliate page. No third-party network confirmation. Search result snippet referenced '8%-20%' while page text showed '8%-15%' — likely tiered or campaign-dependent.",
-        "cookie_duration_days": 30,
-        "cookie_duration_notes": "Page lists '30/45 DAYS COOKIES' — likely 30-day base with 45-day extended (possibly for newsletter/email-driven traffic or incentive periods).",
-        "notes": "In-house only — no major affiliate network (Impact, Awin, CJ) detected. Monthly incentive campaigns, bonuses, and special prizes mentioned. Access: product catalog, exclusive promos, banners, text links upon approval. Commission attributed within 30 days of referral click."
+        "commission_rate_notes": "Page body confirms 8%-15%. Search meta snippet advertises '8%-20% within 45 days' — 20% likely campaign/incentive tier. No change to base rate since last audit (2026-04-18).",
+        "cookie_duration_days": 45,
+        "cookie_duration_notes": "Page still shows '30/45 DAYS COOKIES'. Commission text body says 'within 30 days of referral click.' Search meta description now prominently says 'within 45 days' — 45-day window appears to be the headline cookie for marketing purposes. Recording 45 as primary.",
+        "notes": "In-house only — no major affiliate network (Impact, Awin, CJ) detected. Monthly incentive campaigns, bonuses, and special prizes mentioned. Access: product catalog, exclusive promos, banners, text links upon approval. New canonical URL discovered: /pages/affiliate (no typo) now active alongside legacy /pages/afiliates (typo). Both return identical content."
       }
     ],
-    "commission_summary": "8–15% (potentially up to 20% during campaigns) on DTC sales only. No Amazon channel. In-house program with no managed network layer.",
-    "cookie_duration_days": 30,
+    "commission_summary": "8–15% base (potentially up to 20% during campaigns) on DTC sales only. No Amazon channel. In-house program with no managed network layer.",
+    "cookie_duration_days": 45,
     "payment_threshold_usd": null,
     "payment_cycle_days": null,
-    "aov_note": "RAVPower advertises $150+ average order value — notably higher than typical cable/charger accessory brands. Suggests positioning around higher-AOV power banks and portable chargers ($80–$200 range). At 8–15% commission this implies $12–$30+ per sale if AOV claim is accurate.",
+    "aov_note": "RAVPower advertises $150+ average order value. At 8–15% commission this implies $12–$22.50 per sale at base rate; up to $30 at campaign peak. Higher-AOV positioning (power banks, portable chargers $80–$200 range).",
     "deeplink_support": null,
     "datafeed_available": null,
     "banner_ads_available": true,
@@ -42,7 +42,7 @@
     "amazon_ban_date": "2021-06-16",
     "amazon_ban_reason": "Incentivized reviews — offering gift cards in product packaging in exchange for positive Amazon reviews (violation since 2016). Reported by WSJ, confirmed by Amazon.",
     "other_affected_brands": ["TaoTronics", "VAVA"],
-    "positioning": "Budget-to-mid range power banks, portable chargers, fast-charging adapters. Direct Amazon competitor profile. Post-ban, DTC focused with affiliate as primary affiliate acquisition channel since Amazon Associates route is closed.",
+    "positioning": "Budget-to-mid range power banks, portable chargers, fast-charging adapters. Direct Amazon competitor profile. Post-ban, DTC focused with affiliate as primary acquisition channel since Amazon Associates route is closed.",
     "product_lines": [
       "Power Banks (PD Pioneer series — 10000mAh to 20000mAh, 20W–100W)",
       "Fast Chargers / Wall Adapters",
@@ -53,8 +53,8 @@
 
   "competitive_intel": {
     "commission_vs_anker": "RAVPower 8–15% DTC >> Anker via Amazon Associates ~1–4%. RAVPower's rate is dramatically higher on paper — but Amazon ban means ZERO Amazon affiliate channel. Net reach is far smaller.",
-    "cookie_vs_anker": "RAVPower 30–45 days vs Anker Amazon 24-hour cookie. RAVPower wins attribution window by a large margin on DTC sales.",
-    "aov_vs_anker": "RAVPower claims $150+ AOV. If true, this competes with Anker's SOLIX/higher-ticket SKUs rather than cable accessories. Both brands have moved toward higher-AOV portable power. 8–15% on $150 = $12–$22.50 per sale — meaningful for content affiliates.",
+    "cookie_vs_anker": "RAVPower 45-day headline cookie vs Anker Amazon 24-hour cookie. RAVPower wins attribution window by large margin on DTC sales.",
+    "aov_vs_anker": "RAVPower claims $150+ AOV. Both brands have moved toward higher-AOV portable power. 8–15% on $150 = $12–$22.50 per sale — meaningful for content affiliates.",
     "amazon_absence_risk": "CRITICAL WEAKNESS — No Amazon presence means no access to the 150M+ Amazon Prime subscriber base for affiliate traffic. Content affiliates who primarily link to Amazon cannot drive RAVPower DTC traffic. Major structural disadvantage vs Anker.",
     "affiliate_risk": "HIGH — Amazon ban history signals compliance/trust risk for affiliates and networks. No major network backing (Impact, Awin) reduces affiliate discoverability. DTC-only program limits affiliate adoption.",
     "reputation_flag": "Review manipulation scandal (2021) affects brand trust in affiliate/creator community. Tech content sites may avoid recommending RAVPower due to historical review inflation.",
@@ -62,23 +62,29 @@
     "watch_items": [
       "Any attempt to rejoin Amazon (brand reinstatement under new seller account)",
       "Launch of third-party network program (Impact, Awin) would signal affiliate investment",
-      "Commission rate changes or new incentive structures"
+      "Commission rate changes or new incentive structures",
+      "Whether 20% campaign rate becomes standardized as base rate"
     ]
   },
 
   "history": [
     {
       "date": "2026-04-18",
-      "event": "First audit. No prior file. RAVPower DTC site confirmed active. In-house affiliate program at 8–15% commission, 30/45-day cookie, $150+ claimed AOV. No managed network (Impact/Awin/CJ) detected. Amazon ban still in effect since June 2021 — no evidence of reinstatement. Brand operating as DTC-only. High commission rate obscured by severely limited distribution vs Anker's multi-channel footprint.",
+      "event": "First audit. RAVPower DTC site confirmed active. In-house affiliate program at 8–15% commission, 30/45-day cookie, $150+ claimed AOV. No managed network (Impact/Awin/CJ) detected. Amazon ban still in effect since June 2021 — no evidence of reinstatement. High commission rate obscured by severely limited distribution vs Anker's multi-channel footprint.",
+      "change_flag": false
+    },
+    {
+      "date": "2026-04-26",
+      "event": "Second audit. Program terms unchanged: 8–15% commission, 30/45-day cookie, $150+ AOV, in-house only. Two notable observations: (1) New canonical URL /pages/affiliate discovered (no typo) — both pages serve identical content. (2) Search meta snippet now prominently advertises '8%-20% within 45 days' — 20% is likely campaign rate; page body still shows 8%-15%. No Amazon reinstatement detected. No new network launch. No material change — no alert fired.",
       "change_flag": false
     }
   ],
 
   "sources": [
+    "https://www.ravpower.com/pages/affiliate",
     "https://www.ravpower.com/pages/afiliates",
     "https://www.ravpower.com",
     "https://www.tomsguide.com/news/amazons-removal-of-aukey-ravpower-and-other-brands-is-only-the-beginning",
-    "https://www.theverge.com/2021/6/16/22536976/amazon-ravpower-battery-charger-removed-amazon",
-    "https://tracxn.com/d/companies/ravpower/__JsKPKu4sUew12EMRNhFZ7qHk9zeDpsDyMMyirBqNjWY"
+    "https://www.theverge.com/2021/6/16/22536976/amazon-ravpower-battery-charger-removed-amazon"
   ]
 }
