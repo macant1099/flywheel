@@ -3,6 +3,29 @@ _Proposed new research topics from the discovery sweep. Status: proposed → app
 
 ---
 
+## PROP-018 · AI-Powered Creator Affiliate Commerce Platforms — The Commerce Conversion Layer (Markable, ShopMy, LTK)
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | industry/tools |
+| **Surfaced** | 2026-04-26 |
+
+**Signal sources:**
+- PRNewswire (Apr 23, 2026): "Markable, The Creator Platform Powering $1 Billion in Social Commerce Sales, Introduces Free Tier" — AI-driven creator platform used by 1,000+ top social media creators launches free access to deep links, AI product collage, AI bio link tools, and automated DM workflows. — https://www.prnewswire.com/news-releases/markable-the-creator-platform-powering-1-billion-in-social-commerce-sales-introduces-free-tier-302751055.html
+- e-commerce.news (Apr 24, 2026): "Markable launches free creator tier as social commerce grows" — Platform's AI tools convert posts, comments, and recommendations into purchases; expects to generate billions in annual sales by end of 2026. — https://e-commerce.news/story/markable-launches-free-creator-tier-as-social-commerce-grows
+- e-commerce.news (Apr 24, 2026): "Markable launches free AI tools to widen creator access" — Designed to help creators manage audience engagement and affiliate sales across social and retail channels simultaneously. — https://e-commerce.news/story/markable-launches-free-ai-tools-to-widen-creator-access
+- ecommercenews.co.nz (Apr 24, 2026): Independent NZ coverage confirming free tier launch and $1B+ GMV milestone. — https://ecommercenews.co.nz/story/markable-launches-free-creator-tier-as-social-commerce-grows
+
+**Why it matters:**
+Markable's April 23, 2026 free tier launch spotlights a distinct and underresearched category in the affiliate ecosystem: **creator affiliate commerce management platforms** — tools that sit between the affiliate network and the creator's social audience, converting published content into tracked affiliate sales. This category includes Markable, ShopMy (beauty/fashion-focused), and LTK (formerly LikeToKnowIt), all of which provide creators with affiliate link management, product tagging, shoppable storefront infrastructure, and audience conversion analytics.
+
+This is **structurally distinct from PROP-006** (AI tools for affiliate content *production* — ChatGPT, Sora, Flux.1). PROP-006 covers what creators *publish*. Creator commerce management platforms cover how that published content *converts to sales*: deep links that work across social platforms, automated DMs that respond to audience purchase intent, AI-generated product collages that increase click-through, and bio link tools that aggregate multiple affiliate destinations. The commerce conversion layer operates *after* content is published and *before* the affiliate network logs a commission.
+
+For LiveChannel vendors, this matters in three ways: (1) **Recruitment surface** — vendors with affiliate programs on Impact, CJ, Awin, or ShareASale can now be discovered and linked by creators using Markable/ShopMy/LTK without any direct partnership outreach; understanding how these platforms surface product inventory helps vendors optimize their catalog for creator discovery; (2) **Free tier democratization** — Markable going free (from a paid tool) lowers the barrier for mid-tier creators to adopt professional affiliate commerce management, expanding the active creator affiliate pool; (3) **Attribution complexity** — when a sale originates from a Markable deep link, the attribution chain includes Markable as an intermediary layer (similar to how coupon/cashback networks intermediate traditional affiliate traffic); vendors need to understand how commission credit flows through these platforms versus direct affiliate links. Tracking this category gives Flywheel a framework for creator affiliate recruitment efficiency and program visibility analysis.
+
+---
+
 ## PROP-001 · FTC 2026 Compliance: Disclosure Rules Expanded to Livestreams, Short-Form Video & AI Endorsements
 
 | Field | Value |
