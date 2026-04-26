@@ -241,3 +241,157 @@ _Weekly methodology review results. Each entry documents whether scoring dimensi
 - **AEO (Answer Engine Optimization) is a structural emerging signal** for Dimension 3 (Partner Ecosystem). As AI-powered answer engines replace Google for product discovery, the affiliate publisher landscape will shift. Criterion 3.5 (AI Agent Affiliate Presence) is already positioned for this. No change needed but importance is rising.
 - **Priority scoring targets:** Score vendors in `portable_power` and `fitness_equipment` categories to stress-test remaining benchmark categories. This was flagged in Review #1 and should be prioritized this coming week.
 - **No rubric changes made. Evidence threshold (3+ weeks) not met for any proposed change.**
+
+---
+
+## Review #3 — 2026-04-26 (Week 3)
+
+**Reviewer:** Mac Ant (automated weekly cron)
+**Vendors Scored:** 2 (Anker 65, Priority Bicycles 47)
+**Score Changes This Week:** 1 (Priority Bicycles 46→47, +1, Partner Ecosystem 3.3 upgrade on 2026-04-25)
+**Weeks of Data:** ~2.5 (system created 2026-04-11)
+**No +/-5 score movements this week.**
+
+---
+
+### Key Industry Signals This Week
+
+1. **AI retail traffic +393% YoY, converts 42% better than humans (Adobe Q1 2026)** — HIGH: Revenue per visit 37% higher. The AI-agent-as-affiliate channel has shifted from experimental to top-performing in 12 months. Repeated across every briefing this week — the signal is saturating.
+2. **Meta launches native affiliate tools on Instagram and Facebook** — HIGH: Shoppable Reels (30 product tags), affiliate banners, Partnership Ads Hub. Amazon, eBay, Shopee, Temu, Mercado Libre as launch partners. Adoption slow outside beauty/wellness.
+3. **Instagram "Shop the Look" AI auto-tagging controversy** — MEDIUM: AI visual recognition auto-tagging products in creator content without explicit consent. Attribution ambiguity and creator rights issues.
+4. **Anthropic Project Deal: AI agents negotiate real purchases** — HIGH: 186 deals, $4K+ in actual goods. "Agent quality gap" — more advanced models achieve objectively better outcomes. Proves agent-to-agent commerce is real, not theoretical.
+5. **Performance-based influencer compensation hits 53% adoption** — MEDIUM: Doubled in 2 years (Influencer Marketing Factory). Convergence of influencer and affiliate accelerating.
+6. **Partnerize launches "Lighthouse Program" for AI-driven influence compensation** — MEDIUM: ML-optimized commission calculation. Manual affiliate management being outpaced.
+7. **Ulta Beauty live with Google agentic commerce via Gemini** — MEDIUM: Google's Universal Commerce Protocol (UCP) in production. Another major retailer betting on agent commerce.
+8. **Cookie deprecation operational reality (week 3)** — MEDIUM (recurring): Server-side tracking now standard. No new enforcement data but signal stable.
+9. **FTC disclosure fines at $53,088/instance, enforcement up 40%** — HIGH (recurring): AI content rules now active. Joint liability extends to program operators.
+10. **Levanta acquires Perch+** — MEDIUM: Network consolidation continues. All-in-one aggregation platforms gaining ground.
+
+### Competitor Baselines This Week
+
+- **Belkin:** Competitor audit (2026-04-24) detected "rate compression" — Belkin at 0.8-4% (category low). Validates consumer_electronics benchmark floor. No benchmark change needed.
+- No new competitor scoring data for bicycles_dtc, portable_power, or fitness_equipment.
+
+---
+
+### Dimension Evaluations
+
+**Dimension 1: Program Presence (0-20)**
+- Sub-criteria relevance: All 5 criteria remain relevant and performing well.
+- New signals: Meta's Instagram/Facebook native affiliate tools (week 3 of tracking) strengthen the case for eventual social commerce platform presence consideration. However, 1.4 (LiveChannel/Membership Network Presence) is distinct from social-native affiliate. Instagram affiliate is closer to 1.2 (Niche/Vertical Network Coverage) or a new dimension entirely. No change warranted — Meta tools are a platform feature, not a network listing a vendor would "enroll" in.
+- Source issues: None. Network presence verifiable via direct observation.
+- Discrimination: 12 vs. 9 (3-point spread) — unchanged, adequate.
+- **Verdict: No changes.**
+
+**Dimension 2: Commission & Terms (0-20)**
+- Sub-criteria relevance: All 5 criteria working.
+- ⚠️ **Priority 2.2 Cookie Duration fix status:** The scoring fix (2→3) was NOT applied to the scorecard during this period. However, Priority's score moved 46→47 via a 3.3 Partner Quality upgrade on 2026-04-25. The 2.2 fix remains pending. **Action: Apply in next scoring pass. Expected effect: Priority 47→48.**
+- **TikTok hybrid compensation (week 3/3 threshold reached):** 3+ corroborating sources across 3 weeks. Performance-based compensation at 53% adoption (Influencer Marketing Factory). Portland Leather Goods $1M TikTok blitz used contest/bonus mechanics. However, the hybrid model (flat fee + commission) is primarily a *TikTok Shop creator deal structure*, not a program-level commission structure that AFARE measures. Current criterion 2.4 already captures "bonus payments for new affiliate activation" at score 3 and "SPIFFs, contest/leaderboard programs" at score 4. The hybrid model fits within existing rubric language. **Decision: No rubric change. Existing 2.4 language at scores 3-4 already accommodates hybrid compensation structures. Close tracking.**
+- Amazon Associates effective commission impact: 2 weeks since policy changes. No observed benchmark-level shifts yet. Continue monitoring.
+- Discrimination: 14 vs. 9 (5-point spread) — good.
+- **Verdict: No rubric changes. Priority 2.2 fix still pending (week 3). TikTok hybrid tracking CLOSED — existing rubric sufficient.**
+
+**Dimension 3: Partner Ecosystem (0-20)**
+- Sub-criteria relevance: All 5 criteria working.
+- AI Agent Affiliate (3.5): Adobe's 393% AI traffic surge + 42% better conversion + Anthropic Project Deal + Google UCP in production with Ulta all strengthen the strategic importance of this criterion. Both vendors still at 1/4. Floor effect persists but is market-stage appropriate, not a rubric flaw. Importance is accelerating — this criterion may become the most differentiated in AFARE within 6-12 months as early-mover vendors build agent affiliate tiers.
+- 3.1 Active Affiliate Count estimation methodology: **Due this review.** Proposed formula: `estimated_active = Σ(network_visibility_score) × category_activation_rate × program_age_factor`. Deferred again — insufficient data points (n=2) to validate any formula. Need 5+ vendors scored first. **Rescheduled to Review #5 or when n≥5 vendors scored, whichever comes first.**
+- Instagram "Shop the Look" AI auto-tagging raises attribution questions for 3.2 (Partner Type Diversity) — if platforms auto-create affiliate relationships without explicit enrollment, how do we count those partners? Not a scoring issue yet. Monitoring.
+- Discrimination: 14 vs. 12 (2-point spread) — tightest dimension. Compressed further from last week (was 14 vs. 11). Both vendors upgrading partner quality (3.3) narrows the spread. Not a rubric problem — it reflects genuine similarity in editorial partner quality for two well-positioned DTC brands.
+- **Verdict: No changes. 3.1 estimation formula deferred to Review #5 or n≥5.**
+
+**Dimension 4: Tracking & Attribution (0-20)**
+- Sub-criteria relevance: All 5 criteria working.
+- Cookie deprecation (week 3/3 threshold): Server-side tracking is confirmed operational standard. Current 4.1 rubric scores server-side tracking at 3+ and cookie-only at 1-2. This correctly discriminates. **No rubric change needed — existing 4.1 already captures the cookieless transition.**
+- Compliance qualifier for 4.1 (week 3/3 threshold): FTC fines at $53K/instance + enforcement up 40% + AI content disclosure rules. However, compliance is a *legal/program management* concern, not a *tracking technology* measurement. Adding compliance to Dimension 4 would conflate technical infrastructure with program governance. **Decision: Do not add compliance qualifier to 4.1. If compliance becomes a scoring dimension, it belongs as a new Dimension 6 or as a cross-cutting modifier — not within Tracking & Attribution. Close tracking for Dimension 4; open new monitoring item for potential Dimension 6.**
+- Partnerize "Lighthouse Program" (AI-driven commission optimization) is a network-level feature, not a vendor-scored attribute. No rubric impact.
+- Source issues: Creative assets (4.4) and API/feeds (4.5) confidence remains Medium. Recurring gap (week 3).
+- Discrimination: 13 vs. 9 (4-point spread) — good.
+- **Verdict: No changes. Compliance qualifier CLOSED for Dim 4; new monitoring item opened for potential standalone compliance dimension.**
+
+**Dimension 5: LiveChannel Readiness (0-20)**
+- Sub-criteria relevance: All 5 criteria working.
+- Google UCP (Universal Commerce Protocol) in production with Ulta + Shopify integration: This strengthens the strategic relevance of 5.1 (Shopify Platform Presence) and 5.5 (Multi-Network Scalability). Vendors on Shopify Plus may gain UCP compatibility as a built-in advantage. No rubric change — UCP readiness is captured indirectly by existing criteria.
+- Membership Model (5.3) floor effect continues — both vendors at 1/4. Week 3. Market-wide gap, not rubric issue.
+- Discrimination: 12 vs. 8 (4-point spread) — good.
+- **Verdict: No changes.**
+
+---
+
+### Benchmark Evaluation
+
+**category-benchmarks.json status:** Accurate. No updates required.
+- `consumer_electronics`: Belkin rate compression audit (2026-04-24) confirms 0.8-4% range at category low. UGREEN 8-15% at category high. Anker 8% above median. Benchmarks validated by 3 competitor data points. Stable.
+- `bicycles_dtc`: No new competitor data this week. Priority at 5% (median). Benchmarks hold.
+- `portable_power` and `fitness_equipment`: Still untested against scored vendors. **Week 3 of flagging — no vendors scored in these categories yet.** Deprioritized until pipeline produces a vendor in either category.
+- **Amazon Associates effective commission impact:** Week 2 of monitoring. No observable benchmark shifts yet. Amazon's ASIN-only attribution + paid traffic exclusion may take 1-2 quarters to show up in aggregate data. Continue monitoring; next check at Review #5.
+- **New benchmark data this week:** Portland Leather Goods TikTok Shop data ($1M in 20 days, 500 creators) suggests a `social_commerce` benchmark category may be needed eventually. Not actionable for current vendor set.
+
+---
+
+### Rubric Changes
+
+**None.** All three proposals that reached the 3-week threshold were evaluated and determined to be already covered by existing rubric language or inappropriate for the proposed dimension.
+
+**Deferred proposals resolved this review:**
+
+| Proposal | Signal | Weeks Tracked | Decision | Rationale |
+|----------|--------|--------------|----------|-----------|
+| Add hybrid compensation qualifier to 2.4 | TikTok Shop flat+commission model | 3 ✓ | **CLOSED — No change** | Existing 2.4 language at scores 3-4 ("bonus payments," "SPIFFs," "contest/leaderboard programs") already accommodates hybrid compensation. |
+| Add compliance qualifier to 4.1 | Cookie deprecation + privacy enforcement | 3 ✓ | **CLOSED for Dim 4 — New monitoring item opened** | Compliance is a legal/program governance concern, not a tracking technology measurement. If it becomes a scoring dimension, it belongs as a potential Dimension 6, not within Dim 4. |
+| Instagram Reels affiliate sub-criterion | Social commerce native tagging | 3 ✓ | **CLOSED — No change** | Meta's affiliate tools are platform features, not network enrollments a vendor would be scored on. Social commerce is a partner type (captured in Dim 3) not a program presence attribute (Dim 1). |
+
+**New monitoring items:**
+
+| Proposal | Signal | Weeks Tracked | Threshold | Status |
+|----------|--------|--------------|-----------|--------|
+| Potential Dimension 6: Compliance & Governance | FTC enforcement, AI disclosure, privacy law | 1 (new) | 5 | MONITORING — Only add a 6th dimension with very strong evidence (structural change, not cyclical). Higher threshold than sub-criteria amendments. |
+| AI Agent Affiliate (3.5) scoring bands | Adobe 393% AI traffic, Anthropic Project Deal, UCP | 1 (new) | Watch | MONITORING — As vendors begin building agent affiliate tiers, the 3.5 rubric may need band recalibration to discriminate between first-movers. Not urgent while both vendors at 1/4. |
+
+**Scoring fix still pending (from Review #1, week 3):**
+- Priority Bicycles criterion 2.2 (Cookie Duration): Score should be 3 (21 days falls in 21-45 day band), not 2. **Apply in next scoring pass. Expected effect: Priority 47→48.**
+
+---
+
+### Source Recommendations
+
+| Source | Status | Recommendation |
+|--------|--------|----------------|
+| Network program pages (Impact, AvantLink) | Reliable | Continue as primary |
+| Affiliate review aggregators (AuthorityHacker, GetLasso) | Useful for discovery, sometimes outdated | Cross-reference with direct sources |
+| BuiltWith / Shopify app directory | Reliable for tech stack | Continue |
+| Tier-1 editorial (Wirecutter, PCMag, etc.) | Reliable for partner quality | Continue |
+| AI shopping tools (ChatGPT, Perplexity) | Useful for 3.5 scoring | Formalize test queries per vendor |
+| Affiverse Media | Reliable for regulatory/compliance signals | Continue in rotation |
+| AffiliateCMS forums | Useful for early network policy signals | Continue in rotation |
+| Short Form Nation | Useful for TikTok Shop commission benchmarks | Continue in rotation |
+| Adobe Analytics (Q1 2026 data) | NEW — Authoritative for AI traffic benchmarks | Reference for 3.5 scoring context |
+| Influencer Marketing Factory reports | NEW — Creator economy compensation benchmarks | Reference for 3.4 / Dim 2 context |
+| Google UCP documentation | NEW — Emerging standard for agent commerce | Monitor for 5.5 scoring implications |
+
+---
+
+### Gap Findings
+
+| Gap | Recurring Weeks | Action Status | Notes |
+|-----|----------------|---------------|-------|
+| Active Affiliate Count (3.1) estimation methodology undefined | 3 | DEFERRED → Review #5 or n≥5 vendors | Insufficient data points (n=2) to validate any formula |
+| Payment Terms (2.3) hard to verify externally | 3 | OPEN | Consider affiliate account signup for validation. Low urgency — both vendors scored at Medium confidence. |
+| Creative assets (4.4) and API/feeds (4.5) assessable only from outside | 3 | OPEN | Affiliate account access would improve confidence. Same mitigation as 2.3. |
+| AI Agent Affiliate (3.5) floor effect — both vendors at 1/4 | 3 | MONITORING | Market-stage appropriate. Importance accelerating (Adobe 393%, Anthropic Project Deal, UCP). Watch for first vendor to build agent tier. |
+| Membership Model (5.3) floor effect — both vendors at 1/4 | 3 | MONITORING | Market-wide gap, not rubric issue |
+| Priority 2.2 cookie score fix pending | 3 | **OVERDUE — Apply in next scoring pass** | Flagged Review #1, still not applied. Priority 47→48 when fixed. |
+| Amazon Associates effective commission impact on benchmarks | 2 | MONITORING | Apr 14 policy changes. No observable shifts yet. Next check: Review #5. |
+| Vendor sample size (n=2) limits rubric validation | 3 | OPEN | Target n≥5 before making structural rubric changes. portable_power and fitness_equipment categories still unscored. |
+| Potential Dimension 6 (Compliance & Governance) | 1 (new) | MONITORING | High evidence threshold (5 weeks). FTC $53K fines, AI disclosure, privacy. |
+
+---
+
+### Notes
+
+- **Week 3 of AFARE methodology.** All three deferred proposals reached the 3-week evidence threshold and were evaluated. All three were resolved without rubric changes — existing language either already covered the signals or the proposed placement was inappropriate. This validates the conservative approach: the rubric is proving more resilient than expected.
+- **Sample size remains the primary constraint.** With n=2 vendors scored, discrimination analysis is directional at best. The 2-point spread on Dimension 3 (Partner Ecosystem) isn't alarming but can't be distinguished from coincidence. Priority: expand to n≥5 vendors before next structural review.
+- **AI agent commerce signals are saturating.** Adobe's 393% traffic number appeared in every briefing this week. Anthropic's Project Deal adds behavioral proof (agents negotiating real transactions). Google's UCP is in production with Ulta. The convergence of these signals validates that criterion 3.5 (AI Agent Affiliate Presence) is correctly positioned as forward-looking — and its importance will grow faster than any other criterion in AFARE.
+- **Priority 2.2 scoring fix is now 3 weeks overdue.** This is a simple rubric compliance correction (21 days is in the 21-45 day band = score 3, not 2). Must be applied in the next scoring pass. No excuses at week 3.
+- **Meta's social commerce affiliate play is significant** but doesn't require AFARE rubric changes. Social-native affiliate (Instagram Reels, Facebook affiliate banners) is a distribution channel for existing affiliate programs, not a new program structure that vendors build. It will show up in scoring through 3.2 (Partner Type Diversity) and 3.4 (Content Creator Engagement) when vendors' affiliates use these tools.
+- **Compliance as a potential Dimension 6:** FTC enforcement at $53K/instance, AI disclosure rules, and privacy law are real. But AFARE is a *footprint and readiness* measurement, not a *governance* assessment. Adding Dimension 6 would change what AFARE measures. Set a high threshold (5 weeks) and require structural evidence that compliance is a differentiator in affiliate program quality, not just an industry cost.
+- **No rubric changes made. No benchmark changes made. Methodology stable through week 3.**
