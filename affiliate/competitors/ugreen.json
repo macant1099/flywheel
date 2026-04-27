@@ -40,7 +40,69 @@
         "8–15% commission with 30-day cookie is a strong competing offer vs Anker",
         "Ugreen's affiliate page actively recruiting at 'up to 15%' headline rate"
       ]
+    },
+    {
+      "date": "2026-04-27",
+      "networks": [
+        {
+          "name": "Impact.com",
+          "status": "active",
+          "role": "primary",
+          "notes": "Official primary network; confirmed on ugreen.com/pages/affiliate FAQ"
+        },
+        {
+          "name": "ShareASale",
+          "status": "active",
+          "role": "secondary/legacy",
+          "notes": "US-focused legacy program; us.ugreen.com/pages/affiliates references ShareASale"
+        },
+        {
+          "name": "Awin",
+          "status": "active",
+          "role": "NEW — detected this audit",
+          "notes": "Awin merchant profile 90851 confirmed live. Offers 60-day cookie (vs 30-day on Impact.com). Up to $180/sale for NAS SKU. Monthly Incentives & Bonuses + Sponsorship for campaigns. Contact: erica.you@ugreen.com"
+        }
+      ],
+      "commission": {
+        "base": "8%",
+        "max": "15%",
+        "typical": "~11.2%",
+        "structure": "Tiered — minimum 8% guaranteed; performance tiers up to 15%. NAS single SKU up to $180 commission.",
+        "notes": "Commission structure unchanged. NAS-specific high-ticket commission newly highlighted."
+      },
+      "cookie_duration_days": 60,
+      "cookie_duration_by_network": {
+        "impact_com": 30,
+        "awin": 60,
+        "shareasale": "unknown"
+      },
+      "cookie_notes": "Awin program offers 60-day cookie — DOUBLE the 30-day on Impact.com. Significant competitive upgrade.",
+      "payout": "Monthly",
+      "creatives": "Banners, seasonal campaigns, promo deal assets; NAS-focused featured collections added",
+      "support": "Dedicated affiliate team; Awin contact erica.you@ugreen.com",
+      "monthly_earn_claim": "Up to $10,000/month (marketing copy)",
+      "program_url": "https://us.ugreen.com/pages/affiliate",
+      "awin_profile_url": "https://ui.awin.com/merchant-profile/90851",
+      "brand_signals": [
+        {
+          "signal": "New England Patriots partnership announced April 24, 2026",
+          "detail": "Ugreen becomes Official Technology Accessory Partner for NEP 2026 season. First-ever global sports partnership. Will showcase SynCare AIoT Series + extra-tiny charging lineup at Gillette Stadium.",
+          "relevance": "Major US brand awareness push. Signals increased marketing budget and likely expanded affiliate recruitment/incentives to match. Anker should monitor for affiliate term upgrades."
+        }
+      ],
+      "changes_from_prior": [
+        "NEW NETWORK: Awin now active (not in prior audit)",
+        "COOKIE UPGRADE: Awin offers 60-day vs Impact.com's 30-day",
+        "NAS COMMISSION: Up to $180 single-SKU commission newly publicized",
+        "BRAND EXPANSION: New England Patriots partnership (April 24, 2026) — first sports deal"
+      ],
+      "raw_signals": [
+        "Awin merchant profile 90851 confirmed live with 60-day cookie",
+        "Patriots partnership = Ugreen entering mass-market US brand awareness play",
+        "SynCare AIoT Series debut at NFL stadium — expanding product line affiliate upside",
+        "Awin network opens Ugreen to publisher base that may not be on Impact.com"
+      ]
     }
   ],
-  "last_audited": "2026-04-19"
+  "last_audited": "2026-04-27"
 }
