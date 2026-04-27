@@ -26,6 +26,63 @@ For LiveChannel vendors, this matters in three ways: (1) **Recruitment surface**
 
 ---
 
+## PROP-020 · Shoppable Video Displacing Live Commerce — Discovery-Led Format Shift in APAC and Beyond
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | livechannel/format-evolution |
+| **Surfaced** | 2026-04-27 |
+
+**Signal sources:**
+- GlobeNewswire (Apr 22, 2026): Japan Social Commerce Market Report Q1 2026 — "Shift from Live Selling to Discovery-Led Commerce." Rakuten × YouTube Shopping affiliate integration explicitly described as enabling consumers to "seamlessly transition from creator videos to product pages" — positioning pre-recorded video content as the dominant commerce format over live streams. — https://www.globenewswire.com/news-release/2026/04/22/3279219/28124/en/Japan-Social-Commerce-Market-Report-Q1-2026-Update-Featuring-Facebook-YouTube-Line-Linktree-and-Flip-Fit-Shift-from-Live-Selling-to-Discovery-Led-Commerce.html
+- Seoulz (Apr 24, 2026): Korea Live Commerce 2026: Inside the $125B Platform War — "Shoppable Clips are the second major format evolution" alongside live. Naver's AI Shopping Agent contextually triggers live broadcasts AND shoppable clip recommendations simultaneously, signaling the market is converging on mixed live + on-demand video formats rather than pure live. — https://www.seoulz.com/korea-live-commerce-2026/
+- Sprout Social (Apr 2026): "46% of shoppers prefer short-form video like Reels, TikTok and YouTube Shorts for product discovery and evaluation. And 23% actively look for product demo videos" — confirming that short-form/shoppable video is the dominant discovery format for social commerce shoppers, not real-time live streams. — https://sproutsocial.com/insights/ecommerce-trends/
+- Channelize.io (Apr 2026): "Shoppable video commerce 2026 is not just an evolution of ecommerce—it is a complete shift in buying behavior. Instead of separating discovery, engagement, and purchase, everything now happens in one seamless flow" — industry platform vendors positioning shoppable video as the successor format to live commerce. — https://blog.channelize.io/shoppable-video-commerce-2026
+
+**Why it matters:**
+Live selling was pioneered in Asia — Japan and Korea were the first major markets to achieve mainstream live commerce adoption, making them leading indicators for Western market trajectory. The Q1 2026 Japan and Korea data signals a structural format evolution: the market is shifting from *synchronous* live streaming (viewers must tune in at a scheduled time, watch in real-time, and transact during the window) toward *asynchronous* discovery-led commerce (shoppable short-form video, Shoppable Clips, and creator content that consumers find and convert from at any time). This shift has direct implications for LiveChannel as a live selling platform in two dimensions:
+
+(1) **Format threat / opportunity:** If the most advanced live commerce markets are already transitioning toward shoppable video + discovery-led models, LiveChannel vendors need to understand whether their affiliate and creator programs should invest primarily in live event formats or in evergreen shoppable video archives. Vendors who over-invest in live scheduling infrastructure while consumer discovery preference shifts to on-demand short-form content may find shrinking audiences and declining conversion rates. The flip side: LiveChannel vendors who build shoppable video libraries from their live content (repurposing live event clips as persistent discovery surfaces) gain the best of both formats — the urgency/interaction of live and the always-on discoverability of shoppable video.
+
+(2) **Affiliate attribution model divergence:** Live commerce affiliate attribution is straightforward (session-linked to the live event window). Discovery-led shoppable video attribution is more complex — a viewer may watch a shoppable clip today and convert three days later, requiring longer attribution windows and different cookie/referral mechanics. If vendor affiliate programs are optimized for live-event attribution (short windows, real-time tracking), they may under-credit the discovery-led conversions happening after the live window closes. Understanding the format shift is prerequisite to auditing attribution accuracy.
+
+This is structurally distinct from PROP-005 (Live Commerce Competitive Landscape — which benchmarks platform commission structures, not format evolution), from social-commerce.md signals (which cover compensation models and creator economics), and from all attribution-focused proposals. This is about the *format* of commerce content — live vs. shoppable — and what the APAC leading-indicator shift means for LiveChannel's core proposition.
+
+---
+
+## PROP-019 · TikTok Shop Creator Health Rating (CHR) System — Vendor's Hidden Affiliate Eligibility Gate
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | livechannel/platform-policy |
+| **Surfaced** | 2026-04-27 |
+
+**Signal sources:**
+- TikTok Shop Seller University / Affiliate Marketing Policy (Apr 16, 2026): "Creators must meet specific performance and health thresholds to promote affiliate products. This policy outlines the requirements and eligibility criteria for sellers and creators participating in Affiliate Marketing on TikTok Shop." — https://seller-us.tiktok.com/university/essay?knowledge_id=2244964886103809
+- TikTok Shop Policy Pulse (Mar 2026): "The Creator Enforcement Policy is now a standalone policy, while CHR-related content remains in the Creator Health Rating article. The CHR Policy explains how creators earn or lose points based on content quality and compliance. It also outlines milestone-based enforcement actions... Affiliate Creator product eligibility." — https://seller-us.tiktok.com/university/essay?knowledge_id=7096334743553838
+- TikTok Shop Creator Enforcement Policy (Jan–Mar 2026): "The Creator Health Rating system will roll out gradually from January 12 to January 19, 2026. This will replace the Violation Points system. Your account will begin with 200 points once it transitions to CHR." — https://seller-th.tiktok.com/university/essay?knowledge_id=10009357
+- TikTok Shop Creator Enforcement Policy (US, ongoing): "An Affiliate Creator can promote products in their videos, live streams, or showcases. Their access to certain products depends on their Creator Health Rating (CHR). Creators with low scores may face promotion restrictions." Also: "Creators who commit the same policy violation 6 times within a 90-day period may have their e-commerce permissions removed immediately, and their commissions frozen, regardless of their Creator Health Rating (CHR) points." — https://seller-us.tiktok.com/university/essay?knowledge_id=6837869503317761
+- TikTok Shop Creator Onboarding (Apr 2026): "Check your Creator Health Rating (CHR) page for unresolved violations. Creators must continue to comply with our platform policies or face enforcements that include but are not limited to extended shoppable video content frequency limits. All shoppable videos that were published—even those that were made private or deleted after publishing—will count towards your posting limit." — https://seller-us.tiktok.com/university/essay?knowledge_id=7608640301074219
+
+**Why it matters:**
+TikTok Shop launched its Creator Health Rating (CHR) system in January 2026, replacing its prior Violation Points system. The CHR is a score-based compliance framework that directly gates which creators can promote affiliate products on TikTok Shop — and by extension, determines the effective reach of vendor affiliate programs on the platform. A creator with a degraded CHR score faces product promotion restrictions, content posting frequency limits, and in severe cases, total removal of e-commerce permissions and commission freezes.
+
+For LiveChannel vendors who run or intend to run TikTok Shop affiliate programs, the CHR system creates an invisible eligibility filter on their creator affiliate pool that most vendor program managers are unaware of. Specifically:
+
+(1) **Creator pool degradation risk:** Vendors building a TikTok Shop affiliate roster may recruit creators who appear active and high-follower, but whose CHR scores are degraded from prior policy violations — limiting which of the vendor's products those creators can actually promote and how frequently they can post shoppable content. A vendor's effective affiliate reach on TikTok Shop is not equal to their recruited creator list; it is the intersection of that list and CHR-eligible creators.
+
+(2) **Commission freeze risk:** If a creator in a vendor's affiliate program triggers TikTok's enforcement (six violations of the same type within 90 days), their commissions are frozen regardless of CHR score. Vendors must understand this can happen mid-campaign — after a creator has driven sales but before commission payment — creating unexpected vendor liability for commissions TikTok won't release to the creator, which can damage vendor-creator relationships.
+
+(3) **Product eligibility gates:** TikTok Shop's CHR system creates tiered product access — creators with lower CHR scores can only promote a subset of products. Vendors with products in restricted categories (health claims, financial products, etc.) may find that a creator who was previously eligible to promote their products becomes ineligible after a CHR score drop, silently removing those products from that creator's affiliate catalog.
+
+(4) **Seller-side CHR mirror:** Sellers (vendors) also have compliance scoring on TikTok Shop. The CHR framework has a seller-side equivalent — vendors with policy violations face listing restrictions and reduced affiliate creator access. This creates bidirectional compliance risk: both the creator and the vendor need clean compliance records for a TikTok Shop affiliate relationship to function.
+
+This is structurally distinct from PROP-005 (Live Commerce Competitive Landscape — commission structure comparison), PROP-007 (YouTube Shopping eligibility threshold — follower count change), and PROP-016 (Twitch Affiliate threshold + sponsored campaign access). Those proposals cover platform *eligibility thresholds* (how creators qualify to join a program). CHR covers ongoing *compliance scoring* that can retroactively restrict or revoke a qualified creator's affiliate capabilities — an operational risk category that no existing proposal or research file addresses.
+
+---
+
 ## PROP-001 · FTC 2026 Compliance: Disclosure Rules Expanded to Livestreams, Short-Form Video & AI Endorsements
 
 | Field | Value |
