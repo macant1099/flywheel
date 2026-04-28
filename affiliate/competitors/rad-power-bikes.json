@@ -1,7 +1,7 @@
 {
   "competitor": "Rad Power Bikes",
   "vendor_context": "Priority Bicycles competitor (eBike category)",
-  "last_audited": "2026-04-20",
+  "last_audited": "2026-04-28",
   "status": "TRANSITIONAL — Post-bankruptcy, new ownership (Life EV / Rad Life Mobility). Affiliate program in flux.",
 
   "affiliate_program": {
@@ -29,11 +29,11 @@
         "notes": "Affiliate_code URL format (e.g. radpowerbikes.com/?affiliate_code=RPP-VELOFJORD) still surfacing in search. May be legacy links from pre-bankruptcy program or remnant partner tracking under new management."
       }
     ],
-    "commission_summary": "DEGRADED — Shopper.com now shows EUR 0.97–1.1 flat per sale (vs ~6% previously). Dedicated affiliate page (radpowerbikes.com/pages/partner-with-us) returns 404 as of 2026-04-20.",
+    "commission_summary": "DARK — Dedicated affiliate page (radpowerbikes.com/pages/partner-with-us) returns 404 as of 2026-04-28 (3rd consecutive audit). Shopper.com data updated from EUR 0.97–1.1 flat to 3% — aggregator data correction, not confirmed program relaunch. No active managed network.",
     "cookie_duration_days": null,
     "deeplink_support": false,
     "social_media_tracking": false,
-    "program_page_status": "404 — page removed",
+    "program_page_status": "404 — page removed (3rd consecutive audit: 2026-04-20, 2026-04-28)",
     "program_page_url": "https://www.radpowerbikes.com/pages/partner-with-us"
   },
 
@@ -82,6 +82,17 @@
         "Shopper.com rate data shows EUR 0.97–1.1/sale flat (vs ~6% FlexOffers rate)",
         "FlexOffers program continuity unconfirmed",
         "Legacy RPP-* codes still indexed — possible residual tracking"
+      ]
+    },
+    {
+      "date": "2026-04-28",
+      "event": "Third audit. Program status unchanged — still DARK. (1) radpowerbikes.com/pages/partner-with-us returns 404 on direct fetch (3rd consecutive audit). Search index shows cached pre-acquisition 'Apply Now' snippet — stale Google cache, not a live page. (2) Shopper.com data shifted: EUR 0.97–1.1 flat/sale → now shows 3% payout. Assessment: aggregator data correction artifact, NOT a confirmed program relaunch. No active partner page, no managed network confirmation. (3) FlexOffers still Cloudflare-blocked (no change). (4) No April 2026 news from Rad / Rad Life Mobility on affiliate front. Rebuilding continues operationally (retail, rehires, US manufacturing). No Discord alert fired — change is aggregator noise, not confirmed program activity.",
+      "change_flag": false,
+      "observations": [
+        "Partner page still 404 — 3rd consecutive audit",
+        "Shopper.com rate: EUR flat → 3% (aggregator data correction, not program relaunch)",
+        "FlexOffers: still Cloudflare-blocked",
+        "No April 2026 affiliate announcements from Rad Life Mobility"
       ]
     }
   ],
