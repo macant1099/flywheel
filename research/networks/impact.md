@@ -260,3 +260,15 @@ impact: high
 sentiment: positive
 ---
 Impact.com CMO Cristy Garcia published the "Answer Era" strategic positioning: affiliate, creator, and publisher partnerships are the primary mechanism for AI brand visibility. Key McKinsey 2025 stat: brand-owned websites contribute only 5–10% of what AI search systems draw from; in CPG and financial services, third-party publisher/affiliate/UGC share exceeds 65%. Flywheel implication: affiliate partners are not just revenue drivers — they are the brand's voice in AI-generated answers. LiveChannel vendors with strong affiliate programs are structurally better positioned for AI discovery than those relying on owned-channel SEO. Impact is actively framing its own platform as the answer-era infrastructure.
+
+---signal---
+id: news-20260429-001
+signal: impact.com and Rakuten International announce strategic alliance to combine platform tech with managed services and Rewards data
+date: 2026-04-28
+source: https://www.prnewswire.com/news-releases/rakuten-and-impactcom-announce-alliance-to-scale-the-global-partnership-economy-302753955.html
+categories: affiliate-networks
+tags: impact, rakuten, alliance, industry-consolidation, tracking, attribution, automation, rakuten-rewards
+impact: high
+sentiment: positive
+---
+Announced April 28, 2026: Rakuten International and impact.com formed a strategic alliance to modernize the affiliate and performance marketing ecosystem — combining impact.com's SaaS partnership platform with Rakuten's global managed services, publisher relationships, and Rakuten Rewards shopper data. Collaborative projects will focus on improved tracking, attribution, and automation including real-time shopping enhancements along the shopper journey. This effectively positions impact.com's tech stack as core infrastructure within Rakuten's service offering, creating a formidable two-headed competitor against CJ, Awin, and ShareASale. For LiveChannel vendors, programs running on Impact may gain access to Rakuten Rewards members as a new traffic source.
