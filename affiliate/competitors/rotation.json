@@ -8,8 +8,8 @@
     "ravpower",
     "ugreen"
   ],
-  "last_audited": "rad-power-bikes",
-  "last_audit_date": "2026-04-28",
-  "next_up": "aventon",
+  "last_audited": "aventon",
+  "last_audit_date": "2026-04-29",
+  "next_up": "lectric-ebikes",
   "notes": "Cycle order: rad-power-bikes → aventon → lectric-ebikes → ecoflow → belkin → ravpower → ugreen → repeat."
 }

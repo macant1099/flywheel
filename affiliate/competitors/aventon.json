@@ -1,7 +1,7 @@
 {
   "competitor": "Aventon",
   "vendor_context": "Priority Bicycles competitor (eBike / commuter bike category)",
-  "last_audited": "2026-04-21",
+  "last_audited": "2026-04-29",
   "status": "ACTIVE — Healthy direct-to-consumer eBike brand; US, CA, DE storefronts",
 
   "affiliate_program": {
@@ -52,6 +52,11 @@
   },
 
   "history": [
+    {
+      "date": "2026-04-29",
+      "event": "Routine audit. No changes. aventon.com affiliate page confirmed: 4% commission / 30-day cookie / AvantLink / 2.5% CVR — all terms stable. FlexOffers listing still active (Jan 2026 indexed, Cloudflare-blocked on direct fetch). Brand activity: Spring Sale running through mid-April (Level 3 + Pace 4 from $1,599; Aventure M Mid-Drive at $2,699 new low). BikeMag reviewed Aventon Current eMTB (Apr 15) — 'Best Budget eMTB of 2026?' Positive press. No affiliate program changes detected — no Discord alert fired.",
+      "change_flag": false
+    },
     {
       "date": "2026-04-21",
       "event": "Routine audit. No changes. aventon.com affiliate page confirms 4% commission / 30-day cookie / AvantLink / 2.5% CVR — all stable. Third-party aggregator (magentheme) listed '5-10% / AvantLink+Refersion' but this is unconfirmed and contradicted by the authoritative source. FlexOffers secondary listing still active (last indexed Jan 2026). Company status: 3 storefronts (US/CA/DE) active.",
