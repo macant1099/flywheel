@@ -275,7 +275,7 @@ sentiment: positive
 Announced April 28, 2026: Rakuten International and impact.com formed a strategic alliance to modernize the affiliate and performance marketing ecosystem — combining impact.com's SaaS partnership platform with Rakuten's global managed services, publisher relationships, and Rakuten Rewards shopper data. Collaborative projects will focus on improved tracking, attribution, and automation including real-time shopping enhancements along the shopper journey. This effectively positions impact.com's tech stack as core infrastructure within Rakuten's service offering, creating a formidable two-headed competitor against CJ, Awin, and ShareASale. For LiveChannel vendors, programs running on Impact may gain access to Rakuten Rewards members as a new traffic source.
 
 ---signal---
-id: news-20260429-002
+id: news-20260429-004
 signal: Rakuten exits affiliate platform software entirely — thousands of merchants migrate to Impact as exclusive tech provider; Rakuten named "Titanium Partner"
 date: 2026-04-28
 source: https://www.adexchanger.com/marketers/rakuten-and-impact-com-forge-a-new-alliance-that-resets-the-affiliate-industry/
