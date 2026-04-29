@@ -83,6 +83,62 @@ This is structurally distinct from PROP-005 (Live Commerce Competitive Landscape
 
 ---
 
+## PROP-021 · AI Chatbot Affiliate Link Infrastructure — New AI Publisher Category (ChatAds, ZeroClick, Koah Labs)
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | industry/ai-publishers |
+| **Surfaced** | 2026-04-29 |
+
+**Signal sources:**
+- ChatAds Blog (Feb 7, 2026): "Top 11 Ad Networks for AI in 2026" — ChatAds leads as the affiliate monetization layer for AI chatbots: API detects product mentions in AI responses, auto-inserts affiliate links, developer keeps 100% of commissions. ZeroClick described as "reasoning-time advertising" backed by $55M+ funding with 10,000+ brand advertisers. Koah Labs provides display ads at $10 average eCPM. — https://www.getchatads.com/blog/top-eleven-ad-networks-for-ai/
+- ChatAds Blog (2026): "Ranking 6 Solutions for AI Agent Monetization in 2026" — Full platform comparison: ChatAds, ZeroClick, Koah Labs, Dappier, AgentVine, AdChats — all positioning around AI conversation-native affiliate/ad monetization. "Traditional web ads target page views. AI agents generate conversations. The platforms ranked here were designed around that difference, matching ads or affiliate links to user intent within a conversation." — https://www.getchatads.com/blog/ranking-six-solutions-for-ai-agent-monetization/
+- AffiliateBay (Apr 28, 2026): "9 Best Affiliate Networks to Launch AI and SaaS Programs in 2026" — Independent coverage noting AI-native affiliate network infrastructure as an emerging category separate from traditional affiliate networks (CJ, Awin, Impact). — https://affiliatebay.net/best-affiliate-networks-ai-saas-programs-guide/
+- ChatAds Blog (2026): "Top AI Assistant Ad Monetization Platforms" — "ChatAds leads for AI assistants that recommend products because it detects mentions automatically and lets developers keep 100% of affiliate commissions. Koah Labs provides the strongest display ad option with verified production clients." — https://www.getchatads.com/blog/top-ai-assistant-ad-monetization-platforms/
+
+**Why it matters:**
+A new class of affiliate infrastructure is emerging specifically for AI chatbot and assistant developers: platforms that enable the AI itself to serve as an affiliate publisher by auto-detecting product mentions in generated responses and inserting tracked affiliate links. This is **structurally distinct from all existing proposals and research files**:
+
+- **`ai-agent-affiliates.md`** covers AI agents as *buyers* — ACP protocol, AI-initiated autonomous purchases on behalf of consumers. ChatAds/ZeroClick are the *opposite flow*: AI as *affiliate publisher* earning commissions when it recommends products to users in conversation.
+- **PROP-006** (AI tools for human affiliate content production) covers human affiliates using AI tools. This is AI systems themselves being enrolled as affiliate publishers — the AI developer earns commission revenue from their chatbot's product recommendations.
+- **PROP-009** (AI virtual influencers) covers AI personas with social media followings. This covers AI assistants/chatbots embedded in apps and services that monetize conversationally.
+
+The mechanism: When a user asks an AI assistant "what running shoe should I buy?" and the AI recommends a specific product, ChatAds' API layer detects the product mention, resolves it against affiliate network catalogs, and replaces the plain mention with an affiliate link — all in real-time, with zero developer intervention per recommendation. ZeroClick takes the model further with "reasoning-time advertising" — inserting sponsored product recommendations into the AI's reasoning chain before the response is generated, backed by $55M in funding and 10,000+ brand advertisers.
+
+For LiveChannel vendors, this creates two material implications: (1) **New AI affiliate publisher category** — vendors with affiliate programs on major networks (CJ, Awin, Impact, ShareASale) may begin receiving affiliate traffic from AI chatbot publishers they didn't recruit and may not know exist; understanding how to optimize product listings for AI conversational retrieval (not just SEO) becomes a new program management dimension; (2) **Walled-garden risk** — if ChatAds resolves product recommendations against a fixed affiliate catalog, vendors not represented in that catalog are invisible to AI assistant affiliate publishers; being present and well-represented in the networks that ChatAds and ZeroClick connect to becomes an AI-era affiliate distribution requirement. This intersects with PROP-013 (GEO) at the product discoverability level — vendors need their products to be both GEO-optimized (cited by AI search) and catalog-indexed for AI affiliate platforms.
+
+---
+
+## PROP-022 · Affiliate + Influencer Budget Convergence — Structural Program Merger at Brand Level
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | industry/program-architecture |
+| **Surfaced** | 2026-04-29 |
+
+**Signal sources:**
+- Affiverse (Dec 2025): "59% of brands plan to dedicate a quarter or more of their affiliate budget to influencer partnerships in the coming year, with 18% allocating more than half of their affiliate spend to creators." — https://www.affiversemedia.com/how-affiliates-can-prepare-their-offerings-to-win-more-brand-partnerships-in-2026/
+- Impact.com (Jan 13, 2026): "Blend your influencer and affiliate budgets. The most efficient programs in 2026 will merge paid, affiliate and creator commerce into one strategy." — State of Influencer Marketing Trends 2026: Performance Insights. — https://impact.com/influencer/influencer-marketing-trends-performance/
+- Agency Reporter (Apr 22, 2026): "Why Influencer Marketing is Merging with Performance Marketing in 2026" — Detailed analysis of structural forces driving convergence: shrinking discovery-to-purchase journeys, tighter budgets demanding attribution, creators adopting affiliate models to strengthen their value case. "Campaigns are being set up with clearer performance benchmarks. Creators themselves are more open to being measured this way." — https://www.agencyreporter.com/influencer-marketing-merging-with-performance-marketing-2026/
+- Affilifest Margate Panel (2026): Panel with leaders from HelloFresh, Skyscanner, New Balance, and impact.com on "Beyond the Funnel: How Affiliate, Influencer, and Referral Are Merging to Power Performance Partnerships" — enterprise brand confirmation of the organizational convergence trend. — https://www.affilifest.com/blog/beyond-funnel-affiliate-influencer-referral-merging-power-performance-partnerships
+- EntrustTech (Apr 24, 2026): "Performance-Based Influencer Marketing Strategy 2026" — "The 90-day operating shift: audit flat-fee contracts, enable Instagram affiliate commerce, build creator-specific attribution, and rebalance the portfolio toward hybrid and affiliate structures." — https://entrustechinc.com/performance-based-influencer-marketing-2026/
+- Aspire.io (Mar 23, 2026): "The State of Influencer Marketing 2026" — "In 2026, influencer marketing is becoming more structured, more performance-driven, and more tightly integrated across paid media and commerce." — https://www.aspire.io/guides/the-state-of-influencer-marketing-2026
+
+**Why it matters:**
+A structural organizational and budget shift is underway at brands: the historically siloed departments of "affiliate marketing" (performance, tracked links, CPA) and "influencer marketing" (flat-fee sponsorships, reach metrics, brand storytelling) are merging into a single unified creator commerce function. The data point is concrete: 59% of brands are reallocating 25%+ of their affiliate budget to influencer/creator partnerships — meaning they are managing creators through affiliate program infrastructure (tracked links, commission payouts, network enrollment) rather than treating them as a separate paid media channel.
+
+This is **structurally distinct from all existing proposals**:
+- **PROP-003** (Membership/recurring affiliate commissions) is about commission model structure for subscription brands — not program organizational architecture.
+- **PROP-006** (AI tools for affiliate content production) is about creator tools — not how brands manage and budget creator relationships.
+- **PROP-010** (Third agency merger) is about the agency/services layer — not the brand-side program structure.
+- **PROP-018** (Markable/ShopMy/LTK creator commerce platforms) is about the conversion layer tools — not the budget/org merger.
+
+For LiveChannel vendors, this convergence has three direct program design implications: (1) **Hybrid deal structures** — vendors need to evolve away from binary "sponsor or affiliate" creator deals toward hybrid models that combine a base activation fee with trailing affiliate commissions; brands doing this most effectively (HelloFresh, New Balance) are winning creator loyalty and demonstrating ROI simultaneously; vendors who stay at pure flat-fee sponsorships will face budget pressure as brands prioritize measured programs; (2) **Unified tracking infrastructure** — when influencer and affiliate programs share budget, they must share attribution — vendors need tracking systems (S2S / Conversions API, UTM consistency, creator-specific discount codes) that work across both the paid media and affiliate commission contexts; (3) **Creator negotiation shift** — as Aspire.io's 2026 report notes, creators are now more open to performance-based compensation because it strengthens their value case; vendors who can offer transparent attribution dashboards to creators (showing exactly what they drove) have a competitive advantage in recruiting top-tier creator affiliates over vendors who offer only opaque CPA payouts. This research would give Flywheel a framework for advising vendors on hybrid creator commerce program design — a new dimension for AFARE scoring.
+
+---
+
 ## PROP-001 · FTC 2026 Compliance: Disclosure Rules Expanded to Livestreams, Short-Form Video & AI Endorsements
 
 | Field | Value |
