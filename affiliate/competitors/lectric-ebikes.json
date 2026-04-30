@@ -1,8 +1,8 @@
 {
   "competitor": "Lectric eBikes",
   "vendor_context": "Priority Bicycles competitor (eBike / value commuter segment)",
-  "last_audited": "2026-04-22",
-  "status": "ACTIVE — High-growth DTC eBike brand; US market dominant; Canada now live (English + French storefronts)",
+  "last_audited": "2026-04-30",
+  "status": "ACTIVE — High-growth DTC eBike brand; US market dominant; Canada live (3 models); XP4 flagship launched",
 
   "affiliate_program": {
     "active": true,
@@ -13,17 +13,24 @@
         "commission_rate": "4–6%",
         "commission_rate_previous": "3% (as of 2026-04-15)",
         "cookie_duration_days": 30,
-        "notes": "Primary US network. Commission rate upgraded from 3% flat to 4–6% range, per third-party aggregator data updated ~April 8–10, 2026. Application via lectricebikes.com (affiliate page 404'd — may have been restructured). Content publishers, cycling sites, review channels eligible."
+        "notes": "Primary US network. Commission rate upgraded from 3% flat to 4–6% range (~April 8–10, 2026). Affiliate page at lectricebikes.com still 404 — program application via Impact directly. Content publishers, cycling sites, review channels eligible."
       },
       {
         "name": "Refersion",
-        "status": "NEWLY DETECTED — second network (possible CA / influencer tier)",
+        "status": "ACTIVE — second network (influencer/creator tier or CA delivery)",
         "commission_rate": "4–6% (estimated, mirrors Impact range)",
         "cookie_duration_days": 30,
-        "notes": "Refersion newly cited alongside Impact in third-party aggregator data (magentheme.com, ~April 8, 2026). Not previously confirmed. Likely serves as influencer/creator tier or Canadian market affiliate delivery — aligns with April 2 Canada launch. Verify directly before promoting."
+        "notes": "Active alongside Impact per magentheme.com (updated ~April 8–10, 2026; confirmed still listed as of April 30, 2026). Likely serves influencer/creator tier or Canadian market affiliate delivery — aligns with April 2 Canada launch."
+      },
+      {
+        "name": "AvantLink",
+        "status": "LEGACY — stale/historical listing only",
+        "commission_rate": "3% (legacy rate, pre-April 2026 upgrade)",
+        "cookie_duration_days": 30,
+        "notes": "AvantLink program launched ~4 years ago (per affi.io data, 2026-04-30 fetch). This is the ORIGINAL legacy program before Lectric migrated to Impact. The 3% rate matches pre-upgrade commission. Not the active program — affiliates should use Impact or Refersion. AvantLink listing is stale aggregator data, not a new network addition."
       }
     ],
-    "commission_summary": "4–6% on qualifying sales (Impact + Refersion); upgraded from 3% flat as of ~April 2026",
+    "commission_summary": "4–6% on qualifying sales via Impact + Refersion (upgraded April 2026). AvantLink listing is legacy/stale at 3%.",
     "cookie_duration_days": 30,
     "aov_usd_range": "800–1200",
     "aov_usd_prior": 928.30,
@@ -31,7 +38,7 @@
     "deeplink_support": true,
     "datafeed_available": null,
     "banner_ads_available": null,
-    "affiliate_page_status": "404 — lectricebikes.com/pages/affiliate returns 404; may be restructured or moved. Verify via Impact or Refersion directly.",
+    "affiliate_page_status": "404 — lectricebikes.com/pages/affiliate returns 404; consistent across 2026-04-22 and 2026-04-30 audits. Program restructuring in progress. Join via Impact or Refersion directly.",
     "eligible_affiliates": [
       "Content Publishers",
       "Cycling Review Sites",
@@ -40,38 +47,65 @@
       "eBike Forums"
     ],
     "active_promotions": {
+      "april_showers_sale": {
+        "active": false,
+        "savings": "Up to $720",
+        "notes": "April Showers Sale ran early April 2026. Ended mid-April. Followed by Earth Day sale."
+      },
       "earth_day_sale": {
-        "active": true,
+        "active": false,
         "savings": "Up to $694",
         "starting_price": "$799",
-        "notes": "Earth Day sale running through late April 2026. High-conversion window for affiliates. Lectric promoted this heavily via Electrek, 9to5Toys, and owned channels."
+        "notes": "Earth Day sale ran through late April 2026. Now ended as of April 30. XP4 750 Folding Utility bundle at $1,299 with FREE $439 gear bundle was hero offer. Heavily promoted via 9to5Toys, Electrek."
       }
     }
   },
 
   "company_status": {
-    "financial": "STABLE — Private, Arizona-based; no distress signals; strong Earth Day promotional activity signals healthy inventory/margin",
+    "financial": "STABLE — Private, Arizona-based; no distress signals. Consistent promotional cadence signals healthy inventory/margin.",
     "units_sold": "650,000+ eBikes in 6 years",
-    "positioning": "Value-leader in US eBike market; high-volume, affordable folding and commuter eBikes",
+    "positioning": "Value-leader in US eBike market; high-volume, affordable folding and commuter eBikes. XP4 now flagship.",
+    "new_product": {
+      "name": "Lectric XP4",
+      "status": "LAUNCHED — flagship model",
+      "variants": ["XP4 750 Folding Utility", "XP4 Step-Over 500w"],
+      "price_range": "$799–$1,299+",
+      "notes": "XP4 launched as new US best-selling candidate per lectricebikes.com product page. Featured in April Showers + Earth Day promotions. XP4 750 Folding Utility bundle at $1,299 was hero SKU for affiliates during Earth Day sale."
+    },
     "expansion": {
       "canada_launch": "2026-04-02",
       "canada_partner": "Vélo Canada Bikes (national cycling nonprofit)",
-      "canada_storefront": "LIVE — lectricebikes.com now shows CA (English) and CA (Français) storefronts as of April 2026",
-      "canada_affiliate_status": "UNCONFIRMED on Impact — Refersion addition may serve as CA affiliate delivery mechanism. Watch for CA-specific Impact program launch.",
-      "notes": "Canada market entry announced April 2, 2026. Partnership centered on infrastructure advocacy. First international expansion. US/CA affiliate program structure still being confirmed."
+      "canada_storefront": "LIVE — 3 models available on Canadian storefront as of April 2026 (per ebikebc.com buyer's guide, published April 22, 2026)",
+      "canada_models": "3 models confirmed on CA storefront; expanding",
+      "canada_affiliate_status": "UNCONFIRMED on Impact — Refersion likely serves as CA affiliate delivery mechanism. No CA-specific Impact program launch detected.",
+      "notes": "Canada storefront fully live with 3 models. US/CA affiliate program structure still unconfirmed — Refersion likely covers CA publishers. Monitor for formal CA affiliate announcement."
     }
   },
 
   "competitive_intel": {
-    "commission_vs_category": "Lectric now 4–6% (upgraded) — matches Aventon low end (5–10%) and exceeds Rad's baseline (3–7%). No longer the low-rate outlier in eBike affiliate space.",
-    "commission_trajectory": "INCREASING — 3% → 4–6% range is a ~33–100% rate improvement. Signals aggressive affiliate recruitment push as Canada expansion requires new geo-targeted publisher relationships.",
-    "affiliate_risk": "LOW-MEDIUM — Program is expanding but affiliate page 404'd (sign of restructuring, not closure). Refersion addition adds complexity but broadens reach.",
-    "canada_affiliate_opportunity": "DEVELOPING — Refersion addition + live CA storefront = likely imminent CA affiliate program launch. Monitor weekly.",
-    "earth_day_conversion_window": "ACTIVE — Up to $694 in savings through late April creates a high-EPC environment for any affiliates currently in the program.",
-    "opportunity_for_priority": "Priority Bicycles competes for same cycling content affiliates. Lectric's rate upgrade closes the gap with Premium programs. Priority must differentiate on story (zero-maintenance, no battery anxiety, lifestyle premium) and build direct relationships with cycling YouTubers/reviewers before Lectric's expanded program locks them in."
+    "commission_vs_category": "Lectric 4–6% (upgraded) — competitive with Aventon (4% AvantLink), below Himiway (6–10%) and Ride1Up (5–8%), above Rad (dark/rebuilding). Solid mid-range affiliate rate for high-volume brand.",
+    "commission_trajectory": "STABLE at 4–6% — upgraded from 3% in April 2026, no further changes detected in 2 audit cycles.",
+    "affiliate_risk": "LOW-MEDIUM — Program active but affiliate page 404'd (restructuring). Impact + Refersion confirmed via third-party aggregators. AvantLink legacy listing is a noise signal, not a real change.",
+    "canada_affiliate_opportunity": "DEVELOPING — 3 models on CA storefront; Refersion likely serving CA publishers. Watch for formal CA program launch.",
+    "xp4_launch_opportunity": "HIGH — New XP4 flagship with $1,299 bundle AOV = meaningfully higher affiliate payouts at 4–6% ($52–$78/sale) vs prior $928 AOV ($37–$56/sale). New product launch = affiliate content refresh opportunity.",
+    "opportunity_for_priority": "Priority Bicycles competes for same cycling content affiliates. Lectric's promotional machine (XP4 launch, recurring sales, Canada expansion) is running at full speed. Priority must differentiate on zero-maintenance story and premium build to win cycling YouTubers before Lectric's post-restructure affiliate program locks in top publishers."
   },
 
   "change_log": [
+    {
+      "date": "2026-04-30",
+      "changes": [
+        "NO MATERIAL AFFILIATE PROGRAM CHANGES since 2026-04-22 audit.",
+        "Affiliate page still 404 — consistent (2nd consecutive audit).",
+        "AvantLink listing surfaced on affi.io — assessed as LEGACY/STALE (launched 4 years ago, 3% = pre-upgrade rate). Not a new network addition.",
+        "Earth Day sale ended (~April 28–30). April Showers sale also ended.",
+        "XP4 confirmed as new flagship — product page live, bundles actively promoted.",
+        "Canada storefront confirmed with 3 models (per ebikebc.com April 22 buyer's guide).",
+        "No Discord alert fired."
+      ],
+      "change_flag": false,
+      "discord_alert_sent": false
+    },
     {
       "date": "2026-04-22",
       "changes": [
@@ -96,17 +130,23 @@
       "date": "2026-04-22",
       "event": "CHANGES DETECTED. Commission rate upgraded from 3% to 4–6% range. Refersion added as second network alongside Impact. Canada storefront now live (CA English + French). Affiliate page 404'd (likely restructured). Earth Day sale active (up to $694 savings). Discord alert sent.",
       "change_flag": true
+    },
+    {
+      "date": "2026-04-30",
+      "event": "Routine audit. No material affiliate program changes. Core terms confirmed stable: 4–6% Impact + Refersion, 30-day cookie. Affiliate page still 404 (2nd consecutive). AvantLink affi.io listing assessed as stale legacy entry (4 years old, 3% = pre-upgrade rate) — not a new network. Earth Day + April Showers sales ended. XP4 confirmed as new flagship (bundles to $1,299 AOV). Canada storefront live with 3 models per ebikebc.com. No Discord alert fired.",
+      "change_flag": false
     }
   ],
 
   "sources": [
     "https://www.magentheme.com/e-bike-affiliate-program-review-best-commissions/",
-    "https://lectricebikes.com/ (CA storefront confirmed)",
+    "https://lectricebikes.com/ (CA storefront + XP4 products confirmed)",
     "https://electrek.co/2026/04/02/lectric-heads-north-canadians-get-access-to-the-uss-best-selling-e-bikes/",
     "https://www.newswire.ca/news-releases/lectric-ebikes-joins-forces-with-velo-canada-bikes-to-accelerate-a-more-bicycle-friendly-canada-832405423.html",
+    "https://9to5toys.com/2026/04/03/694-e-bike-bundle-savings-200-price-cuts-lectric-april-showers-sale-from-799/",
     "https://9to5toys.com/2026/04/13/lectric-earth-day-e-bike-sale-up-to-694-savings-starting-from-799/",
-    "https://electrek.co/2026/04/14/lectric-e-bikes-jackery-power-stations-heybike-villain-electric-dirt-bike-ecoflow-more/",
+    "https://ebikebc.com/en-us/blogs/comparisons/lectric-ebikes-canada-2026-complete-buyers-guide",
     "https://affi.io/m/lectric-ebikes",
-    "https://linkclicky.com/affiliate-program/lectric-ebikes/"
+    "https://www.avantlink.com/programs/21845/"
   ]
 }
