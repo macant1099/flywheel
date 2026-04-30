@@ -139,6 +139,43 @@ For LiveChannel vendors, this convergence has three direct program design implic
 
 ---
 
+## PROP-023 · Rakuten × Impact.com Strategic Alliance — Affiliate Network Infrastructure Consolidation Event
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | industry/networks |
+| **Surfaced** | 2026-04-30 |
+
+**Signal sources:**
+- PRNewswire / Rakuten International (Apr 28, 2026): Official joint announcement — "Rakuten International and impact.com today announced a strategic alliance to modernize the affiliate and performance marketing ecosystem." Thousands of merchants and publishers currently using Rakuten's partnership marketing platform will be transitioned to Impact's system; Impact becomes the exclusive technology provider for Rakuten's commerce affiliate program management. — https://www.prnewswire.com/news-releases/rakuten-and-impactcom-announce-alliance-to-scale-the-global-partnership-economy-302753955.html
+- AdExchanger (Apr 28, 2026): "The two longest-standing names in the affiliate and partnership marketing category, Rakuten and Impact.com, have decided to stop fighting each other and will instead fight together." Rakuten exits the software/dashboard business; Impact CEO David Yovanno: "together, we are equipped to compete with major channels like Google, Amazon and Meta when it comes to scale." Rakuten becomes a new 'Titanium Partner' tier — a new category on the Impact platform reflecting Rakuten Rewards' unmatched publisher scale. — https://www.adexchanger.com/marketers/rakuten-and-impact-com-forge-a-new-alliance-that-resets-the-affiliate-industry/
+- Hello Partner (Apr 28, 2026, exclusive): "When you put this sort of scale together, brands can now deploy large programmatic budgets at a global scale, and this hasn't been true historically — our infrastructure and industry were just too fragmented." — https://hellopartner.com/2026/04/28/exclusive-rakuten-and-impact-com-form-strategic-alliance-to-scale-connected-performance-ecosystem/
+- Affiverse (Apr 28, 2026): Details the three-part structure: Rakuten Advertising (managed services + publisher relationships) + Impact.com (platform infrastructure, 350,000+ active partnerships) + Rakuten Rewards (first-party consumer purchase data from tens of millions of shoppers). Describes Rakuten Rewards' data access as "the most commercially interesting" element — enabling incrementality measurement previously unavailable at this scale. — https://www.affiversemedia.com/rakuten-and-impact-com-announce-strategic-alliance/
+- Rakuten International official site (Apr 28, 2026): CEO Amit Patel — "This alliance brings together infrastructure, service excellence, global reach, and consumer intelligence to offer a fundamentally stronger approach to performance marketing." Confirms Rakuten Optimism US (May 5-6, Scottsdale) and Impact's iPX (June 9-11, Austin) as coming rollout milestones. — https://rakuteninternational.com/news/rakuten-and-impact
+- Morningstar / PRNewswire wire pickup (Apr 28, 2026): Independent wire confirmation of announcement. — https://www.morningstar.com/news/pr-newswire/20260428sf43534/rakuten-and-impactcom-announce-alliance-to-scale-the-global-partnership-economy
+
+**Why it matters:**
+The April 28, 2026 Rakuten × Impact.com strategic alliance is the single most significant affiliate network infrastructure event of 2026 — two of the industry's longest-standing platforms (Rakuten Advertising and impact.com have been direct rivals for nearly two decades) formalizing a structural collaboration that eliminates platform-side competition between them and creates what both companies are calling a unified global performance marketing ecosystem.
+
+The mechanics are concrete and immediate: Rakuten is exiting the software/dashboard business. Thousands of merchants and publishers currently running affiliate programs through Rakuten's proprietary platform will be migrated to Impact's system. Rakuten refocuses on (1) managed services (program strategy, publisher relationships, creative execution) and (2) Rakuten Rewards — its cashback platform with tens of millions of active shoppers and first-party purchase signal data that is now being made available to Impact platform advertisers for incrementality measurement. Rakuten becomes a new "Titanium Partner" tier on Impact — a category created specifically for this alliance, reflecting Rakuten Rewards' publisher scale.
+
+This is **structurally distinct from all existing proposals and research files**:
+- The individual `research/networks/rakuten.md` and `research/networks/impact.md` files track each network independently. This alliance *changes the competitive structure of both* — their relationship is now complementary, not adversarial.
+- **PROP-010** (Third agency consolidation) covers the agency/services layer. This is the *network infrastructure* layer — the platforms that agencies and vendors use.
+- **PROP-014** (Affiliate Industry Self-Regulation, Code of Conduct) covers compliance frameworks. This is operational platform consolidation.
+- **PROP-012** (Walmart Creator Program) and **PROP-004** (Meta Facebook Affiliate Partnerships) cover retailer/platform affiliate program launches. This is the affiliate technology infrastructure layer that underpins those programs.
+
+For LiveChannel vendors, this alliance has three material implications:
+
+(1) **Platform migration risk/opportunity for Rakuten merchants**: Vendors currently running affiliate programs through Rakuten's network will be transitioning to Impact's platform. This is not optional — it's a managed migration. Vendors who have built program workflows, publisher communication systems, and reporting integrations around Rakuten's interface will need to rebuild on Impact. Flywheel should flag this transition timeline as a vendor advisory trigger: program managers who wait for Rakuten to initiate migration may find themselves under-prepared; those who proactively migrate early may benefit from Impact's more modern tooling and the expanded 350,000+ partnership marketplace.
+
+(2) **Incrementality measurement upgrade**: The integration of Rakuten Rewards' first-party consumer purchase data into Impact's attribution infrastructure addresses one of the most persistent problems in affiliate program management: whether a commission payout represents a genuinely incremental customer or a sale that would have happened regardless of the affiliate's involvement. Coupon and cashback publishers — which capture 42.4% of US affiliate revenues (Awin/eMarketer H1 2025 data) — are most frequently cited for non-incremental attribution. With Rakuten Rewards' consumer behavior signals now available to Impact advertisers, vendors will for the first time be able to measure true incrementality at scale within their programs. This is a AFARE scoring dimension upgrade: vendors using the combined Rakuten/Impact ecosystem will have materially stronger attribution accuracy than those on fragmented or legacy platforms.
+
+(3) **Competitive scale shift**: Impact CEO Yovanno's framing is explicit — the alliance positions the combined entity to compete with Google, Amazon, and Meta "at scale and sophistication." For decades, affiliate has been the "awkward kid" in digital advertising — too fragmented to absorb programmatic budgets at the scale those channels handle. The Rakuten × Impact combination (Impact's 350,000+ partnerships + Rakuten Rewards' consumer data + Rakuten Advertising's managed services) is the first affiliate infrastructure that plausibly competes with walled-garden scale. If this positions affiliate as a channel where Fortune 500 brands deploy "always-on programmatic budgets," it accelerates institutional adoption of affiliate as a primary channel — not a supplementary one. For LiveChannel vendors, that means their affiliate programs move from a nice-to-have to table-stakes infrastructure for competing for major brand media budgets.
+
+---
+
 ## PROP-001 · FTC 2026 Compliance: Disclosure Rules Expanded to Livestreams, Short-Form Video & AI Endorsements
 
 | Field | Value |
