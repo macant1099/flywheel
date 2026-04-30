@@ -1823,6 +1823,189 @@ These sites have strong audience overlap with Anker's target buyers but are not 
 
 ---
 
+---
+
+---
+
+## 2026-04-30 Discovery Update
+
+*Automated partner discovery scan — even-day cycle (Anker). All leads below are new — no duplicates with prior entries.*
+
+---
+
+### 56. Esquire
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 4 |
+| Reach & Authority | 5 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **22/25** |
+
+**URL:** https://www.esquire.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Two confirmed Anker product features in Q1–Q2 2026: (1) **"7 Best 3-in-1 Apple Charging Stations of 2026, Tested by Esquire"** featuring the **Anker MagGo UFO** with editorial praise — "First the Cube and now this. Anker has topped itself when it comes to light, portable wireless charging options"; (2) **"The 9 Best Wireless Headphones of 2026"** featuring the **Anker Soundcore Life Q30**. Esquire is a Hearst publication (Hearst Enthusiast Group), the **same parent company as Men's Journal (#6), Popular Mechanics (#23), and SFGate (#55)** — all already in the Anker partner matrix.
+**Evidence:** Two distinct Anker product categories featured (wireless charging + audio), demonstrating breadth across Anker's sub-brands. Esquire is Hearst's flagship lifestyle/fashion magazine for men (DA ~85+, 15M+ monthly unique visitors globally). Their tech/lifestyle vertical earns affiliate commissions explicitly. Popular Mechanics and Esquire share the same **Hearst Enthusiast Group** commerce team.
+**Opportunity:** Esquire's audience — affluent professional men aged 25–50 — is a premium Anker buyer segment: early adopters with high disposable income who value design-forward products. The MagGo UFO feature is particularly significant: Esquire's style-conscious audience is exactly who Anker's premium "UFO" aesthetic was designed for. The Soundcore Q30 feature extends Anker's partner value beyond chargers into audio. The Hearst leverage angle is the primary unlock: a single conversation with Hearst's centralized affiliate team (already managing Popular Mechanics for Anker) extends coverage to Esquire at zero incremental relationship cost.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Hearst Enthusiast Group centralized commerce/affiliate team — **the same contact already managing Popular Mechanics** for Anker; LinkedIn outreach to Hearst Enthusiast Group's Head of Commerce; Esquire commerce editor direct email as secondary contact
+- **Key value proposition:** Zero new relationship cost — Hearst Enthusiast Group already manages Anker's affiliate relationship with Popular Mechanics; extending to Esquire covers an affluent, design-conscious male audience that converts strongly on Anker's premium products (MagGo UFO, Prime MagSafe, Soundcore headphones); exclusive "Esquire Reader" discount (e.g., "ESQANKER15" for 15% off) differentiates the Esquire endorsement and drives DTC over Amazon routing
+- **Authenticated member base:** YES (partial) — Esquire has a paid digital subscription tier (Esquire+ on Apple News+) with authenticated subscribers; Hearst's centralized audience platform enables cross-property newsletter targeting
+
+**Activation Angle:**
+- **Member communication channels:** Esquire email newsletter (lifestyle-focused subscriber list), Hearst Enthusiast Group centralized deal alert network (shared with Popular Mechanics and Men's Journal), Esquire social media (Instagram 3.5M, Twitter/X 2M, Facebook 2.5M), Esquire+ Apple News subscribers
+- **Embed opportunities:** "Best Apple Charging Stations" annual guide (Anker MagGo UFO already featured — optimize link routing to Impact direct); Soundcore headphone/earbuds buying guide (Anker Life Q30 already featured — expand Soundcore coverage); "Best tech gifts for men" holiday guide; Father's Day tech gift roundup; "Best EDC (everyday carry) tech" roundups; Hearst network coordination for simultaneous Popular Mechanics + Esquire coverage of major Anker launches
+- **Estimated activation potential:** High — Esquire's affluent male readership converts strongly on premium products; the MagGo UFO's design-forward aesthetic aligns with Esquire's editorial DNA; Hearst network amplification means simultaneous placement across Esquire, Popular Mechanics, and Men's Journal covers design-conscious, outdoor, and lifestyle male audiences simultaneously
+
+---
+
+### 57. IGN
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 4 |
+| Reach & Authority | 5 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **22/25** |
+
+**URL:** https://www.ign.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Active Anker SOLIX deal publisher with at least two confirmed articles in Q1–Q2 2026: (1) **"Save 50% Off the Anker SOLIX C2000 2,048Wh 2,400W LiFePO4 Power Station"** (April 29, 2026 — *yesterday*); (2) **"Save 46% Off the Anker SOLIX C800 X for the Amazon Spring Sale"** (March 2026). IGN is one of the world's most-visited gaming and entertainment platforms (DA ~92+, 50–80M monthly visits). Their Deals vertical actively publishes performance electronics and gadget deals with affiliate commission tracking. Current links route through Amazon.
+**Evidence:** Two SOLIX power station deal articles in consecutive sale cycles — demonstrating an established Anker SOLIX coverage pipeline. IGN's audience includes Steam Deck owners and PC gamers who need high-wattage portable power for LAN parties, gaming setups, and tournaments. Ziff Davis ownership (same parent as PCMag, Mashable, RetailMeNot — all in matrix) creates a multi-property leverage angle.
+**Opportunity:** IGN represents a uniquely undervalued SOLIX affiliate channel. Their massive gaming audience includes a large cohort of power-hungry users (Steam Deck, gaming laptops, multi-monitor setups) who need exactly what SOLIX delivers. Converting Amazon-routed SOLIX deal links to Anker's direct Impact program (8% vs. ~3%) on $749–$2,400 products means $60–$192 per conversion vs. $22–$72 on Amazon. The Ziff Davis network connection means a single conversation with the Ziff Davis commerce team can extend the existing PCMag + Mashable + RetailMeNot relationship to include IGN.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Ziff Davis centralized commerce/affiliate team — the same contact managing PCMag, Mashable, and RetailMeNot for Anker; LinkedIn outreach to IGN's Commerce Editor or Deals Editor role as direct contact
+- **Key value proposition:** Ziff Davis four-property deal: adding IGN to the existing PCMag + Mashable + RetailMeNot Anker relationship extends coverage to 50–80M gaming/entertainment visitors at no new relationship overhead; commission upgrade from Amazon's ~3% to Anker SOLIX direct 8% on $749–$2,400 products = $60–$192 per conversion; exclusive "IGN Reader" promo code (e.g., "IGN10" for 10% off SOLIX) creates deal urgency; SOLIX C800 positioned as "best gaming power station" fits IGN's editorial framing
+- **Authenticated member base:** YES (partial) — IGN has 30M+ registered members with login accounts for comments, reviews, and personalization; email newsletter reaches engaged gaming/tech subscribers; Ziff Davis centralized audience platform provides cross-property targeting
+
+**Activation Angle:**
+- **Member communication channels:** IGN email newsletter, IGN registered member notifications, IGN social media (Twitter/X 4M+, Facebook 6M+, YouTube 6M+ subscribers), IGN app push notifications, Ziff Davis cross-property deal alert network (coordinated with PCMag and Mashable)
+- **Embed opportunities:** SOLIX power station deal alerts (already established — convert from Amazon links to Anker direct); "Best gaming power stations" evergreen buying guide (gap in IGN's current content — Anker can help create this with product access); Steam Deck accessories guide (Anker Nano 45W charger + portable power bank); Black Friday and Amazon Prime Day SOLIX deal roundups; gaming convention/LAN setup gear guides
+- **Estimated activation potential:** High — IGN deal alert readers are high-intent power buyers; SOLIX ticket size ($300–$2,400) makes each conversion worth 10–80× a standard charger transaction; Ziff Davis network coordination multiplies reach across PCMag and Mashable; gaming power use case differentiates IGN's Anker coverage from the saturated "best charger" framing in standard tech publications
+
+---
+
+### 58. BackupPowerHub
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 3 |
+| Content Relevance | 5 |
+| Reach & Authority | 2 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **19/25** |
+
+**URL:** https://backuppowerhub.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Dedicated Anker SOLIX specialist site with two active articles: (1) **"Anker SOLIX Buying Guide 2026"** — comprehensive guide covering the full SOLIX lineup (F3800, C800 Plus, all models) with purchase recommendations; (2) **"Anker SOLIX C2000 Gen 2 Review"** (April 24, 2026 — 6 days ago) rating it "the station to beat in the 2,000Wh class for 2026." Similar to PoweredThrough (#38 in matrix) but with explicit SOLIX-first editorial positioning.
+**Evidence:** Full buying guide covering entire SOLIX lineup + dedicated C2000 Gen 2 flagship review within the past week. "The station to beat" framing establishes Anker SOLIX as the category leader in BackupPowerHub's editorial view. Not yet connected to Anker's direct Impact program — likely routing through Amazon or Rakuten.
+**Opportunity:** BackupPowerHub is a niche but high-authority SOLIX channel for emergency preparedness and home backup power buyers — exactly the F3800 and Solarbank audience. Converting from Amazon routing to Anker SOLIX direct (8% commission on $800–$5,000 products = $64–$400 per conversion) is a significant upgrade. Their C2000 Gen 2 review published 6 days ago means affiliate links are live and active right now, making this a time-sensitive recruitment opportunity.
+**Recommended Action:** Direct email outreach via BackupPowerHub's contact page. Offer enrollment in Anker SOLIX direct program through Impact with exclusive "BACKUP10" reader code (10% off SOLIX). Provide early access to new SOLIX product launches for first-mover review content. Coordinate with PoweredThrough (#38) outreach for a dual SOLIX niche-site push.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Direct email via BackupPowerHub contact page; LinkedIn outreach to site owner/editor (likely small team or solo operation — direct and personal outreach is most effective for independent niche publishers)
+- **Key value proposition:** Anker SOLIX is already their editorial category leader — converting from Amazon's ~3% to Anker SOLIX direct 8% on $800–$5,000 transactions = $64–$400 per conversion vs. $24–$150; "BackupPowerHub Exclusive" code (10% off SOLIX) gives their audience a direct-buy incentive Amazon can't match; early SOLIX review unit access keeps content pipeline fresh with each new model launch
+- **Authenticated member base:** No authenticated base — SEO-driven niche readership; however extreme topic specificity (SOLIX backup power) means every visitor is a high-intent research buyer
+
+**Activation Angle:**
+- **Member communication channels:** BackupPowerHub email list (smaller but highly engaged SOLIX-interested audience), RSS subscribers, organic search traffic for SOLIX model queries, Reddit referrals (r/preppers, r/SolarDIY, r/vandwellers)
+- **Embed opportunities:** SOLIX Buying Guide (already live — optimize purchase links to Anker direct); C2000 Gen 2 review (convert links from Amazon to Anker SOLIX direct); future SOLIX model reviews (F3800, Solarbank); "SOLIX vs EcoFlow vs Jackery" comparison guides; home backup power seasonal content (hurricane prep, winter storm prep)
+- **Estimated activation potential:** Medium — smaller absolute audience, but SOLIX ticket size ($800–$5,000+) means a handful of conversions per month generates meaningful commission; extremely high purchase intent per visitor (buyers reading a SOLIX buying guide have already committed to the category); strong Reddit/community referral circulates content among active buyers
+
+---
+
+### 59. SimplyCodes
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 3 |
+| Content Relevance | 3 |
+| Reach & Authority | 3 |
+| Brand Safety | 4 |
+| Conversion Potential | 5 |
+| **Total** | **18/25** |
+
+**URL:** https://simplycodes.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Active Anker coupon page with 20+ promo codes and recent user-reported verifications (March 2026: "AnkerCharger18" confirmed working). SimplyCodes covers 543,500+ stores with AI-powered real-time coupon verification — positioning as a technically sophisticated alternative to RetailMeNot and CouponCabin. Affiliate infrastructure confirmed. Not yet in Anker's direct Impact program.
+**Evidence:** Live, community-verified Anker coupon page with documented working codes. SimplyCodes' AI verification model differentiates from manual (CouponCabin) and automated (RetailMeNot) competitors. 543.5K store coverage signals enterprise-scale affiliate partnerships. User-submitted verification model creates organic Anker-specific community engagement.
+**Opportunity:** SimplyCodes represents next-generation coupon infrastructure — AI-verified, community-powered, and growing rapidly. Establishing an exclusive Anker code (e.g., "SC15" for 15% off anker.com) creates a differentiated offer that the SimplyCodes community will actively share and verify, turning their user base into organic Anker brand advocates among deal-seeking consumers.
+**Recommended Action:** Contact SimplyCodes via merchant/advertiser portal. Offer exclusive "SCODES15" code (15% off anker.com, not available elsewhere) for platform differentiation and DTC conversions. Connect to Anker's Impact program at 8% commission. Coordinate code activation with Prime Day and Black Friday for maximum community amplification.
+
+---
+
+## Updated Partner Priority Matrix (as of 2026-04-30)
+
+| Priority | Partner | Score | Type | Est. Impact | Effort |
+|----------|---------|-------|------|-------------|--------|
+| 1 | TechRadar | 25/25 | Warm | Very High | Low |
+| 1 | Wirecutter (NYT) | 25/25 | Warm | Very High | Medium |
+| 3 | Android Central | 24/25 | Cold | Very High | Medium |
+| 3 | 9to5Toys | 24/25 | Warm | Very High | Low |
+| 3 | Tom's Guide | 24/25 | Warm | Very High | Low |
+| 3 | WIRED | 24/25 | Warm | Very High | Medium |
+| 3 | PCMag | 24/25 | Warm | Very High | Low |
+| 3 | ZDNET | 24/25 | Warm | Very High | Low |
+| 3 | Android Police | 24/25 | Warm | Very High | Low |
+| 3 | Digital Trends | 24/25 | Warm | Very High | Low |
+| 11 | CNN Underscored | 23/25 | Warm | Very High | Medium |
+| 11 | Engadget | 23/25 | Cold | High | Medium |
+| 11 | MacRumors | 23/25 | Warm | High | Low |
+| 11 | The Verge | 23/25 | Warm | Very High | Medium |
+| 11 | CNET | 23/25 | Warm | Very High | Medium |
+| 11 | The Independent/IndyBest | 23/25 | Warm | High | Low |
+| 11 | The Guardian/The Filter US | 23/25 | Warm | Very High | Medium |
+| 11 | PCWorld | 23/25 | Warm | High | Low |
+| 19 | Trusted Reviews | 22/25 | Cold | High | Medium |
+| 19 | JerryRigEverything | 22/25 | Warm | High | Medium |
+| 19 | AppleInsider | 22/25 | Warm | High | Low |
+| 19 | 9to5Mac | 22/25 | Warm | High | Low |
+| 19 | Travel + Leisure | 22/25 | Warm | High | Medium |
+| 19 | BGR | 22/25 | Warm | High | Low |
+| 19 | Esquire | 22/25 | Warm | High | Low |
+| 19 | IGN | 22/25 | Warm | High | Low |
+| 27 | GearJunkie | 21/25 | Cold | Medium-High | Medium |
+| 27 | SlashGear | 21/25 | Cold | Medium | Medium |
+| 27 | MKBHD | 21/25 | Warm | Very High | High |
+| 27 | Popular Mechanics | 21/25 | Warm | High | Medium |
+| 27 | T3 | 21/25 | Warm | High | Low |
+| 27 | ChargerLab | 21/25 | Warm | Medium | Low |
+| 27 | Perks at Work | 21/25 | Cold | High | Medium |
+| 27 | Slickdeals | 21/25 | Warm | High | Low |
+| 27 | Creative Bloq | 21/25 | Warm | Medium-High | Low |
+| 27 | Working Advantage | 21/25 | Cold | High | Medium |
+| 27 | Forbes Vetted | 21/25 | Warm | High | Medium |
+| 27 | Consumer Reports | 21/25 | Warm | High | Medium |
+| 27 | Mashable | 21/25 | Warm | High | Low |
+| 40 | Popular Science | 20/25 | Warm | Medium | Medium |
+| 40 | Men's Journal | 20/25 | Warm | Medium | Low |
+| 40 | The Gadget Flow | 20/25 | Cold | Medium | Low |
+| 40 | Rakuten | 20/25 | Warm | High | Low |
+| 40 | RetailMeNot | 20/25 | Warm | High | Low |
+| 40 | PoweredThrough | 20/25 | Warm | Medium | Low |
+| 40 | CouponCabin | 20/25 | Warm | Medium-High | Low |
+| 40 | SFGate/Hearst | 20/25 | Warm | Medium | Low |
+| 48 | NotebookCheck.net | 19/25 | Warm | Medium | Medium |
+| 48 | TechBargains | 19/25 | Warm | Medium | Low |
+| 48 | CouponFollow | 19/25 | Warm | Medium-High | Low |
+| 48 | Gear Diary | 19/25 | Warm | Medium | Low |
+| 48 | BackupPowerHub | 19/25 | Warm | Medium | Low |
+| 53 | Digital Spy | 18/25 | Warm | Medium | Low |
+| 53 | CleverHiker | 18/25 | Warm | Medium | Low |
+| 53 | Treeline Review | 18/25 | Warm | Medium | Low |
+| 53 | SimplyCodes | 18/25 | Warm | Medium | Low |
+| 57 | Digital Reviews Network | 17/25 | Warm | Low | Low |
+| 58 | Houston Chronicle | 16/25 | Warm | Low | Low |
+
+---
+
 ## Strategic Recommendations
 
 
