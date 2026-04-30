@@ -1,0 +1,221 @@
+{
+  "audit_date": "2026-04-30",
+  "audited_by": "Mac Ant (Flywheel Affiliate Intelligence Engine)",
+  "vendor": "Anker",
+  "vendor_url": "https://www.anker.com",
+  "category": "consumer_electronics",
+  "affiliate_program": {
+    "status": "active",
+    "program_page": "https://www.anker.com/become-an-affiliate",
+    "networks": [
+      {
+        "name": "Rakuten Advertising / LinkShare",
+        "signup_url": "https://signup.linkshare.com/publishers/registration/landing?mid=43469",
+        "status": "active",
+        "notes": "Primary US network; mid=43469 confirmed active. GET STARTED button live on program page."
+      },
+      {
+        "name": "Impact.com",
+        "signup_url": "http://app.impact.com/campaign-campaign-info-v2/Anker.brand",
+        "status": "active",
+        "notes": "Second US network confirmed active on program page."
+      },
+      {
+        "name": "Webgains",
+        "program_id": "310162",
+        "notes": "Anker Nordics; 8–15% tiered by product type and volume; 30-day cookie.",
+        "status": "active",
+        "region": "Nordic/EU"
+      },
+      {
+        "name": "CueLinks",
+        "notes": "India/International; 4.5% payout as of last confirmed data.",
+        "status": "active",
+        "region": "India/International"
+      },
+      {
+        "name": "Indoleads",
+        "notes": "CPA network; Southeast Asia affiliate reach.",
+        "status": "active",
+        "region": "International/SEA"
+      }
+    ],
+    "commission": {
+      "rate_percent_us": 8.0,
+      "rate_percent_uk": 7.0,
+      "rate_percent_eu_de": 8.0,
+      "rate_range_nordics": "8–15%",
+      "rate_international_cuelinks": 4.5,
+      "type": "flat (US/UK/EU); tiered by product type and volume (Nordics)",
+      "notes": "8% flat on all US transactions confirmed unchanged. Nordic ceiling 15% unchanged. SOLIX sub-brand separate at 5%."
+    },
+    "cookie_duration_days": 30,
+    "stated_conversion_rate_pct": 2.0,
+    "contact_email": "affiliate@anker.com",
+    "creative_assets": {
+      "availability": "self_serve_plus_managed",
+      "types": [
+        "banner_ads",
+        "text_links",
+        "data_feeds",
+        "custom_coupon_codes",
+        "seasonal_promotions"
+      ],
+      "notes": "Regularly updated banners and text links confirmed. Dedicated affiliate manager available. Data feed supports programmatic/AI-assisted placements."
+    },
+    "payment_terms": "Standard network payment terms via Rakuten Advertising / Impact.com; no minimum threshold explicitly stated on program page.",
+    "application_required": true,
+    "approval_type": "review_via_network",
+    "publisher_types_supported": [
+      "blogs",
+      "forums",
+      "product_review_sites",
+      "social_media",
+      "publishing_houses",
+      "individual_creators"
+    ],
+    "restrictions": [
+      "No false/tampered links",
+      "No simulated purchase patterns or scripts",
+      "No persistent or full-screen pop-ups"
+    ]
+  },
+  "sub_brand_programs": {
+    "anker_solix": {
+      "program_page": "https://www.ankersolix.com/become-an-affiliate",
+      "commission_pct": 5.0,
+      "cookie_duration_days": 30,
+      "category": "portable_power",
+      "active_promotions": {
+        "flash_sale": {
+          "detected": true,
+          "description": "Flash Sale on portable power stations active as of 2026-04-30. Countdown timer observed on affiliate program page.",
+          "detected_date": "2026-04-30"
+        },
+        "e10_free_gift": {
+          "detected": true,
+          "description": "Free Gift with Purchase promotion on SOLIX E10 Smart Hybrid Whole-Home Backup System active as of 2026-04-30. This is NEW promotional activity not present in the 2026-04-26 audit.",
+          "product": "SOLIX E10 Smart Hybrid Whole-Home Backup System",
+          "detected_date": "2026-04-30"
+        }
+      },
+      "notes": "ACTIVE PROMOTIONS DETECTED — two simultaneous campaigns live: flash sale (PPS) + free gift on E10 flagship. High-value content window open NOW for SOLIX affiliates. E10 launched CES 2026 (January); direct-to-consumer install model bypasses traditional installers."
+    },
+    "ankerwork": {
+      "program_page": "https://us.ankerwork.com/pages/become-an-affiliate",
+      "commission_pct": null,
+      "notes": "Workplace/B2B accessories sub-brand. Commission rate UNCONFIRMED — now 8 CONSECUTIVE AUDIT CYCLES without resolution. Escalation via affiliate@anker.com is critical. US and UK program pages both live but commission rate not publicly disclosed."
+    },
+    "anker_referral_program": {
+      "url": "https://www.anker.com/referral",
+      "type": "referral (not traditional affiliate)",
+      "referrer_reward_pct": 10.0,
+      "referee_discount_pct": 10.0,
+      "notes": "Consumer-facing referral (10% to referrer, 10% discount to referee). Higher incentive but consumer-only scope."
+    },
+    "superchargers_creator_program": {
+      "url": "https://www.anker.com/content-creator",
+      "notes": "Content creator/influencer bridge. High-quality content may convert to traditional affiliate program placement. Key influencer-to-affiliate recruitment pipeline."
+    }
+  },
+  "benchmark_comparison": {
+    "category": "consumer_electronics",
+    "category_commission_low_pct": 2.0,
+    "category_commission_median_pct": 5.0,
+    "category_commission_high_pct": 12.0,
+    "category_cookie_median_days": 30,
+    "vs_benchmark": {
+      "commission": "above_median — 8% vs 5% category median; upper-mid band vs 12% high",
+      "cookie": "at_median — 30 days matches category standard",
+      "network_coverage": "strong — 5 networks confirmed (Rakuten, Impact, Webgains, CueLinks, Indoleads)"
+    }
+  },
+  "afare_signals": {
+    "commission_score": 4,
+    "commission_note": "8% well above 5% category median. Nordic ceiling 15% is elite tier for the region.",
+    "cookie_score": 3,
+    "cookie_note": "30 days at category median. Competitive but not class-leading vs brands offering 45–60 day windows.",
+    "program_health": "strong",
+    "affiliate_friendliness": "high",
+    "strengths": [
+      "8% flat rate well above 5% category median — strong EPC signal for affiliates",
+      "5-network presence (Rakuten + Impact + Webgains + CueLinks + Indoleads) — broadest coverage in category peer group",
+      "SOLIX E10 flash sale + free gift with purchase promotions LIVE — immediate affiliate content opportunity",
+      "Dedicated affiliate manager reduces activation friction",
+      "Self-serve creative library (banners, data feeds, custom links) enables rapid deployment",
+      "Seasonal coupons and promotions provide content hooks for deal publishers",
+      "SuperChargers creator program bridges social media influencers into affiliate pipeline",
+      "2% stated conversion rate above typical CE floor; strong brand trust reduces pre-sale objections",
+      "SOLIX E10 direct-install model (no installer required) lowers consumer friction on high-AOV purchases"
+    ],
+    "weaknesses": [
+      "SOLIX sub-brand at 5% creates rate discrepancy vs main Anker 8% — risk of publisher confusion on multi-brand content",
+      "AnkerWork commission rate UNCONFIRMED for EIGHT consecutive audit cycles — critical intelligence gap",
+      "CueLinks international rate (4.5%) significantly below US rate — geographic rate fragmentation",
+      "No publicly stated payment schedule or minimum payout threshold",
+      "30-day cookie at median — competitors with 45–60 day windows hold structural advantage on high-consideration purchases"
+    ],
+    "opportunities": [
+      "SOLIX FLASH SALE + E10 FREE GIFT (ACTIVE NOW): Two simultaneous promotions live on ankersolix.com — highest-urgency content opportunity in 2026 YTD for SOLIX-focused affiliates. Brief creators immediately.",
+      "SOLIX E10 high-AOV home backup system (launched CES Jan 2026): DTC install model is a differentiating content narrative vs Tesla Powerwall installer dependency. Unique angle for home/solar content creators.",
+      "Memorial Day window opens in 26 days (May 26): Peak consumer electronics purchase cycle. Coordinate with Anker affiliate manager to secure exclusive coupons or rate bump for top publishers.",
+      "Nordic tiered model (up to 15%) could serve as template for US volume-tier upgrade pitch to Anker affiliate team",
+      "Data feed + AI shopping agent compatibility: Anker's data feed infrastructure is positioned well for AI-mediated affiliate placements as shopping agents scale in 2026",
+      "Consumer referral program (10%) signals brand investment in incentive structures — leverage as negotiating precedent for creator rate uplift"
+    ],
+    "threats": [
+      "Amazon Associates default channel continues to capture casual Anker buyer traffic ahead of affiliate links",
+      "UGREEN (8–15%) and RAVPower (8–20%) offer comparable or higher ceiling commission rates",
+      "Multiple sub-brand programs without unified messaging risk fragmenting publisher attention",
+      "Flat US rate with no volume tier may not retain top-tier publishers vs higher-ceiling alternatives",
+      "SOLIX E10 home battery competes in a high-consideration segment where EcoFlow (5–8%) and Bluetti (8%) offer competing affiliate programs"
+    ]
+  },
+  "changes_since_last_audit": {
+    "last_audit_date": "2026-04-26",
+    "days_since_last_audit": 4,
+    "changes_detected": true,
+    "change_summary": "Main Anker program (8% / 30-day / 5 networks) is UNCHANGED. NEW CHANGE DETECTED: Anker SOLIX now running two simultaneous promotions — (1) Flash Sale on portable power stations with live countdown timer, and (2) Free Gift with Purchase on the SOLIX E10 Smart Hybrid Whole-Home Backup System. Neither promotion was present in the 2026-04-26 audit. All other program terms (commission, cookie, networks, AnkerWork gap) unchanged.",
+    "new_promotions": [
+      {
+        "brand": "Anker SOLIX",
+        "type": "Flash Sale",
+        "product_focus": "Portable Power Stations (PPS)",
+        "detected_date": "2026-04-30",
+        "affiliate_relevance": "high — time-sensitive deal content converts well for deal/coupon publishers and YouTube review channels"
+      },
+      {
+        "brand": "Anker SOLIX",
+        "type": "Free Gift with Purchase",
+        "product_focus": "SOLIX E10 Smart Hybrid Whole-Home Backup System",
+        "detected_date": "2026-04-30",
+        "affiliate_relevance": "high — bonus offer narrative adds conversion hook to existing E10 review/comparison content"
+      }
+    ],
+    "program_stability": "stable (main); newly active promotions (SOLIX)"
+  },
+  "benchmark_update": {
+    "warranted": false,
+    "notes": "consumer_electronics and portable_power benchmarks remain accurate. No new category-level commission, cookie, or AOV data found this cycle that falls outside current benchmark ranges. No update to category-benchmarks.json required."
+  },
+  "recommended_actions": [
+    "CRITICAL — SOLIX FLASH SALE + E10 FREE GIFT (ACT TODAY): Two SOLIX promotions are live NOW. Brief active SOLIX affiliates immediately via affiliate@anker.com to request promotion-specific deep links, banners, and coupon codes while the flash sale countdown is active.",
+    "CRITICAL — AnkerWork commission escalation (8th cycle): Email affiliate@anker.com directly. This is the 8th consecutive audit cycle without a confirmed AnkerWork rate. No further deferral acceptable.",
+    "MEMORIAL DAY PREP (26 days): Contact Anker affiliate manager now to secure Memorial Day exclusive coupons, rate bump, or bonus window for top publishers. Optimal outreach window is this week.",
+    "E10 CONTENT BRIEF: SOLIX E10 ($AOV high) with DTC install + Free Gift is the single highest-EPC content opportunity in the Anker portfolio right now. Create/brief a dedicated E10 comparison and review content package for SOLIX-focused creators.",
+    "VOLUME TIER PITCH: Leverage Nordic 8–15% tiered model as precedent to pitch a US volume-tier structure to Anker affiliate team — top publishers are the most at-risk to migrate toward UGREEN/RAVPower ceiling rates.",
+    "AI SHOPPING AGENT ALIGNMENT: Anker's data feed infrastructure is AI-agent compatible. Coordinate with Mac Fly (AFARE scoring) and Mac Bee (ACES signal) to ensure Anker data feed is indexed in Flywheel composite scoring."
+  ],
+  "sources": [
+    "https://www.anker.com/become-an-affiliate",
+    "https://www.ankersolix.com/become-an-affiliate",
+    "https://us.ankerwork.com/pages/become-an-affiliate",
+    "https://uk.ankerwork.com/pages/affiliate",
+    "https://www.anker.com/content-creator",
+    "https://www.webgains.com/front/publisher/program/view/programID/310162",
+    "https://www.cuelinks.com/campaigns/anker-affiliate-program",
+    "https://linkclicky.com/affiliate-program/anker/",
+    "https://www.androidauthority.com/anker-solix-home-power-backup-ces-2026-3628391/",
+    "https://www.ess-news.com/2026/01/12/anker-solix-launches-new-e10-whole-home-backup-system-in-us-offers-one-stop-service-to-bypass-installers/"
+  ]
+}
