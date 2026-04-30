@@ -532,3 +532,15 @@ impact: high
 sentiment: negative
 ---
 FTC per-violation fines for affiliate disclosure non-compliance are set at $53,088 starting 2026, following a 40% enforcement increase in 2025. The FTC updated Endorsement Guides in 2025 to explicitly cover AI-generated content — AI influencers operating without disclosure are now directly in scope. Affiliate programs using AI creators or automated content must audit disclosure practices immediately.
+
+---signal---
+id: news-20260430-009
+signal: US affiliate marketing spend hits $13.81B in 2026; AI chatbots reshaping product discovery are core theme
+date: 2026-04-28
+source: https://www.emarketer.com/content/faq-on-affiliate-marketing--how-ai-creators-reshaping-channel-2026
+categories: industry
+tags: market-size, ai-discovery, chatbots, affiliate-spend, measurement
+impact: medium
+sentiment: positive
+---
+eMarketer's 2026 FAQ report confirms US advertisers will spend $13.81 billion on affiliate marketing this year. The dominant themes: generative AI chatbots reshaping how consumers discover and compare products (directly threatening traditional affiliate link-click models), creators claiming growing share of affiliate budgets, and measurement frameworks still struggling to capture full attribution across AI-assisted journeys. The channel is described as at an "inflection point" between classic link-based affiliate and AI-agent-driven commerce.

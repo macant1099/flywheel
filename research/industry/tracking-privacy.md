@@ -165,3 +165,27 @@ impact: medium
 sentiment: negative
 ---
 A detailed legal analysis published April 27, 2026 confirms that AI-generated influencer personas are subject to the same FTC Endorsement Guide disclosure obligations as human creators — and that brands deploying AI influencers carry significant liability if disclosures are missing or inadequate. The analysis highlights risks around misrepresentation of the AI nature of the endorser, failure to disclose material connection, and state-level consumer protection law exposure layered on top of FTC enforcement. As AI influencer tools proliferate, LiveChannel vendors running creator affiliate programs must explicitly address AI-generated content in publisher agreements and require clear #ad / #AI disclosure for all affiliated AI personas.
+
+---signal---
+id: news-20260430-007
+signal: Cookie deprecation now an operational reality in 2026 — server-side and first-party tracking are the new baseline
+date: 2026-04-01
+source: https://irev.com/blog/cookieless-affiliate-tracking-what-actually-works-in-2026/
+categories: industry
+tags: cookie-deprecation, server-side-tracking, first-party-data, attribution, privacy
+impact: medium
+sentiment: neutral
+---
+Third-party cookie deprecation across major browsers has moved from forecast to operational reality in 2026. Affiliate networks and platforms are now standardizing on server-to-server (S2S) tracking and first-party data as the default. Leading platforms — Impact, PartnerStack, Refersion, Tapfiliate, TUNE/CAKE — have all shipped cookieless tracking infrastructure. Vendors relying on legacy cookie-based affiliate links face growing attribution gaps and need to migrate to S2S integrations.
+
+---signal---
+id: news-20260430-008
+signal: FTC affiliate disclosure fines rise to $53,088 per violation in 2026; enforcement up 40% in 2025
+date: 2026-04-15
+source: https://www.adamigo.ai/blog/ftc-disclosure-rules-what-brands-must-know
+categories: industry
+tags: ftc, disclosure, compliance, regulation, fines, ai-influencers
+impact: medium
+sentiment: negative
+---
+FTC fine caps for affiliate disclosure violations are set at $53,088 per instance starting in 2026, and enforcement volume increased 40% in 2025. A new legal wrinkle: AI influencers and synthetic creators promoting affiliate products may violate FTC disclosure rules in ways that leave brands liable. The FTC Endorsement Guides still require clear disclosure of material connections, and the agency is actively scrutinizing creator/affiliate convergence. LiveChannel vendors must ensure their affiliate publishers are compliant.

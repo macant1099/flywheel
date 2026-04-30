@@ -285,3 +285,15 @@ impact: high
 sentiment: positive
 ---
 AdExchanger reporting adds critical operational details to the Rakuten/Impact alliance: Rakuten will **no longer operate the software and dashboard side of its affiliate business**. Thousands of merchants and publishers currently using Rakuten's partnership marketing tech will be transitioned to Impact's platform, making Impact the **exclusive platform provider** for Rakuten's commerce and affiliate partnership management. Rakuten becomes a **"Titanium Partner"** — a new, top-tier category on Impact's platform reflecting Rakuten's scale as a publisher/traffic source and a joint product roadmap commitment. In exchange, Impact will refer agency and creative services work back to Rakuten. Impact CEO David Yovanno framed the combined entity as now capable of competing at scale against Google, Amazon, and Meta for always-on advertiser budgets. This is the largest structural consolidation in affiliate platform history. For LiveChannel vendors: programs on Impact gain a materially larger publisher/traffic network; programs still on Rakuten's legacy tech will be migrated — no immediate action needed but brands should track migration communications from Rakuten.
+
+---signal---
+id: news-20260430-002
+signal: Impact.com absorbs Rakuten's entire merchant/publisher base in landmark affiliate industry consolidation
+date: 2026-04-29
+source: https://www.adexchanger.com/marketers/rakuten-and-impact-com-forge-a-new-alliance-that-resets-the-affiliate-industry/
+categories: affiliate-networks
+tags: impact, rakuten, consolidation, platform-migration, titanium-partner
+impact: high
+sentiment: positive
+---
+Impact.com CEO David Yovanno confirmed Impact becomes the exclusive platform for Rakuten's affiliate/partnership tech operations. All Rakuten merchants and publishers are transitioning to Impact's system. A new "Titanium Partner" tier was created specifically for Rakuten, reflecting its scale as a publisher and traffic source. Combined, the two companies position themselves to compete with Google, Amazon, and Meta on scale and always-on ROAS conversion. This is the largest network consolidation in affiliate marketing history.

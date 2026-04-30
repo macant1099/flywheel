@@ -405,3 +405,51 @@ impact: medium
 sentiment: positive
 ---
 Later announced record enterprise growth on April 14, 2026, surpassing $2.9B in creator-driven commerce and doubling enterprise business. The Influencer Marketing Factory's 2026 Creator Economy Report shows performance-based compensation at 53% industry adoption — more than double two years ago. Influencer affiliate as a performance channel is now mainstream, not experimental.
+
+---signal---
+id: news-20260430-003
+signal: Meta launches creator affiliate tagging in Facebook posts and Reels with Amazon and Shopee as launch partners
+date: 2026-04-20
+source: https://www.marketingbrew.com/stories/2026/04/20/how-advertisers-are-thinking-about-meta-s-affiliate-tool-rollout
+categories: industry
+tags: meta, facebook, reels, creator-affiliate, social-commerce, amazon, shopee
+impact: high
+sentiment: positive
+---
+Meta rolled out affiliate product tagging for creators in Facebook photo posts and Reels, displaying an affiliate banner when users click to purchase on brand apps or sites. Amazon and Shopee are the first launch partners, with Temu, eBay, and Mercado Libre joining soon. Meta also introduced checkout inside its Business AI sales agent — first announced at Shoptalk — positioning Meta as a direct competitor to TikTok Shop in the affiliate-driven social commerce space.
+
+---signal---
+id: news-20260430-004
+signal: Instagram's AI "Shop the Look" auto-tags products in creator posts using visual recognition without consent
+date: 2026-02-01
+source: https://www.netinfluencer.com/instagram-re-enters-creator-affiliate-commerce-years-after-rivals-built-lead/
+categories: industry
+tags: instagram, shop-the-look, ai-tagging, creator-commerce, auto-affiliate
+impact: medium
+sentiment: neutral
+---
+Instagram tested "Shop the Look" in February 2026 — an AI feature that automatically tags products in creator posts via visual recognition, without requiring creator opt-in. This re-enters Instagram into creator affiliate commerce years after TikTok Shop built a commanding lead. The auto-tagging without creator consent raises issues around attribution, consent, and creator compensation that are still unresolved.
+
+---signal---
+id: news-20260430-005
+signal: Performance-based influencer compensation hits 53% adoption in 2026, more than double vs two years ago
+date: 2026-04-24
+source: https://entrustechinc.com/performance-based-influencer-marketing-2026/
+categories: industry
+tags: influencer, performance-pay, creator-commerce, affiliate-compensation
+impact: medium
+sentiment: positive
+---
+Influencer Marketing Factory's 2026 Creator Economy Report shows performance-based compensation (affiliate/commission structures) reaching 53% adoption among brands working with creators — more than double the rate from 2024. This signals a structural shift where influencer budgets are increasingly tied to measurable results rather than flat fees, aligning creator incentives with affiliate economics. LiveChannel vendors with strong affiliate programs stand to capture more creator-driven traffic.
+
+---signal---
+id: news-20260430-006
+signal: Later surpasses $2.9B in creator-driven commerce, doubles enterprise clients, expands AI capabilities
+date: 2026-04-14
+source: https://www.prnewswire.com/news-releases/later-more-than-doubles-enterprise-business-as-influencer-marketing-becomes-a-performance-channel-302741194.html
+categories: industry
+tags: later, creator-commerce, influencer-platform, ai-tools, enterprise
+impact: medium
+sentiment: positive
+---
+Later announced record growth in April 2026, surpassing $2.9 billion in total creator-driven commerce and more than doubling its enterprise business. The company appointed a new CTO and is expanding AI capabilities, underlining that influencer marketing is cementing itself as a measurable performance channel. This growth validates the creator-affiliate convergence trend and raises the bar for affiliate program tooling.

@@ -279,3 +279,15 @@ impact: high
 sentiment: positive
 ---
 Rakuten International and impact.com announced a strategic alliance on April 28, 2026 to modernize the affiliate and performance marketing ecosystem. Impact.com CEO David Yovanno and the Rakuten exec team confirmed the alliance will focus on improving tracking, attribution, and automation — with real-time shopping enhancements central to the roadmap. Impact.com's technology becomes the core platform layer; Rakuten contributes managed services, publisher relationships, and the Rakuten Rewards data asset (~150M+ members). This is the biggest structural consolidation event in affiliate networks since Publicis acquired Epsilon/CJ in 2019. Brands on Rakuten Advertising should expect platform migration conversations; LiveChannel vendors should audit their Rakuten program health now before potential disruption.
+
+---signal---
+id: news-20260430-001
+signal: Rakuten exits affiliate software, migrates all merchants/publishers to Impact.com in strategic alliance
+date: 2026-04-29
+source: https://www.adexchanger.com/marketers/rakuten-and-impact-com-forge-a-new-alliance-that-resets-the-affiliate-industry/
+categories: affiliate-networks
+tags: rakuten, impact, consolidation, platform-migration, partnership-marketing
+impact: high
+sentiment: neutral
+---
+Rakuten and Impact.com announced a strategic alliance on April 28, 2026 in which Rakuten will exit the software/dashboard side of its affiliate business entirely. Thousands of merchants and publishers previously on Rakuten's platform will migrate to Impact's system, which becomes the exclusive platform provider for Rakuten's commerce and affiliate management. Rakuten retains its owned assets (Rakuten Rewards) and managed services/agency business; Impact will refer agency/creative work back to Rakuten. No equity exchange — purely strategic. Rakuten becomes a new "Titanium Partner" tier on Impact's platform.
