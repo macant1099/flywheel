@@ -17,7 +17,7 @@ keyStats:
   - label: "Gross Transactional Value (GTV)"
     value: "~$5B (partner payouts)"
 vendorRelevance: "high"
-lastUpdated: "2026-04-20"
+lastUpdated: "2026-04-30"
 ---
 
 ## Overview
@@ -80,6 +80,8 @@ This model typically results in lower total cost for high-volume programs compar
 - **Publisher Liquidity**: While the marketplace is large, some verticals may have fewer publishers compared to established networks like CJ or Awin.
 
 ## Recent Developments
+
+- **Strategic Alliance with Rakuten (April 28, 2026)**: In the biggest structural shift in affiliate industry history, Impact.com and Rakuten International announced a formal strategic alliance to unify their complementary capabilities. Under the agreement: Rakuten Advertising contributes global managed services, publisher relationships, and performance intelligence; Rakuten Rewards contributes its Cash Back consumer platform for incrementality measurement and loyalty; and Impact.com contributes its technology platform, tracking infrastructure, and marketplace. Advertisers working with Rakuten Advertising now gain access to Impact.com's platform capabilities, while Impact.com customers gain access to Rakuten's managed services and performance intelligence. The alliance positions the combined entity as the most comprehensive performance marketing ecosystem in the industry, combining infrastructure, service excellence, global publisher reach, and direct consumer data signals. CEO David Yovanno stated: "Bringing our platform, Rakuten Advertising's global scale, and Rakuten Rewards' consumer platform into a unified value proposition will make it easier for advertisers to achieve their goals."
 
 - **Record FY2025 Performance (Jan 2026)**: Impact.com reported ~$270M ARR (up ~20% YoY), ~$120B in partner-referred GMV, and ~$5B in gross transactional value for the fiscal year ending January 31, 2026. The platform welcomed 3,500+ new customers including New Balance, Hydrojug, Udemy, and Upside.
 - **YouTube Partnership**: Impact.com partnered with YouTube to enable brands and creators to track and monetize product recommendations directly from YouTube content — a major bridge between creator commerce and affiliate performance tracking.
