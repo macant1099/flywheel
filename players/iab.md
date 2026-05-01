@@ -15,7 +15,7 @@ keyStats:
   - label: "Focus"
     value: "Digital advertising standards"
 vendorRelevance: "low"
-lastUpdated: "2026-04-18"
+lastUpdated: "2026-05-01"
 ---
 
 ## Overview
@@ -84,9 +84,12 @@ The IAB is a membership-based trade organization:
 
 ## Recent Developments
 
+- **IAB Tech Lab Summit 2026: The Agentic Web (April/May 2026)**: IAB Tech Lab launched its dedicated summit around "The Agentic Web," addressing how content licensing, rights management, attribution, and compensation evolve when AI agents — not humans — mediate access to information and when AI platforms become primary distribution channels. Directly relevant to how affiliate tracking and commission attribution will work in agentic commerce.
+- **IAB Connected Commerce Summit 2026**: IAB launched a new Connected Commerce Summit focused on the intersection of AI, commerce, and cloud platforms. Featured speakers leading go-to-market strategy for Agentic Commerce, signaling the IAB's formal entry into the retail/commerce track alongside its traditional advertising focus.
+- **IAB Public Policy & Legal Summit 2026 — Washington D.C. (March 2026)**: Returned to D.C. with AI governance as the dominant theme. Sessions covered compliance challenges for data-driven AI services, behavioral advertising, affiliate marketing regulation, and emerging AI-specific policy frameworks.
 - **2026 Outlook Study — Ad Spend +9.5%**: Released April 2026, the IAB's 2026 Outlook Study projects U.S. ad spend growth of +9.5% YoY (vs. +5.7% in 2025), with AI dominating buyer priorities — 5 of the top 6 buyer focus areas center on AI adoption and agentic systems.
 - **IAB NewFronts 2026 Moves to March**: In a significant structural shift, IAB moved its signature NewFronts digital video upfront event from its traditional May slot to March 2026, signaling the urgency of CTV/streaming planning cycles.
-- **IAB Australia Affiliate & Partnership Marketing Summit (April 21, 2026)**: IAB Australia is hosting its annual Affiliate and Partnerships Marketing Summit in Sydney (April 21) and Melbourne, marking growing recognition of affiliate/performance marketing within the broader IAB ecosystem.
+- **IAB Australia Affiliate & Partnership Marketing Summit (April 21, 2026)**: IAB Australia hosted its annual Affiliate and Partnerships Marketing Summit in Sydney and Melbourne, marking growing recognition of affiliate/performance marketing within the broader IAB ecosystem.
 - **AI Transparency and Disclosure Framework (2026)**: Released the first-ever industry framework for AI disclosure in advertising, addressing the rapid growth of AI in ad creation, targeting, and commerce.
 - **Agentic AI Focus (2026)**: The IAB has centered its 2026 agenda on Agentic AI, recognizing that autonomous AI systems that plan, decide, and act are fundamentally changing digital advertising and commerce.
 - **TCF v2.3 (2025)**: Released updated Transparency and Consent Framework focusing on improved vendor disclosure, with compliance deadline of February 2026.
@@ -95,4 +98,4 @@ The IAB is a membership-based trade organization:
 
 ## Vendor Takeaway
 
-The IAB is relevant to Flywheel vendors primarily for its standards and frameworks that are increasingly shaping the rules for AI-driven commerce and digital advertising. While the PMA is more directly relevant for affiliate marketing, the IAB's AI Transparency and Disclosure Framework and privacy frameworks (TCF) affect how brands interact with AI commerce platforms, track conversions, and manage consumer data. For Flywheel vendors, the key takeaways are: (1) monitor IAB's AI transparency framework, as it will influence how AI agents disclose commerce relationships and recommendations; (2) ensure compliance with TCF v2.3 for GDPR-regulated markets; (3) follow IAB research for authoritative data on digital advertising market trends; (4) understand that as agentic commerce grows, IAB standards will increasingly apply to AI-powered shopping experiences, not just traditional display advertising. The IAB's 2026 focus on Agentic AI signals that the organization is actively working to create governance frameworks for AI-driven commerce.
+The IAB is relevant to Flywheel vendors primarily for its standards and frameworks that are increasingly shaping the rules for AI-driven commerce and digital advertising. While the PMA is more directly relevant for affiliate marketing, the IAB's AI Transparency and Disclosure Framework and privacy frameworks (TCF) affect how brands interact with AI commerce platforms, track conversions, and manage consumer data. The 2026 Tech Lab Summit on "The Agentic Web" is the most directly actionable development for Flywheel vendors: the standards being developed there will govern how attribution works when an AI agent — not a human — completes a purchase. For Flywheel vendors, the key takeaways are: (1) monitor IAB Tech Lab's agentic attribution standards — they will define who gets credit (and paid) when AI drives conversion; (2) follow the Connected Commerce Summit agenda as IAB formalizes agentic commerce governance; (3) ensure compliance with TCF v2.3 for GDPR-regulated markets by February 2026 deadline; (4) leverage IAB's 2026 Outlook research (+9.5% ad spend growth) for budget conversations with brand partners; (5) watch IAB's AI Transparency and Disclosure Framework as it will shape disclosure requirements for AI-powered product recommendations across affiliate channels. The IAB's pivot from digital advertising gatekeeper to agentic commerce standards body is the most significant institutional shift of 2026 for the performance marketing industry.
