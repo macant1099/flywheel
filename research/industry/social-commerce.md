@@ -453,3 +453,39 @@ impact: medium
 sentiment: positive
 ---
 Later announced record growth in April 2026, surpassing $2.9 billion in total creator-driven commerce and more than doubling its enterprise business. The company appointed a new CTO and is expanding AI capabilities, underlining that influencer marketing is cementing itself as a measurable performance channel. This growth validates the creator-affiliate convergence trend and raises the bar for affiliate program tooling.
+
+---signal---
+id: news-20260501-001
+signal: TikTok Shop launches Smart Promotion Program with 3.5% GMV fee subsidy for brands
+date: 2026-05-01
+source: https://www.shortformnation.com/blog/tiktok-shop-affiliate-commission-rates-what-brands-should-offer-2026-data
+categories: industry
+tags: tiktok-shop, smart-promotion, gmv, commission-subsidy, creator-incentives, social-commerce
+impact: medium
+sentiment: positive
+---
+TikTok Shop's Smart Promotion Program (launched March 2026) offers brands a 3.5% GMV fee subsidy for promotional activities, lowering the effective cost-per-sale for brands investing in creator partnerships. The program is paired with TikTok's recommendation engine, which provides data-driven commission suggestions based on the top 30% of performing products in each category. This makes TikTok Shop a more cost-competitive channel for LiveChannel vendors — particularly those in electronics, beauty, and outdoors where TikTok creator content is high-performing.
+
+---signal---
+id: news-20260501-002
+signal: Meta affiliate tool rollout sees cautious advertiser adoption — "afterthought" vs performance channel debate
+date: 2026-05-01
+source: https://www.marketingbrew.com/stories/2026/04/20/how-advertisers-are-thinking-about-meta-s-affiliate-tool-rollout
+categories: industry
+tags: meta, instagram, facebook, affiliate-adoption, advertiser-sentiment, social-commerce, creator-tags
+impact: medium
+sentiment: neutral
+---
+Despite Meta's April 2026 affiliate feature rollout — shoppable Reels, creator product tagging, Partnership Ads Hub visibility — advertiser adoption is tepid. AdMixt CEO Kevin Simonson noted "affiliate is generally an afterthought from a strategy perspective" for most brands, and that Meta's tools skew toward beauty/wellness verticals. Amazon and Shopee are launch partners for Facebook in-feed affiliate; Temu, eBay, and Mercado Libre are queued to join. LiveChannel vendors should monitor adoption curves before committing creator partnerships to Meta's platform over established TikTok Shop infrastructure.
+
+---signal---
+id: news-20260501-003
+signal: Fintel Connect + Cornerstone Advisors report: affiliate programs outperform traditional marketing ROI in financial services
+date: 2026-05-01
+source: https://www.prnewswire.com/news-releases/fintel-connect-and-cornerstone-advisors-release-new-report-revealing-the-marketing-roi-gap-in-banking-302756663.html
+categories: industry
+tags: fintel-connect, financial-services, affiliate-roi, banking, measurement, performance-marketing
+impact: low
+sentiment: positive
+---
+A new report from Fintel Connect and Cornerstone Advisors shows that US banks and credit unions that leverage affiliate programs demonstrate scalable, compliant, high-quality customer growth — outperforming institutions still relying on budget-incremental traditional channels. More than half of institutions set marketing budgets by adjusting the prior year's budget, limiting optimization. Affiliate's measurable, pay-for-performance model is a structural advantage vs. spray-and-pray ad spend. While B2B/finserv adjacent to LiveChannel, this validates affiliate's ROI superiority narrative across verticals.
