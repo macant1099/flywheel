@@ -176,6 +176,40 @@ For LiveChannel vendors, this alliance has three material implications:
 
 ---
 
+## PROP-024 · Card-Linked Offers (CLOs) — Payment-Native Affiliate Publisher Category Growing to 7% of Budgets
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | industry/publisher-types |
+| **Surfaced** | 2026-05-01 |
+
+**Signal sources:**
+- eMarketer FAQ (Apr 29, 2026): "Affiliates span a wide range of business types: editorial content sites like Wirecutter, loyalty and cash back platforms like Rakuten Rewards, social media creators, coupon and deal publishers, and technology partners such as card-linked offer providers." Technology partners (CLOs + cart-abandonment + BNPL) now claim ~7% of affiliate budgets, up from 5% in 2021, per PMA data cited by eMarketer. US affiliate spend reaches $13.81B in 2026, up 11.3% YoY. — https://www.emarketer.com/content/faq-on-affiliate-marketing--how-ai-creators-reshaping-channel-2026
+- Kard (Apr 2026): "Our platform gives merchants access to tens of millions of consumers — without any upfront media costs — by delivering rewards through banking apps, rewards programs, and EBT platforms." Machine learning matches billions of card transactions to live in-network merchant offers in real time. 85% of Gen Z and 82% of Millennials prefer contactless payments — CLO delivery aligns with how target demographics already pay. — https://www.getkard.com/blog/clos-the-what-and-why
+- Dateio Platform (Apr 2026): "This shifts the role of banks towards becoming a new kind of commercial media. Rather than simply displaying offers, they enable a full performance marketing loop — from targeting based on transaction data and activation to verified redemption. For retailers, this means moving beyond awareness towards measurable outcomes, where every offer is tied to real transactions and proven impact." — https://www.dateioplatform.com/resources/post/what-are-card-linked-offers-guide
+- Affilifest (May 1, 2026): Industry conference explicitly lists "card linked offers" as a distinct and named affiliate publisher category alongside creators, loyalty, referral, and retail media in its 2026 agenda — first time CLOs have appeared as a standalone track topic at a major affiliate industry conference. — https://north.affilifest.com/blog/affilifest-2026-agenda-live-heres-matters-work-affiliate
+- vCommission (Apr 2026): "Walmart+ membership program, a subscription model that keeps buyers locked into the ecosystem and spending consistently" — notes Walmart+ intersects with CLO mechanics as loyalty/membership programs increasingly embed card-linked rewards. — https://www.vcommission.com/blog/publishers/best-performing-online-marketplace-offers-for-affiliates-in-2026/
+
+**Why it matters:**
+Card-linked offers (CLOs) are a structurally distinct affiliate publisher category that operates entirely outside the traditional click-based affiliate tracking model. The mechanism: a CLO platform (Kard, Chase Offers, American Express Offers, Capital One Shopping, Rakuten Pay) partners with banks and fintechs to deliver merchant promotions inside banking apps and card reward portals. When a consumer uses their enrolled card to make a qualifying purchase at a participating merchant, the platform detects the transaction via card network data and credits the reward — with no cookie, no tracked click, no browser extension, and no pixel required. Attribution is purely through payment transaction matching.
+
+This is **structurally distinct from all existing proposals and research files**:
+- **tracking-privacy.md** covers cookie deprecation and server-side tracking as solutions to *click-based* attribution gaps. CLOs don't have clicks at all — the tracking primitive is the card transaction, not a browser session.
+- **PROP-023** (Rakuten × Impact alliance) covers Rakuten Advertising and Impact.com's platform consolidation. Rakuten Rewards (a major CLO and cashback publisher) is mentioned as a data asset, but the CLO *publisher category mechanics* are not analyzed.
+- **PROP-011** (AI Zero-Click Traffic Collapse) covers the SEO → AI attribution gap on the discovery side. CLOs solve a different problem: verified purchase attribution where no digital click path exists (e.g., in-store purchases, app purchases, payment-terminal transactions).
+- **PROP-003** (Membership/Recurring Commissions) covers recurring affiliate commission models for subscription brands. CLOs are a *publisher type*, not a commission model.
+
+For LiveChannel vendors, CLOs create three material implications:
+
+(1) **New cookieless attribution channel**: CLOs offer affiliate-style performance marketing with transaction-verified attribution — immune to cookie deprecation, browser privacy restrictions, and ad-blocking. For vendors whose affiliate programs are losing attribution accuracy as Safari/Firefox ITP and California privacy law (effective Jan 2026) restrict cookie-based tracking, CLO platforms offer a parallel channel where every commission payout is verified against actual card transaction data rather than probabilistic click matching.
+
+(2) **In-store + omnichannel affiliate coverage**: Traditional affiliate programs only capture online purchases through tracked links. CLOs capture in-store purchases (via card-tap at POS) made by consumers who discovered the brand online. For LiveChannel vendors with physical retail distribution or omnichannel customers, CLOs close the online-to-offline attribution gap — a commission can be earned when a LiveChannel viewer converts through a physical store visit after seeing the product in a livestream, if the vendor is enrolled in a CLO platform.
+
+(3) **Publisher recruitment in banking apps**: CLO platforms distribute merchant offers through banking apps and card reward portals with tens of millions of active users. Unlike traditional affiliate recruitment (where vendors pitch publishers on CJ, Awin, or Impact), CLO enrollment is a direct platform integration — the vendor submits their offer parameters to a CLO platform, and distribution happens automatically through the platform's bank/fintech partner network. Vendors who enroll in Kard, Chase Offers, or similar CLO platforms gain exposure to consumers who are actively in a spending mindset (looking at their banking app) rather than passively browsing content. The 7% budget share (up from 5%) and explicit inclusion in the eMarketer publisher taxonomy signals this category is crossing from experimental to mainstream — the window to enroll before competition for CLO slots intensifies is closing.
+
+---
+
 ## PROP-001 · FTC 2026 Compliance: Disclosure Rules Expanded to Livestreams, Short-Form Video & AI Endorsements
 
 | Field | Value |
