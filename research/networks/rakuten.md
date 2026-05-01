@@ -1,7 +1,7 @@
 ---
 title: "Rakuten Advertising — Network Profile"
 category: affiliate-networks
-lastUpdated: "2026-04-24"
+lastUpdated: "2026-05-01"
 ---
 
 # Rakuten Advertising — Network Profile
@@ -279,6 +279,20 @@ impact: high
 sentiment: positive
 ---
 Rakuten International and impact.com announced a strategic alliance on April 28, 2026 to modernize the affiliate and performance marketing ecosystem. Impact.com CEO David Yovanno and the Rakuten exec team confirmed the alliance will focus on improving tracking, attribution, and automation — with real-time shopping enhancements central to the roadmap. Impact.com's technology becomes the core platform layer; Rakuten contributes managed services, publisher relationships, and the Rakuten Rewards data asset (~150M+ members). This is the biggest structural consolidation event in affiliate networks since Publicis acquired Epsilon/CJ in 2019. Brands on Rakuten Advertising should expect platform migration conversations; LiveChannel vendors should audit their Rakuten program health now before potential disruption.
+
+---signal---
+id: news-20260501-001
+signal: Rakuten/Impact migration confirmed for summer 2026 — Rakuten Optimism (May 5-6) and iPX (June 9-11) to reveal additional alliance capabilities
+date: 2026-05-01
+source: https://www.prnewswire.com/news-releases/rakuten-and-impactcom-announce-alliance-to-scale-the-global-partnership-economy-302753955.html
+categories: affiliate-networks
+tags: rakuten, impact, migration-timeline, rakuten-optimism, iPX, conference, summer-2026
+impact: high
+sentiment: neutral
+---
+Rakuten has confirmed that customers will begin transitioning from Rakuten's proprietary platform to impact.com's infrastructure **as early as summer 2026**. The migration is framed as a "seamless experience" with proactive support. Two upcoming conferences are designated as the next disclosure moments for additional alliance capabilities: (1) **Rakuten Optimism US — May 5-6, Arizona Biltmore, Scottsdale, AZ** and (2) **impact.com's iPX — June 9-11, Austin, TX**. Analysis from agency Newengen frames the alliance as "the unbundling of platform and services" — decoupling impact.com's tech layer from Rakuten's managed services, mirroring impact.com's original philosophy but now at enterprise scale. The combined entity is positioned to rival the sophistication of Google/Meta/Amazon performance platforms.
+
+**Flywheel Relevance:** The summer 2026 migration timeline is now firm. LiveChannel vendors with Rakuten programs should (1) audit current Rakuten program health, (2) ensure all tracking pixels and API integrations are documented for migration, (3) identify the account manager contact at Rakuten Advertising to get on early-access migration outreach lists. Watch Rakuten Optimism (May 5-6) for product reveals that will define the post-migration experience.
 
 ---signal---
 id: news-20260430-001
