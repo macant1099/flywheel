@@ -455,7 +455,7 @@ sentiment: positive
 Later announced record growth in April 2026, surpassing $2.9 billion in total creator-driven commerce and more than doubling its enterprise business. The company appointed a new CTO and is expanding AI capabilities, underlining that influencer marketing is cementing itself as a measurable performance channel. This growth validates the creator-affiliate convergence trend and raises the bar for affiliate program tooling.
 
 ---signal---
-id: news-20260501-001
+id: news-20260501-004
 signal: TikTok Shop launches Smart Promotion Program with 3.5% GMV fee subsidy for brands
 date: 2026-05-01
 source: https://www.shortformnation.com/blog/tiktok-shop-affiliate-commission-rates-what-brands-should-offer-2026-data
