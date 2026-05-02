@@ -1,7 +1,7 @@
 ---
 name: "Rakuten Advertising"
 type: "network"
-description: "Global affiliate network and digital advertising platform backed by Rakuten Group, with premium publisher relationships and a strong loyalty commerce integration via Rakuten's own cashback ecosystem"
+description: "Global affiliate network and managed services partner backed by Rakuten Group — now operating as a Titanium Partner on Impact's platform after landmark April 2026 strategic alliance that exits Rakuten from the affiliate tech business"
 website: "https://rakutenadvertising.com"
 founded: "2014"
 headquarters: "San Mateo, CA"
@@ -17,7 +17,7 @@ keyStats:
   - label: "Industry Recognition"
     value: "Top global affiliate network for 8 consecutive years (Blue Book)"
 vendorRelevance: "high"
-lastUpdated: "2026-04-13"
+lastUpdated: "2026-05-02"
 ---
 
 ## Overview
@@ -77,11 +77,22 @@ Specific pricing is negotiated; Rakuten skews toward medium-to-enterprise advert
 
 ## Recent Developments
 
-**2025–2026** — Rakuten Advertising has been expanding its Audience Engine capabilities, leveraging Rakuten Group's global purchase data to provide advertisers with better audience targeting within affiliate campaigns.
+**🚨 INDUSTRY-RESHAPING: Rakuten + Impact.com Strategic Alliance (April 28, 2026)** — In the biggest structural shift in affiliate marketing in years, Rakuten International and Impact.com announced a formal strategic alliance that fundamentally changes how both companies operate. Key points:
 
-**2025** — Growing investment in creator/influencer affiliate capabilities as the line between traditional affiliate publishers and content creators continues to blur.
+- **Rakuten exits affiliate platform/software**: Thousands of merchants and publishers who previously managed programs through Rakuten's own dashboard are being migrated to Impact's system. Impact.com becomes the **exclusive platform provider** for Rakuten's affiliate and commerce partnership management.
+- **Rakuten becomes a "Titanium Partner" on Impact** — a new, highest-tier partner category created specifically for this relationship, reflecting Rakuten's unmatched scale as a publisher and traffic source in the affiliate ecosystem.
+- **Rakuten keeps what it's best at**: Rakuten Advertising retains managed services, strategic program management, global execution expertise, and Publisher Development capabilities. Rakuten Rewards' 15M+ cashback members remain a unique first-party consumer asset.
+- **Data integration**: Rakuten Rewards' direct consumer signals will feed into Impact's attribution and incrementality measurement, giving advertisers better performance intelligence.
+- **No equity change**: The alliance is a purely strategic partnership — no merger, no acquisition, no share exchange.
+- **Competitive positioning**: Together, Rakuten + Impact aims to compete at scale against Google, Amazon, and Meta as a unified performance marketing alternative with global reach.
 
-**2026** — Maintaining top-tier publisher rankings in Blue Book survey, indicating strong publisher satisfaction with payment reliability and program quality.
+**What this means for advertisers**: Existing Rakuten Advertising clients will gain access to Impact's platform infrastructure (contracting, tracking, payments) while retaining Rakuten's managed services. New advertisers can access both via a single integrated proposition.
+
+**What this means for publishers**: Transition to Impact's marketplace, while Rakuten Rewards remains the dominant cashback/loyalty publisher it always was.
+
+**2025–2026** — Rakuten Advertising had been expanding Audience Engine capabilities, leveraging Rakuten Group's global purchase data. These capabilities will now integrate with Impact's platform infrastructure.
+
+**2025** — Growing investment in creator/influencer affiliate capabilities, now positioned within the Impact platform ecosystem.
 
 ## Vendor Takeaway
 
@@ -92,4 +103,6 @@ Rakuten Advertising is most compelling for **brands where cashback and loyalty t
 - Multi-national retailers wanting a single network with global reach
 - Brands that want Blue Book-validated publisher trust behind their program
 
-**Stack with:** CJ or Awin for broader publisher reach; Rakuten handles the loyalty/cashback segment specifically. Don't rely on Rakuten alone if editorial or content publisher traffic matters.
+**Stack with:** Post-alliance, the Rakuten + Impact.com combined offering is more compelling than either standalone. For vendors already on Impact, Rakuten's managed services and Rakuten Rewards consumer traffic are now accessible through a unified engagement. For vendors choosing a new platform, the Rakuten/Impact alliance creates a stronger integrated option than before.
+
+**⚠️ Flywheel advisory**: Monitor the merchant migration closely. Vendors running programs on Rakuten's own platform should expect migration outreach to Impact.com. This is an opportunity to consolidate affiliate management — vendors can potentially run both their existing Impact programs and Rakuten's cashback/loyalty traffic in one place.
