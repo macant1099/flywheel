@@ -3,6 +3,86 @@ _Proposed new research topics from the discovery sweep. Status: proposed → app
 
 ---
 
+## PROP-025 · EU Cookie Consent Enforcement Escalation — CNIL/EDPB Liability for Affiliate Tracking Setups
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | industry/regulation-compliance |
+| **Surfaced** | 2026-05-02 |
+
+**Signal sources:**
+- Consenteo (Apr 2026): "In 2025, the French CNIL fined Google €325M and Shein €150M in a single day for cookie violations. The EDPB expanded the scope of Article 5(3) to pixels, URL tracking, and fingerprinting." — https://www.consenteo.com/knowledge-hub/GDPR/gdpr_cookie_consent_2026
+- Ethyca (Apr 2026): "Financial reckonings: In late 2025, the French Data Protection Authority (CNIL) levied nearly half a billion euros in combined fines against major tech and retail platforms for deploying cookies without clear, prior user consent. Systemic sweeps: The European Data Protection Board (EDPB) just launched its Coordinated Enforcement Framework (CEF) for 2026, focusing on compliance with GDPR's transparency obligations." — https://www.ethyca.com/guides/third-party-cookie-deprecation-here-s-what-privacy-teams-need-to-know
+- CookieChimp (Apr 28, 2026): "CNIL - Cookie regulation enforcement update (Google and SHEIN)... EDPB - Report of the work undertaken by the Cookie Banner Taskforce. If your consent setup still assumes 'one banner fits all,' 2026 is your signal to upgrade the model." — https://cookiechimp.com/blog/what-changed-in-cookie-consent-laws-in-2026
+- DEV Community / Sophie Marie Blanc (Apr 2026): "A batch of smaller companies (2024): €50,000 to €500,000 each for non-compliant banners. For a company with €2 million in revenue, a €100,000 fine is catastrophic. It's not a cost of doing business." — https://dev.to/sophie_marie_blanc/cnil-cookie-enforcement-in-2026-what-frances-privacy-rules-mean-for-your-website-4n4l
+- Tapfiliate (Apr 2026): "Cookie blocking causes 52% data loss in retargeting, and server-side tracking recovers 85% of it. 73% of marketers are now investing in first-party data strategies as the primary alternative." — https://tapfiliate.com/blog/data-privacy-in-affiliate-marketing-gp/
+- CookieYes (Apr 2026): "Enforcement in 2026 is still applying the same pressure on the same issues: unequal prominence, missing reject options, and consent logs that don't hold up under scrutiny." — https://www.cookieyes.com/blog/eu-cookie-compliance/
+
+**Why it matters:**
+This proposal is **structurally distinct from both PROP-008 and tracking-privacy.md** in two critical ways:
+
+**PROP-008** covers UK/EU *influencer disclosure rules* under the CMA, ASA, and CAP Code — legal obligations about how affiliate relationships must be *disclosed* to consumers in marketing content. That is a content compliance issue.
+
+**tracking-privacy.md** covers the *technical* degradation of cookie-based attribution caused by browser-level restrictions (Safari ITP, Firefox ETP, Chrome Privacy Sandbox) and first-party data strategies as solutions. That is a measurement infrastructure issue.
+
+**This proposal covers a third dimension: direct EU regulatory enforcement liability for how affiliate tracking cookies are *deployed*** — specifically, whether vendors and their affiliate network partners obtain valid GDPR-compliant consent before setting affiliate tracking cookies on EU visitors' browsers. The CNIL fined Google €325M and Shein €150M in a single day in 2025 for cookie consent violations. The EDPB has now expanded Article 5(3) enforcement scope to pixels, URL tracking parameters, and fingerprinting — all mechanisms routinely used in affiliate tracking. Smaller companies are being fined €50K–€500K for non-compliant consent banners.
+
+The enforcement trajectory is accelerating: the EDPB's 2026 Coordinated Enforcement Framework (CEF) explicitly targets transparency obligations around tracking — the same tracking mechanisms affiliate networks use to attribute clicks and conversions. The EDPB expanded scope to cover **pixels** (affiliate conversion pixels), **URL tracking** (affiliate click parameters like `?ref=`, `?aff_id=`), and **fingerprinting** (a common fallback when cookies are blocked).
+
+For LiveChannel vendors operating in or selling to EU markets, this creates four material liability dimensions:
+
+(1) **Affiliate pixel deployment without consent**: Most affiliate conversion pixels fire on every page load, including for EU visitors who haven't consented to tracking. Post-CNIL enforcement escalation, this exposure is no longer theoretical — it is the same fact pattern that generated €150M in fines for Shein.
+
+(2) **Network-level cookie placement**: When a visitor clicks an affiliate link and lands on a vendor's site, the affiliate network (CJ, Awin, Impact, ShareASale) typically sets a third-party cookie in the visitor's browser. Under GDPR, this requires the vendor to have a valid consent mechanism that covers affiliate tracking cookies specifically — not just analytics or advertising cookies. Many vendors' consent banners do not itemize affiliate tracking as a distinct category, creating an enforcement gap.
+
+(3) **URL parameter tracking scope expansion**: EDPB's 2026 expansion of Article 5(3) to URL tracking parameters means that affiliate click IDs embedded in URLs (e.g., `?clickid=`, `?affiliate_id=`, UTM parameters used for commission attribution) may now require explicit consent in jurisdictions that follow EDPB guidance — a significant operational change if true across all affiliate traffic.
+
+(4) **Vendor-as-controller liability**: Under GDPR, the vendor (data controller) is liable for how tracking operates on their domain, even when the affiliate network (data processor) deploys the technical mechanism. CNIL enforcement actions have targeted the controller (Shein, Google) not the tracking vendor — meaning LiveChannel vendors, not their affiliate networks, bear the primary fine exposure.
+
+For Flywheel, this creates a new AFARE scoring dimension: EU affiliate compliance posture. Vendors with EU traffic and non-compliant consent setups are carrying unquantified legal liability that directly affects their affiliate program's operational continuity — if forced to pull affiliate pixels pending compliance remediation, their affiliate programs go dark in their EU markets. Understanding the enforcement landscape gives Flywheel the basis to flag high-risk vendors and recommend consent management platform (CMP) upgrades as part of affiliate program readiness assessment.
+
+---
+
+## PROP-026 · TikTok Shop Vendor-Set Commission Rate Dynamics — Smart Promotion Program + Algorithmic Rate Intelligence (March 2026)
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | industry/platforms |
+| **Surfaced** | 2026-05-02 |
+
+**Signal sources:**
+- ShortFormNation (Apr 2026): "TikTok Shop Affiliate Commission Rates: What Brands Should Offer — 2026 Data." Detailed category benchmarks: beauty/cosmetics 10-25%, health supplements 15-25%, fashion/apparel 8-18%, home/kitchen 8-15%, electronics 3-8%. "The Smart Promotion Program (launched March 2026) offers a 3.5% GMV fee for promotional subsidies. TikTok's own recommendation engine provides data-driven commission suggestions based on top 30% performing products in your category." — https://www.shortformnation.com/blog/tiktok-shop-affiliate-commission-rates-what-brands-should-offer-2026-data
+- InfluencerFee (Apr 29, 2026): "TikTok Shop affiliate marketing guide — commission rates by category (beauty 10-25%, supplements 15-25%, electronics 3-8%), LIVE vs video shopping." Independent category-level rate benchmarking from creator-side perspective. — https://influencerfee.com/blog/tiktok-affiliate-marketing-rates/
+- TikTok Shop Seller University (ongoing): "Creators get a 30-day grace period locking in their original commission rate; if sellers raise rates, creators get the increase immediately, but if rates drop, creators keep the original rate for 30 days with advance notification." — https://seller-us.tiktok.com/university/essay?knowledge_id=6077860360177451
+- ShortFormNation Complete Guide (Apr 2026): "This guide covers the complete playbook: how the affiliate model works, what the market looks like in 2026, how to set commission rates that actually sustain margin... the $23.4 billion opportunity. TLDR: TikTok Shop affiliate marketing connects brands with creators who promote products for commission — entirely inside the TikTok ecosystem, no external links, no app-switching." — https://www.shortformnation.com/blog/tiktok-shop-affiliate-marketing-the-complete-2026-guide
+- Stormy AI (Apr 2026): "A proven 2026 tactic is the 30-video trial. You offer a creator a $1,000 minimum monthly retainer or a 15-20% commission — whichever is higher — on the condition that they provide one video per day for 30 days." — https://stormy.ai/blog/2026-tiktok-shop-playbook-affiliate-scaling
+- 2Point Agency (Apr 27, 2026): "Strong commissions plus ready-made assets drive the most consistent affiliate volume." Rate strategy guidance from agency practitioners running TikTok Shop programs for mid-market brands. — https://www.2pointagency.com/blog/tiktok-shop-marketing-guide/
+
+**Why it matters:**
+This proposal is **structurally distinct from PROP-002, PROP-019, and all existing research files** for three reasons:
+
+**PROP-002** (Affiliate Commission Rate Benchmarks by Vertical 2026) covers general cross-program benchmarks — what the market average looks like across Amazon, CJ, Awin, direct programs, etc. It does not address the unique mechanics of TikTok Shop's vendor-controlled rate system or the platform-specific competitive dynamics that determine creator acquisition success on TikTok.
+
+**PROP-019** (TikTok Shop Creator Health Rating) covers the compliance/eligibility system that gates which creators can promote which products. It does not address what rate to offer those eligible creators once enrolled.
+
+**TikTok Shop's commission mechanics are structurally different from every other affiliate context in the research library**, and those differences create vendor-specific strategy requirements:
+
+(1) **Vendor-set rates vs. platform-fixed rates**: On Amazon Associates, rates are fixed by Amazon and non-negotiable. On CJ, Awin, Impact, and ShareASale, vendors set rates but within a context where creators/publishers compare programs across many merchants. TikTok Shop is unique: vendors compete for creator attention *within the TikTok ecosystem itself* — creators see a real-time feed of available affiliate products with displayed commission rates and choose which products to promote. This means commission rate is a *storefront-level* competitive signal, not just a background contract term. A vendor offering 8% on beauty products competes head-to-head against other beauty vendors offering 15% in the same creator's affiliate product feed.
+
+(2) **TikTok's algorithmic rate recommendations (2026)**: TikTok Shop introduced a data-driven commission suggestion feature that analyzes the top 30% of performing products in a vendor's category and recommends rate ranges proven to attract affiliate creator activity. This is AI-assisted rate optimization infrastructure that vendors can use — or ignore at their peril. Vendors who set rates below TikTok's algorithmic recommendations are effectively invisible to the top tier of creators in their category.
+
+(3) **Smart Promotion Program (launched March 2026)**: TikTok's new Smart Promotion Program adds a 3.5% GMV fee on top of the affiliate commission for promotional subsidies — a programmatic boost mechanism that changes the total cost-of-sale calculation for vendors. Vendors who don't model this additional fee into their margin calculations are underestimating true TikTok Shop affiliate acquisition costs.
+
+(4) **Creator rate protection rules**: TikTok Shop's platform policy gives creators a 30-day lock on their original commission rate when vendors decrease rates. This creates an operational obligation: vendors cannot cut commissions immediately during margin-pressure periods without a 30-day lag — a cash flow and campaign planning constraint with no equivalent on traditional affiliate networks.
+
+(5) **LIVE vs. video shopping rate differentiation**: Category rates differ between TikTok Shop LIVE affiliate sessions and short-video affiliate posts — live sessions typically warrant higher commissions due to the real-time selling effort required. For LiveChannel vendors whose core use case is live commerce, understanding the live-session-specific commission premium is directly applicable to their program design.
+
+For Flywheel, this research would create a TikTok Shop-specific rate strategy framework: the right commission range by category, how to use TikTok's algorithmic recommendations, how to model Smart Promotion Program costs, and how rate protection rules affect campaign management. This gives AFARE scoring a TikTok Shop rate competitiveness dimension that is currently unmeasured.
+
+---
+
 ## PROP-018 · AI-Powered Creator Affiliate Commerce Platforms — The Commerce Conversion Layer (Markable, ShopMy, LTK)
 
 | Field | Value |
