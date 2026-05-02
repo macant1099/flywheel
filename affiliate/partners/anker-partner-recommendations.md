@@ -2006,6 +2006,171 @@ These sites have strong audience overlap with Anker's target buyers but are not 
 
 ---
 
+---
+
+---
+
+## 2026-05-02 Discovery Update
+
+*Automated partner discovery scan — even-day cycle (Anker). All leads below are new — no duplicates with prior entries.*
+
+---
+
+### 60. How-To Geek
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 5 |
+| Content Relevance | 5 |
+| Reach & Authority | 5 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **24/25** |
+
+**URL:** https://www.howtogeek.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Active Anker reviewer with multiple dedicated product reviews spanning 2024–2026: Anker Prime Charger 160W 3-Port Smart Display (November 2025 — "Its shape and smart cable placement make it a brilliant charger"); Anker Prime 6-in-1 200W USB-C Charger (March 2025 — "the one to beat when it comes to powering your setup with a single wall outlet"); Anker Prime Charger 250W (November 2024); Anker Prime Wireless Charging Station A25X7 (January 2026 — full hands-on review with Qi2.2 analysis). How-To Geek is a Valnet publication (same parent as Screen Rant, Game Rant, MakeUseOf, and the recently acquired Polygon). Affiliate commissions confirmed across Valnet network.
+**Evidence:** 4+ dedicated Anker product review articles across How-To Geek's flagship tech editorial. Each review is full hands-on (not roundup) — demonstrating genuine editorial investment. How-To Geek (DA ~72, 12–18M monthly visits) is one of the most-read practical tech publications on the web, known for its "how-to" authority that keeps readers coming back to buy the gear they just learned about. Valnet's 2025 acquisition of FastWeb signals ongoing expansion of their publisher network.
+**Opportunity:** How-To Geek's audience — practical tech users who follow tutorials before making purchase decisions — is a deeply informed Anker buyer. Their reviews cover Anker's highest-margin products (Prime 160W, Prime 200W, Prime 250W) with engineering-level detail. Current affiliate links likely route to Amazon (~3%); converting to Anker's direct Impact program (8%) on $50–$150 charger products is a straightforward commission upgrade. The Valnet leverage angle is the key unlock: How-To Geek, MakeUseOf, and Screen Rant all operate under Valnet's centralized affiliate infrastructure — a single conversation with Valnet's commerce team could cover multiple properties simultaneously.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Valnet centralized affiliate/commerce partnerships team (partnerships@valnetinc.com or LinkedIn to Valnet's Head of Commerce); How-To Geek's individual editor contact via editorial masthead as secondary channel; if Anker manages affiliates through an agency (Acceleration Partners), route via AP as warm introduction to Valnet's network
+- **Key value proposition:** Valnet multi-property deal — adding How-To Geek to Anker's affiliate program unlocks MakeUseOf (~8M monthly visitors) and potentially Screen Rant's tech vertical at near-zero incremental overhead; commission upgrade from Amazon's ~3% to Anker direct 8% on every Prime charger review (four live reviews driving ongoing traffic); exclusive "HTG Reader" discount code (e.g., "HTG12" for 12% off) converts How-To Geek's trusted editorial voice into trackable DTC revenue; early review unit access for every new Prime/Nano product launch keeps the review pipeline active
+- **Authenticated member base:** No authenticated base — primarily SEO and tutorial-driven readership (open); however Valnet operates newsletter infrastructure across all properties; How-To Geek's email subscriber list reaches engaged, repeat-visit tech users
+
+**Activation Angle:**
+- **Member communication channels:** How-To Geek email newsletter (tech enthusiast subscribers), How-To Geek social media (Twitter/X 500K+, Facebook 1M+), Valnet cross-property deal alert network (How-To Geek + MakeUseOf + Screen Rant tech vertical), Google Discover and Apple News distribution for review articles (high sustained organic traffic)
+- **Embed opportunities:** Dedicated Anker Prime product review pages (4 already live — optimize all to Anker direct Impact links); "best USB-C chargers" and "best GaN chargers" buying guides (How-To Geek publishes category-level roundups alongside individual reviews); AnkerWork hub and dock reviews for How-To Geek's WFH/productivity audience; "best travel chargers" guide (Anker Nano 45W Smart Display is a perfect fit for HTG's traveling professional readership); new product launch reviews (How-To Geek's review cadence tracks closely with Anker's product release schedule)
+- **Estimated activation potential:** High — How-To Geek readers are in active product-research mode before purchasing; engineering-level Anker Prime reviews attract buyers specifically researching multi-device charging solutions (higher AOV than single-device charger purchases); Valnet network amplification extends each review's reach across MakeUseOf and other properties; How-To Geek's evergreen review format generates sustained affiliate traffic 12–24 months after publication
+
+---
+
+### 61. OutdoorTechLab
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 5 |
+| Reach & Authority | 3 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **21/25** |
+
+**URL:** https://www.outdoortechlab.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Prolific field-tested Anker SOLIX publisher with dedicated comparison and review coverage in 2026: **Anker SOLIX C1000 Review: Northern Michigan Tested Best** (January 15, 2026 — real-world conditions including refrigerators, camp kitchens, power tools); **Best Portable Power Station (2026): Top 3 Units Tested** (April 2026 — **Anker SOLIX C1000 Gen 2 named "best overall portable power station for most users"** with 2000W output and 49-minute charging validated); **EcoFlow vs Anker: Best Field-Tested Power Station for 2026** (April 2026 — detailed head-to-head with Anker winning on charging speed and value); **Anker SOLIX vs Jackery: Ultimate Power Station Test (2026)** (April 2026 — 3-month field testing conclusion); **Anker vs EcoFlow DELTA 3: 2026 Winner Revealed** (January 2026 — "Anker wins on charging speed, portability, and incredible value"). Affiliate disclosure explicitly confirmed: "If you purchase using links on our site we may earn an affiliate commission, but at no extra cost to you."
+**Evidence:** Five distinct Anker SOLIX articles in a 4-month window — all field-tested in real outdoor conditions, not desk reviews. OutdoorTechLab self-describes as "#1 Camping, Hiking & Backpacking Gear" review site. Their Northern Michigan field test of the SOLIX C1000 (January 2026) is the kind of real-world validation that SOLIX buyers specifically seek before committing $1,000+. Current links likely route to Amazon (~3%); the SOLIX C1000 at $999+ means Amazon-routed conversions yield ~$30 vs. Anker-direct 8% = $80 per conversion — a 166% commission lift per sale.
+**Opportunity:** OutdoorTechLab is the most SOLIX-specific affiliate site identified to date outside of PoweredThrough (#38) and BackupPowerHub (#58). Their unique value is the outdoor field-test editorial approach: campers, overlanders, and emergency prep buyers trust gear tested in Northern Michigan conditions more than lab benchmarks. They cover exactly the SOLIX buyer's purchase journey — from comparison articles (vs EcoFlow, vs Jackery) through dedicated product reviews to roundup picks. Recruiting OutdoorTechLab to Anker's direct SOLIX Impact program while seeding their 2026 outdoor content calendar would lock in SOLIX's "best overall" position across their editorial ecosystem.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Direct email via OutdoorTechLab contact page or LinkedIn outreach to site editor/founder (likely small editorial team — direct and personal is most effective for independent outdoor media); press kit submission with SOLIX product access offer; coordinate with GearJunkie (#19), CleverHiker (#46), and Treeline Review (#50) outreach for a unified "outdoor media SOLIX push" that positions Anker as the preferred outdoor power partner
+- **Key value proposition:** Anker SOLIX is already OutdoorTechLab's "best overall" pick — converting from Amazon's ~3% to Anker SOLIX direct 8% on $999–$2,499 products = $80–$200 per conversion vs. $30–$75; exclusive "OUTDOORTECH10" reader code (10% off SOLIX, not available at Amazon or retail) gives OutdoorTechLab editorial differentiation that makes their buying guide more valuable than competitors; early field-test access to new SOLIX launches (Solarbank Max AC, SOLIX F3800 upgrades) keeps OutdoorTechLab ahead of competing outdoor gear sites for SOLIX content
+- **Authenticated member base:** No authenticated base — SEO-driven outdoor enthusiast readership; however strong Reddit referral pattern (r/camping, r/overlanding, r/preppers) circulates OutdoorTechLab content among active purchase-intent communities
+
+**Activation Angle:**
+- **Member communication channels:** OutdoorTechLab email newsletter (engaged outdoor enthusiast audience), social media presence, Reddit community referrals (r/camping, r/vandwellers, r/SolarDIY, r/preppers), organic search traffic for SOLIX comparison queries ("EcoFlow vs Anker," "best portable power station camping" — high-intent long-tail search)
+- **Embed opportunities:** "Best overall" portable power station roundup (SOLIX already holds top slot — optimize purchase links to Anker SOLIX direct Impact); all five existing SOLIX article pages (convert Amazon links to Anker direct); new field tests for Solarbank, SOLIX F3800, and solar panel lineup; "SOLIX for overlanding" and "best power station for van life" specialized guides; seasonal outdoor gear roundups (spring camping prep, hurricane season, summer festival/camping gear); comparison articles to cover future SOLIX model launches
+- **Estimated activation potential:** Medium-High — SOLIX ticket size ($999–$2,499) means each conversion generates $80–$200 in direct commission; outdoor enthusiast buyers are research-intensive and convert strongly when a trusted field-tester recommends a specific product; OutdoorTechLab's comparison content (5 Anker articles) creates multiple affiliate touchpoints along the research-to-purchase journey; five live Anker articles represent immediate link optimization opportunity
+
+---
+
+### 62. PerkSpot
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 3 |
+| Reach & Authority | 4 |
+| Brand Safety | 5 |
+| Conversion Potential | 5 |
+| **Total** | **21/25** |
+
+**URL:** https://www.perkspot.com
+**Lead Type:** Cold Lead
+**Current Relationship:** No confirmed Anker relationship. PerkSpot is a leading US corporate employee discount platform — comparable to Perks at Work (#31) and Working Advantage (#41), both already in the matrix. PerkSpot serves employer clients across the US with up to 60% discounts across 25+ categories including electronics, and features brand partners such as Nike, Apple, Samsung, HelloFresh, AMC, BetterHelp, Marriott, and Jeep. Anker does not appear in their current brand partner roster. PerkSpot recently deepened its platform via a partnership with Compt (January 2026) to integrate lifestyle benefits and employee discount programs into a unified HR benefits offering.
+**Evidence:** Active electronics category on PerkSpot's platform with direct vendor partnerships (not coupon aggregation). The Compt integration (January 2026) signals platform expansion that makes employee electronics benefits more central to HR decision-makers. PerkSpot is headquartered in Chicago and serves thousands of employer clients across Fortune 500 and SMB segments — reaching millions of verified corporate employees. Their platform delivers discounts via company-branded portals (SSO authentication) with employer integration, meeting the LiveChannel model's core requirement for authenticated member channels.
+**Opportunity:** PerkSpot represents the third major corporate employee discount platform identified for Anker (alongside Perks at Work #31 and Working Advantage #41) — collectively creating a triangulated employee perks channel covering the major US corporate benefits platforms. Adding Anker to PerkSpot's electronics category fills a gap: Apple and Samsung are already on the platform, but Anker's charging accessories complement those brands (employees buy iPhones and Samsung Galaxy devices, then need Anker chargers and cables). AnkerWork's desk peripherals (webcams, USB-C hubs, desk chargers) are particularly relevant for the WFH/hybrid work employee demographic that PerkSpot's employer clients actively want to support.
+
+**Recruitment Angle:**
+- **Best outreach channel:** PerkSpot Brand Partner team via perkspot.com/brand-partners or direct LinkedIn outreach to PerkSpot's VP/Director of Brand Partnerships (Chicago HQ); HR conference connection at WorldatWork Total Rewards Conference (May 2026 — ideal timing given current discovery) or HR Tech Conference (October 2026); coordinate with Perks at Work and Working Advantage outreach for a unified "employee electronics perks" narrative positioning Anker as the go-to charging accessory brand for corporate benefit programs
+- **Key value proposition:** Anker is the #1 brand recommended across tech review sites for charging accessories — employees who use Anker at home will actively seek Anker discounts through their employer benefits portal; exclusive PerkSpot employee pricing (e.g., 15–20% off anker.com) gives PerkSpot a premium electronics brand absent from many competitor platforms; AnkerWork product line (webcams, hubs, desk chargers) addresses corporate IT purchasing needs, enabling PerkSpot to position Anker as both a consumer accessory and professional WFH tool brand; Anker's broad $25–$300 catalog covers impulse-to-considered purchase range, ensuring multiple annual purchase occasions per enrolled employee
+- **Authenticated member base:** YES — PerkSpot exclusively serves employer-authenticated corporate employees through SSO-connected company portals; every PerkSpot member is a verified employee with known employer affiliation, making this a fully authenticated, LiveChannel-model-ready audience; Compt integration (January 2026) deepens the authentication layer with lifestyle benefits spending data
+
+**Activation Angle:**
+- **Member communication channels:** Employer benefits portals (PerkSpot SSO-embedded in company intranet/benefits portal for all enrolled employers), PerkSpot mobile app (personalized push notifications to authenticated employees who have opted into electronics category alerts), employer HR newsletter integrations (PerkSpot provides employers with benefit awareness email templates distributed to all employees during onboarding and open enrollment), Compt lifestyle benefits platform notifications (for employers using the integrated Compt + PerkSpot offering), new-hire welcome package digital benefits enrollment
+- **Embed opportunities:** Electronics category landing page (permanent Anker brand page with exclusive employee pricing on chargers, power banks, cables, AnkerWork accessories); "Work From Home Essentials" curated bundle (Anker 3-port GaN charger + USB-C hub + AnkerWork webcam — directly addresses the WFH setup moment that employers actively subsidize); back-to-office tech upgrade seasonal feature (Q1 and Q3 employer return-to-office pushes); holiday gifting season corporate gift guide (Anker products in $25–$75 range for employee self-purchase or manager gift programs); AnkerWork professional line campaign targeting IT procurement managers for bulk accessory orders; PerkSpot's platform-wide promotions calendar integration (double discount events, Flash Sales, and Employee Appreciation Week activations)
+- **Estimated activation potential:** High — PerkSpot's authenticated corporate employee base converts at 2–4x the rate of anonymous deal site visitors due to employer trust association, account familiarity, and the high psychological value of "exclusive employee pricing"; Anker's product catalog is purpose-built for the corporate employee lifestyle (charging at home, in the office, and while traveling); the LiveChannel model's core thesis is fully validated by PerkSpot's platform: authenticated + trusted context + electronics category = highest-quality affiliate conversion environment available
+
+---
+
+## Updated Partner Priority Matrix (as of 2026-05-02)
+
+| Priority | Partner | Score | Type | Est. Impact | Effort |
+|----------|---------|-------|------|-------------|--------|
+| 1 | TechRadar | 25/25 | Warm | Very High | Low |
+| 1 | Wirecutter (NYT) | 25/25 | Warm | Very High | Medium |
+| 3 | Android Central | 24/25 | Cold | Very High | Medium |
+| 3 | 9to5Toys | 24/25 | Warm | Very High | Low |
+| 3 | Tom's Guide | 24/25 | Warm | Very High | Low |
+| 3 | WIRED | 24/25 | Warm | Very High | Medium |
+| 3 | PCMag | 24/25 | Warm | Very High | Low |
+| 3 | ZDNET | 24/25 | Warm | Very High | Low |
+| 3 | Android Police | 24/25 | Warm | Very High | Low |
+| 3 | Digital Trends | 24/25 | Warm | Very High | Low |
+| 3 | **How-To Geek** | **24/25** | **Warm** | **Very High** | **Low** |
+| 12 | CNN Underscored | 23/25 | Warm | Very High | Medium |
+| 12 | Engadget | 23/25 | Cold | High | Medium |
+| 12 | MacRumors | 23/25 | Warm | High | Low |
+| 12 | The Verge | 23/25 | Warm | Very High | Medium |
+| 12 | CNET | 23/25 | Warm | Very High | Medium |
+| 12 | The Independent/IndyBest | 23/25 | Warm | High | Low |
+| 12 | The Guardian/The Filter US | 23/25 | Warm | Very High | Medium |
+| 12 | PCWorld | 23/25 | Warm | High | Low |
+| 20 | Trusted Reviews | 22/25 | Cold | High | Medium |
+| 20 | JerryRigEverything | 22/25 | Warm | High | Medium |
+| 20 | AppleInsider | 22/25 | Warm | High | Low |
+| 20 | 9to5Mac | 22/25 | Warm | High | Low |
+| 20 | Travel + Leisure | 22/25 | Warm | High | Medium |
+| 20 | BGR | 22/25 | Warm | High | Low |
+| 20 | Esquire | 22/25 | Warm | High | Low |
+| 20 | IGN | 22/25 | Warm | High | Low |
+| 28 | GearJunkie | 21/25 | Cold | Medium-High | Medium |
+| 28 | SlashGear | 21/25 | Cold | Medium | Medium |
+| 28 | MKBHD | 21/25 | Warm | Very High | High |
+| 28 | Popular Mechanics | 21/25 | Warm | High | Medium |
+| 28 | T3 | 21/25 | Warm | High | Low |
+| 28 | ChargerLab | 21/25 | Warm | Medium | Low |
+| 28 | Perks at Work | 21/25 | Cold | High | Medium |
+| 28 | Slickdeals | 21/25 | Warm | High | Low |
+| 28 | Creative Bloq | 21/25 | Warm | Medium-High | Low |
+| 28 | Working Advantage | 21/25 | Cold | High | Medium |
+| 28 | Forbes Vetted | 21/25 | Warm | High | Medium |
+| 28 | Consumer Reports | 21/25 | Warm | High | Medium |
+| 28 | Mashable | 21/25 | Warm | High | Low |
+| 28 | **OutdoorTechLab** | **21/25** | **Warm** | **Medium-High** | **Low** |
+| 28 | **PerkSpot** | **21/25** | **Cold** | **High** | **Medium** |
+| 43 | Popular Science | 20/25 | Warm | Medium | Medium |
+| 43 | Men's Journal | 20/25 | Warm | Medium | Low |
+| 43 | The Gadget Flow | 20/25 | Cold | Medium | Low |
+| 43 | Rakuten | 20/25 | Warm | High | Low |
+| 43 | RetailMeNot | 20/25 | Warm | High | Low |
+| 43 | PoweredThrough | 20/25 | Warm | Medium | Low |
+| 43 | CouponCabin | 20/25 | Warm | Medium-High | Low |
+| 43 | SFGate/Hearst | 20/25 | Warm | Medium | Low |
+| 51 | NotebookCheck.net | 19/25 | Warm | Medium | Medium |
+| 51 | TechBargains | 19/25 | Warm | Medium | Low |
+| 51 | CouponFollow | 19/25 | Warm | Medium-High | Low |
+| 51 | Gear Diary | 19/25 | Warm | Medium | Low |
+| 51 | BackupPowerHub | 19/25 | Warm | Medium | Low |
+| 56 | Digital Spy | 18/25 | Warm | Medium | Low |
+| 56 | CleverHiker | 18/25 | Warm | Medium | Low |
+| 56 | Treeline Review | 18/25 | Warm | Medium | Low |
+| 56 | SimplyCodes | 18/25 | Warm | Medium | Low |
+| 60 | Digital Reviews Network | 17/25 | Warm | Low | Low |
+| 61 | Houston Chronicle | 16/25 | Warm | Low | Low |
+
+---
+
 ## Strategic Recommendations
 
 
