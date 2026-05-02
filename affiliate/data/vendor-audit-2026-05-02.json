@@ -1,0 +1,243 @@
+{
+  "audit_date": "2026-05-02",
+  "audited_by": "Mac Ant (Flywheel Affiliate Intelligence Engine)",
+  "vendor": "Anker",
+  "vendor_url": "https://www.anker.com",
+  "category": "consumer_electronics",
+  "affiliate_program": {
+    "status": "active",
+    "program_page": "https://www.anker.com/become-an-affiliate",
+    "networks": [
+      {
+        "name": "Rakuten Advertising / LinkShare",
+        "signup_url": "https://signup.linkshare.com/publishers/registration/landing?mid=43469",
+        "status": "active",
+        "notes": "Primary US network; mid=43469 confirmed active."
+      },
+      {
+        "name": "Impact.com",
+        "signup_url": "http://app.impact.com/campaign-campaign-info-v2/Anker.brand",
+        "status": "active",
+        "notes": "Secondary US network; GET STARTED button live on program page."
+      },
+      {
+        "name": "Webgains",
+        "program_id": "310162",
+        "notes": "Anker Nordics; 8–15% tiered by product type and volume; 30-day cookie.",
+        "status": "active",
+        "region": "Nordic/EU"
+      },
+      {
+        "name": "Webgains (UK)",
+        "program_id": "289655",
+        "notes": "Anker UK; 7–12% commission incl. VAT+P&P; 30-day cookie; daily datafeed.",
+        "status": "active",
+        "region": "UK"
+      },
+      {
+        "name": "CueLinks",
+        "notes": "India/International; 4.5% payout as of last confirmed data.",
+        "status": "active",
+        "region": "India/International"
+      }
+    ],
+    "commission": {
+      "rate_percent_us": 8.0,
+      "rate_percent_uk": "7–12%",
+      "rate_range_nordics": "8–15%",
+      "rate_international_cuelinks": 4.5,
+      "type": "flat (US); tiered by product type and volume (UK, Nordics)",
+      "notes": "8% flat on all US transactions confirmed UNCHANGED. UK rate confirmed 7–12% (previously logged as 7% flat — refined to range). Nordic ceiling 15% unchanged. SOLIX sub-brand separate at 5%."
+    },
+    "cookie_duration_days": 30,
+    "stated_conversion_rate_pct": 2.0,
+    "contact_email": "affiliate@anker.com",
+    "creative_assets": {
+      "availability": "self_serve_plus_managed",
+      "types": [
+        "banner_ads",
+        "text_links",
+        "data_feeds",
+        "custom_coupon_codes",
+        "seasonal_promotions"
+      ],
+      "notes": "Regularly updated banners and text links confirmed. Dedicated affiliate manager available. Data feed supports programmatic/AI-assisted placements. UK program explicitly notes daily datafeed updates."
+    },
+    "payment_terms": "Standard network payment terms via Rakuten Advertising / Impact.com. No minimum threshold explicitly stated on program page.",
+    "application_required": true,
+    "approval_type": "review_via_network",
+    "publisher_types_supported": [
+      "blogs",
+      "forums",
+      "product_review_sites",
+      "social_media",
+      "publishing_houses",
+      "individual_creators"
+    ],
+    "restrictions": [
+      "No false/tampered links",
+      "No simulated purchase patterns or scripts",
+      "No persistent or full-screen pop-ups"
+    ]
+  },
+  "sub_brand_programs": {
+    "anker_solix": {
+      "program_page": "https://www.ankersolix.com/become-an-affiliate",
+      "commission_pct": 5.0,
+      "cookie_duration_days": 30,
+      "category": "portable_power",
+      "networks": [
+        {
+          "name": "Rakuten Advertising / LinkShare",
+          "signup_url": "https://signup.linkshare.com/publishers/registration/landing?mid=53552",
+          "notes": "SOLIX-specific mid=53552 confirmed (distinct from main Anker mid=43469)"
+        },
+        {
+          "name": "Impact.com",
+          "signup_url": "http://app.impact.com/campaign-campaign-info-v2/AnkerSOLIX.brand",
+          "notes": "SOLIX-specific Impact campaign confirmed"
+        }
+      ],
+      "active_promotions": {
+        "pps_power_deals": {
+          "detected": true,
+          "description": "Portable Power Station Deals page active at ankersolix.com/portable-power-station-deals-pps. Promoted via top navigation and banner.",
+          "detected_date": "2026-05-02",
+          "first_seen": "2026-04-30",
+          "status": "still_active"
+        },
+        "e10_free_gift": {
+          "detected": true,
+          "description": "Free Gift with Purchase on SOLIX E10 Smart Hybrid Whole-Home Backup System still active. Confirmed via top-banner nav link on affiliate program page.",
+          "product": "SOLIX E10 Smart Hybrid Whole-Home Backup System",
+          "url": "https://www.ankersolix.com/products/e10",
+          "detected_date": "2026-04-30",
+          "status": "still_active"
+        }
+      },
+      "notes": "Both SOLIX promotions from April 30 audit confirmed STILL ACTIVE (day 2). E10 Free Gift + PPS Deals page both live. High-value content window remains open."
+    },
+    "ankerwork": {
+      "program_page": "https://us.ankerwork.com/pages/become-an-affiliate",
+      "commission_pct": null,
+      "notes": "CRITICAL INTELLIGENCE GAP — commission rate UNCONFIRMED for NINE consecutive audit cycles. US and UK program pages confirmed live but rate not publicly disclosed. Escalation to affiliate@anker.com is overdue."
+    },
+    "anker_referral_program": {
+      "url": "https://www.anker.com/referral",
+      "type": "referral (not traditional affiliate)",
+      "referrer_reward_pct": 10.0,
+      "referee_discount_pct": 10.0,
+      "notes": "Consumer-facing referral (10% to referrer, 10% discount to referee). Higher incentive rate than main affiliate program but consumer-only scope."
+    },
+    "superchargers_creator_program": {
+      "url": "https://www.anker.com/content-creator",
+      "notes": "Content creator/influencer bridge. High-quality content may convert to traditional affiliate program placement. Key influencer-to-affiliate recruitment pipeline."
+    }
+  },
+  "benchmark_comparison": {
+    "category": "consumer_electronics",
+    "category_commission_low_pct": 2.0,
+    "category_commission_median_pct": 5.0,
+    "category_commission_high_pct": 12.0,
+    "category_cookie_median_days": 30,
+    "vs_benchmark": {
+      "commission": "above_median — 8% US vs 5% category median; upper-mid band vs 12% high",
+      "cookie": "at_median — 30 days matches category standard",
+      "network_coverage": "strong — 5 confirmed networks across US/UK/Nordics/International"
+    }
+  },
+  "afare_signals": {
+    "commission_score": 4,
+    "commission_note": "8% well above 5% category median. UK range 7–12% refined this cycle. Nordic ceiling 15% is elite tier.",
+    "cookie_score": 3,
+    "cookie_note": "30 days at category median. Competitive but not class-leading vs brands with 45–60 day windows.",
+    "program_health": "strong",
+    "affiliate_friendliness": "high",
+    "strengths": [
+      "8% flat US rate — well above 5% category median, strong EPC signal",
+      "UK rate refined to 7–12% range (tiered) — previously logged as 7% flat, an upgrade",
+      "5-network presence (Rakuten US, Impact US, Webgains UK, Webgains Nordics, CueLinks) — broadest coverage in category peer group",
+      "SOLIX E10 Free Gift + PPS Deals promotions still active on Day 2 — active content window",
+      "SOLIX confirmed on both Rakuten (mid=53552) and Impact.com — separate program fully confirmed",
+      "Dedicated affiliate manager reduces activation friction",
+      "Daily datafeed updates (UK confirmed) — enables dynamic/AI-assisted content freshness",
+      "Seasonal coupons and promotions provide deal-publisher content hooks",
+      "SuperChargers creator program bridges social influencers into affiliate pipeline"
+    ],
+    "weaknesses": [
+      "SOLIX at 5% creates rate discrepancy vs main Anker 8% — risk of publisher confusion on multi-brand content",
+      "AnkerWork commission rate UNCONFIRMED for NINE consecutive audit cycles — critical intelligence gap",
+      "CueLinks international rate (4.5%) significantly below US rate — geographic rate fragmentation",
+      "No publicly stated payment schedule or minimum payout threshold",
+      "30-day cookie at median — competitors with 45–60 day windows hold structural advantage on high-consideration purchases"
+    ],
+    "opportunities": [
+      "SOLIX PROMOTIONS ACTIVE (DAY 2): E10 Free Gift and PPS Deals both confirmed live. Highest-priority content briefing window for SOLIX-focused affiliates. Duration unknown — act now.",
+      "MEMORIAL DAY IN 24 DAYS (May 26): Peak CE purchase cycle. Contact Anker affiliate manager THIS WEEK to secure exclusive coupons, rate bump, or bonus window for top publishers.",
+      "UK RATE UPGRADE (7–12% tiered): UK program confirmed as tiered range, not flat — upgrade from prior 7% flat assumption. Pitch US volume-tier structure using both UK and Nordic precedents.",
+      "AI SHOPPING AGENT COMPATIBILITY: Anker daily datafeed (confirmed UK) is AI-agent compatible. Coordinate with Mac Fly (AFARE) and Mac Bee (ACES) for Flywheel composite scoring alignment.",
+      "E10 HIGH-AOV CONTENT: SOLIX E10 DTC-install model + Free Gift is the single highest-EPC content opportunity in Anker portfolio. Dedicate review/comparison content package while promotion is live."
+    ],
+    "threats": [
+      "Amazon Associates continues to capture casual Anker buyer traffic ahead of direct affiliate links",
+      "UGREEN (8–15%) and RAVPower (8–20%) offer comparable or higher ceiling rates",
+      "Multiple sub-brand programs (main/SOLIX/AnkerWork) without unified messaging risk fragmenting publisher attention",
+      "Flat US rate with no volume tier may not retain top-tier publishers vs higher-ceiling alternatives",
+      "SOLIX E10 competes in high-consideration home backup segment where EcoFlow (5–8%) and Bluetti (8%) offer competing programs"
+    ]
+  },
+  "changes_since_last_audit": {
+    "last_audit_date": "2026-04-30",
+    "days_since_last_audit": 2,
+    "changes_detected": true,
+    "change_summary": "No new program-level changes to commission rates, cookie duration, or network roster. ONE REFINEMENT: UK commission rate updated from '7% flat' to '7–12% tiered range' based on Webgains UK program page (program ID 289655) confirming tiered structure. Both SOLIX promotions (E10 Free Gift, PPS Deals) confirmed still active on Day 2. AnkerWork commission gap reaches 9th consecutive audit cycle with no resolution.",
+    "data_refinements": [
+      {
+        "field": "commission.rate_percent_uk",
+        "old_value": "7.0 (flat)",
+        "new_value": "7–12% (tiered, incl. VAT+P&P)",
+        "source": "https://www.webgains.com/front/publisher/program/view/programID/289655",
+        "notes": "UK Webgains page confirms tiered structure, not flat. This is a data quality improvement, not a program change."
+      }
+    ],
+    "ongoing_promotions": [
+      {
+        "brand": "Anker SOLIX",
+        "type": "Free Gift with Purchase",
+        "product_focus": "SOLIX E10 Smart Hybrid Whole-Home Backup System",
+        "first_detected": "2026-04-30",
+        "days_active": 2,
+        "status": "still_active"
+      },
+      {
+        "brand": "Anker SOLIX",
+        "type": "PPS Power Deals Campaign",
+        "product_focus": "Portable Power Stations",
+        "first_detected": "2026-04-30",
+        "days_active": 2,
+        "status": "still_active"
+      }
+    ],
+    "program_stability": "stable"
+  },
+  "benchmark_update": {
+    "warranted": false,
+    "notes": "UK rate refinement (7–12% tiered) is within existing consumer_electronics benchmark range (2–12%). No new category-level data found that falls outside current benchmark parameters. category-benchmarks.json unchanged."
+  },
+  "recommended_actions": [
+    "HIGH — SOLIX PROMOTIONS ACTIVE (DAY 2): E10 Free Gift with Purchase and PPS Deals page both live. Brief SOLIX affiliates NOW — request promotion-specific deep links, banners, and coupon codes from affiliate@anker.com while window is open.",
+    "CRITICAL — AnkerWork (9th cycle): Email affiliate@anker.com directly for AnkerWork commission rate. Nine consecutive cycles without resolution is unacceptable for program intelligence. Escalate this week.",
+    "MEMORIAL DAY PREP (24 days out): Contact Anker affiliate manager this week to lock in Memorial Day exclusive coupons, rate bumps, or bonus windows. Optimal outreach is now.",
+    "UK RATE PITCH: Use newly confirmed UK 7–12% tiered structure + Nordic 8–15% tiered model as dual precedents to pitch US volume-tier upgrade to Anker affiliate team.",
+    "AI SHOPPING ALIGNMENT: Coordinate with Mac Fly and Mac Bee to ensure Anker daily datafeed is indexed in Flywheel composite scoring for AI shopping agent compatibility audit."
+  ],
+  "sources": [
+    "https://www.anker.com/become-an-affiliate",
+    "https://www.ankersolix.com/become-an-affiliate",
+    "https://us.ankerwork.com/pages/become-an-affiliate",
+    "https://www.anker.com/content-creator",
+    "https://www.webgains.com/front/publisher/program/view/programID/310162",
+    "https://www.webgains.com/front/publisher/program/view/programID/289655",
+    "https://www.cuelinks.com/campaigns/anker-affiliate-program"
+  ]
+}
