@@ -489,3 +489,27 @@ impact: low
 sentiment: positive
 ---
 A new report from Fintel Connect and Cornerstone Advisors shows that US banks and credit unions that leverage affiliate programs demonstrate scalable, compliant, high-quality customer growth — outperforming institutions still relying on budget-incremental traditional channels. More than half of institutions set marketing budgets by adjusting the prior year's budget, limiting optimization. Affiliate's measurable, pay-for-performance model is a structural advantage vs. spray-and-pray ad spend. While B2B/finserv adjacent to LiveChannel, this validates affiliate's ROI superiority narrative across verticals.
+
+---signal---
+id: news-20260502-001
+signal: Instagram formally returns to creator affiliate commerce in March 2026 — Reels product tagging live, "era of link in bio is over"
+date: 2026-05-02
+source: https://www.netinfluencer.com/instagram-re-enters-creator-affiliate-commerce-years-after-rivals-built-lead/
+categories: industry
+tags: instagram, meta, creator-affiliate, reels, shoppable, social-commerce, mosseri, shoptalk
+impact: high
+sentiment: positive
+---
+After exiting affiliate commerce in August 2022 (shutting its native affiliate program, removing the Shop tab, ending live shopping), Instagram returned in late March 2026: creators can now tag affiliate products directly in Reels and earn commissions. Instagram Head Adam Mosseri confirmed the rollout; Meta's Nicola Mendelsohn declared "the era of link in bio is finally over" at Shoptalk Spring. The structural flaw in the 2022 failure (creators couldn't tag outside the program) appears resolved. Instagram re-entry closes a competitive gap vs TikTok Shop ($33B+ global GMV in 2024) and LTK ($6B annual sales). For LiveChannel vendors: Instagram is now a viable affiliate channel — programs that previously wrote it off should evaluate creator recruitment and Reels product-tag campaigns alongside TikTok Shop.
+
+---signal---
+id: news-20260502-002
+signal: Google for WooCommerce extension now lets merchants sell directly through YouTube
+date: 2026-05-02
+source: https://www.searchenginejournal.com/category/news/
+categories: industry
+tags: google, woocommerce, youtube, social-commerce, direct-selling, shopping-integration
+impact: medium
+sentiment: positive
+---
+Google and WooCommerce announced that the Google for WooCommerce extension now enables merchants to sell products directly through YouTube — bringing YouTube into the direct social commerce conversion stack alongside TikTok Shop, Instagram Reels, and Meta. This is significant for WooCommerce-based affiliate programs: creators who drive YouTube traffic can now convert viewers on-platform rather than via redirect to external sites, potentially compressing the funnel and improving attribution. LiveChannel vendors with WooCommerce storefronts should evaluate the extension as a low-friction YouTube commerce channel.
