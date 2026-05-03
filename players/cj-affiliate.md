@@ -15,7 +15,7 @@ keyStats:
   - label: "Global Reach"
     value: "Billions of consumers"
 vendorRelevance: "high"
-lastUpdated: "2026-04-19"
+lastUpdated: "2026-05-03"
 ---
 
 ## Overview
@@ -84,6 +84,10 @@ Publishers pay no fees to join or participate in the network. They earn commissi
 - **Publicis VIVnetworks Acquisition**: Publicis Groupe acquired VIVnetworks to complement CJ and create what it calls the world's largest performance-driven affiliate marketing solution.
 - **2025 Industry Recognition**: CJ earned multiple awards in 2025, including bronze for Global Affiliate Network of the Year and various campaign-specific awards.
 - **AI-Powered Matching**: CJ has invested in machine learning for publisher-advertiser matching, predictive performance scoring, and automated optimization recommendations.
+- **CJ Wallet Launch (September 30, 2025)**: CJ partnered with Passcloud to introduce CJ Wallet — a landmark expansion of affiliate marketing beyond the traditional click. Leveraging Apple and Google native wallet infrastructure, CJ Wallet allows publishers to drive and receive full credit for both online AND in-store sales without collecting personal data. Campaigns launch in hours with no technical integration. The tool addresses two long-standing affiliate blind spots: it reaches the 98% of consumers who don't convert immediately, and closes attribution on the 82% of purchases that happen in-store. CJ CEO Santi Pierini called it "a breakthrough moment where digital content, trusted partners, and physical retail converge to create true commerce journeys without boundaries." This is the most significant affiliate infrastructure innovation CJ has shipped in years.
+- **AI Visibility & Optimization Services (February 2026)**: CJ announced fully managed AI visibility and optimization technology and services, bringing AI-powered search and discovery optimization into the affiliate channel. This positions CJ at the intersection of affiliate and AI search — a critical capability as AI shopping agents reshape how consumers find and buy products.
+- **Deep Link Generator**: CJ launched a Deep Link Generator allowing publishers to create direct links to specific products or promotions — reducing friction between content and conversion, a frequently requested publisher tool.
+- **Rakuten/Impact Alliance — Competitive Windfall**: The April 28, 2026 strategic alliance between Rakuten Advertising and Impact.com, in which Rakuten effectively exits the affiliate tech platform business, represents a significant opportunity for CJ. Thousands of Rakuten merchant programs will migrate to Impact's platform — but some portion of those advertisers, particularly those who prefer a traditional managed-network model over a SaaS self-service platform, may look to CJ as an alternative home. CJ's managed network model, enterprise relationships, and publisher depth make it the natural landing spot for displaced Rakuten advertisers who want hands-on support.
 - **CJU26 Registration Opens April 28, 2026**: CJ's annual client conference, CJ University (CJU), has announced that CJU26 registration opens April 28, 2026 at 11am PT. The event will be held in Santa Barbara, CA. Session reveals and speaker announcements are planned for July 2026. CJU is considered the industry's premier affiliate marketing conference.
 - **$16B+ in Transactions**: As of early 2026, CJ has driven over 157 million transactions and generated over $16 billion in publisher revenue, underscoring its continued dominance as a high-volume performance network.
 - **Interface Competitiveness Under Scrutiny**: Independent 2026 platform reviews continue to note that CJ's interface "feels dated compared to newer platforms" like Impact.com, flagging UX modernization as an ongoing priority for the network.
