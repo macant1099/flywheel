@@ -201,3 +201,27 @@ impact: high
 sentiment: negative
 ---
 New FTC enforcement pattern analysis (published May 1, 2026) reveals regulators are now auditing ad spend trails rather than just creator contracts. If a brand's ad account funded the distribution/boosting of a creator post, the brand owns the disclosure obligation — regardless of whether a formal brief or disclosure clause exists in the creator agreement. This represents a material expansion of brand liability for affiliate/creator programs. LiveChannel vendors who boost creator content via paid promotion (Meta, TikTok, Google) must ensure all boosted creator posts carry clear affiliate and material-connection disclosures. Compliance programs relying only on contract language are no longer sufficient.
+
+---signal---
+id: news-20260503-007
+signal: Cookie deprecation is now an operational reality in 2026 — server-side tracking replacing cookie-based attribution across affiliate
+date: 2026-05-03
+source: https://irev.com/blog/cookieless-affiliate-tracking-what-actually-works-in-2026/
+categories: industry
+tags: cookieless, server-side-tracking, attribution, privacy, first-party-data
+impact: medium
+sentiment: neutral
+---
+Third-party cookie deprecation has moved from forecast to operational reality as of 2026. Server-side affiliate tracking, first-party data strategies, and identity-based attribution are now the standard recommendations across major tracking platforms. Networks and merchants that have not migrated risk material attribution gaps and publisher payment disputes.
+
+---signal---
+id: news-20260503-008
+signal: FTC reinforces in 2026 that platform "paid partnership" tags alone do NOT satisfy disclosure — $53,088 per violation, enforcement up 40%
+date: 2026-05-03
+source: https://www.adamigo.ai/blog/ftc-disclosure-rules-what-brands-must-know
+categories: industry
+tags: ftc, disclosure, compliance, influencer, affiliate, enforcement, regulation
+impact: high
+sentiment: negative
+---
+The FTC clarified in 2024 and reinforced in 2026 that native platform tags (Instagram's "Paid Partnership," etc.) do not satisfy disclosure requirements on their own. Starting 2026, fines are set at $53,088 per violation instance, with enforcement activity already up 40% from 2025. Brands can be named in enforcement actions even when the creator made the posting decision. LiveChannel vendors using affiliate/creator programs must ensure explicit in-content disclosure.

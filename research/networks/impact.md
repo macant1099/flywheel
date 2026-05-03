@@ -297,3 +297,15 @@ impact: high
 sentiment: positive
 ---
 Impact.com CEO David Yovanno confirmed Impact becomes the exclusive platform for Rakuten's affiliate/partnership tech operations. All Rakuten merchants and publishers are transitioning to Impact's system. A new "Titanium Partner" tier was created specifically for Rakuten, reflecting its scale as a publisher and traffic source. Combined, the two companies position themselves to compete with Google, Amazon, and Meta on scale and always-on ROAS conversion. This is the largest network consolidation in affiliate marketing history.
+
+---signal---
+id: news-20260503-002
+signal: Impact.com named exclusive platform for Rakuten's partnership marketing; introduces "Titanium Partner" tier for Rakuten
+date: 2026-05-03
+source: https://www.adexchanger.com/marketers/rakuten-and-impact-com-forge-a-new-alliance-that-resets-the-affiliate-industry/
+categories: affiliate-networks | industry
+tags: impact, rakuten, alliance, titanium-partner, platform-consolidation
+impact: high
+sentiment: positive
+---
+Impact CEO David Yovanno confirmed the alliance unifies a "single value prop" against Google, Amazon, and Meta for performance budgets. Impact gains a massive publisher/traffic source in Rakuten Rewards and will refer agency/creative service clients back to Rakuten. The new "Titanium Partner" category on Impact's platform is specifically created for Rakuten, reflecting its unmatched size as a traffic source.

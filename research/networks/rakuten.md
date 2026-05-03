@@ -305,3 +305,15 @@ impact: high
 sentiment: neutral
 ---
 Rakuten and Impact.com announced a strategic alliance on April 28, 2026 in which Rakuten will exit the software/dashboard side of its affiliate business entirely. Thousands of merchants and publishers previously on Rakuten's platform will migrate to Impact's system, which becomes the exclusive platform provider for Rakuten's commerce and affiliate management. Rakuten retains its owned assets (Rakuten Rewards) and managed services/agency business; Impact will refer agency/creative work back to Rakuten. No equity exchange — purely strategic. Rakuten becomes a new "Titanium Partner" tier on Impact's platform.
+
+---signal---
+id: news-20260503-001
+signal: Rakuten and Impact.com forge global partnership marketing alliance — Rakuten exits platform software, transitions merchants to Impact
+date: 2026-05-03
+source: https://www.adexchanger.com/marketers/rakuten-and-impact-com-forge-a-new-alliance-that-resets-the-affiliate-industry/
+categories: affiliate-networks | industry
+tags: rakuten, impact, alliance, platform-consolidation, partnership-marketing
+impact: high
+sentiment: neutral
+---
+Rakuten will no longer operate the software/dashboard side of its affiliate business, focusing instead on owned assets (Rakuten Rewards) and managed services. Thousands of merchants and publishers previously on Rakuten's platform will migrate to Impact's system, which becomes the exclusive platform provider. The deal carries no equity exchange — it is a purely strategic alliance positioning the combined entity to compete with Google, Amazon, and Meta at scale.

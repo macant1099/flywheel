@@ -556,3 +556,15 @@ impact: medium
 sentiment: positive
 ---
 Global affiliate marketing spend reached an estimated $19.4B in 2026, up from $17.1B in 2025 and nearly double the $9.6B in 2020 — a structural growth curve, not a cyclical bump. Separately, the Influencer Marketing Factory 2026 Creator Economy Report shows performance-based compensation (affiliate, CPA) hitting 53% adoption among influencer programs — more than double vs. two years ago. The channel has structurally shifted from brand-fee to performance-fee: LiveChannel vendors still running flat-fee creator deals without performance components are out of step with the market.
+
+---signal---
+id: news-20260503-009
+signal: US affiliate marketing spend hits $13.81B in 2026; AI chatbots reshaping product discovery and comparison — eMarketer
+date: 2026-05-03
+source: https://www.emarketer.com/content/faq-on-affiliate-marketing--how-ai-creators-reshaping-channel-2026
+categories: industry
+tags: market-size, ai-chatbots, product-discovery, creators, measurement, 2026-benchmarks
+impact: medium
+sentiment: positive
+---
+eMarketer's 2026 affiliate FAQ confirms US advertiser spend at $13.81B, with generative AI chatbots fundamentally reshaping how consumers discover and compare products. Creators are claiming a growing share of affiliate budgets. Measurement frameworks still lag, struggling to attribute value across the full creator-to-conversion path — creating opportunity for networks and vendors with better attribution tooling.

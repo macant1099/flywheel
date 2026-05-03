@@ -513,3 +513,51 @@ impact: medium
 sentiment: positive
 ---
 Google and WooCommerce announced that the Google for WooCommerce extension now enables merchants to sell products directly through YouTube — bringing YouTube into the direct social commerce conversion stack alongside TikTok Shop, Instagram Reels, and Meta. This is significant for WooCommerce-based affiliate programs: creators who drive YouTube traffic can now convert viewers on-platform rather than via redirect to external sites, potentially compressing the funnel and improving attribution. LiveChannel vendors with WooCommerce storefronts should evaluate the extension as a low-friction YouTube commerce channel.
+
+---signal---
+id: news-20260503-003
+signal: Meta rolls out creator affiliate tools — Facebook photo posts/Reels product tagging with Amazon and Shopee as launch partners
+date: 2026-05-03
+source: https://www.marketingbrew.com/stories/2026/04/20/how-advertisers-are-thinking-about-meta-s-affiliate-tool-rollout
+categories: industry | affiliate-networks
+tags: meta, facebook, reels, creator-affiliate, social-commerce, amazon, shopee, temu, ebay
+impact: high
+sentiment: positive
+---
+Meta debuted creator affiliate partnership features at Shoptalk in Las Vegas, allowing creators to tag products in Facebook photo posts and Reels with an affiliate banner and commission. Amazon and Shopee are launch partners; Temu, eBay, and Mercado Libre are joining soon. Meta also introduced checkout inside its Business AI sales agent, directly competing with TikTok Shop in the AI-driven social commerce race.
+
+---signal---
+id: news-20260503-004
+signal: TikTok Shop launches Smart Promotion Program (March 2026) — 3.5% GMV fee subsidies with AI commission recommendations
+date: 2026-05-03
+source: https://www.shortformnation.com/blog/tiktok-shop-affiliate-commission-rates-what-brands-should-offer-2026-data
+categories: industry | verticals
+tags: tiktok-shop, smart-promotion, commission-rates, ai-recommendations, gmv
+impact: medium
+sentiment: positive
+---
+TikTok's Smart Promotion Program, launched March 2026, offers a 3.5% GMV promotional subsidy fee and uses TikTok's recommendation engine to provide data-driven commission suggestions based on top 30% performing products by category. This is TikTok's move to systematize affiliate commission setting and reduce friction for brand-creator deals.
+
+---signal---
+id: news-20260503-005
+signal: Instagram re-enters creator affiliate commerce with AI "Shop the Look" auto-tagging; performance-based influencer pay hits 53% adoption
+date: 2026-05-03
+source: https://www.netinfluencer.com/instagram-re-enters-creator-affiliate-commerce-years-after-rivals-built-lead/
+categories: industry
+tags: instagram, shop-the-look, ai-tagging, creator-affiliate, performance-pay
+impact: medium
+sentiment: neutral
+---
+In February 2026, Instagram tested "Shop the Look," an AI-powered feature that automatically tags products in creators' posts using visual recognition — without creator consent, drawing criticism. Simultaneously, the Influencer Marketing Factory's 2026 Creator Economy Report found performance-based compensation at 53% adoption, more than double two years ago, signaling broad shift from flat-fee to commission models across platforms.
+
+---signal---
+id: news-20260503-006
+signal: Later surpasses $2.9B in creator-driven commerce; influencer marketing global market projected at $34.1B in 2026
+date: 2026-05-03
+source: https://www.prnewswire.com/news-releases/later-more-than-doubles-enterprise-business-as-influencer-marketing-becomes-a-performance-channel-302741194.html
+categories: industry
+tags: later, influencer-marketing, creator-commerce, market-size, enterprise
+impact: medium
+sentiment: positive
+---
+Later announced record enterprise growth (more than doubled) and surpassed $2.9B in creator-driven commerce as of April 14, 2026, also appointing a new CTO and expanding AI capabilities. The global influencer marketing market is projected to exceed $34.1B in 2026 per Publift data, underlining the convergence of influencer and performance/affiliate channels.
