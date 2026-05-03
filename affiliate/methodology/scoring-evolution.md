@@ -395,3 +395,160 @@ _Weekly methodology review results. Each entry documents whether scoring dimensi
 - **Meta's social commerce affiliate play is significant** but doesn't require AFARE rubric changes. Social-native affiliate (Instagram Reels, Facebook affiliate banners) is a distribution channel for existing affiliate programs, not a new program structure that vendors build. It will show up in scoring through 3.2 (Partner Type Diversity) and 3.4 (Content Creator Engagement) when vendors' affiliates use these tools.
 - **Compliance as a potential Dimension 6:** FTC enforcement at $53K/instance, AI disclosure rules, and privacy law are real. But AFARE is a *footprint and readiness* measurement, not a *governance* assessment. Adding Dimension 6 would change what AFARE measures. Set a high threshold (5 weeks) and require structural evidence that compliance is a differentiator in affiliate program quality, not just an industry cost.
 - **No rubric changes made. No benchmark changes made. Methodology stable through week 3.**
+
+---
+
+## Review #4 — 2026-05-03 (Week 4)
+
+**Reviewer:** Mac Ant (automated weekly cron)
+**Vendors Scored:** 2 (Anker 65, Priority Bicycles 47)
+**Score Changes This Week:** 0
+**Weeks of Data:** ~3.5 (system created 2026-04-11)
+**No +/-5 score movements this week.**
+
+---
+
+### Key Industry Signals This Week
+
+1. **Rakuten × Impact.com strategic alliance (Apr 29)** — CRITICAL: Rakuten exits affiliate platform technology entirely; all merchants/publishers migrate to Impact.com's infrastructure. Rakuten becomes a "Titanium Partner" publisher. The biggest structural event in affiliate infrastructure in a decade. Directly affects Dimension 1 scoring methodology (see below).
+2. **Experian launches "Agent Trust" with Visa and Cloudflare (May 2)** — HIGH: Real-time trust tokens binding verified human identity to AI agents. "Know Your Agent" protocol. The identity layer agentic commerce was missing — makes AI agents trackable and commissionable.
+3. **Visa launches "Intelligent Commerce" for AI agents (May 3)** — HIGH: Payment rails for agentic purchases now live from a major financial infrastructure company.
+4. **A2A (Agent-to-Agent) protocol reaches 150+ production deployments (May 3)** — HIGH: Linux Foundation's April 2026 release confirmed. Live on Azure AI Foundry, Amazon Bedrock AgentCore, Salesforce. Agent-to-merchant negotiation is production-scale.
+5. **GRIN launches free affiliate infrastructure (May 1)** — MEDIUM: Zero platform fees, monetized through AI agent "Gia." Creator-economy pricing model eating traditional affiliate SaaS.
+6. **EMARKETER: affiliate drives $241B in US ecommerce, $13.81B in spend (2026)** — MEDIUM: Channel scale confirmed. Measurement gap remains the industry's primary problem.
+7. **Shopify AI-driven traffic up 8x YoY, orders up 15x (May 1)** — HIGH: Merchants discoverable in ChatGPT, Copilot, Google AI Mode, Gemini. Agentic commerce has a native Shopify integration layer.
+8. **Performance-based creator contracts at 53% adoption** — MEDIUM (recurring): Flat-fee influencer deals are now the minority model. Affiliate-style compensation is the new default.
+9. **Meta Facebook Affiliate Partnerships expanding** — MEDIUM: eBay joined beta, Shopee live across 8 markets. Native affiliate layer inside Meta's social graph.
+10. **Fintel Connect/Cornerstone report: banks missing affiliate opportunity** — LOW: 43% of FI marketers don't incorporate affiliate until after budgets set. Niche vertical signal.
+
+### Vendor Audit Findings This Week
+
+- **Anker (Apr 30):** Discovered **Rakuten Advertising / LinkShare as active US network** (mid=43469, signup live on program page). Previously only Impact was confirmed as a major US network. Rakuten is now listed as primary US network with Impact as secondary.
+- **Anker (May 2):** Discovered **Webgains UK program** (ID 289655) separate from Nordics. UK commission refined to 7-12% range (previously logged as 7% flat). Daily datafeed confirmed for UK program.
+- **Anker (May 2):** Network footprint now confirmed: Rakuten (US primary), Impact (US secondary), Webgains Nordics (310162), Webgains UK (289655), CueLinks (India), Indoleads (SEA). Total: 2 major networks + 4 niche/regional networks.
+- **Priority Bicycles (Apr 27–May 3):** 11 consecutive audit cycles with zero changes. Program completely stable. AvantLink + Yazing, 5% flat, 21-day cookie.
+
+---
+
+### Dimension Evaluations
+
+**Dimension 1: Program Presence (0-20)**
+- Sub-criteria relevance: All 5 criteria remain relevant.
+- ⚠️ **CRITICAL METHODOLOGY QUESTION — Rakuten × Impact.com merger impact on 1.1 scoring:** The Rakuten/Impact alliance will migrate Rakuten merchants to Impact's infrastructure. For vendors like Anker that are active on *both* Rakuten and Impact, the post-merger network count becomes ambiguous. Are they on 2 major networks (Rakuten + Impact) or effectively 1 (combined platform)? **Decision: Score based on current observable state.** As of today, Rakuten and Impact operate as separate enrollments with separate program IDs, dashboards, and publisher pools. Score accordingly. When migration completes (expected mid-summer 2026), re-evaluate whether the combined entity should count as 1 or 2 for 1.1 purposes. **New monitoring item opened.**
+- Anker 1.1 status: With Rakuten now confirmed active alongside Impact, Anker has 2 major networks = score 2 per rubric. No score change (was already scored 2, which was generous given only Impact was confirmed previously — the original scoring may have anticipated Rakuten based on partial evidence).
+- Source issues: None. Network presence remains verifiable via direct observation.
+- Discrimination: 12 vs. 9 (3-point spread) — unchanged, adequate.
+- **Verdict: No changes. Rakuten/Impact merger methodology question opened for monitoring.**
+
+**Dimension 2: Commission & Terms (0-20)**
+- Sub-criteria relevance: All 5 criteria working.
+- ⚠️ **Priority 2.2 Cookie Duration fix — WEEK 4 OVERDUE.** Score should be 3 (21 days = 21-45 day band), not 2. This fix has been flagged every review since #1. **Escalation: This is now a mandatory correction. Must be applied before Review #5.** Expected effect: Priority 47→48.
+- Anker UK commission refined to 7-12% range (was 7% flat). This doesn't change the 2.1 score (8% US rate is the primary benchmark) but enriches the evidence for 2.5 (Product-Level Commission Strategy).
+- Shopify 2026 commission benchmarks (hybrid 15-25% new / 5-10% returning) are useful context for scoring but don't affect current vendor evaluations — neither vendor uses hybrid new/returning structures.
+- Source issues: Payment Terms (2.3) confidence remains Medium (week 4). Recurring.
+- Discrimination: 14 vs. 9 (5-point spread) — good.
+- **Verdict: No rubric changes. Priority 2.2 fix MANDATORY before Review #5.**
+
+**Dimension 3: Partner Ecosystem (0-20)**
+- Sub-criteria relevance: All 5 criteria working.
+- AI Agent Affiliate (3.5): This was the biggest signal week for agentic commerce since AFARE's creation. Experian Agent Trust + Visa Intelligent Commerce + A2A at 150+ deployments = the identity, payment, and communication layers for AI-agent-as-affiliate are now all in production or launching. Floor effect persists (both vendors at 1/4) but the urgency for vendors to build agent affiliate tiers has dramatically accelerated. When the first scored vendor builds a dedicated agent tier, 3.5 will become a strong discriminator.
+- Meta Facebook Affiliate expanding: eBay joining confirms this is a real partner channel. Will affect 3.2 (Partner Type Diversity) when vendors' affiliates adopt Meta's native tools. No rubric change needed.
+- 3.1 Active Affiliate Count estimation: Deferred to Review #5 or n≥5 vendors (from Review #3). Still at n=2. No action.
+- Discrimination: 14 vs. 12 (2-point spread) — tightest dimension. Both vendors have strong editorial coverage (3.3 at 4/4 for both), compressing the spread. Not a rubric problem — genuine similarity.
+- **Verdict: No changes.**
+
+**Dimension 4: Tracking & Attribution (0-20)**
+- Sub-criteria relevance: All 5 criteria working.
+- Rakuten/Impact merger has tracking implications: Anker currently on both platforms. Post-merger, tracking will consolidate onto Impact's infrastructure. This strengthens Anker's tracking baseline (Impact's enterprise features) but doesn't change the current score.
+- Anker UK Webgains program confirms daily datafeed updates — enriches 4.5 (API/Feed Access) evidence slightly but doesn't change the score (still network-provided, not a dedicated brand API).
+- Experian Agent Trust creates a new attribution pathway for AI agent traffic. Current 4.1 rubric doesn't explicitly cover agent-identity-based attribution. Not a scoring concern yet — no vendors are using Agent Trust. **Monitoring: If Agent Trust adoption becomes a tracking differentiator within 6 months, consider adding agent-attribution language to 4.1 at score 4 level.**
+- Source issues: Creative assets (4.4) and API/feeds (4.5) confidence remains Medium (week 4). Recurring.
+- Discrimination: 13 vs. 9 (4-point spread) — good.
+- **Verdict: No changes. Agent Trust attribution monitoring item opened.**
+
+**Dimension 5: LiveChannel Readiness (0-20)**
+- Sub-criteria relevance: All 5 criteria working.
+- Shopify AI-driven traffic up 8x / orders up 15x: Validates 5.1 (Shopify Platform Presence) as a critical differentiator. Shopify merchants are now discoverable across AI surfaces natively. Anker (Shopify Plus, 4/4) benefits directly. Priority (Shopify standard, 2/4) benefits partially. No rubric change — existing scoring already rewards Shopify Plus over standard.
+- GRIN's free affiliate infrastructure could affect 5.5 (Multi-Network Scalability) by lowering barriers to launching on new platforms. Not a scoring issue yet.
+- Membership Model (5.3) floor effect continues — both vendors at 1/4 (week 4). Market-wide gap.
+- Discrimination: 12 vs. 8 (4-point spread) — good.
+- **Verdict: No changes.**
+
+---
+
+### Benchmark Evaluation
+
+**category-benchmarks.json status:** Accurate. No updates required.
+- `consumer_electronics`: Anker network discovery (Rakuten + Impact both active) and UK rate refinement (7-12%) don't change benchmark ranges. Current low/median/high (2%/5%/12%) validated. No update.
+- `bicycles_dtc`: Priority stable at 5% / 21d. No new competitor data. Benchmarks hold.
+- `portable_power` and `fitness_equipment`: Still untested against scored vendors (week 4 of flagging). Deprioritized until pipeline produces a vendor.
+- **Rakuten/Impact alliance impact on benchmarks:** The consolidation may reduce effective network competition, potentially affecting commission rate benchmarks over time (less competition = less pressure to offer competitive rates). Speculative — no observable impact yet. Monitor through 2026.
+- **New benchmark data this week:** Shopify's published hybrid commission benchmarks (15-25% new / 5-10% returning) are useful industry context but represent a different model than AFARE's category-based benchmarks. No change to category-benchmarks.json.
+
+---
+
+### Rubric Changes
+
+**None.** No evidence this week warrants rubric changes.
+
+**New monitoring items:**
+
+| Proposal | Signal | Weeks Tracked | Threshold | Status |
+|----------|--------|--------------|-----------|--------|
+| 1.1 methodology: Rakuten/Impact post-merger network counting | Rakuten × Impact alliance (Apr 29) | 1 (new) | Post-migration | MONITORING — Score on current observable state. Re-evaluate when migration completes (est. mid-summer 2026). |
+| 4.1 language: Agent-identity-based attribution (Agent Trust) | Experian Agent Trust (May 2) | 1 (new) | 6 months | MONITORING — If Agent Trust adoption becomes a tracking differentiator, add language to 4.1 at score 4 level. |
+| 3.5 scoring bands: Agent tier differentiation | Experian + Visa + A2A infrastructure week | 2 | Watch | MONITORING — Carry from Review #3. No vendors with agent tiers yet. |
+| Potential Dimension 6: Compliance & Governance | FTC enforcement, AI disclosure, privacy law | 2 | 5 | MONITORING — Carry from Review #3. No new enforcement data this week. |
+
+**Scoring fix still pending (from Review #1, WEEK 4 OVERDUE):**
+- Priority Bicycles criterion 2.2 (Cookie Duration): Score should be 3 (21 days falls in 21-45 day band), not 2. **MANDATORY: Apply before Review #5. Expected effect: Priority 47→48.**
+
+---
+
+### Source Recommendations
+
+| Source | Status | Recommendation |
+|--------|--------|----------------|
+| Network program pages (Impact, AvantLink, Rakuten) | Reliable | Continue as primary. Note: Rakuten dashboard may change during migration. |
+| Affiliate review aggregators (AuthorityHacker, GetLasso) | Useful for discovery, sometimes outdated | Cross-reference with direct sources |
+| BuiltWith / Shopify app directory | Reliable for tech stack | Continue |
+| Tier-1 editorial (Wirecutter, PCMag, etc.) | Reliable for partner quality | Continue |
+| AI shopping tools (ChatGPT, Perplexity) | Useful for 3.5 scoring | Formalize test queries per vendor |
+| Affiverse Media | Reliable for regulatory/compliance signals | Continue in rotation |
+| AffiliateCMS forums | Useful for early network policy signals | Continue in rotation |
+| Short Form Nation | Useful for TikTok Shop commission benchmarks | Continue in rotation |
+| Adobe Analytics (Q1 2026 data) | Authoritative for AI traffic benchmarks | Reference for 3.5 scoring context |
+| Influencer Marketing Factory reports | Creator economy compensation benchmarks | Reference for 3.4 / Dim 2 context |
+| Google UCP documentation | Emerging standard for agent commerce | Monitor for 5.5 scoring implications |
+| Experian Agent Trust documentation | NEW — Identity infrastructure for agentic commerce | Monitor for 4.1 / 3.5 scoring implications |
+| Visa Intelligent Commerce | NEW — Payment rails for AI agent transactions | Monitor for agentic commerce readiness |
+
+---
+
+### Gap Findings
+
+| Gap | Recurring Weeks | Action Status | Notes |
+|-----|----------------|---------------|-------|
+| Active Affiliate Count (3.1) estimation methodology undefined | 4 | DEFERRED → Review #5 or n≥5 vendors | Insufficient data points (n=2) to validate any formula |
+| Payment Terms (2.3) hard to verify externally | 4 | OPEN | Consider affiliate account signup for validation. Low urgency. |
+| Creative assets (4.4) and API/feeds (4.5) assessable only from outside | 4 | OPEN | Affiliate account access would improve confidence. |
+| AI Agent Affiliate (3.5) floor effect — both vendors at 1/4 | 4 | MONITORING | Infrastructure week (Agent Trust + Visa + A2A) accelerates timeline. Watch for first vendor to build agent tier. |
+| Membership Model (5.3) floor effect — both vendors at 1/4 | 4 | MONITORING | Market-wide gap, not rubric issue |
+| Priority 2.2 cookie score fix pending | **4 — OVERDUE** | **MANDATORY — Apply before Review #5** | Flagged Review #1. 21 days = score 3 per rubric. Priority 47→48 when fixed. |
+| Amazon Associates effective commission impact on benchmarks | 3 | MONITORING | Apr 14 policy changes. No observable shifts. Next check: Review #5. |
+| Vendor sample size (n=2) limits rubric validation | 4 | OPEN | Target n≥5 before structural rubric changes. |
+| Potential Dimension 6 (Compliance & Governance) | 2 | MONITORING | High threshold (5 weeks). No new enforcement data this week. |
+| Rakuten/Impact post-merger network counting methodology | 1 (new) | MONITORING | Score on current state until migration completes (est. mid-summer 2026). |
+
+---
+
+### Notes
+
+- **Week 4 of AFARE methodology.** The rubric continues to prove stable — no dimension has required changes through 4 weekly reviews. All 5 dimensions produce adequate discrimination (2-5 point spreads). The 2-point Dimension 3 spread is the tightest but reflects genuine vendor similarity in editorial partner quality, not a rubric flaw.
+- **The Rakuten × Impact.com alliance is the single largest structural event since AFARE was created.** It doesn't require immediate rubric changes but introduces a methodology question about network counting that will need resolution when the migration completes. For now, score on observable state: Anker has separate active enrollments on both platforms.
+- **Agentic commerce infrastructure had its breakout week.** Experian Agent Trust (identity), Visa Intelligent Commerce (payments), and A2A at 150+ deployments (communication) all landed within days. Combined with Shopify's 8x AI traffic growth, the full stack for AI-agent-as-affiliate is assembling. Criterion 3.5 remains the most strategically important forward-looking criterion in AFARE. The floor effect (both vendors at 1/4) will break when the first vendor builds a dedicated agent affiliate tier — and the infrastructure that arrived this week makes that more likely in Q3/Q4 2026.
+- **Priority 2.2 scoring fix is 4 weeks overdue.** This is a simple rubric compliance correction that has been flagged in every single review. Escalating to MANDATORY status. The fix must be applied to the scorecard before Review #5 runs. No further deferrals.
+- **Sample size (n=2) remains the primary constraint** on rubric validation. No new vendor categories scored this week. The portable_power and fitness_equipment benchmark categories remain untested. Expanding the vendor set should be the pipeline's top priority.
+- **Anker's Rakuten discovery enriches the Program Presence evidence** but doesn't change the score (2 major networks = score 2 per rubric). The UK Webgains discovery (7-12%, daily datafeed) adds depth to the niche network and commission evidence. A dedicated Anker re-scoring pass should incorporate both findings.
+- **GRIN's free affiliate infrastructure** signals a structural shift in platform economics — if infrastructure becomes free, value migrates to intelligence and execution layers. This doesn't affect AFARE scoring but is strategically important for LiveChannel's competitive positioning.
+- **No rubric changes made. No benchmark changes made. Methodology stable through week 4.**
