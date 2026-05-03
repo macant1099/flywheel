@@ -290,6 +290,67 @@ For LiveChannel vendors, CLOs create three material implications:
 
 ---
 
+## PROP-028 · Affiliate Incrementality Crisis — 18-24% Non-Incremental Attributed Conversions Triggering Program Restructuring
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | industry/measurement |
+| **Surfaced** | 2026-05-03 |
+
+**Signal sources:**
+- DigitalApplied (Apr 2026): "Affiliate Marketing Statistics 2026: 130+ Data Points" — "Programs running structured incrementality tests in 2026 report that 18-24% of attributed affiliate conversions would have occurred without the affiliate touchpoint. This data is being used to renegotiate commission structures, prune coupon publishers, and reallocate budgets toward genuinely additive partners." — https://www.digitalapplied.com/blog/affiliate-marketing-statistics-2026-data-points
+- Prismique (Apr 2026): "Proof Over Assumption: A Practical Guide to Incrementality Testing in Affiliate & Performance Marketing" — Detailed methodology specifically designed for auditing coupon and cashback publishers via commission reduction experiments: "If performance remains flat through multiple commission reductions, the inference is that the partner's conversions were not dependent on active promotion: their users were converting regardless. This technique is particularly valuable for auditing coupon and cashback partners in lower-funnel positions. Not all affiliate partners carry equal incremental value, and the variation follows a consistent pattern across programs." — https://prismique.com/blog/a-practical-guide-to-incrementality-testing
+- Rakuten × Impact Alliance (Apr 28, 2026): A core stated benefit of the alliance is providing Rakuten Rewards' first-party consumer purchase data to enable incrementality measurement at scale — confirming industry-wide recognition that incrementality is an unsolved problem significant enough to partially motivate the largest affiliate infrastructure deal of 2026. — https://www.affiversemedia.com/rakuten-and-impact-com-announce-strategic-alliance/
+- AdExchanger / IAB Connected Commerce Summit (Apr 14-21, 2026): The IAB explicitly called out measurement standardization — lookback windows, incrementality reporting — as an area requiring formal industry guidelines, with "hundreds of retailers or vendors not using the same measurement methodologies." — https://www.adexchanger.com/marketers/hard-truths-for-retail-media-at-the-iab-tech-lab-connected-commerce-summit/
+
+**Why it matters:**
+This proposal is **structurally distinct from PROP-023 (Rakuten × Impact alliance), tracking-privacy.md, and all other attribution-related proposals** in one critical way: incrementality testing is not about *whether* a conversion was tracked (the attribution gap problem), it is about *whether* a tracked conversion was genuinely caused by the affiliate's activity. The 18-24% non-incrementality rate means that even when affiliate attribution is technically working correctly — the pixel fired, the cookie matched, the commission was credited — nearly one in five commission payouts may be going to publishers whose audience would have converted through a direct visit, organic search, or other channel regardless of the affiliate touchpoint. This is commission budget leakage, not tracking failure.
+
+The distinction matters enormously for program economics. A vendor running a $500K/year affiliate program at a 20% average non-incrementality rate is paying approximately $100K/year for conversions that would have happened anyway. This money is not recovering wasted spend — it is actively inflating the apparent ROI of low-incrementality publishers (especially coupon and cashback sites) while masking the true incremental contribution of content publishers, creators, and review sites.
+
+This is **distinctly separate from PROP-023**, which covers the Rakuten × Impact platform's capability to *enable* incrementality measurement at scale using Rakuten Rewards' first-party consumer data. That proposal is about infrastructure. This proposal is about the *practice and methodology* of incrementality testing — what the current data shows (18-24%), which publisher types drive non-incrementality (coupon/cashback at lower funnel), how to test for it (commission reduction experiments, holdout groups), and what to do with the results (commission renegotiation, publisher pruning, budget reallocation).
+
+For LiveChannel vendors, three implications are material: (1) **Coupon/cashback publisher audit trigger** — coupon and cashback publishers consistently show the highest non-incrementality rates because they capture customers already in the purchase funnel; vendors who allocate significant affiliate budget to these publisher types are the most likely to have 18-24%+ non-incrementality, making this an immediate audit priority; (2) **Commission structure redesign** — incrementality data justifies tiered commission structures that pay higher rates to content and creator publishers (who drive upper-funnel incremental discovery) and lower rates to coupon/cashback publishers (who intercept already-decided buyers); this shift in commission architecture is both justifiable and likely to improve true ROI; (3) **AFARE scoring dimension** — Flywheel can score vendor programs on incrementality testing maturity: vendors who have never run incrementality tests have unmeasured commission leakage; those who have structured their programs based on incrementality data have a demonstrable ROI advantage. Given that the Rakuten × Impact platform is explicitly designed to deliver this data, and that the IAB is pushing for standardized measurement, incrementality testing will shift from advanced practice to baseline expectation within the next 18 months.
+
+---
+
+## PROP-027 · IAB Commerce Media Guidelines — Affiliate Absorbed into $203.9B Unified Budget Category
+
+| Field | Value |
+|---|---|
+| **Status** | proposed |
+| **Category** | industry/infrastructure |
+| **Surfaced** | 2026-05-03 |
+
+**Signal sources:**
+- IAB / PRNewswire (Apr 14, 2026): "IAB Introduces Actionable Industry Guidelines as Commerce Media Enters AI-Fueled Performance Era" — Official launch of "Building a Competitive Commerce Media Ecosystem" guidelines at IAB Connected Commerce Summit. The IAB — the trade body that sets measurement and standards for digital advertising — formally defines commerce media as the unified category encompassing affiliate, retail media, social commerce, and CTV, and publishes guidelines for measurement standardization. — https://www.prnewswire.com/news-releases/iab-introduces-actionable-industry-guidelines-as-commerce-media-enters-ai-fueled-performance-era-302741004.html
+- The Drum (Apr 21, 2026): "15 Takeaways from IAB Connected Commerce 2026" — "There was a point at this year's summit when the entire room seemed to realize the category had changed. This was the year commerce media stopped behaving like a fast-growing channel and started looking like the operating system for modern media itself." — https://www.thedrum.com/news/15-takeaways-from-iab-connected-commerce-2026
+- Osmos.ai (Apr 2026): "Retail Media in 2026: Networks, Platforms & $203.9B Market" — "Retail media, affiliate marketing, CTV advertising, and social commerce are converging into a single budget category: commerce media. According to Forrester, retail media will reach twice the level of global television ad spending by 2030." — https://www.osmos.ai/blog/retail-media-evolution-the-complete-guide
+- AdExchanger (Apr 21, 2026): IAB explicitly targeting measurement standardization at IAB Connected Commerce — "There are hundreds of retailers or vendors, and they don't all use the same lookback windows or measurement methodologies. The IAB can at least standardize the terms and levels of transparency presented to advertisers." — https://www.adexchanger.com/marketers/hard-truths-for-retail-media-at-the-iab-tech-lab-connected-commerce-summit/
+- BusinessWire (Apr 28, 2026): The Trade Desk, Pacvue, and Skai announce unified activation and measurement across 250+ commerce media partners — programmatic infrastructure connecting affiliate/retail media/social commerce under one buying layer. — https://www.businesswire.com/news/home/20260428992743/en/The-Trade-Desk-Pacvue-and-Skai-Unlock-Unified-Activation-and-Measurement-Across-250-Commerce-Media-Partners
+
+**Why it matters:**
+On April 14, 2026, the IAB — the trade body that writes the measurement standards used by every major digital advertising buyer — formally published guidelines defining "commerce media" as the unified category that subsumes affiliate marketing, retail media networks, social commerce, and connected TV commerce. This is not a trend piece or analyst projection; it is an institutional standards event that signals the end of affiliate marketing as a standalone budget line and the beginning of its integration into the broader commerce media ecosystem that Fortune 500 brands and their agencies are already using to plan and buy programmatic commerce advertising.
+
+This is **structurally distinct from all existing proposals**:
+- **PROP-023** (Rakuten × Impact alliance) covers two specific affiliate infrastructure companies positioning to compete with Google/Amazon/Meta at scale. This proposal covers the *category-level definition shift* — the IAB formally defining a new unified budget category that encompasses affiliate, retail media, and social commerce under one measurement framework.
+- **PROP-012** (Walmart Creator) covers a specific retailer's creator affiliate program. Commerce media is the industry-wide framework under which Walmart Creator, Amazon Associates, TikTok Shop affiliate, and all retailer-native programs are now classified and measured together.
+- **PROP-010** (Social Commerce Agency Consolidation) covers the agency/services layer. This covers the *measurement and budget allocation* layer — how CMOs and their agencies are reorganizing media spend.
+- No existing research file addresses the IAB's formal commerce media standards event.
+
+The mechanics of this shift are concrete and time-sensitive:
+
+(1) **Budget reallocation risk**: As brands reorganize their marketing teams around "commerce media" as a unified function (combining what were previously separate affiliate, retail media, and social commerce teams), affiliate program management may be absorbed into commerce media buying teams with different optimization priorities — ROAS-first, programmatic-oriented, retail media-native. Affiliate program managers who speak the language of CPA and publisher relationships may find their programs de-prioritized against retail media networks that can demonstrate ROAS at programmatic scale.
+
+(2) **Measurement standard convergence**: The IAB guidelines specifically target lookback windows and measurement methodology standardization — the same measurement gaps that make affiliate attribution inconsistent across networks. If IAB standards are adopted, affiliate commission attribution may be subject to the same standardized rules as retail media attribution — changing how last-click vs. multi-touch models are applied and potentially restructuring which publishers get credit.
+
+(3) **Programmatic commerce infrastructure**: The Trade Desk + Pacvue + Skai integration across 250+ commerce media partners (announced April 28 — the same week as the Rakuten × Impact alliance) means programmatic buyers can now activate and measure commerce media at scale from a single buying interface. Affiliate programs that are represented in this unified commerce media layer gain access to programmatic budget flows. Those that are not may be structurally excluded from Fortune 500 commerce media budgets.
+
+For Flywheel, commerce media convergence creates a new AFARE scoring dimension: commerce media readiness. Vendors whose affiliate programs are structured, measured, and reported in ways that align with IAB commerce media guidelines — consistent lookback windows, server-side attribution, incrementality measurement — will be positioned to attract the programmatic commerce media budgets that are now flowing through unified buying infrastructure. Vendors still running affiliate programs with legacy measurement frameworks risk being classified as non-standard and excluded from the largest new budget pools in performance marketing.
+
+---
+
 ## PROP-001 · FTC 2026 Compliance: Disclosure Rules Expanded to Livestreams, Short-Form Video & AI Endorsements
 
 | Field | Value |
