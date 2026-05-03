@@ -410,6 +410,9 @@ Priority Bicycles is the category leader in direct-to-consumer belt drive commut
 | **23** | **BikeRadar** | **23/25** | **Cold** | **High** | **Low (Future PLC bundle — 4 pubs, 1 conversation)** |
 | **24** | **ElectricBikeExplorer.com** | **20/25** | **Cold** | **Medium-High** | **Low (Current Plus review unit + AvantLink enrollment)** |
 | **25** | **Cascade Bicycle Club** | **19/25** | **Cold** | **Medium-High** | **Medium (corporate partner portal — LiveChannel model fit)** |
+| **26** | **Momentum Mag** | **22/25** | **Warm** | **Medium-High** | **Low (3 Priority articles live — enroll AvantLink, add codes)** |
+| **27** | **League of American Bicyclists** | **21/25** | **Cold** | **High** | **Medium (corporate partner portal — 200K members, LiveChannel fit)** |
+| **28** | **Upway.co** | **18/25** | **Warm/Strategic** | **Medium** | **Medium (certified refurb program + new-bike referral links — watch channel conflict)** |
 
 ---
 
@@ -615,7 +618,96 @@ Priority Bicycles is the category leader in direct-to-consumer belt drive commut
 
 ---
 
+---
+
+## New Leads — Discovered 2026-05-03
+
+### 26. Momentum Mag
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 5 |
+| Content Relevance | 5 |
+| Reach & Authority | 3 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **22/25** |
+
+**URL:** https://momentummag.com
+**Lead Type:** 🔥 Warm Lead — 3 Active Priority Articles
+**Evidence:** Momentum Mag has published at least three Priority-specific editorial pieces: *Priority Bicycles Goes Off-Road with the Vanth — A Gearbox-Driven Enduro Bike* (Oct 2025, covers Pinion gearbox + Gates CDX belt drive), *Check out Eight, Priority Bicycles' Low-Maintenance, Belt-Driven Commuter Bike* (Apr 2024, covers Priority Eight relaunch), and *Priority launches electric version of its classic belt-drive bicycle* (Aug 2023, covers e-Classic Plus). All three articles reflect genuine editorial interest in Priority's belt drive technology and low-maintenance ethos. Momentum Mag is the definitive North American urban cycling lifestyle publication — laser-focused on practical city riding, commuting culture, and bike infrastructure advocacy. Their audience is the "I want to ride, not wrench" urban professional that Priority was built for.
+**About:** Momentum Mag (momentummag.com) is an independently published urban cycling magazine with strong editorial credibility in the commuter/lifestyle cycling vertical. DA ~40, estimated 150K–300K monthly visits, with a deeply engaged audience of urban cyclists, commuter bike shoppers, and cycling advocates. Their editorial program includes long-form features, product spotlights, and brand announcements — and they have affiliate commerce infrastructure in place.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Direct email to Momentum Mag's editorial team (small editorial staff, owner-operated) — existing article history makes this a warm pitch, not a cold one
+- **Key value prop:** Momentum Mag has already published three Priority articles, signaling genuine editorial alignment. The pitch: formalize the existing editorial relationship into a trackable affiliate arrangement via AvantLink. Their audience is Priority's ideal buyer — Momentum readers already know the brand and trust the editorial voice. Offer exclusive reader discount code to make every future Priority mention revenue-attributed. Pitch the Priority Eight and Continuum Onyx for a spring 2026 "Best Low-Maintenance Commuter Bikes" feature.
+- **Authenticated member base:** Momentum Mag has a newsletter subscriber list (est. 20K–50K) and social following. No hard paywall but email relationship with a core audience of urban cycling enthusiasts.
+
+**Activation Angle:**
+- **Member communication channels:** Email newsletter, social (Instagram-forward, Facebook), dedicated product coverage pages with search traffic, editorial brand spotlight features
+- **How to embed:** AvantLink-tracked affiliate links on all Priority article pages (capturing passive traffic from the 3 existing articles immediately); exclusive "Momentum Mag readers" discount code for future Priority mentions; pitch Priority Current Plus for a spring 2026 e-bike commuter roundup; partner on an annual "Best Urban Bikes" feature where Priority anchors the belt drive/low-maintenance category
+- **Estimated activation potential:** MEDIUM-HIGH — Momentum Mag's audience is small but precisely targeted. Urban cyclists who read Momentum are high-intent buyers with genuine product interest. The existing article archive means there is passive referral traffic happening today with zero affiliate attribution — enrolling AvantLink is pure upside with no effort required.
+
+---
+
+### 27. League of American Bicyclists
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 5 |
+| Content Relevance | 3 |
+| Reach & Authority | 4 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **21/25** |
+
+**URL:** https://bikeleague.org
+**Lead Type:** ❄️ Cold Lead → LiveChannel Model Fit (Authenticated Member Base)
+**Evidence:** The League of American Bicyclists is the largest national cycling membership organization in the US, with 200,000+ paying members including individual cyclists, businesses, universities, and advocacy organizations. Their corporate membership program offers tiered partnership packages (sponsor + membership bundles) and they have established a precedent for member discount deals with commercial partners — BikeInsure is their "Official Bike Insurance Partner," offering League members discounted rates. The League runs the National Bike Summit, a "Bicycle Friendly America" certification program (Bicycle Friendly Business, Community, University designations), and publishes *American Bicyclist* magazine to their full membership. Their member base is by definition authenticated: dues-paying, cycling-committed Americans.
+**About:** The League of American Bicyclists (bikeleague.org) is the oldest and largest cycling advocacy organization in the US (founded 1880). DA ~55, national reach. Members span casual commuters to serious cyclists; the organization's mission (creating a Bicycle Friendly America) aligns precisely with Priority's low-maintenance, accessible cycling ethos. The League's corporate membership and sponsorship program is a well-defined inbound commercial channel.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Email to the League's corporate partnerships team (dedicated page at bikeleague.org/corporate-membership) — well-defined inbound channel with clear precedent and tiered sponsorship packages
+- **Key value prop:** Priority's belt drive, low-maintenance bikes are the ideal product for League members — from casual commuters trying to ride more to dedicated advocates who want a reliable daily rider. The pitch mirrors the BikeInsure partnership: offer League members an exclusive Priority discount (e.g., 10-15% off any bike) accessible through the League's member benefits channel. Priority becomes the "Official Commuter Bike Partner" of the League — a meaningful national brand association that carries into every Bicycle Friendly America certification conversation. The League's 200,000 authenticated, dues-paying members represent the highest-quality audience in cycling.
+- **Authenticated member base:** YES — 200,000+ paying members with annual renewal. League membership is verified. Perfect LiveChannel model candidate.
+
+**Activation Angle:**
+- **Member communication channels:** *American Bicyclist* printed magazine (all paid members), email newsletter, National Bike Summit communications (800+ attendees), Bicycle Friendly Business/Community certification channels (reaches thousands of employer and city contacts), social (X, Instagram, Facebook)
+- **How to embed:** Priority exclusive discount code in the League's member benefits portal; co-branded feature in *American Bicyclist* magazine; Priority sponsorship of the annual National Bike Summit (high-profile exposure to cycling advocates and policy leaders); Bicycle Friendly Business program cross-promotion (employers who earn BFB designation are offered Priority bikes for employee commuting programs — a natural LiveChannel B2B extension)
+- **Estimated activation potential:** HIGH — The League's 200,000 authenticated members are precisely the people most likely to buy a new commuter or e-bike. Even 0.5% conversion at $700 AOV = $700,000 in attributable GMV. The official partner designation (following the BikeInsure model) creates sustained visibility across all League touchpoints year-round. The LiveChannel model fit is textbook: authenticated member base + gated communications + high purchase intent + national scale.
+
+---
+
+### 28. Upway.co
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 4 |
+| Reach & Authority | 3 |
+| Brand Safety | 4 |
+| Conversion Potential | 3 |
+| **Total** | **18/25** |
+
+**URL:** https://upway.co
+**Lead Type:** 🔥 Warm Lead — Active Priority Inventory + Comparison Content
+**Evidence:** Upway actively lists refurbished Priority bikes for sale: Priority Current ("up to 60% cheaper than new") and Priority E-Coast — both with 1-year warranties and US delivery. Upway also publishes comparison content (e.g., "Trek vs. Cannondale: Which E-Bike Brand Is Right For You?" published March 2026) and hosts a blog guide on "Most Trusted US Platforms That Sell Refurbished E-Bikes." Upway is the leading US refurbished e-bike marketplace with strong Reddit reputation ("1000% I will buy from them again" – r/ebikes). They handle Priority e-bikes in inventory, making this a strategic channel relationship rather than a simple editorial affiliate.
+**About:** Upway (upway.co) is the US market leader for certified refurbished e-bikes. DA ~30, growing rapidly in the US market. Their model: buy, refurbish, certify, and resell premium e-bikes at 30-60% discounts with 1-year warranties. Upway's customer base is the price-conscious, quality-seeking e-bike buyer who wants a premium brand (Priority, Specialized, Trek) without the full new price. Upway has raised significant VC funding and is expanding aggressively in the US. Their comparison editorial content is affiliate-driven.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Email to Upway's partnership or merchant relations team (US operations focused in NYC/LA markets); frame as both a commercial reseller relationship and affiliate content opportunity
+- **Key value prop:** Upway already sells Priority bikes — the relationship is implicit. Formalizing it creates mutual benefits: Priority gets a "certified refurbished" channel that expands market reach to price-sensitive buyers without cannibalizing full-price DTC sales (refurbished buyers are a different segment); Upway gets Priority's cooperation on product data, refurb protocols, and potentially co-branded "Priority Certified Refurbished" designation. Add AvantLink tracking for Upway's new-bike referrals (when a buyer wants new rather than refurbished, Upway can refer them to Priority DTC with an affiliate link). *Note: monitor for channel conflict — ensure refurbished Priority pricing doesn't undercut DTC value positioning.*
+- **Authenticated member base:** Upway has a registered user base and email list (buyers who signed up for inventory alerts on specific models). Their users are authenticated e-bike purchasers — verified identity, verified purchase intent.
+
+**Activation Angle:**
+- **Member communication channels:** Email newsletter / inventory alerts to registered buyers, blog content with affiliate links, social (Instagram, YouTube), comparison guide pages
+- **How to embed:** AvantLink new-bike referral links when Upway doesn't have a specific Priority model in stock ("Want new? Buy direct from Priority"); co-branded "Priority Certified Refurbished" program (Priority provides refurb standards, Upway executes — adds brand value to the refurbished units); Upway blog inclusion in "Best Belt Drive E-Bikes" comparison content; seasonal inventory highlights in Upway's buyer email alerts
+- **Estimated activation potential:** MEDIUM — Upway's audience is primarily refurbished buyers, so direct Priority DTC conversion is limited. The higher value is in the channel relationship (certified refurbished program, brand association) and the new-bike referral flow when inventory doesn't match. Monitor channel conflict risk carefully before formalizing.
+
+---
+
 ## Strategic Recommendations
+
 
 ### Quick Wins (Execute in 30 days)
 
