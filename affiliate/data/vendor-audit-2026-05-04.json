@@ -1,0 +1,317 @@
+{
+  "audit_date": "2026-05-04",
+  "audited_by": "Mac Ant (Flywheel Affiliate Intelligence Engine)",
+  "vendor": "Anker",
+  "vendor_url": "https://www.anker.com",
+  "category": "consumer_electronics",
+  "affiliate_program": {
+    "status": "active",
+    "program_page": "https://www.anker.com/become-an-affiliate",
+    "networks": [
+      {
+        "name": "Rakuten Advertising / LinkShare",
+        "signup_url": "https://signup.linkshare.com/publishers/registration/landing?mid=43469",
+        "status": "active",
+        "notes": "Primary US network; mid=43469 confirmed active."
+      },
+      {
+        "name": "Impact.com",
+        "signup_url": "http://app.impact.com/campaign-campaign-info-v2/Anker.brand",
+        "status": "active",
+        "notes": "Secondary US network; GET STARTED button live on program page."
+      },
+      {
+        "name": "Webgains (Nordics)",
+        "program_id": "310162",
+        "notes": "Anker Nordics; 8–15% tiered by product type and volume; 30-day cookie.",
+        "status": "active",
+        "region": "Nordic/EU"
+      },
+      {
+        "name": "Webgains (UK)",
+        "program_id": "289655",
+        "notes": "Anker UK; 7–12% tiered commission incl. VAT+P&P; 30-day cookie; daily datafeed.",
+        "status": "active",
+        "region": "UK"
+      },
+      {
+        "name": "CueLinks",
+        "notes": "India/International; 4.5% payout confirmed.",
+        "status": "active",
+        "region": "India/International"
+      }
+    ],
+    "commission": {
+      "rate_percent_us": 8.0,
+      "rate_percent_uk": "7–12%",
+      "rate_range_nordics": "8–15%",
+      "rate_international_cuelinks": 4.5,
+      "type": "flat (US); tiered by product type and volume (UK, Nordics)",
+      "notes": "8% flat on all US transactions confirmed UNCHANGED vs May 2 audit. No rate changes detected across any network."
+    },
+    "cookie_duration_days": 30,
+    "stated_conversion_rate_pct": 2.0,
+    "contact_email": "affiliate@anker.com",
+    "creative_assets": {
+      "availability": "self_serve_plus_managed",
+      "types": [
+        "banner_ads",
+        "text_links",
+        "data_feeds",
+        "custom_coupon_codes",
+        "seasonal_promotions"
+      ],
+      "notes": "Regularly updated banners and text links confirmed. Dedicated affiliate manager available. Data feed supports programmatic/AI-assisted placements. UK program explicitly notes daily datafeed updates."
+    },
+    "payment_terms": "Standard network payment terms via Rakuten Advertising / Impact.com. No minimum threshold explicitly stated on program page.",
+    "application_required": true,
+    "approval_type": "review_via_network",
+    "publisher_types_supported": [
+      "blogs",
+      "forums",
+      "product_review_sites",
+      "social_media",
+      "publishing_houses",
+      "individual_creators"
+    ],
+    "restrictions": [
+      "No false/tampered links",
+      "No simulated purchase patterns or scripts",
+      "No persistent or full-screen pop-ups"
+    ]
+  },
+  "sub_brand_programs": {
+    "anker_solix": {
+      "program_page": "https://www.ankersolix.com/become-an-affiliate",
+      "commission_pct": 5.0,
+      "cookie_duration_days": 30,
+      "category": "portable_power",
+      "networks": [
+        {
+          "name": "Rakuten Advertising / LinkShare",
+          "signup_url": "https://signup.linkshare.com/publishers/registration/landing?mid=53552",
+          "notes": "SOLIX-specific mid=53552 (distinct from main Anker mid=43469)"
+        },
+        {
+          "name": "Impact.com",
+          "signup_url": "http://app.impact.com/campaign-campaign-info-v2/AnkerSOLIX.brand",
+          "notes": "SOLIX-specific Impact campaign confirmed"
+        }
+      ],
+      "active_promotions": {
+        "pps_power_deals": {
+          "detected": true,
+          "description": "Portable Power Station Deals page active at ankersolix.com/portable-power-station-deals-pps.",
+          "first_detected": "2026-04-30",
+          "days_active": 4,
+          "status": "presumed_active",
+          "notes": "Not directly re-verified this cycle. Confirmed active Day 1–2 (Apr 30, May 2). Day 4 status presumed active pending direct page check."
+        },
+        "e10_free_gift": {
+          "detected": true,
+          "description": "Free Gift with Purchase on SOLIX E10 Smart Hybrid Whole-Home Backup System.",
+          "product": "SOLIX E10 Smart Hybrid Whole-Home Backup System",
+          "url": "https://www.ankersolix.com/products/e10",
+          "first_detected": "2026-04-30",
+          "days_active": 4,
+          "status": "presumed_active",
+          "notes": "Confirmed active Day 1–2 (Apr 30, May 2). Day 4 status presumed active. Recommend direct page verification if briefing affiliates today."
+        }
+      }
+    },
+    "ankermake": {
+      "program_page": "https://www.ankermake.com",
+      "category": "consumer_electronics_3d_printing",
+      "commission": {
+        "skimlinks_pct": 5.0,
+        "awin_range_pct": "7–12%",
+        "notes": "Skimlinks confirms 5% flat. Awin (DE) affiliate insights suggest 7–12% range. Commission not explicitly displayed on Awin program rows — use insights text + Skimlinks FAQ as reference."
+      },
+      "cookie_duration_days": 30,
+      "networks": [
+        {
+          "name": "Awin (DE)",
+          "merchant_id": 46363,
+          "epc_usd": 0.49,
+          "conversion_rate_pct": 10.56,
+          "status": "active",
+          "region": "Germany/EU",
+          "notes": "HIGHEST EPC and CVR in AnkerMake network set. 10.56% conversion is 92% above Electronics & Computing category average (5.49%). $700+ AOV signals printer hardware (not accessories) driving value."
+        },
+        {
+          "name": "Awin (GB)",
+          "merchant_id": 46359,
+          "epc_usd": 0.31,
+          "conversion_rate_pct": 5.72,
+          "status": "active",
+          "region": "UK",
+          "notes": "Mid-tier EPC. CVR 5.72% still above Electronics avg."
+        },
+        {
+          "name": "Awin (US)",
+          "merchant_id": 46361,
+          "epc_usd": 0.05,
+          "conversion_rate_pct": null,
+          "status": "active",
+          "region": "US",
+          "notes": "Notably low EPC ($0.05). US program underperforming vs DE/GB — likely lower publisher activation or smaller audience. CVR not reported."
+        },
+        {
+          "name": "Skimlinks",
+          "epc_usd": null,
+          "conversion_rate_pct": 4.36,
+          "avg_basket_usd": 14.91,
+          "status": "active",
+          "notes": "Low AOV ($14.91) vs Awin DE ($700). Suggests Skimlinks traffic is accessories/filament buyers, not printer buyers. Different publisher profile than Awin."
+        }
+      ],
+      "performance_vs_benchmark": {
+        "category_avg_conversion_pct": 5.49,
+        "best_network_conversion_pct": 10.56,
+        "vs_category": "92% above average on Awin DE — exceptionally high-intent traffic in 3D printing niche",
+        "category_avg_epc_usd": 0.70,
+        "best_network_epc_usd": 0.49,
+        "vs_epc": "30% below Electronics & Computing EPC avg on best network — printer AOV gap vs broader CE"
+      },
+      "new_this_cycle": true,
+      "notes": "FIRST FULL DOCUMENTATION of AnkerMake sub-brand in Flywheel audit series. Previously absent from network roster. Key intelligence: Awin DE is the clear best-performing channel. US Awin program is significantly underperforming. The DE/US performance gap (10.56% vs N/A CVR, $0.49 vs $0.05 EPC) is a priority question for Anker affiliate team."
+    },
+    "ankerwork": {
+      "program_page": "https://us.ankerwork.com/pages/become-an-affiliate",
+      "commission_pct": null,
+      "notes": "CRITICAL INTELLIGENCE GAP — commission rate UNCONFIRMED for 10th consecutive audit cycle. US and UK program pages confirmed live but rate not publicly disclosed. Escalation to affiliate@anker.com is overdue and escalating.",
+      "consecutive_cycles_unresolved": 10
+    },
+    "anker_referral_program": {
+      "url": "https://www.anker.com/referral",
+      "type": "referral (not traditional affiliate)",
+      "referrer_reward_pct": 10.0,
+      "referee_discount_pct": 10.0,
+      "notes": "Consumer-facing referral (10% to referrer, 10% discount to referee). Higher incentive than main affiliate program but consumer-only scope."
+    },
+    "superchargers_creator_program": {
+      "url": "https://www.anker.com/content-creator",
+      "notes": "Content creator/influencer bridge. High-quality content may convert to traditional affiliate program placement. Key influencer-to-affiliate recruitment pipeline."
+    }
+  },
+  "benchmark_comparison": {
+    "category": "consumer_electronics",
+    "category_commission_low_pct": 2.0,
+    "category_commission_median_pct": 5.0,
+    "category_commission_high_pct": 12.0,
+    "category_cookie_median_days": 30,
+    "vs_benchmark": {
+      "commission": "above_median — 8% US vs 5% category median; upper-mid band vs 12% high",
+      "cookie": "at_median — 30 days matches category standard",
+      "network_coverage": "strong — 5 confirmed networks for main brand; AnkerMake adds Awin (3 regions) + Skimlinks = broadest sub-brand coverage in Anker portfolio"
+    }
+  },
+  "afare_signals": {
+    "commission_score": 4,
+    "commission_note": "8% well above 5% category median. Nordic ceiling 15% is elite tier.",
+    "cookie_score": 3,
+    "cookie_note": "30 days at category median. Competitive but not class-leading vs brands offering 45–60 day windows.",
+    "program_health": "strong",
+    "affiliate_friendliness": "high",
+    "strengths": [
+      "8% flat US rate — well above 5% category median, strong EPC signal",
+      "UK rate confirmed 7–12% tiered range — upgrade vs flat assumption",
+      "5-network main brand presence (Rakuten US, Impact US, Webgains UK, Webgains Nordics, CueLinks) — broadest in peer group",
+      "AnkerMake now documented on 4 networks (Awin DE/GB/US + Skimlinks) — sub-brand network depth newly confirmed",
+      "AnkerMake Awin DE CVR of 10.56% is 92% above Electronics & Computing category average — exceptional niche conversion signal",
+      "SOLIX E10 Free Gift + PPS Deals promotions presumed active Day 4 — extended content window",
+      "Dedicated affiliate manager reduces activation friction",
+      "Daily datafeed updates (UK confirmed) — AI-agent compatible",
+      "Seasonal coupons and seasonal promotions provide deal-publisher content hooks",
+      "SuperChargers creator program bridges social influencers into affiliate pipeline"
+    ],
+    "weaknesses": [
+      "AnkerMake US Awin EPC ($0.05) vs DE Awin EPC ($0.49) — 90% gap suggests US program is structurally underperforming vs European equivalent",
+      "SOLIX at 5% creates rate discrepancy vs main Anker 8% — risk of publisher confusion on multi-brand content",
+      "AnkerWork commission rate UNCONFIRMED for 10 consecutive audit cycles — critical intelligence gap now escalation-level",
+      "CueLinks international rate (4.5%) significantly below US rate — geographic rate fragmentation",
+      "No publicly stated payment schedule or minimum payout threshold on main US program page",
+      "30-day cookie at median — competitors with 45–60 day windows hold structural advantage on high-consideration purchases",
+      "Skimlinks basket ($14.91) vs Awin DE basket ($700) gap suggests accessory/filament traffic dominates Skimlinks with no printer signal"
+    ],
+    "opportunities": [
+      "ANKERMAKE US AWIN ACTIVATION: US Awin EPC ($0.05) vs DE Awin EPC ($0.49) is a 90% performance gap. Highest-priority intervention: identify US publisher mix difference, brief high-intent tech reviewers on Awin US to close the gap.",
+      "MEMORIAL DAY IN 21 DAYS (May 25): Peak CE purchase window. Contact Anker affiliate manager THIS WEEK to lock exclusive coupons, rate bump, or bonus window for top publishers. Window is closing.",
+      "SOLIX PROMOTIONS — DAY 4: E10 Free Gift and PPS Deals still presumed active. Verify today, brief SOLIX affiliates immediately if confirmed. Extended promotions are rare — document full duration when closed.",
+      "AI SHOPPING AGENT COMPATIBILITY: Anker daily datafeed (UK confirmed) is AI-agent compatible. Coordinate with Mac Fly (AFARE) and Mac Bee (ACES) for Flywheel composite scoring alignment.",
+      "ANKERMAKE DE CONTENT PLAY: Awin DE 10.56% CVR + $700 AOV is the single highest-conversion content opportunity in the entire Anker sub-brand portfolio. Prioritize EU/German-language 3D printer review content."
+    ],
+    "threats": [
+      "Amazon Associates continues to capture casual Anker buyer traffic ahead of direct affiliate links",
+      "UGREEN (8–15%) and RAVPower (8–20%) offer comparable or higher ceiling rates",
+      "Multiple sub-brand programs (main/SOLIX/AnkerWork/AnkerMake) without unified messaging risk fragmenting publisher attention",
+      "Flat US rate with no volume tier may not retain top-tier publishers vs higher-ceiling alternatives",
+      "SOLIX E10 competes in high-consideration home backup segment where EcoFlow (5–8%) and Bluetti (8%) offer competing programs",
+      "AnkerMake's 3D printing category faces niche but aggressive competition from Bambu Lab and Creality, both of which operate affiliate programs"
+    ]
+  },
+  "changes_since_last_audit": {
+    "last_audit_date": "2026-05-02",
+    "days_since_last_audit": 2,
+    "changes_detected": true,
+    "change_summary": "No changes to core Anker US program (8% commission, 30-day cookie, Rakuten + Impact unchanged). ONE NEW INTELLIGENCE ITEM: AnkerMake sub-brand fully documented for the first time — confirmed on 4 networks (Awin DE/GB/US + Skimlinks), with 10.56% CVR on Awin DE and 30-day cookie across all networks. AnkerWork gap reaches 10th consecutive cycle.",
+    "new_findings": [
+      {
+        "item": "AnkerMake network documentation",
+        "detail": "AnkerMake confirmed on Awin (DE mid=46363, GB mid=46359, US mid=46361) + Skimlinks. 5% commission (Skimlinks); 7–12% range (Awin). Cookie: 30 days. CVR: 10.56% (Awin DE) — 92% above Electronics avg. EPC: $0.49 (Awin DE). First full sub-brand network map in Flywheel audit series.",
+        "significance": "high",
+        "action_required": "Brief high-intent tech content publishers on Awin DE program. Investigate US Awin underperformance."
+      }
+    ],
+    "ongoing_promotions": [
+      {
+        "brand": "Anker SOLIX",
+        "type": "Free Gift with Purchase",
+        "product_focus": "SOLIX E10 Smart Hybrid Whole-Home Backup System",
+        "first_detected": "2026-04-30",
+        "days_active": 4,
+        "status": "presumed_active"
+      },
+      {
+        "brand": "Anker SOLIX",
+        "type": "PPS Power Deals Campaign",
+        "product_focus": "Portable Power Stations",
+        "first_detected": "2026-04-30",
+        "days_active": 4,
+        "status": "presumed_active"
+      }
+    ],
+    "intelligence_gaps": [
+      {
+        "item": "AnkerWork commission rate",
+        "consecutive_cycles_unresolved": 10,
+        "status": "ESCALATION_REQUIRED"
+      }
+    ],
+    "program_stability": "stable"
+  },
+  "benchmark_update": {
+    "warranted": false,
+    "notes": "AnkerMake Awin DE CVR (10.56%) exceeds current consumer_electronics benchmark high (5.0% CVR) but represents a niche 3D printing sub-segment with high-intent audiences — not representative of the broader consumer_electronics category. Benchmark update not warranted. Category-benchmarks.json unchanged. If AnkerMake becomes a tracked standalone vendor, consider adding a '3d_printing_hardware' category in a future benchmark cycle."
+  },
+  "recommended_actions": [
+    "CRITICAL — AnkerWork (10th cycle): Email affiliate@anker.com directly TODAY for AnkerWork commission rate. Ten consecutive audit cycles without resolution is a critical intelligence gap. Include AnkerMake US/DE EPC gap as secondary inquiry item.",
+    "HIGH — AnkerMake US Awin Activation: US Awin EPC ($0.05) is 90% below DE EPC ($0.49). Identify publisher mix; brief high-intent US tech reviewers on Awin US program to close the gap. Priority content: M5C flagship printer review.",
+    "HIGH — SOLIX Promotions Day 4: Verify E10 Free Gift and PPS Deals status directly at ankersolix.com. If still active, this is now an extended promotion — unusual and high-value. Document close date when known.",
+    "URGENT — Memorial Day (21 days): Contact Anker affiliate manager this week to lock Memorial Day exclusive coupons, rate bumps, or bonus windows. Window to secure terms is narrowing.",
+    "MEDIUM — AnkerMake DE Content Play: Awin DE 10.56% CVR + $700 AOV is the highest-conversion content opportunity in the Anker portfolio. Prioritize EU/German-language 3D printer comparison and review content package.",
+    "LOW — AI Shopping Alignment: Coordinate with Mac Fly and Mac Bee to ensure Anker daily datafeed and AnkerMake network data are indexed in Flywheel composite scoring for AI shopping agent compatibility audit."
+  ],
+  "sources": [
+    "https://www.anker.com/become-an-affiliate",
+    "https://www.ankersolix.com/become-an-affiliate",
+    "https://us.ankerwork.com/pages/become-an-affiliate",
+    "https://www.anker.com/content-creator",
+    "https://www.webgains.com/front/publisher/program/view/programID/310162",
+    "https://www.webgains.com/front/publisher/program/view/programID/289655",
+    "https://avidaffiliate.com/programs/ankermake-com/",
+    "https://www.awin1.com/cread.php?awinmid=46363",
+    "https://www.awin1.com/cread.php?awinmid=46359",
+    "https://www.awin1.com/cread.php?awinmid=46361"
+  ]
+}
