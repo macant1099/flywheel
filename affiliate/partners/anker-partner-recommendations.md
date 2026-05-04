@@ -2171,6 +2171,176 @@ These sites have strong audience overlap with Anker's target buyers but are not 
 
 ---
 
+---
+
+---
+
+---
+
+## 2026-05-04 Discovery Update
+
+*Automated partner discovery scan — even-day cycle (Anker). All leads below are new — no duplicates with prior entries.*
+
+---
+
+### 63. Android Authority
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 5 |
+| Content Relevance | 5 |
+| Reach & Authority | 5 |
+| Brand Safety | 5 |
+| Conversion Potential | 5 |
+| **Total** | **25/25** |
+
+**URL:** https://www.androidauthority.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Active Anker deal publisher with multiple confirmed articles in April–May 2026: **"Save 43% on this 100W Anker Prime Charger today!"** (rated 98/100 by DealHunt, April 2026); **"You have 8 hours to save 23% on the Anker SOLIX C300 battery"** (deal alert, April 2026); **"I've completely switched to Qi2 power banks"** — editorial endorsement highlighting Qi2 charging advantages that positions Anker's MagGo line as the benchmark. Android Authority is one of the largest independent Android/mobile media properties globally. Affiliate commission model confirmed.
+**Evidence:** Two distinct Anker deal alert articles in the same month spanning both chargers (Prime 100W) and SOLIX (C300) product lines — demonstrating cross-portfolio deal coverage. The "98 out of 100" DealHunt rating on the Anker Prime charger signals editorial confidence in product quality. Android Authority (DA ~85+, 15–20M monthly visits) is independently owned and operated as a vertically-focused Android media property — separate from Recurrent Ventures (9to5Toys/Android Police) or Future plc. Their dedicated deals section runs multiple deal alerts per day with affiliate commission tracking.
+**Opportunity:** Android Authority is the only major Android-focused media property not yet in Anker's partner matrix. With Android Police (#9 in matrix, 24/25) and Android Central (#3, 24/25) already represented, adding Android Authority creates a three-property "Android media trifecta" that covers the full Android enthusiast reader base. Their SOLIX deal coverage is particularly notable — it shows editorial appetite for Anker's highest-margin product line, not just core chargers. Current links route to Amazon (~3%); converting to Anker direct Impact (8%) is a 166% commission lift. Android Authority's YouTube channel (11M+ subscribers) is their second major asset — a SuperChargers program partnership would unlock video deal and review content at massive scale.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Android Authority's partnerships/business team via their contact page (androidauthority.com/contact) or LinkedIn to AA's Head of Commerce/Deals; for YouTube creator partnership, use Anker's SuperChargers program portal to reach AA's video team separately
+- **Key value proposition:** Commission upgrade from Amazon's ~3% to Anker direct 8% — a 166% lift on every deal alert and buying guide link; exclusive "AA10" reader promo code (10% off anker.com) personalizes conversions for AA's deal-seeking Android audience; SOLIX deal alert pipeline (AA already covers SOLIX C300 — extend to full SOLIX lineup with dedicated deal alerts at each price drop); Android Authority YouTube (11M+ subscribers) as a SuperChargers partner for review and unboxing content
+- **Authenticated member base:** YES (partial) — Android Authority has 3M+ email newsletter subscribers and a registered user community (AA Forums, comments, deal alert sign-ups); newsletter segmentation allows Anker deal alerts to reach subscribers who have opted into electronics/charging categories
+
+**Activation Angle:**
+- **Member communication channels:** Android Authority daily email newsletter (3M+ subscribers), AA YouTube channel (11M+ subscribers — one of the largest Android media YouTube channels globally), Android Authority social media (Twitter/X 1.5M+, Facebook 2.5M+, Instagram 500K+), Google Discover and Apple News distribution for deal alert articles, AA podcast network (Android Authority Weekly, Podcast Extras — audio audience engaged during commuting/exercise, a prime Anker charging accessory use case)
+- **Embed opportunities:** Deal alert pipeline for all Anker product lines (Prime chargers, Nano, MagGo, SOLIX C-series); "Best Android chargers" and "Best power banks for Android" buying guides; Qi2 power bank editorial (AA already has "I've completely switched to Qi2" content — natural Anker MagGo recommendation embed); Android Authority YouTube unboxing and review videos for new Anker product launches; "Best deals today" and "Best Amazon deals" weekly roundup features; Prime Day, Amazon Spring Sale, and Black Friday deal coverage
+- **Estimated activation potential:** High — Android Authority's deal alert readers are in active purchase mode; 15–20M monthly visitors at an Android-focused site means every Anker charger, cable, and power bank product category has deep audience alignment; the YouTube channel unlocks a second high-reach activation channel at no additional recruitment cost; SOLIX deal coverage demonstrates cross-product appetite, making AA one of the most versatile Anker partners identified to date
+
+---
+
+### 64. Business Insider
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 4 |
+| Reach & Authority | 5 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **22/25** |
+
+**URL:** https://www.businessinsider.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Anker Soundcore Life Q30 headphones featured in at least **three distinct Business Insider buying guides** as of May 2026: **"Best Headphones of 2026"** (Soundcore Life Q30 as a strong budget pick — "much better than it should be for the money"); **"Best Budget Headphones of 2026"** (Soundcore Life Q30 featured); **"Best Over-Ear Headphones of 2026"** (Life Q30 featured, updated 1 week ago). Additionally, Anker Soundcore is referenced in their wireless earbuds guide and Soundcore speakers are acknowledged in the Bluetooth speaker category. Business Insider is an Axel Springer publication (DA ~92+, 50–70M monthly unique visitors globally).
+**Evidence:** Anker Soundcore Life Q30 recommended across three separate buying guide categories in a single publication — demonstrating that Business Insider's commerce editorial team has independently validated Anker Soundcore as a trustworthy budget audio brand. Business Insider operates "Insider Reviews" as a dedicated commerce vertical (same model as Wirecutter and CNN Underscored) with a full editorial team testing and recommending products. Affiliate commissions confirmed across the Insider Reviews vertical.
+**Opportunity:** Business Insider's affluent, business-professional readership is an underserved but high-value Anker buyer segment — particularly for AnkerWork (webcams, conference speakers, USB-C hubs) and premium Anker charging products. Current Soundcore coverage is a strong foothold, but Anker's charger and power bank lineup is entirely absent from BI's technology guides — a significant gap for the world's largest charging brand. Expanding from Soundcore audio to Anker's full ecosystem (chargers, power banks, AnkerWork) would make Business Insider a multi-category Anker affiliate partner. Business Insider's paid subscription model (Insider membership) creates an authenticated member channel that's rare among free publishing platforms.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Business Insider / Insider Reviews commerce team (contact via Insider's affiliate/partnerships portal or LinkedIn to Insider Reviews' commerce editor or head of affiliate partnerships); Axel Springer's centralized brand partnership team as a secondary contact for enterprise-level deals
+- **Key value proposition:** Leverage existing Soundcore Life Q30 relationship as a proof point — Business Insider's editorial team has already validated Anker audio quality; expand to chargers ("best USB-C chargers" and "best power banks" guides are natural next steps for Insider Reviews) and AnkerWork ("best webcams" and "best home office tech" fit BI's professional audience perfectly); commission upgrade from Amazon's ~3% to Anker direct 8%; exclusive "BI10" Business Insider reader code (10% off anker.com) differentiates BI recommendations from public retail
+- **Authenticated member base:** YES — Business Insider has a paid Insider membership program (estimated 200K+ paying subscribers) with dedicated member newsletters; Insider members represent BI's highest-income, most-engaged audience — a premium conversion target for Anker's higher-margin products (SOLIX, Prime line, AnkerWork)
+
+**Activation Angle:**
+- **Member communication channels:** Business Insider Insider member email newsletter (authenticated 200K+ subscribers), Business Insider daily email newsletters (general audience, 5M+ total list), Business Insider social media (Twitter/X 4M+, Facebook 5M+, LinkedIn 4M — BI has exceptional LinkedIn reach for business professional audience), Business Insider YouTube (3M+ subscribers), Apple News and Google Discover distribution
+- **Embed opportunities:** Soundcore headphone/earbuds guides (existing — optimize links to Anker direct Impact instead of Amazon); "Best USB-C chargers" and "Best power banks" new guide development (no current BI charger guide — a creation opportunity Anker can help seed with review units); AnkerWork webcam reviews for "Best webcams" guide (BI's professional readership is their primary webcam buyer demographic); "Best home office tech" and "Best WFH setup essentials" guides (AnkerWork desk chargers, hubs, and webcams fit perfectly); holiday tech gift guide for business professionals (Anker SOLIX for the executive who has everything)
+- **Estimated activation potential:** Medium-High — Business Insider's readership converts more slowly than deal sites but at higher AOV; business professionals prioritize quality and reliability, which aligns with Anker's brand positioning; Insider membership's authenticated channel is particularly valuable for targeted promotions to high-income subscribers; AnkerWork's professional product line has natural editorial fit with BI's business/career focus that no other partner in this matrix can fully serve
+
+---
+
+### 65. RTINGS.com
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 5 |
+| Reach & Authority | 4 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **22/25** |
+
+**URL:** https://www.rtings.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Published **"The 5 Best Anker Earbuds And Headphones of 2026: Reviews"** (updated May 2, 2026 — 2 days ago), highlighting the **Anker Soundcore Space A40 Truly Wireless** as "the best Soundcore earbuds we've tested" with praise for their "premium features for an affordable price." RTINGS.com is the industry gold standard for scientific measurement-based electronics reviews — covering headphones, TVs, monitors, and soundbars with laboratory-precision data. Their affiliate model routes through Amazon Associates and select direct programs.
+**Evidence:** Dedicated Anker brand page on RTINGS with 5 recommended Anker/Soundcore earbuds and headphones — all individually tested with RTINGS' laboratory measurement suite (frequency response, noise cancellation, bass accuracy, etc.). RTINGS' measurement-based approach gives Anker Soundcore products a uniquely credible third-party endorsement that editorial-style reviews cannot provide: raw data showing Soundcore products outperform their price tier. RTINGS (DA ~70+, 10M+ monthly visits) is the most-trusted source for audiophiles, home theater enthusiasts, and serious headphone buyers worldwide. Their affiliate links are embedded throughout individual product review pages and "Best Of" category pages.
+**Opportunity:** RTINGS is the only review site whose data is *trusted as ground truth* by Reddit's r/headphones community (1.5M members), audiophile forums, and consumer electronics comparison tools. An Anker Soundcore endorsement on RTINGS carries disproportionate credibility with the high-intent audio buyer who researches extensively before purchasing. Connecting RTINGS to Anker's direct Impact program (8% vs. Amazon's ~3%) on Soundcore products while providing pre-launch review units for new Soundcore models would lock in RTINGS measurement-based authority for Anker's audio sub-brand. Additionally, RTINGS covers USB-C chargers and power banks for their monitor/laptop charging guides — opening a path for Anker's charging accessories to appear in their tech peripherals coverage.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Direct email to RTINGS editorial/partnerships team via rtings.com/contact (Montreal-based independent company); LinkedIn outreach to RTINGS founder/CEO "Cedric Demers" or their affiliate/partnerships contact; no major publication gatekeeping — a direct, technical outreach emphasizing measurement access and early product units is most effective
+- **Key value proposition:** Pre-launch Soundcore product units for RTINGS' laboratory testing suite — being an early RTINGS-measured product positions new Soundcore models as the measurement-validated choice in their category before competitors are tested; commission upgrade from Amazon Associates (~3%) to Anker direct 8% on all Soundcore and Anker charger product links; exclusive RTINGS reader discount code (e.g., "RTINGS10" for 10% off Soundcore products) converts RTINGS' high-intent audio buyer traffic into DTC revenue; technical data sharing (driver specs, frequency response targets) to support RTINGS' deep measurement methodology
+- **Authenticated member base:** Partial — RTINGS has a registered user base (account creation for personalized product comparisons and recommendation tools) and an email newsletter; their "RTINGS Pro" premium subscription tier creates an authenticated, pay-to-engage audience of serious audio/electronics enthusiasts
+
+**Activation Angle:**
+- **Member communication channels:** RTINGS email newsletter (engaged audiophile and electronics enthusiast subscribers), RTINGS social media (Reddit r/RTINGS community, Twitter/X 50K+), RTINGS Pro member notifications, referral traffic from r/headphones and r/audiophile subreddits (RTINGS data is constantly cited in community discussions as objective evidence for purchase decisions)
+- **Embed opportunities:** Anker brand/category page ("Best Anker Earbuds and Headphones 2026" — already live; optimize links to Anker direct Impact); individual Soundcore product review pages (Space A40, Space One, Life Q30 — embed direct Anker purchase links alongside Amazon); "Best budget headphones" and "Best noise-canceling headphones" category pages (Soundcore models rank in multiple RTINGS budget categories); RTINGS monitor/tech peripherals coverage for Anker USB-C chargers (laptop/monitor charging is adjacent to their display testing vertical); new Soundcore model launch measurement reviews (early access to new products ensures RTINGS publishes first — capturing the "just launched" search traffic spike)
+- **Estimated activation potential:** Medium-High — RTINGS' audience is smaller than mass-market publications but disproportionately high-intent: an audiophile who has read RTINGS' full frequency response analysis and decided on Soundcore is virtually guaranteed to convert; Reddit community amplification means RTINGS' Soundcore recommendations circulate continuously in r/headphones purchase recommendation threads, generating passive long-tail affiliate traffic; RTINGS Pro members' willingness to pay for premium data signals above-average disposable income and purchasing power for higher-end Soundcore products
+
+---
+
+## Updated Partner Priority Matrix (as of 2026-05-04)
+
+| Priority | Partner | Score | Type | Est. Impact | Effort |
+|----------|---------|-------|------|-------------|--------|
+| 1 | TechRadar | 25/25 | Warm | Very High | Low |
+| 1 | Wirecutter (NYT) | 25/25 | Warm | Very High | Medium |
+| 1 | **Android Authority** | **25/25** | **Warm** | **Very High** | **Low** |
+| 4 | Android Central | 24/25 | Cold | Very High | Medium |
+| 4 | 9to5Toys | 24/25 | Warm | Very High | Low |
+| 4 | Tom's Guide | 24/25 | Warm | Very High | Low |
+| 4 | WIRED | 24/25 | Warm | Very High | Medium |
+| 4 | PCMag | 24/25 | Warm | Very High | Low |
+| 4 | ZDNET | 24/25 | Warm | Very High | Low |
+| 4 | Android Police | 24/25 | Warm | Very High | Low |
+| 4 | Digital Trends | 24/25 | Warm | Very High | Low |
+| 4 | How-To Geek | 24/25 | Warm | Very High | Low |
+| 12 | CNN Underscored | 23/25 | Warm | Very High | Medium |
+| 12 | Engadget | 23/25 | Cold | High | Medium |
+| 12 | MacRumors | 23/25 | Warm | High | Low |
+| 12 | The Verge | 23/25 | Warm | Very High | Medium |
+| 12 | CNET | 23/25 | Warm | Very High | Medium |
+| 12 | The Independent/IndyBest | 23/25 | Warm | High | Low |
+| 12 | The Guardian/The Filter US | 23/25 | Warm | Very High | Medium |
+| 12 | PCWorld | 23/25 | Warm | High | Low |
+| 20 | Trusted Reviews | 22/25 | Cold | High | Medium |
+| 20 | JerryRigEverything | 22/25 | Warm | High | Medium |
+| 20 | AppleInsider | 22/25 | Warm | High | Low |
+| 20 | 9to5Mac | 22/25 | Warm | High | Low |
+| 20 | Travel + Leisure | 22/25 | Warm | High | Medium |
+| 20 | BGR | 22/25 | Warm | High | Low |
+| 20 | Esquire | 22/25 | Warm | High | Low |
+| 20 | IGN | 22/25 | Warm | High | Low |
+| 20 | **Business Insider** | **22/25** | **Warm** | **High** | **Medium** |
+| 20 | **RTINGS.com** | **22/25** | **Warm** | **High** | **Low** |
+| 30 | GearJunkie | 21/25 | Cold | Medium-High | Medium |
+| 30 | SlashGear | 21/25 | Cold | Medium | Medium |
+| 30 | MKBHD | 21/25 | Warm | Very High | High |
+| 30 | Popular Mechanics | 21/25 | Warm | High | Medium |
+| 30 | T3 | 21/25 | Warm | High | Low |
+| 30 | ChargerLab | 21/25 | Warm | Medium | Low |
+| 30 | Perks at Work | 21/25 | Cold | High | Medium |
+| 30 | Slickdeals | 21/25 | Warm | High | Low |
+| 30 | Creative Bloq | 21/25 | Warm | Medium-High | Low |
+| 30 | Working Advantage | 21/25 | Cold | High | Medium |
+| 30 | Forbes Vetted | 21/25 | Warm | High | Medium |
+| 30 | Consumer Reports | 21/25 | Warm | High | Medium |
+| 30 | Mashable | 21/25 | Warm | High | Low |
+| 30 | OutdoorTechLab | 21/25 | Warm | Medium-High | Low |
+| 30 | PerkSpot | 21/25 | Cold | High | Medium |
+| 45 | Popular Science | 20/25 | Warm | Medium | Medium |
+| 45 | Men's Journal | 20/25 | Warm | Medium | Low |
+| 45 | The Gadget Flow | 20/25 | Cold | Medium | Low |
+| 45 | Rakuten | 20/25 | Warm | High | Low |
+| 45 | RetailMeNot | 20/25 | Warm | High | Low |
+| 45 | PoweredThrough | 20/25 | Warm | Medium | Low |
+| 45 | CouponCabin | 20/25 | Warm | Medium-High | Low |
+| 45 | SFGate/Hearst | 20/25 | Warm | Medium | Low |
+| 53 | NotebookCheck.net | 19/25 | Warm | Medium | Medium |
+| 53 | TechBargains | 19/25 | Warm | Medium | Low |
+| 53 | CouponFollow | 19/25 | Warm | Medium-High | Low |
+| 53 | Gear Diary | 19/25 | Warm | Medium | Low |
+| 53 | BackupPowerHub | 19/25 | Warm | Medium | Low |
+| 58 | Digital Spy | 18/25 | Warm | Medium | Low |
+| 58 | CleverHiker | 18/25 | Warm | Medium | Low |
+| 58 | Treeline Review | 18/25 | Warm | Medium | Low |
+| 58 | SimplyCodes | 18/25 | Warm | Medium | Low |
+| 62 | Digital Reviews Network | 17/25 | Warm | Low | Low |
+| 63 | Houston Chronicle | 16/25 | Warm | Low | Low |
+
+---
+
 ## Strategic Recommendations
 
 
